@@ -75,6 +75,8 @@ translations:
   # This pulls in translations from a local 'translations' folder.
   - class: TranslationInputYaml
     source: translations
+  - class: TranslationInputSdmx
+    source: https://registry.sdmx.org/ws/public/sdmxapi/rest/datastructure/IAEG-SDGs/SDG/latest/?format=sdmx-2.1&detail=full&references=children
 
 # Reporting status extra fields
 # -----------------------------
