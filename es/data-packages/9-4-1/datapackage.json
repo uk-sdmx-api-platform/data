@@ -12,8 +12,110 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "6",
+                "0",
+                ""
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IEA (2020), CO2 Emissions from fuel combustion. https://www.iea.org/statistics",
+                "UNIDO MVA 2021 Database. Available at https://stat.unido.org. IEA (2020), CO2 Emissions from Fuel Combustion. https://www.iea.org/statistics",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Carbon dioxide emissions from fuel combustion [9.4.1]",
+                "Carbon dioxide emissions per unit of GDP [9.4.1]",
+                "Carbon dioxide emissions per unit of manufacturing value added [9.4.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Economic activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment",
+                "Manufacturing",
+                ""
+              ]
+            },
+            "title": "Economic activity"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Metric Tons",
+                "Kilograms per constant USD",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IEA (2020), CO2 Emissions from fuel combustion. https://www.iea.org/statistics",
+                "UNIDO MVA 2021 Database. Available at https://stat.unido.org. IEA (2020), CO2 Emissions from Fuel Combustion. https://www.iea.org/statistics",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "BASE_PER",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2017",
+                "2015",
+                ""
+              ]
+            },
+            "title": "BASE_PER"
+          },
+          {
+            "name": "Base period",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2017",
+                "2015",
+                ""
+              ]
+            },
+            "title": "Base period"
           },
           {
             "name": "Value",

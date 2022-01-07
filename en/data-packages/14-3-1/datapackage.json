@@ -11,13 +11,158 @@
       "schema": {
         "fields": [
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Mooring Name:  Garron Point Scotland | LATITUDE: 56.963 | LONGITUDE: -2.11",
+                "Mooring Name:  WCO L4| LATITUDE: 50.250 | LONGITUDE: -4.22",
+                "Mooring Name: WCO E1 | LATITUDE: 50.033 | LONGITUDE: -4.37"
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "Custom Breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Custom code 01",
+                "Custom code 02",
+                "Custom code 03"
+              ]
+            },
+            "title": "Custom Breakdown"
+          },
+          {
+            "name": "LOWER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "7.560",
+                "7.686",
+                "7.696",
+                "7.710",
+                "7.774",
+                "7.795",
+                "7.807",
+                "7.809",
+                "7.873",
+                "7.886",
+                "7.903",
+                "7.911",
+                "7.915",
+                "7.918",
+                "7.919",
+                "7.945",
+                "7.952",
+                "7.954",
+                "7.970",
+                "7.985",
+                "8.006",
+                "8.035",
+                "8.038",
+                "8.085"
+              ]
+            },
+            "title": "LOWER_BOUND"
+          },
+          {
+            "name": "Label for custom breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Garron Point Scotland",
+                "WCO E1",
+                "WCO L4"
+              ]
+            },
+            "title": "Label for custom breakdown"
+          },
+          {
+            "name": "Lower bound value",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "7.809",
+                "7.873",
+                "7.886"
+              ]
+            },
+            "title": "Lower bound value"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Mooring Name:  Garron Point Scotland | LATITUDE: 56.963 | LONGITUDE: -2.11",
+                "Mooring Name:  WCO L4| LATITUDE: 50.250 | LONGITUDE: -4.22",
+                "Mooring Name: WCO E1 | LATITUDE: 50.033 | LONGITUDE: -4.37"
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "UPPER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "8.067",
+                "8.072",
+                "8.089",
+                "8.101",
+                "8.103",
+                "8.118",
+                "8.153",
+                "8.164",
+                "8.166",
+                "8.171",
+                "8.175",
+                "8.179",
+                "8.187",
+                "8.211",
+                "8.213",
+                "8.215",
+                "8.218",
+                "8.237",
+                "8.254",
+                "8.259",
+                "8.261",
+                "8.291",
+                "8.307"
+              ]
+            },
+            "title": "UPPER_BOUND"
+          },
+          {
+            "name": "Upper bound value",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "8.101",
+                "8.153",
+                "8.164"
+              ]
+            },
+            "title": "Upper bound value"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]

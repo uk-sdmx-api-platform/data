@@ -1,0 +1,7 @@
+Value,Disaggregation combinations using this value,Number of indicators
+Agriculture (ISIC4 A01 A0210 A0322),1,1
+Industries,1,1
+Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment,1,1
+Manufacturing (ISIC3 D),3,2
+Manufacturing,4,3
+Services (G to T),1,1

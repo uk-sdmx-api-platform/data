@@ -12,8 +12,96 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UNSD / UNU / WESR",
+                "UNSTATS / WESR ",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Electronic waste collected, per capita (KG) [12.4.2]",
+                "Electronic waste collected (Tonnes) [12.4.2]",
+                "Municipal waste treated, by type of treatment (%) [12.4.2]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Waste treatment: Incineration",
+                "Waste treatment: Landfilling",
+                "Waste treatment: Recycling",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kilograms",
+                "Metric Tons",
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UNSD / UNU / WESR",
+                "UNSTATS / WESR ",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Eurostat_2019",
+                "Eurostat_2021",
+                "Eurostat estimate.",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Eurostat_2021",
+                "Eurostat estimate.",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
           },
           {
             "name": "Value",

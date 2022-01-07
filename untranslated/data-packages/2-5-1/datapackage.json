@@ -12,11 +12,92 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "E",
+                "C",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Obs_Value = 0;  Out of 330 local breeds (including extinct ones), 1 are reported with genetic material stored, out of which 0 are reported with sufficient material stored to allow them to be reconstituted",
+                "Obs_Value = 0;  Out of 331 local breeds (including extinct ones), 1 are reported with genetic material stored, out of which 0 are reported with sufficient material stored to allow them to be reconstituted",
+                "Obs_Value = 0;  Out of 351 local breeds (including extinct ones), 1 are reported with genetic material stored, out of which 0 are reported with sufficient material stored to allow them to be reconstituted",
+                "Obs_Value = 0;  Out of 352 local breeds (including extinct ones), 1 are reported with genetic material stored, out of which 0 are reported with sufficient material stored to allow them to be reconstituted",
+                "Obs_Value = 0;  Out of 354 local breeds (including extinct ones), 1 are reported with genetic material stored, out of which 0 are reported with sufficient material stored to allow them to be reconstituted",
+                "Estimate based on the acquisition date of each conserved accession as reported in 2014.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DAD-IS 7.9.2021 http://www.fao.org/dad-is/",
+                "FAO-WIEWS (http://www.fao.org/wiews) and EURISCO (http://eurisco.ipk-gatersleben.de)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of local breeds for which sufficient genetic resources are stored for reconstitution [2.5.1]",
+                "Plant genetic resources accessions stored ex situ (number) [2.5.1]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Nature of data points",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estimated",
+                "Country Data",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Obs_Value = 0;  Out of 354 local breeds (including extinct ones), 1 are reported with genetic material stored, out of which 0 are reported with sufficient material stored to allow them to be reconstituted",
+                "Estimate based on the acquisition date of each conserved accession as reported in 2014.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DAD-IS 7.9.2021 http://www.fao.org/dad-is/",
+                "FAO-WIEWS (http://www.fao.org/wiews) and EURISCO (http://eurisco.ipk-gatersleben.de)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

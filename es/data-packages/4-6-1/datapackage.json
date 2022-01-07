@@ -12,8 +12,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Skill: Functional literacy",
+                "Skill: Functional numeracy",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
           },
           {
             "name": "Value",

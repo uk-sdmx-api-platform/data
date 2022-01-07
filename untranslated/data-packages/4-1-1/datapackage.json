@@ -12,7 +12,64 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Trends in International Mathematics and Science Study (TIMSS). Students achieving at least Intermediate International Benchmark. Grade 4. The results correspond only to England Data extracted on 13 April 2021.",
+                "Progress in International Reading Literacy Study (PIRLS). Students achieving at least low International Benchmark. Grade 4.  The results correspond only to England Data extracted on 13 April 2021.",
+                "Programme for International Student Assessment (PISA). Students achieving at least proficiency Level 2. Modal grade for PISA: http://dx.doi.org/10.1787/888934038799 Data extracted on 13 April 2021.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary education",
+                "Lower secondary education",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Skill: Mathematics",
+                "Skill: Reading",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Trends in International Mathematics and Science Study (TIMSS). Students achieving at least Intermediate International Benchmark. Grade 4. The results correspond only to England Data extracted on 13 April 2021.",
+                "Progress in International Reading Literacy Study (PIRLS). Students achieving at least low International Benchmark. Grade 4.  The results correspond only to England Data extracted on 13 April 2021.",
+                "Programme for International Student Assessment (PISA). Students achieving at least proficiency Level 2. Modal grade for PISA: http://dx.doi.org/10.1787/888934038799 Data extracted on 13 April 2021.",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -1,0 +1,1732 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="utf-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+
+            <title>Disaggregation: SDG Series - SDG data build documentation</title>
+
+            <script defer src="https://use.fontawesome.com/releases/v5.15.1/js/all.js"></script>
+            <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.css">
+            <style>
+                .btn-primary {
+                    background-color: #00703c;
+                    padding: 8px 10px 7px;
+                    border: 2px solid transparent;
+                    border-radius: 0;
+                    color: #fff;
+                    box-shadow: 0 2px 0 #002d18;
+                    text-decoration: none;
+                }
+                .btn-primary:visited {
+                    color: #fff;
+                }
+                .btn-primary:hover, .btn-primary:not(:disabled):not(.disabled):active {
+                    background-color: #005a30;
+                    text-decoration: none;
+                    border: 2px solid transparent;
+                }
+                .btn-primary:focus:not(:active):not(:hover) {
+                    border-color: #fd0;
+                    color: #0b0c0c;
+                    background-color: #fd0;
+                    box-shadow: 0 2px 0 #0b0c0c;
+                }
+                a {
+                    color: #1D70B8;
+                    text-decoration: underline;
+                }
+                a:hover {
+                    color: #003078;
+                }
+                a:visited {
+                    color: #4c2c92;
+                }
+                .download-info {
+                    margin-left: 12px;
+                }
+                .table-striped tbody tr:nth-of-type(2n+1) {
+                    background-color: #f3f2f1;
+                }
+            </style>
+        </head>
+        <body>
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <div class="container">
+                    <a class="navbar-brand" href="index.html">SDG data build documentation</a>
+                </div>
+            </nav>
+            <main role="main">
+                <div class="container">
+                    <h1 style="margin:20px 0">Disaggregation: SDG Series</h1>
+                    <div>
+                        
+        <div role="navigation" aria-describedby="contents-heading">
+            <h2 id="contents-heading">On this page</h2>
+            <ul>
+                <li><a href="#values-used">Values used in disaggregation</a></li>
+                <li><a href="#indicators-using">Indicators using disaggregation</a></li>
+            </ul>
+        </div>
+        <div>
+            <h2 id="values-used" tabindex="-1">Values used in disaggregation</h2>
+            
+        <div class="my-3">
+            <a href="values--disaggregation--sdg-series.csv" role="button" class="btn btn-primary" aria-describedby="values--disaggregation--sdg-series">Download CSV of values used in this disaggregation</a>
+            <div id="values--disaggregation--sdg-series" class="download-info">Size: 28.6 kB</div>
+        </div>
+        
+            
+                <div class="total-rows">
+                    Total rows: <span class="total">271</span>
+                </div>
+                <table border="1" class="dataframe table table-striped table-bordered" id="values-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Value</th>
+      <th>Disaggregation combinations using this value</th>
+      <th>Number of indicators</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="disaggregation-value--above-ground-biomass-in-forest-per-hectare-tonnes-per-hectare-1521.html">Above-ground biomass in forest per hectare (tonnes per hectare) [15.2.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--adjusted-gender-parity-index-for-achieving-a-minimum-proficiency-level-in-read.html">Adjusted gender parity index for achieving a minimum proficiency level in reading and mathematics (ratio) [4.5.1]</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--adjusted-gender-parity-index-for-achieving-at-least-a-fixed-level-of-proficien.html">Adjusted gender parity index for achieving at least a fixed level of proficiency in functional skills, by numeracy/literacy skills (ratio) [4.5.1]</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--adjusted-gender-parity-index-for-completion-rate-by-sex-location-wealth-quinti.html">Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level [4.5.1]</a></td>
+      <td>7</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--adjusted-gender-parity-index-for-participation-rate-in-formal-and-non-formal-e.html">Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--adjusted-gender-parity-index-for-participation-rate-in-organized-learning-one-.html">Adjusted gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio) [4.5.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--adjusted-immigration-status-parity-index-for-achieving-a-minimum-proficiency-l.html">Adjusted immigration status parity index for achieving a minimum proficiency level in reading and mathematics [4.5.1]</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--adjusted-immigration-status-parity-index-for-achieving-at-least-a-fixed-level-.html">Adjusted immigration status parity index for achieving at least a fixed level of proficiency in functional skills, by numeracy/literacy skills (ratio) [4.5.1]</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--adjusted-language-test-parity-index-for-achieving-a-minimum-proficiency-level-.html">Adjusted language test parity index for achieving a minimum proficiency level in reading and mathematics (ratio) [4.5.1]</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--adjusted-location-parity-index-for-completion-rate-by-sex-location-wealth-quin.html">Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level [4.5.1]</a></td>
+      <td>7</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--adjusted-low-to-high-socio-economic-parity-index-for-achieving-a-minimum-profi.html">Adjusted low to high socio-economic parity index for achieving a minimum proficiency level in reading and mathematics (ratio) [4.5.1]</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--adjusted-low-to-high-socio-economic-parity-status-index-for-achieving-at-least.html">Adjusted low to high socio-economic parity status index for achieving at least a fixed level of proficiency in functional skills, by numeracy/literacy skills (ratio) [4.5.1]</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--adjusted-rural-to-urban-parity-index-for-achieving-a-minimum-proficiency-level.html">Adjusted rural to urban parity index for achieving a minimum proficiency level in reading and mathematics (ratio) [4.5.1]</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--adjusted-wealth-parity-index-for-completion-rate-by-sex-location-wealth-quinti.html">Adjusted wealth parity index for completion rate, by sex, location, wealth quintile and education level [4.5.1]</a></td>
+      <td>7</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--age-standardized-mortality-rate-attributed-to-ambient-air-pollution-391.html">Age-standardized mortality rate attributed to ambient air pollution [3.9.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--age-standardized-mortality-rate-attributed-to-household-and-ambient-air-pollut.html">Age-standardized mortality rate attributed to household and ambient air pollution [3.9.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--agriculture-orientation-index-for-government-expenditures-2a1.html">Agriculture orientation index for government expenditures [2.a.1]</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--agriculture-share-of-government-expenditure-2a1.html">Agriculture share of Government Expenditure [2.a.1]</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--agriculture-value-added-share-of-gdp-2a1.html">Agriculture value added share of GDP [2.a.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--annual-broad-money-growth-17131.html">Annual broad money growth (%) [17.13.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--annual-gdp-growth-17131.html">Annual GDP growth (%) [17.13.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--annual-growth-of-exports-of-goods-and-services-17131.html">Annual growth of exports of goods and services (%) [17.13.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--annual-growth-of-households-and-npishs-final-consumption-expenditure-17131.html">Annual growth of households and NPISHs final consumption expenditure [17.13.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--annual-growth-of-imports-of-goods-and-services-17131.html">Annual growth of imports of goods and services (%) [17.13.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--annual-growth-of-the-general-government-final-consumption-expenditure-17131.html">Annual growth of the general government final consumption expenditure (%) [17.13.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--annual-growth-of-the-gross-capital-formation-17131.html">Annual growth of the gross capital formation (%) [17.13.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--annual-inflation-consumer-prices-17131.html">Annual inflation, consumer prices (%) [17.13.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--average-proportion-of-freshwater-key-biodiversity-areas-kbas-covered-by-protec.html">Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2]</a></td>
+      <td>6</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--average-proportion-of-marine-key-biodiversity-areas-kbas-covered-by-protected-.html">Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas [14.5.1]</a></td>
+      <td>19</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--average-proportion-of-terrestrial-key-biodiversity-areas-kbas-covered-by-prote.html">Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2]</a></td>
+      <td>18</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--average-tariff-applied-by-developed-countries-most-favored-nation-status-by-ty.html">Average tariff applied by developed countries, most-favored nation status, by type of product (%)  [17.12.1]</a></td>
+      <td>8</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--average-tariff-applied-by-developed-countries-preferential-status-by-type-of-p.html">Average tariff applied by developed countries, preferential status, by type of product (%)  [17.12.1]</a></td>
+      <td>8</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--bank-capital-to-assets-ratio-17131.html">Bank capital to assets ratio (%) [17.13.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--beach-litter-per-square-kilometer-number-1411.html">Beach litter per square kilometer (Number) [14.1.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--broad-money-to-total-reserves-ratio-17131.html">Broad money to total reserves ratio [17.13.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--carbon-dioxide-emissions-from-fuel-combustion-941.html">Carbon dioxide emissions from fuel combustion [9.4.1]</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--carbon-dioxide-emissions-per-unit-of-gdp-941.html">Carbon dioxide emissions per unit of GDP [9.4.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--carbon-dioxide-emissions-per-unit-of-manufacturing-value-added-941.html">Carbon dioxide emissions per unit of manufacturing value added [9.4.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--cash-surplusdeficit-as-a-proportion-of-gdp-17131.html">Cash surplus/deficit as a proportion of GDP [17.13.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--chlorophyll-a-anomaly-remote-sensing-1411.html">Chlorophyll-a anomaly, remote sensing (%) [14.1.1]</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--chlorophyll-a-deviations-remote-sensing-1411.html">Chlorophyll-a deviations, remote sensing  [14.1.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--compliance-with-the-basel-convention-on-hazardous-waste-and-other-chemicals-12.html">Compliance with the Basel Convention on hazardous waste and other chemicals [12.4.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--compliance-with-the-montreal-protocol-on-hazardous-waste-and-other-chemicals-1.html">Compliance with the Montreal Protocol on hazardous waste and other chemicals [12.4.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--compliance-with-the-rotterdam-convention-on-hazardous-waste-and-other-chemical.html">Compliance with the Rotterdam Convention on hazardous waste and other chemicals [12.4.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--compliance-with-the-stockholm-convention-on-hazardous-waste-and-other-chemical.html">Compliance with the Stockholm Convention on hazardous waste and other chemicals [12.4.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--container-port-traffic-twenty-foot-equivalent-units-teus-912.html">Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--corridor-remittance-costs-as-a-proportion-of-the-amount-remitted-10c1.html">Corridor remittance costs as a proportion of the amount remitted [10.c.1]</a></td>
+      <td>33</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--countries-that-are-contracting-parties-to-the-international-treaty-on-plant-ge.html">Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO) [15.6.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--countries-that-are-parties-to-the-nagoya-protocol-1-yes-0-no-1561.html">Countries that are parties to the Nagoya Protocol (1 = YES; 0 = NO) [15.6.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--countries-that-established-national-targets-in-accordance-with-aichi-biodivers.html">Countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plans (1 = YES; 0 = NO) [15.9.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--countries-that-have-conducted-at-least-one-population-and-housing-census-in-th.html">Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO) [17.19.2]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--countries-that-have-legislative-administrative-and-policy-framework-or-measure.html">Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO) [15.6.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--countries-that-have-legislative-administrative-and-policy-framework-or-measure.html">Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES; 0 = NO) [15.6.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--countries-with-birth-registration-data-that-are-at-least-90-percent-complete-1.html">Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO) [17.19.2]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--countries-with-death-registration-data-that-are-at-least-75-percent-complete-1.html">Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO) [17.19.2]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--countries-with-integrated-biodiversity-values-into-national-accounting-and-rep.html">Countries with integrated biodiversity values into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting  (1 = YES; 0 = NO) [15.9.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--countries-with-national-human-rights-institutions-in-compliance-with-the-paris.html">Countries with National Human Rights Institutions in compliance with the Paris Principles, A status (1 = YES; 0 = NO) [16.a.1]</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--countries-with-no-application-for-accreditation-with-the-paris-principles-d-st.html">Countries with no application for accreditation with the Paris Principles, D status  (1 = YES; 0 = NO) [16.a.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--countries-with-policy-instrument-for-sustainable-consumption-and-production-1-.html">Countries with policy instrument for sustainable consumption and production (1 = YES; 0 = NO) [12.1.1]</a></td>
+      <td>4</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--countries-with-sustainable-consumption-and-production-scp-national-action-plan.html">Countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies (1 = YES; 0 = NO) [12.1.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--coverage-of-protected-areas-in-relation-to-marine-areas-exclusive-economic-zon.html">Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) [14.5.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--crude-death-rate-attributed-to-ambient-air-pollution-391.html">Crude death rate attributed to ambient air pollution [3.9.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--crude-death-rate-attributed-to-household-and-ambient-air-pollution-391.html">Crude death rate attributed to household and ambient air pollution [3.9.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--current-account-balance-as-a-proportion-of-gdp-17131.html">Current account balance as a proportion of GDP (%) [17.13.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--deaths-attributed-non-communicable-diseases-number-341.html">Deaths attributed non-communicable diseases (number) [3.4.1]</a></td>
+      <td>60</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--dec-alternative-conversion-factor-in-local-currency-unit-per-united-states-dol.html">DEC alternative conversion factor (in local currency unit per United States dollar) [17.13.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--degree-of-integrated-water-resources-management-implementation-651.html">Degree of integrated water resources management implementation (%) [6.5.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--degree-of-integrated-water-resources-management-implementation-enabling-enviro.html">Degree of integrated water resources management implementation, enabling environment (%) [6.5.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--degree-of-integrated-water-resources-management-implementation-financing-651.html">Degree of integrated water resources management implementation, financing (%) [6.5.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--degree-of-integrated-water-resources-management-implementation-institutions-an.html">Degree of integrated water resources management implementation, institutions and participation (%) [6.5.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--degree-of-integrated-water-resources-management-implementation-management-inst.html">Degree of integrated water resources management implementation, management instruments (%) [6.5.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--detected-victims-of-human-trafficking-for-forced-labour-servitude-and-slavery-.html">Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]</a></td>
+      <td>6</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--detected-victims-of-human-trafficking-for-other-purposes-number-1622.html">Detected victims of human trafficking for other purposes (number) [16.2.2]</a></td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--detected-victims-of-human-trafficking-for-removal-of-organ-number-1622.html">Detected victims of human trafficking for removal of organ (number) [16.2.2]</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--detected-victims-of-human-trafficking-number-1622.html">Detected victims of human trafficking (number) [16.2.2]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--domestic-material-consumption-8421222.html">Domestic material consumption [8.4.2,12.2.2]</a></td>
+      <td>34</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--domestic-material-consumption-per-capita-by-type-of-raw-material-8421222.html">Domestic material consumption per capita, by type of raw material [8.4.2,12.2.2]</a></td>
+      <td>34</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--domestic-material-consumption-per-unit-of-gdp-8421222.html">Domestic material consumption per unit of GDP [8.4.2,12.2.2]</a></td>
+      <td>34</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--electronic-waste-collected-per-capita-kg-1242.html">Electronic waste collected, per capita (KG) [12.4.2]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--electronic-waste-collected-tonnes-1242.html">Electronic waste collected (Tonnes) [12.4.2]</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--extent-of-use-of-country-owned-results-frameworks-and-planning-tools-by-provid.html">Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by provider (%)  [17.15.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-and-eq.html">Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education [5.6.2]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--extent-to-which-global-citizenship-education-and-education-for-sustainable-dev.html">Extent to which global citizenship education and education for sustainable development are mainstreamed in curricula [4.7.1,12.8.1,13.3.1]</a></td>
+      <td>3</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--extent-to-which-global-citizenship-education-and-education-for-sustainable-dev.html">Extent to which global citizenship education and education for sustainable development are mainstreamed in national education policies [4.7.1,12.8.1,13.3.1]</a></td>
+      <td>3</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--extent-to-which-global-citizenship-education-and-education-for-sustainable-dev.html">Extent to which global citizenship education and education for sustainable development are mainstreamed in student assessment [4.7.1,12.8.1,13.3.1]</a></td>
+      <td>3</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--fatal-occupational-injuries-among-employees-rate-881.html">Fatal occupational injuries among employees (rate) [8.8.1]</a></td>
+      <td>19</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--fixed-broadband-subscriptions-number-1761.html">Fixed broadband subscriptions (number) [17.6.1]</a></td>
+      <td>17</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--fixed-broadband-subscriptions-per-100-inhabitants-1761.html">Fixed broadband subscriptions per 100 inhabitants [17.6.1]</a></td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--food-waste-1231.html">Food waste [12.3.1]</a></td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--food-waste-per-capita-1231.html">Food waste per capita [12.3.1]</a></td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--foreign-direct-investment-net-inflows-as-a-proportion-of-gdp-17131.html">Foreign direct investment, net inflows, as a proportion of GDP (%) [17.13.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--forest-area-as-a-proportion-of-total-land-area-1511.html">Forest area as a proportion of total land area [15.1.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--forest-area-certified-under-an-independently-verified-certification-scheme-hec.html">Forest area certified under an independently verified certification scheme (hectares) [15.2.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--forest-area-hectares-1511.html">Forest area (hectares) [15.1.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--forest-area-net-change-rate-1521.html">Forest area net change rate (%) [15.2.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--fossil-fuel-subsidies-consumption-and-production-as-a-proportion-of-total-gdp-.html">Fossil-fuel subsidies (consumption and production) as a proportion of total GDP [12.c.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--fossil-fuel-subsidies-consumption-and-production-millions-of-constant-united-s.html">Fossil-fuel subsidies (consumption and production) (millions of constant United States dollars) [12.c.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--fossil-fuel-subsidies-consumption-and-production-per-capita-constant-united-st.html">Fossil-fuel subsidies (consumption and production) per capita (constant United States dollars) [12.c.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--freight-volume-tonne-kilometres-912.html">Freight volume (tonne kilometres) [9.1.2]</a></td>
+      <td>7</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--gender-parity-index-for-youthadults-with-information-and-communications-techno.html">Gender parity index for youth/adults with information and communications technology (ICT) skills [4.5.1]</a></td>
+      <td>9</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--gross-public-sector-debt-central-government-as-a-proportion-of-gdp-17131.html">Gross public sector debt, Central Government, as a proportion of GDP (%) [17.13.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--health-workder-density-3c1.html">Health workder density [3.c.1]</a></td>
+      <td>4</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--health-worker-distribution-by-sex-and-type-of-occupation-3c1.html">Health worker distribution, by sex and type of occupation [3.c.1]</a></td>
+      <td>4</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--implementation-of-standard-accounting-tools-to-monitor-the-economic-and-enviro.html">Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (SEEA tables) [12.b.1]</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--implementation-of-standard-accounting-tools-to-monitor-the-economic-and-enviro.html">Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (Total number of tables) [12.b.1]</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--implementation-of-standard-accounting-tools-to-monitor-the-economic-and-enviro.html">Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (Tourism Satellite Account tables) [12.b.1]</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--infant-deaths-number-321.html">Infant deaths (number) [3.2.1]</a></td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--infant-mortality-rate-321.html">Infant mortality rate [3.2.1]</a></td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--lake-water-quality-trophic-state-661.html">Lake water quality trophic state (%) [6.6.1]</a></td>
+      <td>4</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--lake-water-quality-turbidity-661.html">Lake water quality turbidity (%) [6.6.1]</a></td>
+      <td>4</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--lakes-and-rivers-permanent-water-area-change-661.html">Lakes and rivers permanent water area change (%) [6.6.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--lakes-and-rivers-permanent-water-area-of-total-land-area-661.html">Lakes and rivers permanent water area (% of total land area) [6.6.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--lakes-and-rivers-permanent-water-area-square-kilometres-661.html">Lakes and rivers permanent water area (square kilometres) [6.6.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--lakes-and-rivers-seasonal-water-area-change-661.html">Lakes and rivers seasonal water area change (%) [6.6.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--lakes-and-rivers-seasonal-water-area-of-total-land-area-661.html">Lakes and rivers seasonal water area (% of total land area) [6.6.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--lakes-and-rivers-seasonal-water-area-square-kilometres-661.html">Lakes and rivers seasonal water area (square kilometres) [6.6.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--land-area-hectares-1511.html">Land area (hectares) [15.1.1]</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--legal-frameworks-that-promote-enforce-and-monitor-gender-equality-percentage-o.html">Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 1: overarching legal frameworks and public life. [5.1.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--legal-frameworks-that-promote-enforce-and-monitor-gender-equality-percentage-o.html">Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 3: employment and economic benefits. [5.1.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--legal-frameworks-that-promote-enforce-and-monitor-gender-equality-percentage-o.html">Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 4: marriage and family. [5.1.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--legal-frameworks-that-promote-enforce-and-monitor-gender-equality-percentage-o.html">Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 2: violence against women. [5.1.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--legislation-regulation-act-related-to-the-prevention-of-introduction-and-manag.html">Legislation, Regulation, Act related to the prevention of introduction and management of Invasive Alien Species (1 = YES, 0 = NO) [15.8.1]</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--liquid-assets-to-short-term-liabilities-1051.html">Liquid assets to short term liabilities (%) [10.5.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--manufacturing-value-added-as-a-proportion-of-gdp-921.html">Manufacturing value added as a proportion of GDP [9.2.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--manufacturing-value-added-current-united-states-dollars-as-a-proportion-of-gdp.html">Manufacturing value added (current United States dollars) as a proportion of GDP [9.2.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--manufacturing-value-added-per-capita-921.html">Manufacturing value added per capita [9.2.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--merchandise-trade-as-a-proportion-of-gdp-17131.html">Merchandise trade as a proportion of GDP (%) [17.13.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--mortality-rate-attributed-to-cardiovascular-disease-cancer-diabetes-or-chronic.html">Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease [3.4.1]</a></td>
+      <td>15</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--municipal-waste-treated-by-type-of-treatment-1242.html">Municipal waste treated, by type of treatment (%) [12.4.2]</a></td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--national-biodiversity-strategy-and-action-plan-nbsap-targets-alignment-to-aich.html">National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020 (1 = YES, 0 = NO) [15.8.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--neonatal-deaths-number-322.html">Neonatal deaths (number) [3.2.2]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--neonatal-mortality-rate-322.html">Neonatal mortality rate [3.2.2]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--net-official-development-assistance-oda-as-a-percentage-of-oecd-dac-donors-gni.html">Net official development assistance (ODA) as a percentage of OECD-DAC donors' GNI (grant equivalent methodology), by donor countries (%) [17.2.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--net-official-development-assistance-oda-as-a-percentage-of-oecd-dac-donors-gni.html">Net official development assistance (ODA) as a percentage of OECD-DAC donors' GNI, by donor countries [17.2.1]</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--net-official-development-assistance-oda-from-oecd-dac-countries-by-donor-count.html">Net official development assistance (ODA) from OECD-DAC countries, by donor countries [17.2.1]</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--net-official-development-assistance-oda-from-oecd-dac-countries-grant-equivale.html">Net official development assistance (ODA) from OECD-DAC countries (grant equivalent methodology), by donor countries [17.2.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--net-official-development-assistance-oda-to-landlocked-developing-countries-as-.html">Net official development assistance (ODA) to landlocked developing countries as a percentage of OECD-DAC donors' GNI, by donor countries [17.2.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--net-official-development-assistance-oda-to-landlocked-developing-countries-fro.html">Net official development assistance (ODA) to landlocked developing countries from OECD-DAC countries, by donor countries [17.2.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--net-official-development-assistance-oda-to-ldcs-as-a-percentage-of-oecd-dac-do.html">Net official development assistance (ODA) to LDCs as a percentage of OECD-DAC donors' GNI, by donor countries [17.2.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--net-official-development-assistance-oda-to-ldcs-from-oecd-dac-countries-by-don.html">Net official development assistance (ODA) to LDCs from OECD-DAC countries, by donor countries [17.2.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--net-official-development-assistance-oda-to-small-island-states-sids-as-a-perce.html">Net official development assistance (ODA) to small island states (SIDS) as a percentage of OECD-DAC donors' GNI, by donor countries [17.2.1]</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--net-official-development-assistance-oda-to-small-island-states-sids-from-oecd-.html">Net official development assistance (ODA) to small island states (SIDS) from OECD-DAC countries, by donor countries [17.2.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--net-open-position-in-foreign-exchange-to-capital-1051.html">Net open position in foreign exchange to capital (%) [10.5.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--non-fatal-occupational-injuries-among-employees-rate-881.html">Non-fatal occupational injuries among employees (rate) [8.8.1]</a></td>
+      <td>23</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--non-performing-loans-net-of-provisions-to-capital-1051.html">Non-performing loans net of provisions to capital (%) [10.5.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--non-performing-loans-to-total-gross-loans-1051.html">Non-performing loans to total gross loans (%) [10.5.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--number-of-automated-teller-machines-atms-per-100000-adults-8101.html">Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--number-of-chairs-of-permanent-committees-by-age-sex-and-focus-of-the-committee.html">Number of chairs of permanent committees, by age sex and focus of the committee, Joint Committees [16.7.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--number-of-chairs-of-permanent-committees-by-age-sex-and-focus-of-the-committee.html">Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral [16.7.1]</a></td>
+      <td>4</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--number-of-chairs-of-permanent-committees-by-age-sex-and-focus-of-the-committee.html">Number of chairs of permanent committees, by age, sex and focus of the committee, Upper Chamber [16.7.1]</a></td>
+      <td>4</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--number-of-commercial-bank-branches-per-100000-adults-8101.html">Number of commercial bank branches per 100,000 adults [8.10.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--number-of-deaths-and-missing-persons-attributed-to-disasters-151-1151-1311.html">Number of deaths and missing persons attributed to disasters [1.5.1, 11.5.1, 13.1.1]</a></td>
+      <td>3</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--number-of-deaths-and-missing-persons-attributed-to-disasters-per-100000-popula.html">Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]</a></td>
+      <td>3</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--number-of-deaths-attributed-to-suicide-342.html">Number of deaths attributed to suicide [3.4.2]</a></td>
+      <td>15</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--number-of-deaths-due-to-disaster-151-1151-1311.html">Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]</a></td>
+      <td>3</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--number-of-local-breeds-for-which-sufficient-genetic-resources-are-stored-for-r.html">Number of local breeds for which sufficient genetic resources are stored for reconstitution [2.5.1]</a></td>
+      <td>6</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--number-of-local-governments-154-11b2-1313.html">Number of local governments [1.5.4, 11.b.2, 13.1.3]</a></td>
+      <td>3</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--number-of-local-governments-that-adopt-and-implement-local-drr-strategies-in-l.html">Number of local governments that adopt and implement local DRR strategies in line with national strategies [1.5.4, 11.b.2, 13.1.3]</a></td>
+      <td>3</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--number-of-policies-instruments-and-mechanism-in-place-for-sustainable-consumpt.html">Number of policies, instruments and mechanism in place for sustainable consumption and production [12.1.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--number-of-seats-held-by-women-in-national-parliaments-551.html">Number of seats held by women in national parliaments [5.5.1]</a></td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--number-of-seats-in-national-parliaments-551.html">Number of seats in national parliaments [5.5.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--number-of-speakers-in-parliament-by-age-and-sex-lower-chamber-or-unicameral-16.html">Number of speakers in parliament, by age and sex , Lower Chamber or Unicameral [16.7.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--number-of-speakers-in-parliament-by-age-and-sex-upper-chamber-1671.html">Number of speakers in parliament, by age and sex, Upper Chamber [16.7.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--number-of-youth-in-parliament-age-45-or-below-lower-chamber-or-unicameral-1671.html">Number of youth in parliament (age 45 or below), Lower Chamber or Unicameral [16.7.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--number-of-youth-in-parliament-age-45-or-below-upper-chamber-1671.html">Number of youth in parliament (age 45 or below), Upper Chamber [16.7.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--parties-meeting-their-commitments-and-obligations-in-transmitting-information-.html">Parties meeting their commitments and obligations in transmitting information as required by Minamata Convention on hazardous waste, and other chemicals (% average value) [12.4.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--passenger-volume-passenger-kilometres-912.html">Passenger volume (passenger kilometres) [9.1.2]</a></td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--percentage-of-bloodstream-infection-due-to-escherichia-coli-resistant-to-3rd-g.html">Percentage of bloodstream infection due to Escherichia coli resistant to 3rd-generation cephalosporin (e.g., ESBL- E. coli) among patients seeking care and whose blood sample is taken and tested [3.d.2]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--percentage-of-bloodstream-infection-due-to-methicillin-resistant-staphylococcu.html">Percentage of bloodstream infection due to methicillin-resistant Staphylococcus aureus (MRSA) among patients seeking care and whose blood sample is taken and tested [3.d.2]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--plant-genetic-resources-accessions-stored-ex-situ-number-251.html">Plant genetic resources accessions stored ex situ (number) [2.5.1]</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--population-in-moderate-or-severe-food-insecurity-number-212.html">Population in moderate or severe food insecurity (number) [2.1.2]</a></td>
+      <td>15</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--population-in-severe-food-insecurity-number-212.html">Population in severe food insecurity (number) [2.1.2]</a></td>
+      <td>15</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--portfolio-investment-net-balance-of-payments-current-united-states-dollars-171.html">Portfolio investment, net (Balance of Payments, current United States dollars) [17.13.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--prevalence-of-moderate-or-severe-food-insecurity-in-the-population-212.html">Prevalence of moderate or severe food insecurity in the population [2.1.2]</a></td>
+      <td>15</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--prevalence-of-severe-food-insecurity-in-the-population-212.html">Prevalence of severe food insecurity in the population [2.1.2]</a></td>
+      <td>15</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-bodies-of-water-with-good-ambient-water-quality-632.html">Proportion of bodies of water with good ambient water quality [6.3.2]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-childrenhouseholds-receiving-childfamily-cash-benefit-131.html">Proportion of children/households receiving child/family cash benefit [1.3.1]</a></td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-elected-seats-held-by-women-in-deliberative-bodies-of-local-gove.html">Proportion of elected seats held by women in deliberative bodies of local government [5.5.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-employed-population-covered-in-the-event-of-work-injury-131.html">Proportion of employed population covered in the event of work injury [1.3.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-forest-area-with-a-long-term-management-plan-1521.html">Proportion of forest area with a long-term management plan [15.2.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-forest-area-within-legally-established-protected-areas-1521.html">Proportion of forest area within legally established protected areas [15.2.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-groundwater-bodies-with-good-ambient-water-quality-632.html">Proportion of groundwater bodies with good ambient water quality [6.3.2]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-local-governments-that-adopt-and-implement-local-disaster-risk-r.html">Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies [1.5.4, 11.b.2, 13.1.3]</a></td>
+      <td>3</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-members-of-developing-countries-in-international-organizations-b.html">Proportion of members of developing countries in international organizations, by organization [10.6.1, 16.8.1]</a></td>
+      <td>166</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-mothers-with-newborns-receiving-maternity-cash-benefit-131.html">Proportion of mothers with newborns receiving maternity cash benefit [1.3.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-new-development-interventions-drawn-from-country-led-result-fram.html">Proportion of new development interventions drawn from country-led result frameworks - data by provider (%) [17.15.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-open-water-bodies-with-good-ambient-water-quality-632.html">Proportion of open water bodies with good ambient water quality [6.3.2]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-poor-population-receiving-social-assistance-cash-benefit-131.html">Proportion of poor population receiving social assistance cash benefit [1.3.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-population-above-statutory-pensionable-age-receiving-a-pension-1.html">Proportion of population above statutory pensionable age receiving a pension [1.3.1]</a></td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-population-covered-by-at-least-a-2g-mobile-network-9c1.html">Proportion of population covered by at least a 2G mobile network [9.c.1]</a></td>
+      <td>13</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-population-covered-by-at-least-a-3g-mobile-network-9c1.html">Proportion of population covered by at least a 3G mobile network [9.c.1]</a></td>
+      <td>11</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-population-covered-by-at-least-a-4g-mobile-network-9c1.html">Proportion of population covered by at least a 4G mobile network [9.c.1]</a></td>
+      <td>7</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-population-covered-by-at-least-one-social-protection-benefit-131.html">Proportion of population covered by at least one social protection benefit [1.3.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-population-practicing-open-defecation-621.html">Proportion of population practicing open defecation [6.2.1]</a></td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-population-using-basic-drinking-water-services-141.html">Proportion of population using basic drinking water services [1.4.1]</a></td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-population-using-basic-sanitation-services-141.html">Proportion of population using basic sanitation services [1.4.1]</a></td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-population-using-safely-managed-sanitation-services-621.html">Proportion of population using safely managed sanitation services [6.2.1]</a></td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-population-with-large-household-expenditures-on-health-greater-t.html">Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income [3.8.2]</a></td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-population-with-large-household-expenditures-on-health-greater-t.html">Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income [3.8.2]</a></td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-population-with-severe-disabilities-receiving-disability-cash-be.html">Proportion of population with severe disabilities receiving disability cash benefit [1.3.1]</a></td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-results-indicators-drawn-from-country-led-results-frameworks-dat.html">Proportion of results indicators drawn from country-led results frameworks - data by provider (%) [17.15.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-results-indicators-which-will-be-monitored-using-government-sour.html">Proportion of results indicators which will be monitored using government sources and monitoring systems - data by provider (%) [17.15.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-river-water-bodies-with-good-ambient-water-quality-632.html">Proportion of river water bodies with good ambient water quality [6.3.2]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-seats-held-by-women-in-national-parliaments-of-total-number-of-s.html">Proportion of seats held by women in national parliaments (% of total number of seats) [5.5.1]</a></td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-the-target-population-with-access-to-3-doses-of-diphtheria-tetan.html">Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) [3.b.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-the-target-population-with-access-to-affordable-medicines-and-va.html">Proportion of the target population with access to affordable medicines and vaccines on a sustainable basis, human papillomavirus (HPV) [3.b.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-the-target-population-with-access-to-measles-containing-vaccine-.html">Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) [3.b.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-the-target-population-with-access-to-pneumococcal-conjugate-3rd-.html">Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) [3.b.1]</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-time-spent-on-unpaid-care-work-541.html">Proportion of time spent on unpaid care work [5.4.1]</a></td>
+      <td>24</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-time-spent-on-unpaid-domestic-chores-541.html">Proportion of time spent on unpaid domestic chores [5.4.1]</a></td>
+      <td>24</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-time-spent-on-unpaid-domestic-chores-and-care-work-541.html">Proportion of time spent on unpaid domestic chores and care work [5.4.1]</a></td>
+      <td>24</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-transboundary-aquifers-with-an-operational-arrangement-for-water.html">Proportion of transboundary aquifers with an operational arrangement for water cooperation [6.5.2]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-transboundary-basins-river-and-lake-basins-and-aquifers-with-an-.html">Proportion of transboundary basins (river and lake basins and aquifers) with an operational arrangement for water cooperation [6.5.2]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-transboundary-river-and-lake-basins-with-an-operational-arrangem.html">Proportion of transboundary river and lake basins with an operational arrangement for water cooperation [6.5.2]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-unemployed-persons-receiving-unemployment-cash-benefit-131.html">Proportion of unemployed persons receiving unemployment cash benefit [1.3.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-voting-rights-of-developing-countries-in-international-organizat.html">Proportion of voting rights of developing countries in international organizations, by organization [10.6.1, 16.8.1]</a></td>
+      <td>166</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-vulnerable-population-receiving-social-assistance-cash-benefit-1.html">Proportion of vulnerable population receiving social assistance cash benefit [1.3.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-women-aged-15-49-years-with-anaemia-223.html">Proportion of women aged 15-49 years with anaemia [2.2.3]</a></td>
+      <td>19</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-women-aged-15-49-years-with-anaemia-non-pregnant-223.html">Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]</a></td>
+      <td>20</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-women-aged-15-49-years-with-anaemia-pregnant-223.html">Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]</a></td>
+      <td>18</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-women-in-managerial-positions-552.html">Proportion of women in managerial positions [5.5.2]</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-women-in-senior-and-middle-management-positions-552.html">Proportion of women in senior and middle management positions [5.5.2]</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-youth-in-parliament-age-45-or-below-lower-chamber-or-unicameral-.html">Proportion of youth in parliament (age 45 or below), Lower Chamber or Unicameral [16.7.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-youth-in-parliament-age-45-or-below-upper-chamber-1671.html">Proportion of youth in parliament (age 45 or below), Upper Chamber [16.7.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--protected-marine-area-exclusive-economic-zones-square-kilometres-1451.html">Protected marine area (Exclusive Economic Zones) (square kilometres) [14.5.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--ratio-for-female-members-of-parliaments-ratio-of-the-proportion-of-women-in-pa.html">Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral [16.7.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--ratio-for-female-members-of-parliaments-ratio-of-the-proportion-of-women-in-pa.html">Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber [16.7.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--ratio-of-young-members-in-parliament-ratio-of-the-proportion-of-young-members-.html">Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral [16.7.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--ratio-of-young-members-in-parliament-ratio-of-the-proportion-of-young-members-.html">Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Upper Chamber [16.7.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--recipient-countries-of-global-funding-with-access-to-any-funding-from-global-f.html">Recipient countries of global funding with access to any funding from global financial mechanisms for projects related to invasive alien species  management (1 = YES, 0 = NO) [15.8.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--regulatory-capital-to-assets-1051.html">Regulatory capital to assets (%) [10.5.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--regulatory-tier-1-capital-to-risk-weighted-assets-1051.html">Regulatory Tier 1 capital to risk-weighted assets (%) [10.5.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--reservoir-maximum-water-area-of-total-land-area-661.html">Reservoir maximum water area (% of total land area) [6.6.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--reservoir-maximum-water-area-square-kilometres-661.html">Reservoir maximum water area (square kilometres) [6.6.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--reservoir-minimum-water-area-of-total-land-area-661.html">Reservoir minimum water area (% of total land area) [6.6.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--reservoir-minimum-water-area-square-kilometres-661.html">Reservoir minimum water area (square kilometres) [6.6.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--return-on-assets-1051.html">Return on assets (%) [10.5.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--s1-extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-and.html">(S.1) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Section 1: Maternity Care [5.6.2]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--s1c1-extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-a.html">(S.1.C.1) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 1: Maternity Care [5.6.2]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--s1c2-extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-a.html">(S.1.C.2) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 2: Life Saving Commodities [5.6.2]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--s1c3-extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-a.html">(S.1.C.3) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 3: Abortion [5.6.2]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--s1c4-extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-a.html">(S.1.C.4) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 4: Post-Abortion Care [5.6.2]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--s2-extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-and.html">(S.2) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Section 2: Contraceptive and Family Planning [5.6.2]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--s2c5-extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-a.html">(S.2.C.5) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 5: Contraceptive Services [5.6.2]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--s2c6-extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-a.html">(S.2.C.6) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 6: Contraceptive Consent [5.6.2]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--s2c7-extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-a.html">(S.2.C.7) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 7: Emergency Contraception [5.6.2]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--s3-extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-and.html">(S.3) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Section 3: Sexuality Education [5.6.2]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--s3c8-extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-a.html">(S.3.C.8) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 8: Sexuality Education Curriculum Laws [5.6.2]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--s3c9-extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-a.html">(S.3.C.9) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 9: Sexuality Education Curriculum Topi [5.6.2]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--s4-extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-and.html">(S.4) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Section 4: HIV and HPV [5.6.2]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--s4c10-extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-.html">(S.4.C.10) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 10: HIV Counselling and Test Services [5.6.2]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--s4c11-extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-.html">(S.4.C.11) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 11: HIV Treatment and Care Services [5.6.2]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--s4c12-extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-.html">(S.4.C.12) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 12: HIV Confidentiality [5.6.2]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--s4c13-extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-.html">(S.4.C.13) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 13: HPV Vaccine [5.6.2]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--score-for-the-implementation-of-unclos-and-its-two-implementing-agreements-14c.html">Score for the implementation of UNCLOS and its two implementing agreements (%) [14.c.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--score-for-the-ratification-of-and-accession-to-unclos-and-its-two-implementing.html">Score for the ratification of and accession to UNCLOS and its two implementing agreements (%) [14.c.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--smart-corridor-remittance-costs-as-a-proportion-of-the-amount-remitted-10c1.html">SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1]</a></td>
+      <td>127</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--suicide-mortality-rate-342.html">Suicide mortality rate [3.4.2]</a></td>
+      <td>13</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--tax-revenue-as-a-proportion-of-gdp-17131.html">Tax revenue as a proportion of GDP (%) [17.13.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--total-government-revenue-as-a-proportion-of-gdp-1711.html">Total government revenue as a proportion of GDP [17.1.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--total-government-revenue-in-local-currency-1711.html">Total government revenue, in local currency [17.1.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--total-official-flows-commitments-for-aid-for-trade-by-donor-countries-8a1.html">Total official flows (commitments) for Aid for Trade, by donor countries [8.a.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--total-official-flows-disbursement-for-aid-for-trade-by-donor-countries-8a1.html">Total official flows (disbursement) for Aid for Trade, by donor countries [8.a.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--total-reported-number-of-standard-material-transfer-agreements-smtas-transferr.html">Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country [15.6.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--total-reserves-in-months-of-imports-ratio-17131.html">Total reserves in months of imports (ratio) [17.13.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--under-five-deaths-number-321.html">Under-five deaths (number) [3.2.1]</a></td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--under-five-mortality-rate-321.html">Under-five mortality rate [3.2.1]</a></td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--unemployment-rate-852.html">Unemployment rate [8.5.2]</a></td>
+      <td>18</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--unemployment-rate-by-disability-852.html">Unemployment rate, by disability [8.5.2]</a></td>
+      <td>18</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--wetlands-area-of-total-land-area-661.html">Wetlands area (% of total land area) [6.6.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--wetlands-area-square-kilometres-661.html">Wetlands area (square kilometres) [6.6.1]</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['values-table'] = [{"Value":"<a href=\"disaggregation-value--above-ground-biomass-in-forest-per-hectare-tonnes-per-hectare-1521.html\">Above-ground biomass in forest per hectare (tonnes per hectare) [15.2.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--adjusted-gender-parity-index-for-achieving-a-minimum-proficiency-level-in-read.html\">Adjusted gender parity index for achieving a minimum proficiency level in reading and mathematics (ratio) [4.5.1]<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--adjusted-gender-parity-index-for-achieving-at-least-a-fixed-level-of-proficien.html\">Adjusted gender parity index for achieving at least a fixed level of proficiency in functional skills, by numeracy\/literacy skills (ratio) [4.5.1]<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--adjusted-gender-parity-index-for-completion-rate-by-sex-location-wealth-quinti.html\">Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level [4.5.1]<\/a>","Disaggregation combinations using this value":7,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--adjusted-gender-parity-index-for-participation-rate-in-formal-and-non-formal-e.html\">Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--adjusted-gender-parity-index-for-participation-rate-in-organized-learning-one-.html\">Adjusted gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio) [4.5.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--adjusted-immigration-status-parity-index-for-achieving-a-minimum-proficiency-l.html\">Adjusted immigration status parity index for achieving a minimum proficiency level in reading and mathematics [4.5.1]<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--adjusted-immigration-status-parity-index-for-achieving-at-least-a-fixed-level-.html\">Adjusted immigration status parity index for achieving at least a fixed level of proficiency in functional skills, by numeracy\/literacy skills (ratio) [4.5.1]<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--adjusted-language-test-parity-index-for-achieving-a-minimum-proficiency-level-.html\">Adjusted language test parity index for achieving a minimum proficiency level in reading and mathematics (ratio) [4.5.1]<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--adjusted-location-parity-index-for-completion-rate-by-sex-location-wealth-quin.html\">Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level [4.5.1]<\/a>","Disaggregation combinations using this value":7,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--adjusted-low-to-high-socio-economic-parity-index-for-achieving-a-minimum-profi.html\">Adjusted low to high socio-economic parity index for achieving a minimum proficiency level in reading and mathematics (ratio) [4.5.1]<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--adjusted-low-to-high-socio-economic-parity-status-index-for-achieving-at-least.html\">Adjusted low to high socio-economic parity status index for achieving at least a fixed level of proficiency in functional skills, by numeracy\/literacy skills (ratio) [4.5.1]<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--adjusted-rural-to-urban-parity-index-for-achieving-a-minimum-proficiency-level.html\">Adjusted rural to urban parity index for achieving a minimum proficiency level in reading and mathematics (ratio) [4.5.1]<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--adjusted-wealth-parity-index-for-completion-rate-by-sex-location-wealth-quinti.html\">Adjusted wealth parity index for completion rate, by sex, location, wealth quintile and education level [4.5.1]<\/a>","Disaggregation combinations using this value":7,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--age-standardized-mortality-rate-attributed-to-ambient-air-pollution-391.html\">Age-standardized mortality rate attributed to ambient air pollution [3.9.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--age-standardized-mortality-rate-attributed-to-household-and-ambient-air-pollut.html\">Age-standardized mortality rate attributed to household and ambient air pollution [3.9.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--agriculture-orientation-index-for-government-expenditures-2a1.html\">Agriculture orientation index for government expenditures [2.a.1]<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--agriculture-share-of-government-expenditure-2a1.html\">Agriculture share of Government Expenditure [2.a.1]<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--agriculture-value-added-share-of-gdp-2a1.html\">Agriculture value added share of GDP [2.a.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--annual-broad-money-growth-17131.html\">Annual broad money growth (%) [17.13.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--annual-gdp-growth-17131.html\">Annual GDP growth (%) [17.13.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--annual-growth-of-exports-of-goods-and-services-17131.html\">Annual growth of exports of goods and services (%) [17.13.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--annual-growth-of-households-and-npishs-final-consumption-expenditure-17131.html\">Annual growth of households and NPISHs final consumption expenditure [17.13.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--annual-growth-of-imports-of-goods-and-services-17131.html\">Annual growth of imports of goods and services (%) [17.13.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--annual-growth-of-the-general-government-final-consumption-expenditure-17131.html\">Annual growth of the general government final consumption expenditure (%) [17.13.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--annual-growth-of-the-gross-capital-formation-17131.html\">Annual growth of the gross capital formation (%) [17.13.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--annual-inflation-consumer-prices-17131.html\">Annual inflation, consumer prices (%) [17.13.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--average-proportion-of-freshwater-key-biodiversity-areas-kbas-covered-by-protec.html\">Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2]<\/a>","Disaggregation combinations using this value":6,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--average-proportion-of-marine-key-biodiversity-areas-kbas-covered-by-protected-.html\">Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas [14.5.1]<\/a>","Disaggregation combinations using this value":19,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--average-proportion-of-terrestrial-key-biodiversity-areas-kbas-covered-by-prote.html\">Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2]<\/a>","Disaggregation combinations using this value":18,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--average-tariff-applied-by-developed-countries-most-favored-nation-status-by-ty.html\">Average tariff applied by developed countries, most-favored nation status, by type of product (%)\u00a0 [17.12.1]<\/a>","Disaggregation combinations using this value":8,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--average-tariff-applied-by-developed-countries-preferential-status-by-type-of-p.html\">Average tariff applied by developed countries, preferential status, by type of product (%)\u00a0 [17.12.1]<\/a>","Disaggregation combinations using this value":8,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--bank-capital-to-assets-ratio-17131.html\">Bank capital to assets ratio (%) [17.13.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--beach-litter-per-square-kilometer-number-1411.html\">Beach litter per square kilometer (Number) [14.1.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--broad-money-to-total-reserves-ratio-17131.html\">Broad money to total reserves ratio [17.13.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--carbon-dioxide-emissions-from-fuel-combustion-941.html\">Carbon dioxide emissions from fuel combustion [9.4.1]<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--carbon-dioxide-emissions-per-unit-of-gdp-941.html\">Carbon dioxide emissions per unit of GDP [9.4.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--carbon-dioxide-emissions-per-unit-of-manufacturing-value-added-941.html\">Carbon dioxide emissions per unit of manufacturing value added [9.4.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cash-surplusdeficit-as-a-proportion-of-gdp-17131.html\">Cash surplus\/deficit as a proportion of GDP [17.13.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--chlorophyll-a-anomaly-remote-sensing-1411.html\">Chlorophyll-a anomaly, remote sensing (%) [14.1.1]<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--chlorophyll-a-deviations-remote-sensing-1411.html\">Chlorophyll-a deviations, remote sensing  [14.1.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--compliance-with-the-basel-convention-on-hazardous-waste-and-other-chemicals-12.html\">Compliance with the Basel Convention on hazardous waste and other chemicals [12.4.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--compliance-with-the-montreal-protocol-on-hazardous-waste-and-other-chemicals-1.html\">Compliance with the Montreal Protocol on hazardous waste and other chemicals [12.4.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--compliance-with-the-rotterdam-convention-on-hazardous-waste-and-other-chemical.html\">Compliance with the Rotterdam Convention on hazardous waste and other chemicals [12.4.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--compliance-with-the-stockholm-convention-on-hazardous-waste-and-other-chemical.html\">Compliance with the Stockholm Convention on hazardous waste and other chemicals [12.4.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--container-port-traffic-twenty-foot-equivalent-units-teus-912.html\">Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--corridor-remittance-costs-as-a-proportion-of-the-amount-remitted-10c1.html\">Corridor remittance costs as a proportion of the amount remitted [10.c.1]<\/a>","Disaggregation combinations using this value":33,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--countries-that-are-contracting-parties-to-the-international-treaty-on-plant-ge.html\">Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO) [15.6.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--countries-that-are-parties-to-the-nagoya-protocol-1-yes-0-no-1561.html\">Countries that are parties to the Nagoya Protocol (1 = YES; 0 = NO) [15.6.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--countries-that-established-national-targets-in-accordance-with-aichi-biodivers.html\">Countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plans (1 = YES; 0 = NO) [15.9.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--countries-that-have-conducted-at-least-one-population-and-housing-census-in-th.html\">Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO) [17.19.2]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--countries-that-have-legislative-administrative-and-policy-framework-or-measure.html\">Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO) [15.6.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--countries-that-have-legislative-administrative-and-policy-framework-or-measure.html\">Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES; 0 = NO) [15.6.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--countries-with-birth-registration-data-that-are-at-least-90-percent-complete-1.html\">Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO) [17.19.2]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--countries-with-death-registration-data-that-are-at-least-75-percent-complete-1.html\">Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO) [17.19.2]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--countries-with-integrated-biodiversity-values-into-national-accounting-and-rep.html\">Countries with integrated biodiversity values into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting  (1 = YES; 0 = NO) [15.9.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--countries-with-national-human-rights-institutions-in-compliance-with-the-paris.html\">Countries with National Human Rights Institutions in compliance with the Paris Principles, A status (1 = YES; 0 = NO) [16.a.1]<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--countries-with-no-application-for-accreditation-with-the-paris-principles-d-st.html\">Countries with no application for accreditation with the Paris Principles, D status  (1 = YES; 0 = NO) [16.a.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--countries-with-policy-instrument-for-sustainable-consumption-and-production-1-.html\">Countries with policy instrument for sustainable consumption and production (1 = YES; 0 = NO) [12.1.1]<\/a>","Disaggregation combinations using this value":4,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--countries-with-sustainable-consumption-and-production-scp-national-action-plan.html\">Countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies (1 = YES; 0 = NO) [12.1.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--coverage-of-protected-areas-in-relation-to-marine-areas-exclusive-economic-zon.html\">Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) [14.5.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--crude-death-rate-attributed-to-ambient-air-pollution-391.html\">Crude death rate attributed to ambient air pollution [3.9.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--crude-death-rate-attributed-to-household-and-ambient-air-pollution-391.html\">Crude death rate attributed to household and ambient air pollution [3.9.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--current-account-balance-as-a-proportion-of-gdp-17131.html\">Current account balance as a proportion of GDP (%) [17.13.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--deaths-attributed-non-communicable-diseases-number-341.html\">Deaths attributed non-communicable diseases (number) [3.4.1]<\/a>","Disaggregation combinations using this value":60,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--dec-alternative-conversion-factor-in-local-currency-unit-per-united-states-dol.html\">DEC alternative conversion factor (in local currency unit per United States dollar) [17.13.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--degree-of-integrated-water-resources-management-implementation-651.html\">Degree of integrated water resources management implementation (%) [6.5.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--degree-of-integrated-water-resources-management-implementation-enabling-enviro.html\">Degree of integrated water resources management implementation, enabling environment (%) [6.5.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--degree-of-integrated-water-resources-management-implementation-financing-651.html\">Degree of integrated water resources management implementation, financing (%) [6.5.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--degree-of-integrated-water-resources-management-implementation-institutions-an.html\">Degree of integrated water resources management implementation, institutions and participation (%) [6.5.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--degree-of-integrated-water-resources-management-implementation-management-inst.html\">Degree of integrated water resources management implementation, management instruments (%) [6.5.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--detected-victims-of-human-trafficking-for-forced-labour-servitude-and-slavery-.html\">Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]<\/a>","Disaggregation combinations using this value":6,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--detected-victims-of-human-trafficking-for-other-purposes-number-1622.html\">Detected victims of human trafficking for other purposes (number) [16.2.2]<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--detected-victims-of-human-trafficking-for-removal-of-organ-number-1622.html\">Detected victims of human trafficking for removal of organ (number) [16.2.2]<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--detected-victims-of-human-trafficking-number-1622.html\">Detected victims of human trafficking (number) [16.2.2]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--domestic-material-consumption-8421222.html\">Domestic material consumption [8.4.2,12.2.2]<\/a>","Disaggregation combinations using this value":34,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--domestic-material-consumption-per-capita-by-type-of-raw-material-8421222.html\">Domestic material consumption per capita, by type of raw material [8.4.2,12.2.2]<\/a>","Disaggregation combinations using this value":34,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--domestic-material-consumption-per-unit-of-gdp-8421222.html\">Domestic material consumption per unit of GDP [8.4.2,12.2.2]<\/a>","Disaggregation combinations using this value":34,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--electronic-waste-collected-per-capita-kg-1242.html\">Electronic waste collected, per capita (KG) [12.4.2]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--electronic-waste-collected-tonnes-1242.html\">Electronic waste collected (Tonnes) [12.4.2]<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--extent-of-use-of-country-owned-results-frameworks-and-planning-tools-by-provid.html\">Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by provider (%)  [17.15.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-and-eq.html\">Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education [5.6.2]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--extent-to-which-global-citizenship-education-and-education-for-sustainable-dev.html\">Extent to which global citizenship education and education for sustainable development are mainstreamed in curricula [4.7.1,12.8.1,13.3.1]<\/a>","Disaggregation combinations using this value":3,"Number of indicators":3},{"Value":"<a href=\"disaggregation-value--extent-to-which-global-citizenship-education-and-education-for-sustainable-dev.html\">Extent to which global citizenship education and education for sustainable development are mainstreamed in national education policies [4.7.1,12.8.1,13.3.1]<\/a>","Disaggregation combinations using this value":3,"Number of indicators":3},{"Value":"<a href=\"disaggregation-value--extent-to-which-global-citizenship-education-and-education-for-sustainable-dev.html\">Extent to which global citizenship education and education for sustainable development are mainstreamed in student assessment [4.7.1,12.8.1,13.3.1]<\/a>","Disaggregation combinations using this value":3,"Number of indicators":3},{"Value":"<a href=\"disaggregation-value--fatal-occupational-injuries-among-employees-rate-881.html\">Fatal occupational injuries among employees (rate) [8.8.1]<\/a>","Disaggregation combinations using this value":19,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--fixed-broadband-subscriptions-number-1761.html\">Fixed broadband subscriptions (number) [17.6.1]<\/a>","Disaggregation combinations using this value":17,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--fixed-broadband-subscriptions-per-100-inhabitants-1761.html\">Fixed broadband subscriptions per 100 inhabitants [17.6.1]<\/a>","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--food-waste-1231.html\">Food waste [12.3.1]<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--food-waste-per-capita-1231.html\">Food waste per capita [12.3.1]<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--foreign-direct-investment-net-inflows-as-a-proportion-of-gdp-17131.html\">Foreign direct investment, net inflows, as a proportion of GDP (%) [17.13.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--forest-area-as-a-proportion-of-total-land-area-1511.html\">Forest area as a proportion of total land area [15.1.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--forest-area-certified-under-an-independently-verified-certification-scheme-hec.html\">Forest area certified under an independently verified certification scheme (hectares) [15.2.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--forest-area-hectares-1511.html\">Forest area (hectares) [15.1.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--forest-area-net-change-rate-1521.html\">Forest area net change rate (%) [15.2.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--fossil-fuel-subsidies-consumption-and-production-as-a-proportion-of-total-gdp-.html\">Fossil-fuel subsidies (consumption and production) as a proportion of total GDP [12.c.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--fossil-fuel-subsidies-consumption-and-production-millions-of-constant-united-s.html\">Fossil-fuel subsidies (consumption and production) (millions of constant United States dollars) [12.c.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--fossil-fuel-subsidies-consumption-and-production-per-capita-constant-united-st.html\">Fossil-fuel subsidies (consumption and production) per capita (constant United States dollars) [12.c.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--freight-volume-tonne-kilometres-912.html\">Freight volume (tonne kilometres) [9.1.2]<\/a>","Disaggregation combinations using this value":7,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--gender-parity-index-for-youthadults-with-information-and-communications-techno.html\">Gender parity index for youth\/adults with information and communications technology (ICT) skills [4.5.1]<\/a>","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--gross-public-sector-debt-central-government-as-a-proportion-of-gdp-17131.html\">Gross public sector debt, Central Government, as a proportion of GDP (%) [17.13.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--health-workder-density-3c1.html\">Health workder density [3.c.1]<\/a>","Disaggregation combinations using this value":4,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--health-worker-distribution-by-sex-and-type-of-occupation-3c1.html\">Health worker distribution, by sex and type of occupation [3.c.1]<\/a>","Disaggregation combinations using this value":4,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--implementation-of-standard-accounting-tools-to-monitor-the-economic-and-enviro.html\">Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (SEEA tables) [12.b.1]<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--implementation-of-standard-accounting-tools-to-monitor-the-economic-and-enviro.html\">Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (Total number of tables) [12.b.1]<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--implementation-of-standard-accounting-tools-to-monitor-the-economic-and-enviro.html\">Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (Tourism Satellite Account tables) [12.b.1]<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--infant-deaths-number-321.html\">Infant deaths (number) [3.2.1]<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--infant-mortality-rate-321.html\">Infant mortality rate [3.2.1]<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--lake-water-quality-trophic-state-661.html\">Lake water quality trophic state (%) [6.6.1]<\/a>","Disaggregation combinations using this value":4,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--lake-water-quality-turbidity-661.html\">Lake water quality turbidity (%) [6.6.1]<\/a>","Disaggregation combinations using this value":4,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--lakes-and-rivers-permanent-water-area-change-661.html\">Lakes and rivers permanent water area change (%) [6.6.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--lakes-and-rivers-permanent-water-area-of-total-land-area-661.html\">Lakes and rivers permanent water area (% of total land area) [6.6.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--lakes-and-rivers-permanent-water-area-square-kilometres-661.html\">Lakes and rivers permanent water area (square kilometres) [6.6.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--lakes-and-rivers-seasonal-water-area-change-661.html\">Lakes and rivers seasonal water area change (%) [6.6.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--lakes-and-rivers-seasonal-water-area-of-total-land-area-661.html\">Lakes and rivers seasonal water area (% of total land area) [6.6.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--lakes-and-rivers-seasonal-water-area-square-kilometres-661.html\">Lakes and rivers seasonal water area (square kilometres) [6.6.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--land-area-hectares-1511.html\">Land area (hectares) [15.1.1]<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--legal-frameworks-that-promote-enforce-and-monitor-gender-equality-percentage-o.html\">Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 1: overarching legal frameworks and public life. [5.1.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--legal-frameworks-that-promote-enforce-and-monitor-gender-equality-percentage-o.html\">Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 3: employment and economic benefits. [5.1.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--legal-frameworks-that-promote-enforce-and-monitor-gender-equality-percentage-o.html\">Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 4: marriage and family. [5.1.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--legal-frameworks-that-promote-enforce-and-monitor-gender-equality-percentage-o.html\">Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) --\u00a0Area 2: violence against women. [5.1.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--legislation-regulation-act-related-to-the-prevention-of-introduction-and-manag.html\">Legislation, Regulation, Act related to the prevention of introduction and management of Invasive Alien Species (1 = YES, 0 = NO) [15.8.1]<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--liquid-assets-to-short-term-liabilities-1051.html\">Liquid assets to short term liabilities (%) [10.5.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--manufacturing-value-added-as-a-proportion-of-gdp-921.html\">Manufacturing value added as a proportion of GDP [9.2.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--manufacturing-value-added-current-united-states-dollars-as-a-proportion-of-gdp.html\">Manufacturing value added (current United States dollars) as a proportion of GDP [9.2.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--manufacturing-value-added-per-capita-921.html\">Manufacturing value added per capita [9.2.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--merchandise-trade-as-a-proportion-of-gdp-17131.html\">Merchandise trade as a proportion of GDP (%) [17.13.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--mortality-rate-attributed-to-cardiovascular-disease-cancer-diabetes-or-chronic.html\">Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease [3.4.1]<\/a>","Disaggregation combinations using this value":15,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--municipal-waste-treated-by-type-of-treatment-1242.html\">Municipal waste treated, by type of treatment (%) [12.4.2]<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--national-biodiversity-strategy-and-action-plan-nbsap-targets-alignment-to-aich.html\">National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020 (1 = YES, 0 = NO) [15.8.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--neonatal-deaths-number-322.html\">Neonatal deaths (number) [3.2.2]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--neonatal-mortality-rate-322.html\">Neonatal mortality rate [3.2.2]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--net-official-development-assistance-oda-as-a-percentage-of-oecd-dac-donors-gni.html\">Net official development assistance (ODA) as a percentage of OECD-DAC donors' GNI (grant equivalent methodology), by donor countries (%) [17.2.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--net-official-development-assistance-oda-as-a-percentage-of-oecd-dac-donors-gni.html\">Net official development assistance (ODA) as a percentage of OECD-DAC donors' GNI, by donor countries [17.2.1]<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--net-official-development-assistance-oda-from-oecd-dac-countries-by-donor-count.html\">Net official development assistance (ODA) from OECD-DAC countries, by donor countries [17.2.1]<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--net-official-development-assistance-oda-from-oecd-dac-countries-grant-equivale.html\">Net official development assistance (ODA) from OECD-DAC countries (grant equivalent methodology), by donor countries [17.2.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--net-official-development-assistance-oda-to-landlocked-developing-countries-as-.html\">Net official development assistance (ODA) to landlocked developing countries as a percentage of OECD-DAC donors' GNI, by donor countries [17.2.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--net-official-development-assistance-oda-to-landlocked-developing-countries-fro.html\">Net official development assistance (ODA) to landlocked developing countries from OECD-DAC countries, by donor countries [17.2.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--net-official-development-assistance-oda-to-ldcs-as-a-percentage-of-oecd-dac-do.html\">Net official development assistance (ODA) to LDCs as a percentage of OECD-DAC donors' GNI, by donor countries [17.2.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--net-official-development-assistance-oda-to-ldcs-from-oecd-dac-countries-by-don.html\">Net official development assistance (ODA) to LDCs from OECD-DAC countries, by donor countries [17.2.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--net-official-development-assistance-oda-to-small-island-states-sids-as-a-perce.html\">Net official development assistance (ODA) to small island states (SIDS) as a percentage of OECD-DAC donors' GNI, by donor countries [17.2.1]<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--net-official-development-assistance-oda-to-small-island-states-sids-from-oecd-.html\">Net official development assistance (ODA) to small island states (SIDS) from OECD-DAC countries, by donor countries [17.2.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--net-open-position-in-foreign-exchange-to-capital-1051.html\">Net open position in foreign exchange to capital (%) [10.5.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--non-fatal-occupational-injuries-among-employees-rate-881.html\">Non-fatal occupational injuries among employees (rate) [8.8.1]<\/a>","Disaggregation combinations using this value":23,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--non-performing-loans-net-of-provisions-to-capital-1051.html\">Non-performing loans net of provisions to capital (%) [10.5.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--non-performing-loans-to-total-gross-loans-1051.html\">Non-performing loans to total gross loans (%) [10.5.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--number-of-automated-teller-machines-atms-per-100000-adults-8101.html\">Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--number-of-chairs-of-permanent-committees-by-age-sex-and-focus-of-the-committee.html\">Number of chairs of permanent committees, by age sex and focus of the committee, Joint Committees [16.7.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--number-of-chairs-of-permanent-committees-by-age-sex-and-focus-of-the-committee.html\">Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral [16.7.1]<\/a>","Disaggregation combinations using this value":4,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--number-of-chairs-of-permanent-committees-by-age-sex-and-focus-of-the-committee.html\">Number of chairs of permanent committees, by age, sex and focus of the committee, Upper Chamber [16.7.1]<\/a>","Disaggregation combinations using this value":4,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--number-of-commercial-bank-branches-per-100000-adults-8101.html\">Number of commercial bank branches per 100,000 adults [8.10.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--number-of-deaths-and-missing-persons-attributed-to-disasters-151-1151-1311.html\">Number of deaths and missing persons attributed to disasters [1.5.1, 11.5.1, 13.1.1]<\/a>","Disaggregation combinations using this value":3,"Number of indicators":3},{"Value":"<a href=\"disaggregation-value--number-of-deaths-and-missing-persons-attributed-to-disasters-per-100000-popula.html\">Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]<\/a>","Disaggregation combinations using this value":3,"Number of indicators":3},{"Value":"<a href=\"disaggregation-value--number-of-deaths-attributed-to-suicide-342.html\">Number of deaths attributed to suicide [3.4.2]<\/a>","Disaggregation combinations using this value":15,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--number-of-deaths-due-to-disaster-151-1151-1311.html\">Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]<\/a>","Disaggregation combinations using this value":3,"Number of indicators":3},{"Value":"<a href=\"disaggregation-value--number-of-local-breeds-for-which-sufficient-genetic-resources-are-stored-for-r.html\">Number of local breeds for which sufficient genetic resources are stored for reconstitution [2.5.1]<\/a>","Disaggregation combinations using this value":6,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--number-of-local-governments-154-11b2-1313.html\">Number of local governments [1.5.4, 11.b.2, 13.1.3]<\/a>","Disaggregation combinations using this value":3,"Number of indicators":3},{"Value":"<a href=\"disaggregation-value--number-of-local-governments-that-adopt-and-implement-local-drr-strategies-in-l.html\">Number of local governments that adopt and implement local DRR strategies in line with national strategies [1.5.4, 11.b.2, 13.1.3]<\/a>","Disaggregation combinations using this value":3,"Number of indicators":3},{"Value":"<a href=\"disaggregation-value--number-of-policies-instruments-and-mechanism-in-place-for-sustainable-consumpt.html\">Number of policies, instruments and mechanism in place for sustainable consumption and production [12.1.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--number-of-seats-held-by-women-in-national-parliaments-551.html\">Number of seats held by women in national parliaments [5.5.1]<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--number-of-seats-in-national-parliaments-551.html\">Number of seats in national parliaments [5.5.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--number-of-speakers-in-parliament-by-age-and-sex-lower-chamber-or-unicameral-16.html\">Number of speakers in parliament, by age and sex , Lower Chamber or Unicameral [16.7.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--number-of-speakers-in-parliament-by-age-and-sex-upper-chamber-1671.html\">Number of speakers in parliament, by age and sex, Upper Chamber [16.7.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--number-of-youth-in-parliament-age-45-or-below-lower-chamber-or-unicameral-1671.html\">Number of youth in parliament (age 45 or below), Lower Chamber or Unicameral [16.7.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--number-of-youth-in-parliament-age-45-or-below-upper-chamber-1671.html\">Number of youth in parliament (age 45 or below), Upper Chamber [16.7.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--parties-meeting-their-commitments-and-obligations-in-transmitting-information-.html\">Parties meeting their commitments and obligations in transmitting information as required by Minamata Convention on hazardous waste, and other chemicals (% average value) [12.4.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--passenger-volume-passenger-kilometres-912.html\">Passenger volume (passenger kilometres) [9.1.2]<\/a>","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--percentage-of-bloodstream-infection-due-to-escherichia-coli-resistant-to-3rd-g.html\">Percentage of bloodstream infection due to Escherichia coli resistant to 3rd-generation cephalosporin (e.g., ESBL- E. coli) among patients seeking care and whose blood sample is taken and tested [3.d.2]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--percentage-of-bloodstream-infection-due-to-methicillin-resistant-staphylococcu.html\">Percentage of bloodstream infection due to methicillin-resistant Staphylococcus aureus (MRSA) among patients seeking care and whose blood sample is taken and tested [3.d.2]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--plant-genetic-resources-accessions-stored-ex-situ-number-251.html\">Plant genetic resources accessions stored ex situ (number) [2.5.1]<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--population-in-moderate-or-severe-food-insecurity-number-212.html\">Population in moderate or severe food insecurity (number) [2.1.2]<\/a>","Disaggregation combinations using this value":15,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--population-in-severe-food-insecurity-number-212.html\">Population in severe food insecurity (number) [2.1.2]<\/a>","Disaggregation combinations using this value":15,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--portfolio-investment-net-balance-of-payments-current-united-states-dollars-171.html\">Portfolio investment, net (Balance of Payments, current United States dollars) [17.13.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--prevalence-of-moderate-or-severe-food-insecurity-in-the-population-212.html\">Prevalence of moderate or severe food insecurity in the population [2.1.2]<\/a>","Disaggregation combinations using this value":15,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--prevalence-of-severe-food-insecurity-in-the-population-212.html\">Prevalence of severe food insecurity in the population [2.1.2]<\/a>","Disaggregation combinations using this value":15,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-bodies-of-water-with-good-ambient-water-quality-632.html\">Proportion of bodies of water with good ambient water quality [6.3.2]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-childrenhouseholds-receiving-childfamily-cash-benefit-131.html\">Proportion of children\/households receiving child\/family cash benefit [1.3.1]<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-elected-seats-held-by-women-in-deliberative-bodies-of-local-gove.html\">Proportion of elected seats held by women in deliberative bodies of local government [5.5.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-employed-population-covered-in-the-event-of-work-injury-131.html\">Proportion of employed population covered in the event of work injury [1.3.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-forest-area-with-a-long-term-management-plan-1521.html\">Proportion of forest area with a long-term management plan [15.2.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-forest-area-within-legally-established-protected-areas-1521.html\">Proportion of forest area within legally established protected areas [15.2.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-groundwater-bodies-with-good-ambient-water-quality-632.html\">Proportion of groundwater bodies with good ambient water quality [6.3.2]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-local-governments-that-adopt-and-implement-local-disaster-risk-r.html\">Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies [1.5.4, 11.b.2, 13.1.3]<\/a>","Disaggregation combinations using this value":3,"Number of indicators":3},{"Value":"<a href=\"disaggregation-value--proportion-of-members-of-developing-countries-in-international-organizations-b.html\">Proportion of members of developing countries in international organizations, by organization [10.6.1, 16.8.1]<\/a>","Disaggregation combinations using this value":166,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--proportion-of-mothers-with-newborns-receiving-maternity-cash-benefit-131.html\">Proportion of mothers with newborns receiving maternity cash benefit [1.3.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-new-development-interventions-drawn-from-country-led-result-fram.html\">Proportion of new development interventions drawn from country-led result frameworks - data by provider (%) [17.15.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-open-water-bodies-with-good-ambient-water-quality-632.html\">Proportion of open water bodies with good ambient water quality [6.3.2]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-poor-population-receiving-social-assistance-cash-benefit-131.html\">Proportion of poor population receiving social assistance cash benefit [1.3.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-population-above-statutory-pensionable-age-receiving-a-pension-1.html\">Proportion of population above statutory pensionable age receiving a pension [1.3.1]<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-population-covered-by-at-least-a-2g-mobile-network-9c1.html\">Proportion of population covered by at least a 2G mobile network [9.c.1]<\/a>","Disaggregation combinations using this value":13,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-population-covered-by-at-least-a-3g-mobile-network-9c1.html\">Proportion of population covered by at least a 3G mobile network [9.c.1]<\/a>","Disaggregation combinations using this value":11,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-population-covered-by-at-least-a-4g-mobile-network-9c1.html\">Proportion of population covered by at least a 4G mobile network [9.c.1]<\/a>","Disaggregation combinations using this value":7,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-population-covered-by-at-least-one-social-protection-benefit-131.html\">Proportion of population covered by at least one social protection benefit [1.3.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-population-practicing-open-defecation-621.html\">Proportion of population practicing open defecation [6.2.1]<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-population-using-basic-drinking-water-services-141.html\">Proportion of population using basic drinking water services [1.4.1]<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-population-using-basic-sanitation-services-141.html\">Proportion of population using basic sanitation services [1.4.1]<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-population-using-safely-managed-sanitation-services-621.html\">Proportion of population using safely managed sanitation services [6.2.1]<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-population-with-large-household-expenditures-on-health-greater-t.html\">Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income [3.8.2]<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-population-with-large-household-expenditures-on-health-greater-t.html\">Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income [3.8.2]<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-population-with-severe-disabilities-receiving-disability-cash-be.html\">Proportion of population with severe disabilities receiving disability cash benefit [1.3.1]<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-results-indicators-drawn-from-country-led-results-frameworks-dat.html\">Proportion of results indicators drawn from country-led results frameworks - data by provider (%) [17.15.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-results-indicators-which-will-be-monitored-using-government-sour.html\">Proportion of results indicators which will be monitored using government sources and monitoring systems - data by provider (%) [17.15.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-river-water-bodies-with-good-ambient-water-quality-632.html\">Proportion of river water bodies with good ambient water quality [6.3.2]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-seats-held-by-women-in-national-parliaments-of-total-number-of-s.html\">Proportion of seats held by women in national parliaments (% of total number of seats) [5.5.1]<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-the-target-population-with-access-to-3-doses-of-diphtheria-tetan.html\">Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) [3.b.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-the-target-population-with-access-to-affordable-medicines-and-va.html\">Proportion of the target population with access to affordable medicines and vaccines on a sustainable basis, human papillomavirus (HPV) [3.b.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-the-target-population-with-access-to-measles-containing-vaccine-.html\">Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) [3.b.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-the-target-population-with-access-to-pneumococcal-conjugate-3rd-.html\">Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) [3.b.1]<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-time-spent-on-unpaid-care-work-541.html\">Proportion of time spent on unpaid care work [5.4.1]<\/a>","Disaggregation combinations using this value":24,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-time-spent-on-unpaid-domestic-chores-541.html\">Proportion of time spent on unpaid domestic chores [5.4.1]<\/a>","Disaggregation combinations using this value":24,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-time-spent-on-unpaid-domestic-chores-and-care-work-541.html\">Proportion of time spent on unpaid domestic chores and care work [5.4.1]<\/a>","Disaggregation combinations using this value":24,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-transboundary-aquifers-with-an-operational-arrangement-for-water.html\">Proportion of transboundary aquifers with an operational arrangement for water cooperation [6.5.2]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-transboundary-basins-river-and-lake-basins-and-aquifers-with-an-.html\">Proportion of transboundary basins (river and lake basins and aquifers) with an operational arrangement for water cooperation [6.5.2]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-transboundary-river-and-lake-basins-with-an-operational-arrangem.html\">Proportion of transboundary river and lake basins with an operational arrangement for water cooperation [6.5.2]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-unemployed-persons-receiving-unemployment-cash-benefit-131.html\">Proportion of unemployed persons receiving unemployment cash benefit [1.3.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-voting-rights-of-developing-countries-in-international-organizat.html\">Proportion of voting rights of developing countries in international organizations, by organization [10.6.1, 16.8.1]<\/a>","Disaggregation combinations using this value":166,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--proportion-of-vulnerable-population-receiving-social-assistance-cash-benefit-1.html\">Proportion of vulnerable population receiving social assistance cash benefit [1.3.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-women-aged-15-49-years-with-anaemia-223.html\">Proportion of women aged 15-49 years with anaemia [2.2.3]<\/a>","Disaggregation combinations using this value":19,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-women-aged-15-49-years-with-anaemia-non-pregnant-223.html\">Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]<\/a>","Disaggregation combinations using this value":20,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-women-aged-15-49-years-with-anaemia-pregnant-223.html\">Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]<\/a>","Disaggregation combinations using this value":18,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-women-in-managerial-positions-552.html\">Proportion of women in managerial positions [5.5.2]<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-women-in-senior-and-middle-management-positions-552.html\">Proportion of women in senior and middle management positions [5.5.2]<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-youth-in-parliament-age-45-or-below-lower-chamber-or-unicameral-.html\">Proportion of youth in parliament (age 45 or below), Lower Chamber or Unicameral [16.7.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-youth-in-parliament-age-45-or-below-upper-chamber-1671.html\">Proportion of youth in parliament (age 45 or below), Upper Chamber [16.7.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--protected-marine-area-exclusive-economic-zones-square-kilometres-1451.html\">Protected marine area (Exclusive Economic Zones) (square kilometres) [14.5.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--ratio-for-female-members-of-parliaments-ratio-of-the-proportion-of-women-in-pa.html\">Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population\u00a0with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral [16.7.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--ratio-for-female-members-of-parliaments-ratio-of-the-proportion-of-women-in-pa.html\">Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population\u00a0with the age of eligibility as a lower bound boundary), Upper Chamber [16.7.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--ratio-of-young-members-in-parliament-ratio-of-the-proportion-of-young-members-.html\">Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below)\u00a0with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral [16.7.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--ratio-of-young-members-in-parliament-ratio-of-the-proportion-of-young-members-.html\">Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below)\u00a0with the age of eligibility as a lower bound boundary), Upper Chamber [16.7.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--recipient-countries-of-global-funding-with-access-to-any-funding-from-global-f.html\">Recipient countries of global funding with access to any funding from global financial mechanisms for projects related to invasive alien species\u00a0 management (1 = YES, 0 = NO) [15.8.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--regulatory-capital-to-assets-1051.html\">Regulatory capital to assets (%) [10.5.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--regulatory-tier-1-capital-to-risk-weighted-assets-1051.html\">Regulatory Tier 1 capital to risk-weighted assets (%) [10.5.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--reservoir-maximum-water-area-of-total-land-area-661.html\">Reservoir maximum water area (% of total land area) [6.6.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--reservoir-maximum-water-area-square-kilometres-661.html\">Reservoir maximum water area (square kilometres) [6.6.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--reservoir-minimum-water-area-of-total-land-area-661.html\">Reservoir minimum water area (% of total land area) [6.6.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--reservoir-minimum-water-area-square-kilometres-661.html\">Reservoir minimum water area (square kilometres) [6.6.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--return-on-assets-1051.html\">Return on assets (%) [10.5.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--s1-extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-and.html\">(S.1) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Section 1: Maternity Care [5.6.2]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--s1c1-extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-a.html\">(S.1.C.1) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 1: Maternity Care [5.6.2]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--s1c2-extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-a.html\">(S.1.C.2) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 2: Life Saving Commodities [5.6.2]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--s1c3-extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-a.html\">(S.1.C.3) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 3: Abortion [5.6.2]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--s1c4-extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-a.html\">(S.1.C.4) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 4: Post-Abortion Care [5.6.2]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--s2-extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-and.html\">(S.2) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Section 2: Contraceptive and Family Planning [5.6.2]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--s2c5-extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-a.html\">(S.2.C.5) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 5: Contraceptive Services [5.6.2]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--s2c6-extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-a.html\">(S.2.C.6) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 6: Contraceptive Consent [5.6.2]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--s2c7-extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-a.html\">(S.2.C.7) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 7: Emergency Contraception [5.6.2]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--s3-extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-and.html\">(S.3) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Section 3: Sexuality Education [5.6.2]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--s3c8-extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-a.html\">(S.3.C.8) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 8: Sexuality Education Curriculum Laws [5.6.2]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--s3c9-extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-a.html\">(S.3.C.9) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 9: Sexuality Education Curriculum Topi [5.6.2]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--s4-extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-and.html\">(S.4) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Section 4: HIV and HPV [5.6.2]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--s4c10-extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-.html\">(S.4.C.10) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 10: HIV Counselling and Test Services [5.6.2]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--s4c11-extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-.html\">(S.4.C.11) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 11: HIV Treatment and Care Services [5.6.2]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--s4c12-extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-.html\">(S.4.C.12) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 12: HIV Confidentiality [5.6.2]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--s4c13-extent-to-which-countries-have-laws-and-regulations-that-guarantee-full-.html\">(S.4.C.13) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 13: HPV Vaccine [5.6.2]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--score-for-the-implementation-of-unclos-and-its-two-implementing-agreements-14c.html\">Score for the implementation of UNCLOS and its two implementing agreements (%) [14.c.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--score-for-the-ratification-of-and-accession-to-unclos-and-its-two-implementing.html\">Score for the ratification of and accession to UNCLOS and its two implementing agreements (%) [14.c.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--smart-corridor-remittance-costs-as-a-proportion-of-the-amount-remitted-10c1.html\">SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1]<\/a>","Disaggregation combinations using this value":127,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--suicide-mortality-rate-342.html\">Suicide mortality rate [3.4.2]<\/a>","Disaggregation combinations using this value":13,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--tax-revenue-as-a-proportion-of-gdp-17131.html\">Tax revenue as a proportion of GDP (%) [17.13.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--total-government-revenue-as-a-proportion-of-gdp-1711.html\">Total government revenue as a proportion of GDP [17.1.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--total-government-revenue-in-local-currency-1711.html\">Total government revenue, in local currency [17.1.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--total-official-flows-commitments-for-aid-for-trade-by-donor-countries-8a1.html\">Total official flows (commitments) for Aid for Trade, by donor countries [8.a.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--total-official-flows-disbursement-for-aid-for-trade-by-donor-countries-8a1.html\">Total official flows (disbursement) for Aid for Trade, by donor countries [8.a.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--total-reported-number-of-standard-material-transfer-agreements-smtas-transferr.html\">Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country [15.6.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--total-reserves-in-months-of-imports-ratio-17131.html\">Total reserves in months of imports (ratio) [17.13.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--under-five-deaths-number-321.html\">Under-five deaths (number) [3.2.1]<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--under-five-mortality-rate-321.html\">Under-five mortality rate [3.2.1]<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--unemployment-rate-852.html\">Unemployment rate [8.5.2]<\/a>","Disaggregation combinations using this value":18,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--unemployment-rate-by-disability-852.html\">Unemployment rate, by disability [8.5.2]<\/a>","Disaggregation combinations using this value":18,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--wetlands-area-of-total-land-area-661.html\">Wetlands area (% of total land area) [6.6.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--wetlands-area-square-kilometres-661.html\">Wetlands area (square kilometres) [6.6.1]<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1}];
+            </script>
+            
+        </div>
+        <div>
+            <h2 id="indicators-using" tabindex="-1">Indicators using disaggregation</h2>
+            
+        <div class="my-3">
+            <a href="indicators--disaggregation--sdg-series.csv" role="button" class="btn btn-primary" aria-describedby="indicators--disaggregation--sdg-series">Download CSV of indicators using this disaggregation</a>
+            <div id="indicators--disaggregation--sdg-series" class="download-info">Size: 569 Bytes</div>
+        </div>
+        
+            
+                <div class="total-rows">
+                    Total rows: <span class="total">74</span>
+                </div>
+                <table border="1" class="dataframe table table-striped table-bordered" id="indicators-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Indicator</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>#1-3-1</td>
+    </tr>
+    <tr>
+      <td>#1-4-1</td>
+    </tr>
+    <tr>
+      <td>#1-5-1</td>
+    </tr>
+    <tr>
+      <td>#1-5-4</td>
+    </tr>
+    <tr>
+      <td>#10-5-1</td>
+    </tr>
+    <tr>
+      <td>#10-6-1</td>
+    </tr>
+    <tr>
+      <td>#10-c-1</td>
+    </tr>
+    <tr>
+      <td>#11-5-1</td>
+    </tr>
+    <tr>
+      <td>#11-b-2</td>
+    </tr>
+    <tr>
+      <td>#12-1-1</td>
+    </tr>
+    <tr>
+      <td>#12-2-2</td>
+    </tr>
+    <tr>
+      <td>#12-3-1</td>
+    </tr>
+    <tr>
+      <td>#12-4-1</td>
+    </tr>
+    <tr>
+      <td>#12-4-2</td>
+    </tr>
+    <tr>
+      <td>#12-8-1</td>
+    </tr>
+    <tr>
+      <td>#12-b-1</td>
+    </tr>
+    <tr>
+      <td>#12-c-1</td>
+    </tr>
+    <tr>
+      <td>#13-1-1</td>
+    </tr>
+    <tr>
+      <td>#13-1-3</td>
+    </tr>
+    <tr>
+      <td>#13-3-1</td>
+    </tr>
+    <tr>
+      <td>#14-1-1</td>
+    </tr>
+    <tr>
+      <td>#14-5-1</td>
+    </tr>
+    <tr>
+      <td>#14-c-1</td>
+    </tr>
+    <tr>
+      <td>#15-1-1</td>
+    </tr>
+    <tr>
+      <td>#15-1-2</td>
+    </tr>
+    <tr>
+      <td>#15-2-1</td>
+    </tr>
+    <tr>
+      <td>#15-6-1</td>
+    </tr>
+    <tr>
+      <td>#15-8-1</td>
+    </tr>
+    <tr>
+      <td>#15-9-1</td>
+    </tr>
+    <tr>
+      <td>#16-2-2</td>
+    </tr>
+    <tr>
+      <td>#16-7-1</td>
+    </tr>
+    <tr>
+      <td>#16-8-1</td>
+    </tr>
+    <tr>
+      <td>#16-a-1</td>
+    </tr>
+    <tr>
+      <td>#17-1-1</td>
+    </tr>
+    <tr>
+      <td>#17-12-1</td>
+    </tr>
+    <tr>
+      <td>#17-13-1</td>
+    </tr>
+    <tr>
+      <td>#17-15-1</td>
+    </tr>
+    <tr>
+      <td>#17-19-2</td>
+    </tr>
+    <tr>
+      <td>#17-2-1</td>
+    </tr>
+    <tr>
+      <td>#17-6-1</td>
+    </tr>
+    <tr>
+      <td>#2-1-2</td>
+    </tr>
+    <tr>
+      <td>#2-2-3</td>
+    </tr>
+    <tr>
+      <td>#2-5-1</td>
+    </tr>
+    <tr>
+      <td>#2-a-1</td>
+    </tr>
+    <tr>
+      <td>#3-2-1</td>
+    </tr>
+    <tr>
+      <td>#3-2-2</td>
+    </tr>
+    <tr>
+      <td>#3-4-1</td>
+    </tr>
+    <tr>
+      <td>#3-4-2</td>
+    </tr>
+    <tr>
+      <td>#3-8-2</td>
+    </tr>
+    <tr>
+      <td>#3-9-1</td>
+    </tr>
+    <tr>
+      <td>#3-b-1</td>
+    </tr>
+    <tr>
+      <td>#3-c-1</td>
+    </tr>
+    <tr>
+      <td>#3-d-2</td>
+    </tr>
+    <tr>
+      <td>#4-5-1</td>
+    </tr>
+    <tr>
+      <td>#4-7-1</td>
+    </tr>
+    <tr>
+      <td>#5-1-1</td>
+    </tr>
+    <tr>
+      <td>#5-4-1</td>
+    </tr>
+    <tr>
+      <td>#5-5-1</td>
+    </tr>
+    <tr>
+      <td>#5-5-2</td>
+    </tr>
+    <tr>
+      <td>#5-6-2</td>
+    </tr>
+    <tr>
+      <td>#6-2-1</td>
+    </tr>
+    <tr>
+      <td>#6-3-2</td>
+    </tr>
+    <tr>
+      <td>#6-5-1</td>
+    </tr>
+    <tr>
+      <td>#6-5-2</td>
+    </tr>
+    <tr>
+      <td>#6-6-1</td>
+    </tr>
+    <tr>
+      <td>#8-10-1</td>
+    </tr>
+    <tr>
+      <td>#8-4-2</td>
+    </tr>
+    <tr>
+      <td>#8-5-2</td>
+    </tr>
+    <tr>
+      <td>#8-8-1</td>
+    </tr>
+    <tr>
+      <td>#8-a-1</td>
+    </tr>
+    <tr>
+      <td>#9-1-2</td>
+    </tr>
+    <tr>
+      <td>#9-2-1</td>
+    </tr>
+    <tr>
+      <td>#9-4-1</td>
+    </tr>
+    <tr>
+      <td>#9-c-1</td>
+    </tr>
+  </tbody>
+</table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['indicators-table'] = [{"Indicator":"#1-3-1"},{"Indicator":"#1-4-1"},{"Indicator":"#1-5-1"},{"Indicator":"#1-5-4"},{"Indicator":"#10-5-1"},{"Indicator":"#10-6-1"},{"Indicator":"#10-c-1"},{"Indicator":"#11-5-1"},{"Indicator":"#11-b-2"},{"Indicator":"#12-1-1"},{"Indicator":"#12-2-2"},{"Indicator":"#12-3-1"},{"Indicator":"#12-4-1"},{"Indicator":"#12-4-2"},{"Indicator":"#12-8-1"},{"Indicator":"#12-b-1"},{"Indicator":"#12-c-1"},{"Indicator":"#13-1-1"},{"Indicator":"#13-1-3"},{"Indicator":"#13-3-1"},{"Indicator":"#14-1-1"},{"Indicator":"#14-5-1"},{"Indicator":"#14-c-1"},{"Indicator":"#15-1-1"},{"Indicator":"#15-1-2"},{"Indicator":"#15-2-1"},{"Indicator":"#15-6-1"},{"Indicator":"#15-8-1"},{"Indicator":"#15-9-1"},{"Indicator":"#16-2-2"},{"Indicator":"#16-7-1"},{"Indicator":"#16-8-1"},{"Indicator":"#16-a-1"},{"Indicator":"#17-1-1"},{"Indicator":"#17-12-1"},{"Indicator":"#17-13-1"},{"Indicator":"#17-15-1"},{"Indicator":"#17-19-2"},{"Indicator":"#17-2-1"},{"Indicator":"#17-6-1"},{"Indicator":"#2-1-2"},{"Indicator":"#2-2-3"},{"Indicator":"#2-5-1"},{"Indicator":"#2-a-1"},{"Indicator":"#3-2-1"},{"Indicator":"#3-2-2"},{"Indicator":"#3-4-1"},{"Indicator":"#3-4-2"},{"Indicator":"#3-8-2"},{"Indicator":"#3-9-1"},{"Indicator":"#3-b-1"},{"Indicator":"#3-c-1"},{"Indicator":"#3-d-2"},{"Indicator":"#4-5-1"},{"Indicator":"#4-7-1"},{"Indicator":"#5-1-1"},{"Indicator":"#5-4-1"},{"Indicator":"#5-5-1"},{"Indicator":"#5-5-2"},{"Indicator":"#5-6-2"},{"Indicator":"#6-2-1"},{"Indicator":"#6-3-2"},{"Indicator":"#6-5-1"},{"Indicator":"#6-5-2"},{"Indicator":"#6-6-1"},{"Indicator":"#8-10-1"},{"Indicator":"#8-4-2"},{"Indicator":"#8-5-2"},{"Indicator":"#8-8-1"},{"Indicator":"#8-a-1"},{"Indicator":"#9-1-2"},{"Indicator":"#9-2-1"},{"Indicator":"#9-4-1"},{"Indicator":"#9-c-1"}];
+            </script>
+            
+        </div>
+        
+                    </div>
+                </div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+            <script src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+            <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+            <script>
+            if (typeof sdgBuild !== 'undefined' && sdgBuild.tables) {
+                var tableIds = Object.keys(sdgBuild.tables);
+                for (var i = 0; i < tableIds.length; i++) {
+                    var tableId = tableIds[i];
+                    $('#' + tableId).openSdgTable(sdgBuild.tables[tableId]).find('td').each(function() {
+                        if (!isNaN($(this).text())) {
+                            $(this).css('text-align', 'right');
+                        }
+                    })
+                }
+            }
+            </script>
+        </html>
+        

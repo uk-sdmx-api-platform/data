@@ -1,0 +1,344 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="utf-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+
+            <title>Disaggregation: Custom Breakdown - SDG data build documentation</title>
+
+            <script defer src="https://use.fontawesome.com/releases/v5.15.1/js/all.js"></script>
+            <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.css">
+            <style>
+                .btn-primary {
+                    background-color: #00703c;
+                    padding: 8px 10px 7px;
+                    border: 2px solid transparent;
+                    border-radius: 0;
+                    color: #fff;
+                    box-shadow: 0 2px 0 #002d18;
+                    text-decoration: none;
+                }
+                .btn-primary:visited {
+                    color: #fff;
+                }
+                .btn-primary:hover, .btn-primary:not(:disabled):not(.disabled):active {
+                    background-color: #005a30;
+                    text-decoration: none;
+                    border: 2px solid transparent;
+                }
+                .btn-primary:focus:not(:active):not(:hover) {
+                    border-color: #fd0;
+                    color: #0b0c0c;
+                    background-color: #fd0;
+                    box-shadow: 0 2px 0 #0b0c0c;
+                }
+                a {
+                    color: #1D70B8;
+                    text-decoration: underline;
+                }
+                a:hover {
+                    color: #003078;
+                }
+                a:visited {
+                    color: #4c2c92;
+                }
+                .download-info {
+                    margin-left: 12px;
+                }
+                .table-striped tbody tr:nth-of-type(2n+1) {
+                    background-color: #f3f2f1;
+                }
+            </style>
+        </head>
+        <body>
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <div class="container">
+                    <a class="navbar-brand" href="index.html">SDG data build documentation</a>
+                </div>
+            </nav>
+            <main role="main">
+                <div class="container">
+                    <h1 style="margin:20px 0">Disaggregation: Custom Breakdown</h1>
+                    <div>
+                        
+        <div role="navigation" aria-describedby="contents-heading">
+            <h2 id="contents-heading">On this page</h2>
+            <ul>
+                <li><a href="#values-used">Values used in disaggregation</a></li>
+                <li><a href="#indicators-using">Indicators using disaggregation</a></li>
+            </ul>
+        </div>
+        <div>
+            <h2 id="values-used" tabindex="-1">Values used in disaggregation</h2>
+            
+        <div class="my-3">
+            <a href="values--disaggregation--custom-breakdown.csv" role="button" class="btn btn-primary" aria-describedby="values--disaggregation--custom-breakdown">Download CSV of values used in this disaggregation</a>
+            <div id="values--disaggregation--custom-breakdown" class="download-info">Size: 787 Bytes</div>
+        </div>
+        
+            
+                <div class="total-rows">
+                    Total rows: <span class="total">36</span>
+                </div>
+                <table border="1" class="dataframe table table-striped table-bordered" id="values-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Value</th>
+      <th>Disaggregation combinations using this value</th>
+      <th>Number of indicators</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-01.html">Custom code 01</a></td>
+      <td>5</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-02.html">Custom code 02</a></td>
+      <td>11</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-03.html">Custom code 03</a></td>
+      <td>11</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-04.html">Custom code 04</a></td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-08.html">Custom code 08</a></td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-100.html">Custom code 100</a></td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-144.html">Custom code 144</a></td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-156.html">Custom code 156</a></td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-231.html">Custom code 231</a></td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-232.html">Custom code 232</a></td>
+      <td>4</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-270.html">Custom code 270</a></td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-288.html">Custom code 288</a></td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-356.html">Custom code 356</a></td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-388.html">Custom code 388</a></td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-404.html">Custom code 404</a></td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-422.html">Custom code 422</a></td>
+      <td>4</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-440.html">Custom code 440</a></td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-50.html">Custom code 50</a></td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-524.html">Custom code 524</a></td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-566.html">Custom code 566</a></td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-586.html">Custom code 586</a></td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-608.html">Custom code 608</a></td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-616.html">Custom code 616</a></td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-642.html">Custom code 642</a></td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-646.html">Custom code 646</a></td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-694.html">Custom code 694</a></td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-704.html">Custom code 704</a></td>
+      <td>4</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-706.html">Custom code 706</a></td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-710.html">Custom code 710</a></td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-716.html">Custom code 716</a></td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-728.html">Custom code 728</a></td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-76.html">Custom code 76</a></td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-764.html">Custom code 764</a></td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-800.html">Custom code 800</a></td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-834.html">Custom code 834</a></td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--custom-code-894.html">Custom code 894</a></td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['values-table'] = [{"Value":"<a href=\"disaggregation-value--custom-code-01.html\">Custom code 01<\/a>","Disaggregation combinations using this value":5,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--custom-code-02.html\">Custom code 02<\/a>","Disaggregation combinations using this value":11,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--custom-code-03.html\">Custom code 03<\/a>","Disaggregation combinations using this value":11,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--custom-code-04.html\">Custom code 04<\/a>","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--custom-code-08.html\">Custom code 08<\/a>","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--custom-code-100.html\">Custom code 100<\/a>","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--custom-code-144.html\">Custom code 144<\/a>","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--custom-code-156.html\">Custom code 156<\/a>","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--custom-code-231.html\">Custom code 231<\/a>","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--custom-code-232.html\">Custom code 232<\/a>","Disaggregation combinations using this value":4,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--custom-code-270.html\">Custom code 270<\/a>","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--custom-code-288.html\">Custom code 288<\/a>","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--custom-code-356.html\">Custom code 356<\/a>","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--custom-code-388.html\">Custom code 388<\/a>","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--custom-code-404.html\">Custom code 404<\/a>","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--custom-code-422.html\">Custom code 422<\/a>","Disaggregation combinations using this value":4,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--custom-code-440.html\">Custom code 440<\/a>","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--custom-code-50.html\">Custom code 50<\/a>","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--custom-code-524.html\">Custom code 524<\/a>","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--custom-code-566.html\">Custom code 566<\/a>","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--custom-code-586.html\">Custom code 586<\/a>","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--custom-code-608.html\">Custom code 608<\/a>","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--custom-code-616.html\">Custom code 616<\/a>","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--custom-code-642.html\">Custom code 642<\/a>","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--custom-code-646.html\">Custom code 646<\/a>","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--custom-code-694.html\">Custom code 694<\/a>","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--custom-code-704.html\">Custom code 704<\/a>","Disaggregation combinations using this value":4,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--custom-code-706.html\">Custom code 706<\/a>","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--custom-code-710.html\">Custom code 710<\/a>","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--custom-code-716.html\">Custom code 716<\/a>","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--custom-code-728.html\">Custom code 728<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--custom-code-76.html\">Custom code 76<\/a>","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--custom-code-764.html\">Custom code 764<\/a>","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--custom-code-800.html\">Custom code 800<\/a>","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--custom-code-834.html\">Custom code 834<\/a>","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--custom-code-894.html\">Custom code 894<\/a>","Disaggregation combinations using this value":5,"Number of indicators":1}];
+            </script>
+            
+        </div>
+        <div>
+            <h2 id="indicators-using" tabindex="-1">Indicators using disaggregation</h2>
+            
+        <div class="my-3">
+            <a href="indicators--disaggregation--custom-breakdown.csv" role="button" class="btn btn-primary" aria-describedby="indicators--disaggregation--custom-breakdown">Download CSV of indicators using this disaggregation</a>
+            <div id="indicators--disaggregation--custom-breakdown" class="download-info">Size: 34 Bytes</div>
+        </div>
+        
+            
+                <div class="total-rows">
+                    Total rows: <span class="total">3</span>
+                </div>
+                <table border="1" class="dataframe table table-striped table-bordered" id="indicators-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Indicator</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>#10-c-1</td>
+    </tr>
+    <tr>
+      <td>#11-6-1</td>
+    </tr>
+    <tr>
+      <td>#14-3-1</td>
+    </tr>
+  </tbody>
+</table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['indicators-table'] = [{"Indicator":"#10-c-1"},{"Indicator":"#11-6-1"},{"Indicator":"#14-3-1"}];
+            </script>
+            
+        </div>
+        
+                    </div>
+                </div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+            <script src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+            <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+            <script>
+            if (typeof sdgBuild !== 'undefined' && sdgBuild.tables) {
+                var tableIds = Object.keys(sdgBuild.tables);
+                for (var i = 0; i < tableIds.length; i++) {
+                    var tableId = tableIds[i];
+                    $('#' + tableId).openSdgTable(sdgBuild.tables[tableId]).find('td').each(function() {
+                        if (!isNaN($(this).text())) {
+                            $(this).css('text-align', 'right');
+                        }
+                    })
+                }
+            }
+            </script>
+        </html>
+        

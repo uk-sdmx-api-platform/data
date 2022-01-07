@@ -12,8 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
+          },
+          {
+            "name": "Economic activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Manufacturing (ISIC3 D)",
+                "Manufacturing",
+                ""
+              ]
+            },
+            "title": "Economic activity"
           },
           {
             "name": "Value",

@@ -12,7 +12,54 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Health workder density [3.c.1]",
+                "Health worker distribution, by sex and type of occupation [3.c.1]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Occupation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Medical doctors",
+                "Nursing and midwifery personnel",
+                "Dentists",
+                "Pharmacists",
+                "Nursing personnel",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Per 10,000 population",
+                "Percent",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

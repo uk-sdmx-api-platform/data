@@ -12,7 +12,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "Custom Breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Custom code 01",
+                "Custom code 02",
+                "Custom code 03",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Label for custom breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "London",
+                "Manchester",
+                "Belfast",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

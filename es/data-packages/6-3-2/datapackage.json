@@ -12,8 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of groundwater bodies with good ambient water quality [6.3.2]",
+                "Proportion of open water bodies with good ambient water quality [6.3.2]",
+                "Proportion of river water bodies with good ambient water quality [6.3.2]",
+                "Proportion of bodies of water with good ambient water quality [6.3.2]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
           },
           {
             "name": "Value",

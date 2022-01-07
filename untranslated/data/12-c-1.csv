@@ -1,1 +1,16 @@
-Year,Value
+Year,UNIT_MULT,BASE_PER,SDG Series,Unit of measure,Unit multiplier,Base period,Value
+2015,6,2015,Fossil-fuel subsidies (consumption and production) (millions of constant United States dollars) [12.c.1],Constant USD,Millions,2015,20167.644
+2016,6,2015,Fossil-fuel subsidies (consumption and production) (millions of constant United States dollars) [12.c.1],Constant USD,Millions,2015,15104.068
+2017,6,2015,Fossil-fuel subsidies (consumption and production) (millions of constant United States dollars) [12.c.1],Constant USD,Millions,2015,16494.264
+2018,6,2015,Fossil-fuel subsidies (consumption and production) (millions of constant United States dollars) [12.c.1],Constant USD,Millions,2015,15493.532
+2019,6,2015,Fossil-fuel subsidies (consumption and production) (millions of constant United States dollars) [12.c.1],Constant USD,Millions,2015,15398.101
+2015,0,,Fossil-fuel subsidies (consumption and production) as a proportion of total GDP [12.c.1],Percent,Units,,0.68766
+2016,0,,Fossil-fuel subsidies (consumption and production) as a proportion of total GDP [12.c.1],Percent,Units,,0.50629
+2017,0,,Fossil-fuel subsidies (consumption and production) as a proportion of total GDP [12.c.1],Percent,Units,,0.54343
+2018,0,,Fossil-fuel subsidies (consumption and production) as a proportion of total GDP [12.c.1],Percent,Units,,0.50414
+2019,0,,Fossil-fuel subsidies (consumption and production) as a proportion of total GDP [12.c.1],Percent,Units,,0.4948
+2015,0,2015,Fossil-fuel subsidies (consumption and production) per capita (constant United States dollars) [12.c.1],Constant USD,Units,2015,306.21923
+2016,0,2015,Fossil-fuel subsidies (consumption and production) per capita (constant United States dollars) [12.c.1],Constant USD,Units,2015,227.82106
+2017,0,2015,Fossil-fuel subsidies (consumption and production) per capita (constant United States dollars) [12.c.1],Constant USD,Units,2015,247.18854
+2018,0,2015,Fossil-fuel subsidies (consumption and production) per capita (constant United States dollars) [12.c.1],Constant USD,Units,2015,230.75878
+2019,0,2015,Fossil-fuel subsidies (consumption and production) per capita (constant United States dollars) [12.c.1],Constant USD,Units,2015,228.01813

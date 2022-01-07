@@ -12,8 +12,258 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                "3",
+                ""
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "The observation value represents the 3-year average of the period 2014-2016",
+                "The observation value represents the 3-year average of the period 2015-2017",
+                "The observation value represents the 3-year average of the period 2016-2018",
+                "The observation value represents the 3-year average of the period 2017-2019",
+                "The observation value represents the 3-year average of the period 2018-2020",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "UPPER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "7.5",
+                "7.3",
+                "6.7",
+                "5.9",
+                "4.8",
+                "9.8",
+                "8.5",
+                "6.8",
+                "4.9",
+                "4.5",
+                "3.5",
+                "5.1",
+                "6.2",
+                "7.0",
+                "5.4",
+                "490.8",
+                "485.3",
+                "447.6",
+                "396.1",
+                "320.9",
+                "272.3",
+                "237.3",
+                "189.9",
+                "137.7",
+                "127.2",
+                "93.3",
+                "136.3",
+                "166.4",
+                "190.3",
+                "147.5",
+                "2.5",
+                "2.8",
+                "2.3",
+                "1.8",
+                "1.1",
+                "3.1",
+                "2.2",
+                "1.2",
+                "1.3",
+                "2.4",
+                "1.5",
+                "162.6",
+                "184.0",
+                "153.8",
+                "120.3",
+                "77.1",
+                "96.3",
+                "85.9",
+                "60.8",
+                "35.0",
+                "30.4",
+                "33.2",
+                "60.6",
+                "64.5",
+                "66.7",
+                "41.9",
+                ""
+              ]
+            },
+            "title": "UPPER_BOUND"
+          },
+          {
+            "name": "LOWER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "5.1",
+                "4.9",
+                "4.5",
+                "3.9",
+                "3.0",
+                "5.8",
+                "3.8",
+                "2.6",
+                "2.3",
+                "1.4",
+                "3.1",
+                "3.7",
+                "2.9",
+                "337.7",
+                "328.1",
+                "301.1",
+                "263.1",
+                "205.6",
+                "161.9",
+                "136.2",
+                "106.7",
+                "73.7",
+                "64.7",
+                "36.3",
+                "62.0",
+                "83.9",
+                "101.4",
+                "78.2",
+                "1.3",
+                "1.1",
+                "0.8",
+                "0.3",
+                "0.7",
+                "0.2",
+                "0.0",
+                "0.5",
+                "0.6",
+                "82.5",
+                "95.1",
+                "74.6",
+                "52.1",
+                "20.9",
+                "39.2",
+                "32.0",
+                "18.7",
+                "0.9",
+                "14.3",
+                "17.2",
+                "19.1",
+                "6.5",
+                ""
+              ]
+            },
+            "title": "LOWER_BOUND"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prevalence of moderate or severe food insecurity in the population [2.1.2]",
+                "Population in moderate or severe food insecurity (number) [2.1.2]",
+                "Prevalence of severe food insecurity in the population [2.1.2]",
+                "Population in severe food insecurity (number) [2.1.2]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 years old and over",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                "Number",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Upper bound value",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "4.8",
+                "4.5",
+                "5.4",
+                "320.9",
+                "127.2",
+                "147.5",
+                "1.1",
+                "1.5",
+                "77.1",
+                "30.4",
+                "41.9",
+                ""
+              ]
+            },
+            "title": "Upper bound value"
+          },
+          {
+            "name": "Lower bound value",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "3.0",
+                "2.3",
+                "2.9",
+                "205.6",
+                "64.7",
+                "78.2",
+                "0.3",
+                "0.0",
+                "0.2",
+                "20.9",
+                "1.4",
+                "6.5",
+                ""
+              ]
+            },
+            "title": "Lower bound value"
           },
           {
             "name": "Value",

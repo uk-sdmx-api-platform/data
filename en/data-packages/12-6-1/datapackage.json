@@ -11,13 +11,25 @@
       "schema": {
         "fields": [
           {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Level of requirement: Advanced",
+                "Level of requirement: Minimum"
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]

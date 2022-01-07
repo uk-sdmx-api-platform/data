@@ -12,11 +12,40 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "UPPER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "11",
+                "12",
+                "10",
+                "9",
+                "8",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "LOWER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "10",
+                "11",
+                "9",
+                "8",
+                "7",
+                "6",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

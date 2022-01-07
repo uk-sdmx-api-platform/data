@@ -11,13 +11,67 @@
       "schema": {
         "fields": [
           {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Skill: ICT Skill: Copying or moving a file or folder",
+                "Skill: ICT Skill: Creating electronic presentations with presentation software",
+                "Skill: ICT Skill: Finding, downloading, installing and configuring software",
+                "Skill: ICT Skill: Transferring files between a computer and other devices",
+                "Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet",
+                "Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document",
+                "Skill: ICT Skill: Writing a computer program using a specialized programming language",
+                "Skill: ICT Skill: connecting and installing new devices"
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Eurostat",
+                "Office for National Statistics"
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Eurostat",
+                "Office for National Statistics"
+              ]
+            },
+            "title": "Source details"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]

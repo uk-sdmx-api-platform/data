@@ -12,8 +12,72 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "6",
+                "0",
+                ""
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
+            "name": "BASE_PER",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2015",
+                ""
+              ]
+            },
+            "title": "BASE_PER"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fossil-fuel subsidies (consumption and production) (millions of constant United States dollars) [12.c.1]",
+                "Fossil-fuel subsidies (consumption and production) as a proportion of total GDP [12.c.1]",
+                "Fossil-fuel subsidies (consumption and production) per capita (constant United States dollars) [12.c.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Constant USD",
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Base period",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2015",
+                ""
+              ]
+            },
+            "title": "Base period"
           },
           {
             "name": "Value",

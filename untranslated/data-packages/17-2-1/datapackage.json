@@ -12,7 +12,90 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Net Disbursements; Based on OECD, DAC database, 2021; Including imputed multilateral",
+                "Net Disbursements; Based on OECD, DAC database, 2021; Constant 2019 USD million; Including imputed multilateral",
+                "Obs_Value = 0.00;  Net Disbursements; Based on OECD, DAC database, 2021; Including imputed multilateral",
+                "Net Disbursements | Based on OECD, DAC database, 2020",
+                "Net Disbursements | Based on OECD, DAC database, 2020 | Provisional",
+                "Based on OECD, DAC database, 2021; Provisional; Grant equivalent",
+                "Net Disbursements; Based on OECD, DAC database, 2021; Constant 2019 USD million",
+                "Net Disbursements; Based on OECD, DAC database, 2021; Provisional; Constant 2019 USD million",
+                "Based on OECD, DAC database, 2021; Constant 2019 USD million; Grant equivalent",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Net official development assistance (ODA) to LDCs as a percentage of OECD-DAC donors' GNI, by donor countries [17.2.1]",
+                "Net official development assistance (ODA) to LDCs from OECD-DAC countries, by donor countries [17.2.1]",
+                "Net official development assistance (ODA) to landlocked developing countries from OECD-DAC countries, by donor countries [17.2.1]",
+                "Net official development assistance (ODA) to landlocked developing countries as a percentage of OECD-DAC donors' GNI, by donor countries [17.2.1]",
+                "Net official development assistance (ODA) to small island states (SIDS) from OECD-DAC countries, by donor countries [17.2.1]",
+                "Net official development assistance (ODA) to small island states (SIDS) as a percentage of OECD-DAC donors' GNI, by donor countries [17.2.1]",
+                "Net official development assistance (ODA) as a percentage of OECD-DAC donors' GNI, by donor countries [17.2.1]",
+                "Net official development assistance (ODA) as a percentage of OECD-DAC donors' GNI (grant equivalent methodology), by donor countries (%) [17.2.1]",
+                "Net official development assistance (ODA) from OECD-DAC countries, by donor countries [17.2.1]",
+                "Net official development assistance (ODA) from OECD-DAC countries (grant equivalent methodology), by donor countries [17.2.1]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                "Constant USD",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Net Disbursements; Based on OECD, DAC database, 2021; Including imputed multilateral",
+                "Net Disbursements; Based on OECD, DAC database, 2021; Constant 2019 USD million; Including imputed multilateral",
+                "Net Disbursements | Based on OECD, DAC database, 2020 | Provisional",
+                "Based on OECD, DAC database, 2021; Provisional; Grant equivalent",
+                "Net Disbursements; Based on OECD, DAC database, 2021; Provisional; Constant 2019 USD million",
+                "Based on OECD, DAC database, 2021; Constant 2019 USD million; Grant equivalent",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "BASE_PER",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2019",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Base period",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2019",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

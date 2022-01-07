@@ -11,13 +11,25 @@
       "schema": {
         "fields": [
           {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Elevation 1.000–1.500 meters and slope > 5 or local elevation range (LER 7 kilometer radius) > 300 meters",
+                "Elevation 300–1.000 meters and local elevation range (7 kilometer radius) > 300 meters"
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]

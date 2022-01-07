@@ -11,13 +11,74 @@
       "schema": {
         "fields": [
           {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Frequency of Chlorophyll-a concentration: High",
+                "Frequency of Chlorophyll-a concentration: Moderate"
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Beach litter per square kilometer (Number) [14.1.1]",
+                "Chlorophyll-a anomaly, remote sensing (%) [14.1.1]",
+                "Chlorophyll-a deviations, remote sensing  [14.1.1]"
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Plastic Pollution (MLW, MDMAP, ICC)",
+                "World Environment Situation Room"
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Plastic Pollution (MLW, MDMAP, ICC)",
+                "World Environment Situation Room"
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Number",
+                "Percent"
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]

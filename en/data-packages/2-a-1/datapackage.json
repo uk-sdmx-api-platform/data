@@ -11,13 +11,85 @@
       "schema": {
         "fields": [
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Consolidated General Government Expenditure"
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Consolidated General Government Expenditure"
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Agriculture orientation index for government expenditures [2.a.1]",
+                "Agriculture share of Government Expenditure [2.a.1]",
+                "Agriculture value added share of GDP [2.a.1]"
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "EUROSTAT data. UNSD national account estimates",
+                "FAO Questionnaire. UNSD national account estimates.",
+                "UNSD national account estimates"
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "EUROSTAT data. UNSD national account estimates",
+                "UNSD national account estimates"
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Index",
+                "Percent"
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]

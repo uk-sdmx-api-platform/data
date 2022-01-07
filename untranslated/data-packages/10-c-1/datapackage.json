@@ -12,7 +12,128 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Third quarter of the specified year.",
+                "Third quarter of the specified year. Global SmaRT Average: 5.20%.",
+                "Third quarter of the specified year. Global SmaRT Average: 5:80%.",
+                "Third quarter of the specified year. Global SmaRT Average: 4.65%.",
+                "Third quarter of the specified year. Global SmaRT Average: 4.47%.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Corridor remittance costs as a proportion of the amount remitted [10.c.1]",
+                "SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Custom Breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Custom code 04",
+                "Custom code 08",
+                "Custom code 100",
+                "Custom code 144",
+                "Custom code 156",
+                "Custom code 231",
+                "Custom code 232",
+                "Custom code 270",
+                "Custom code 288",
+                "Custom code 356",
+                "Custom code 388",
+                "Custom code 404",
+                "Custom code 422",
+                "Custom code 440",
+                "Custom code 50",
+                "Custom code 524",
+                "Custom code 566",
+                "Custom code 586",
+                "Custom code 608",
+                "Custom code 616",
+                "Custom code 642",
+                "Custom code 646",
+                "Custom code 694",
+                "Custom code 704",
+                "Custom code 706",
+                "Custom code 710",
+                "Custom code 716",
+                "Custom code 728",
+                "Custom code 76",
+                "Custom code 764",
+                "Custom code 800",
+                "Custom code 834",
+                "Custom code 894",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Label for custom breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Afghanistan",
+                "Albania",
+                "Bulgaria",
+                "Sri Lanka",
+                "China",
+                "Ethiopia",
+                "Eritrea",
+                "Gambia",
+                "Ghana",
+                "India",
+                "Jamaica",
+                "Kenya",
+                "Lebanon",
+                "Lithuania",
+                "Bangladesh",
+                "Nepal",
+                "Nigeria",
+                "Pakistan",
+                "Philippines",
+                "Poland",
+                "Romania",
+                "Rwanda",
+                "Sierra Leone",
+                "Viet Nam",
+                "Somalia",
+                "South Africa",
+                "Zimbabwe",
+                "South Sudan",
+                "Brazil",
+                "Thailand",
+                "Uganda",
+                "United Republic of Tanzania",
+                "Zambia",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Third quarter of the specified year.",
+                "Third quarter of the specified year. Global SmaRT Average: 4.47%.",
+                "Obs_Value = NaN;  Third quarter of the specified year. Global SmaRT Average: 4.47%.",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -12,12 +12,26 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           },
           {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Age-standardized mortality rate attributed to ambient air pollution [3.9.1]",
+                "Crude death rate attributed to ambient air pollution [3.9.1]",
+                "Crude death rate attributed to household and ambient air pollution [3.9.1]",
+                "Age-standardized mortality rate attributed to household and ambient air pollution [3.9.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

@@ -12,7 +12,90 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "UPPER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "7.2",
+                "6.9",
+                "3.9",
+                "3.1",
+                "3.4",
+                "3.7",
+                "3.3",
+                "2",
+                "1.5",
+                "1.8",
+                "10.8",
+                "10.6",
+                "5.8",
+                "4.7",
+                "5.1",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "LOWER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "6.6",
+                "6.3",
+                "3.5",
+                "2.8",
+                "3",
+                "3.3",
+                "2.9",
+                "1.8",
+                "1.3",
+                "1.5",
+                "10",
+                "9.9",
+                "5.3",
+                "4.3",
+                "4.5",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Upper bound value",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "3.4",
+                "1.8",
+                "5.1",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Lower bound value",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "3",
+                "1.5",
+                "4.5",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -11,13 +11,24 @@
       "schema": {
         "fields": [
           {
+            "name": "Income or wealth quantile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Bottom 40%"
+              ]
+            },
+            "title": "Income or wealth quantile"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]

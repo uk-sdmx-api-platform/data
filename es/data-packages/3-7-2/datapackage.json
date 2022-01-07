@@ -12,8 +12,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "C",
+                "CA",
+                ""
+              ]
+            },
+            "title": "NATURE"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Registration National Statistics",
+                "Registration UNSD & WPP2019",
+                "Estimate Human Fertility Database",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
           },
           {
             "name": "Value",

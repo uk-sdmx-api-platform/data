@@ -11,13 +11,130 @@
       "schema": {
         "fields": [
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Official Official country report to FAO (FRA 2020)",
+                "Official country report to FAO (FRA 2020)"
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "C",
+                "E"
+              ]
+            },
+            "title": "NATURE"
+          },
+          {
+            "name": "Nature of data points",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Country Data",
+                "Estimated"
+              ]
+            },
+            "title": "Nature of data points"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Official Official country report to FAO (FRA 2020)",
+                "Official country report to FAO (FRA 2020)"
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Forest area (hectares) [15.1.1]",
+                "Forest area as a proportion of total land area [15.1.1]",
+                "Land area (hectares) [15.1.1]"
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Data from FAOSTAT extracted 20210125",
+                "FAO estimate based on FAOSTAT data from 2018",
+                "FAO, Global Forest Resources Assessment",
+                "FAO, Global Forest Resources Assessment and FAOSTAT"
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "FAO estimate based on FAOSTAT data from 2018",
+                "FAO, Global Forest Resources Assessment",
+                "FAO, Global Forest Resources Assessment and FAOSTAT"
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0",
+                "3"
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Hectares",
+                "Percent"
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]

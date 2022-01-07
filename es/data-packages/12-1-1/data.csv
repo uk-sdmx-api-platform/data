@@ -1,1 +1,7 @@
-Year,Value
+Year,SDG Series,Composite breakdown,Value
+2020,Countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies (1 = YES; 0 = NO) [12.1.1],,1
+2020,Countries with policy instrument for sustainable consumption and production (1 = YES; 0 = NO) [12.1.1],"Policy instruments: Economic and fiscal instruments (taxes and tax incentives, grants, preferential loans, etc.)",1
+2020,Countries with policy instrument for sustainable consumption and production (1 = YES; 0 = NO) [12.1.1],"Policy instruments: Macro policies (e.g. national strategies/action plans, new institutions/entities)",1
+2020,Countries with policy instrument for sustainable consumption and production (1 = YES; 0 = NO) [12.1.1],"Policy instruments: Regulatory and legal instruments (e.g. laws, standards, enforcement measures)",1
+2020,Countries with policy instrument for sustainable consumption and production (1 = YES; 0 = NO) [12.1.1],"Policy instruments: Voluntary and self-regulation schemes (e.g. sectoral partnerships, codes of conduct, CSR initiatives)",1
+2020,"Number of policies, instruments and mechanism in place for sustainable consumption and production [12.1.1]",,12

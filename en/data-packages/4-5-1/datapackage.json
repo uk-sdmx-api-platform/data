@@ -11,13 +11,142 @@
       "schema": {
         "fields": [
           {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "16 to 65 years old"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Obs_Value = 0;  This data point is NOT APPLICABLE for the submitting nation."
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Skill: Functional literacy",
+                "Skill: Functional numeracy",
+                "Skill: ICT Skill: Copying or moving a file or folder",
+                "Skill: ICT Skill: Creating electronic presentations with presentation software",
+                "Skill: ICT Skill: Finding, downloading, installing and configuring software",
+                "Skill: ICT Skill: Sending e-mails with attached files",
+                "Skill: ICT Skill: Transferring files between a computer and other devices",
+                "Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet",
+                "Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document",
+                "Skill: ICT Skill: Writing a computer program using a specialized programming language",
+                "Skill: ICT Skill: connecting and installing new devices",
+                "Skill: Mathematics",
+                "Skill: Reading"
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Lower secondary education",
+                "Upper secondary education"
+              ]
+            },
+            "title": "Education level"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Obs_Value = 0;  This data point is NOT APPLICABLE for the submitting nation."
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Adjusted gender parity index for achieving a minimum proficiency level in reading and mathematics (ratio) [4.5.1]",
+                "Adjusted gender parity index for achieving at least a fixed level of proficiency in functional skills, by numeracy/literacy skills (ratio) [4.5.1]",
+                "Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level [4.5.1]",
+                "Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1]",
+                "Adjusted gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio) [4.5.1]",
+                "Adjusted immigration status parity index for achieving a minimum proficiency level in reading and mathematics [4.5.1]",
+                "Adjusted immigration status parity index for achieving at least a fixed level of proficiency in functional skills, by numeracy/literacy skills (ratio) [4.5.1]",
+                "Adjusted language test parity index for achieving a minimum proficiency level in reading and mathematics (ratio) [4.5.1]",
+                "Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level [4.5.1]",
+                "Adjusted low to high socio-economic parity index for achieving a minimum proficiency level in reading and mathematics (ratio) [4.5.1]",
+                "Adjusted low to high socio-economic parity status index for achieving at least a fixed level of proficiency in functional skills, by numeracy/literacy skills (ratio) [4.5.1]",
+                "Adjusted rural to urban parity index for achieving a minimum proficiency level in reading and mathematics (ratio) [4.5.1]",
+                "Adjusted wealth parity index for completion rate, by sex, location, wealth quintile and education level [4.5.1]",
+                "Gender parity index for youth/adults with information and communications technology (ICT) skills [4.5.1]"
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Adult Education Survey (AES). Data extracted on 13 April 2021.",
+                "England country only. Programme for the International Assessment of Adult Competencies (PIAAC) Data extracted on 13 April 2021.",
+                "Eurostat",
+                "Programme for International Student Assessment (PISA). Students achieving at least proficiency Level 2. Modal grade for PISA: http://dx.doi.org/10.1787/888934038799 Data extracted on 13 April 2021.",
+                "UNESCO Institute for Statistics.  Data extracted on 13 April 2021.",
+                "United Kingdom of Great Britain and Northern Ireland EU-SILC 2005. World Inequality Database on Education (WIDE), June 2019. Data extracted on 13 April 2021.",
+                "United Kingdom of Great Britain and Northern Ireland EU-SILC 2005. World Inequality Database on Education (WIDE), June 2019.;Value suppressed (less than 25 unweighted observations in sample). Data extracted on 13 April 2021.",
+                "United Kingdom of Great Britain and Northern Ireland EU-SILC 2011. World Inequality Database on Education (WIDE), June 2019. Data extracted on 13 April 2021.",
+                "United Kingdom of Great Britain and Northern Ireland EU-SILC 2013. World Inequality Database on Education (WIDE), June 2019. Data extracted on 13 April 2021.",
+                "United Kingdom of Great Britain and Northern Ireland EU-SILC 2014. World Inequality Database on Education (WIDE), June 2019. Data extracted on 13 April 2021."
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Adult Education Survey (AES). Data extracted on 13 April 2021.",
+                "England country only. Programme for the International Assessment of Adult Competencies (PIAAC) Data extracted on 13 April 2021.",
+                "Eurostat",
+                "Programme for International Student Assessment (PISA). Students achieving at least proficiency Level 2. Modal grade for PISA: http://dx.doi.org/10.1787/888934038799 Data extracted on 13 April 2021.",
+                "UNESCO Institute for Statistics.  Data extracted on 13 April 2021.",
+                "United Kingdom of Great Britain and Northern Ireland EU-SILC 2013. World Inequality Database on Education (WIDE), June 2019. Data extracted on 13 April 2021.",
+                "United Kingdom of Great Britain and Northern Ireland EU-SILC 2014. World Inequality Database on Education (WIDE), June 2019. Data extracted on 13 April 2021."
+              ]
+            },
+            "title": "Source details"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]

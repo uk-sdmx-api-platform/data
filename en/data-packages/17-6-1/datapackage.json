@@ -11,13 +11,133 @@
       "schema": {
         "fields": [
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Estimated breakdown based on data for residential connections.",
+                "Excl. corporate connections.",
+                "Incl. <2 Mbit/s, Estimated breakdown based on data for residential connections.",
+                "Incl. <2 Mbit/s, estimated to be marginal.",
+                "Obs_Value = 0;  ",
+                "Obs_Value = 0;  Data only for ≤2 Mbit/s Considered most of these subscriptions are at 2 Mbit/s.",
+                "Obs_Value = 0;  Estimated breakdown based on data for residential connections."
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Internet speed: 10 Mbit/s or above",
+                "Internet speed: 2 Mbit/s to less than 10 Mbit/s",
+                "Internet speed: 256 kbit/s to less than 2 Mbit/s"
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "C",
+                "E"
+              ]
+            },
+            "title": "NATURE"
+          },
+          {
+            "name": "Nature of data points",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Country Data",
+                "Estimated"
+              ]
+            },
+            "title": "Nature of data points"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Estimated breakdown based on data for residential connections.",
+                "Excl. corporate connections.",
+                "Incl. <2 Mbit/s, Estimated breakdown based on data for residential connections.",
+                "Obs_Value = 0;  ",
+                "Obs_Value = 0;  Estimated breakdown based on data for residential connections."
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Fixed broadband subscriptions (number) [17.6.1]",
+                "Fixed broadband subscriptions per 100 inhabitants [17.6.1]"
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",
+                "ITU WTID2020",
+                "Ofcom",
+                "Office of Communications",
+                "Office of Communications (Ofcom)."
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",
+                "Ofcom"
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Number",
+                "Per 100 population"
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]

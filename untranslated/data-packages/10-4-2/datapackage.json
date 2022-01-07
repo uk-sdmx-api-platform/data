@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fiscal intervention stage: Postfiscal disposable income",
+                "Fiscal intervention stage: Prefiscal income",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -11,13 +11,63 @@
       "schema": {
         "fields": [
           {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Deviation Level: Extreme (75-100%)",
+                "Deviation Level: High (50-75%)",
+                "Deviation Level: Low (0-25%)",
+                "Deviation Level: Medium (25-50%)"
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Lake water quality trophic state (%) [6.6.1]",
+                "Lake water quality turbidity (%) [6.6.1]",
+                "Lakes and rivers permanent water area (% of total land area) [6.6.1]",
+                "Lakes and rivers permanent water area (square kilometres) [6.6.1]",
+                "Lakes and rivers permanent water area change (%) [6.6.1]",
+                "Lakes and rivers seasonal water area (% of total land area) [6.6.1]",
+                "Lakes and rivers seasonal water area (square kilometres) [6.6.1]",
+                "Lakes and rivers seasonal water area change (%) [6.6.1]",
+                "Reservoir maximum water area (% of total land area) [6.6.1]",
+                "Reservoir maximum water area (square kilometres) [6.6.1]",
+                "Reservoir minimum water area (% of total land area) [6.6.1]",
+                "Reservoir minimum water area (square kilometres) [6.6.1]",
+                "Wetlands area (% of total land area) [6.6.1]",
+                "Wetlands area (square kilometres) [6.6.1]"
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percent",
+                "Square kilometers"
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]

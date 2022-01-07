@@ -11,13 +11,37 @@
       "schema": {
         "fields": [
           {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "C",
+                "E"
+              ]
+            },
+            "title": "NATURE"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "A",
+                "I"
+              ]
+            },
+            "title": "OBS_STATUS"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]

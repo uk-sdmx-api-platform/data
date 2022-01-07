@@ -11,13 +11,57 @@
       "schema": {
         "fields": [
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Data reference period: April | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Reference group coverage: Employees | Local currency: GBR - British pound(GBP) | Working time arrangement coverage: Full-time and part time workers",
+                "Data reference period: April | Reference group coverage: Employees | Local currency: GBR - British pound(GBP) | Working time arrangement coverage: Full-time and part time workers",
+                "Repository: Eurostat | Economic activity coverage: Excluding agriculture, public administration, and activities of households as employers and of extraterritorial organisations and bodies | Establishment size coverage: All establishments with at least 10 employees | Local currency: GBR - British pound(GBP)"
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "Occupation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Clerical support workers",
+                "Craft and related trades workers",
+                "Elementary occupations",
+                "Managers",
+                "Plant and machine operators, and assemblers",
+                "Professionals",
+                "Service and sales workers",
+                "Skilled agricultural, forestry and fishery workers",
+                "Technicians and associate professionals"
+              ]
+            },
+            "title": "Occupation"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]

@@ -12,7 +12,36 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Population age 16+ using internet in the last 3 months.",
+                "Population age 16+ using the Internet in the last 3 months.",
+                "Population age 16-74 using Internet in the last 3 months.",
+                "Population age 16-74.",
+                " Users in the last 3 months. Age 16-74.",
+                " Users in the last 3 months.",
+                "Last 3 months.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ONS.",
+                "Eurostat.",
+                "Eurostat",
+                "Office for National Statistics",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

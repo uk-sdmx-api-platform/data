@@ -1,1 +1,31 @@
-Year,Value
+Year,UPPER_BOUND,LOWER_BOUND,SDG Series,Sex,Unit of measure,Upper bound value,Lower bound value,Value
+2000,8.9,8.2,Suicide mortality rate [3.4.2],,"Per 100,000 population",8.4,7.4,8.5
+2005,8.2,7.5,Suicide mortality rate [3.4.2],,"Per 100,000 population",8.4,7.4,7.9
+2010,8.2,7.5,Suicide mortality rate [3.4.2],,"Per 100,000 population",8.4,7.4,7.8
+2015,9.3,8.4,Suicide mortality rate [3.4.2],,"Per 100,000 population",8.4,7.4,8.8
+2019,8.4,7.4,Suicide mortality rate [3.4.2],,"Per 100,000 population",8.4,7.4,7.9
+2000,4.5,4.1,Suicide mortality rate [3.4.2],Female,"Per 100,000 population",4.3,3.8,4.3
+2005,4.3,3.8,Suicide mortality rate [3.4.2],Female,"Per 100,000 population",4.3,3.8,4.1
+2010,4,3.5,Suicide mortality rate [3.4.2],Female,"Per 100,000 population",4.3,3.8,3.7
+2015,4.6,4.1,Suicide mortality rate [3.4.2],Female,"Per 100,000 population",4.3,3.8,4.4
+2019,4.3,3.8,Suicide mortality rate [3.4.2],Female,"Per 100,000 population",4.3,3.8,4.0
+2000,13.4,12.5,Suicide mortality rate [3.4.2],Male,"Per 100,000 population",12.6,11.2,13.0
+2005,12.3,11.4,Suicide mortality rate [3.4.2],Male,"Per 100,000 population",12.6,11.2,11.8
+2010,12.5,11.6,Suicide mortality rate [3.4.2],Male,"Per 100,000 population",12.6,11.2,12.1
+2015,14.1,12.8,Suicide mortality rate [3.4.2],Male,"Per 100,000 population",12.6,11.2,13.4
+2019,12.6,11.2,Suicide mortality rate [3.4.2],Male,"Per 100,000 population",12.6,11.2,11.8
+2000,5223,4827,Number of deaths attributed to suicide [3.4.2],,Number,5674,5018,5036.0
+2005,4955,4543,Number of deaths attributed to suicide [3.4.2],,Number,5674,5018,4740.0
+2010,5190,4760,Number of deaths attributed to suicide [3.4.2],,Number,5674,5018,4970.0
+2015,6114,5524,Number of deaths attributed to suicide [3.4.2],,Number,5674,5018,5808.0
+2019,5674,5018,Number of deaths attributed to suicide [3.4.2],,Number,5674,5018,5325.0
+2000,1364,1228,Number of deaths attributed to suicide [3.4.2],Female,Number,1469,1282,1302.0
+2005,1323,1182,Number of deaths attributed to suicide [3.4.2],Female,Number,1469,1282,1254.0
+2010,1278,1136,Number of deaths attributed to suicide [3.4.2],Female,Number,1469,1282,1209.0
+2015,1540,1364,Number of deaths attributed to suicide [3.4.2],Female,Number,1469,1282,1453.0
+2019,1469,1282,Number of deaths attributed to suicide [3.4.2],Female,Number,1469,1282,1376.0
+2000,3859,3600,Number of deaths attributed to suicide [3.4.2],Male,Number,4205,3736,3735.0
+2005,3632,3361,Number of deaths attributed to suicide [3.4.2],Male,Number,4205,3736,3486.0
+2010,3912,3623,Number of deaths attributed to suicide [3.4.2],Male,Number,4205,3736,3761.0
+2015,4574,4159,Number of deaths attributed to suicide [3.4.2],Male,Number,4205,3736,4355.0
+2019,4205,3736,Number of deaths attributed to suicide [3.4.2],Male,Number,4205,3736,3949.0

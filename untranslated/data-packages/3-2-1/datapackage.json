@@ -12,7 +12,53 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Infant mortality rate [3.2.1]",
+                "Infant deaths (number) [3.2.1]",
+                "Under-five mortality rate [3.2.1]",
+                "Under-five deaths (number) [3.2.1]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "under 1 year old",
+                "under 5 years old",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Per 1,000 live births",
+                "Number",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

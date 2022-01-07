@@ -12,8 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Abnormally high defined as IFPA>=1; Moderately high defined as 0.5=<IFPA< 1; Twelve month average of monthly price anomalies",
+                "Obs_Value = 0.0;  Abnormally high defined as IFPA>=1; Moderately high defined as 0.5=<IFPA< 1; Twelve month average of monthly price anomalies",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",

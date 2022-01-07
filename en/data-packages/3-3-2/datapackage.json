@@ -11,13 +11,50 @@
       "schema": {
         "fields": [
           {
+            "name": "LOWER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "10",
+                "11",
+                "12",
+                "13",
+                "14",
+                "7.2",
+                "8",
+                "8.9",
+                "9"
+              ]
+            },
+            "title": "LOWER_BOUND"
+          },
+          {
+            "name": "UPPER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "11",
+                "13",
+                "14",
+                "15",
+                "16",
+                "17",
+                "8.8",
+                "9.8"
+              ]
+            },
+            "title": "UPPER_BOUND"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]

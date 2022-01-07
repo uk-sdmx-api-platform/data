@@ -11,13 +11,38 @@
       "schema": {
         "fields": [
           {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Number of deaths and missing persons attributed to disasters [1.5.1, 11.5.1, 13.1.1]",
+                "Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",
+                "Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]"
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Number",
+                "Per 100,000 population"
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]

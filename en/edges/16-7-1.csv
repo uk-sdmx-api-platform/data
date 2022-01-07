@@ -1,1 +1,7 @@
 From,To
+COMMENT_OBS,SDG Series
+SDG Series,Unit of measure
+Age,Sex
+Sex,Composite breakdown
+Observation-level footnotes,Age
+Unit of measure,Observation-level footnotes

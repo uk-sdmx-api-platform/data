@@ -1,1 +1,91 @@
-Year,Value
+Year,SOURCE_DETAIL,Sex,Composite breakdown,Source details,Value
+2014,Eurostat,,Skill: ICT Skill: connecting and installing new devices,Eurostat,53.0116
+2014,Eurostat,,Skill: ICT Skill: Copying or moving a file or folder,Office for National Statistics,72.7946
+2015,Eurostat,,Skill: ICT Skill: Copying or moving a file or folder,Office for National Statistics,61.4168
+2016,Eurostat,,Skill: ICT Skill: Copying or moving a file or folder,Office for National Statistics,63.6924
+2017,Office for National Statistics,,Skill: ICT Skill: Copying or moving a file or folder,Office for National Statistics,61.97075
+2019,Office for National Statistics,,Skill: ICT Skill: Copying or moving a file or folder,Office for National Statistics,58.34805
+2014,Eurostat,,Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document,Office for National Statistics,73.3096
+2015,Eurostat,,Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document,Office for National Statistics,59.8241
+2016,Eurostat,,Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document,Office for National Statistics,62.1466
+2017,Office for National Statistics,,Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document,Office for National Statistics,60.7097
+2014,Eurostat,,Skill: ICT Skill: Writing a computer program using a specialized programming language,Office for National Statistics,14.0663
+2015,Eurostat,,Skill: ICT Skill: Writing a computer program using a specialized programming language,Office for National Statistics,6.6802
+2016,Eurostat,,Skill: ICT Skill: Writing a computer program using a specialized programming language,Office for National Statistics,8.4953
+2017,Office for National Statistics,,Skill: ICT Skill: Writing a computer program using a specialized programming language,Office for National Statistics,9.55589
+2019,Office for National Statistics,,Skill: ICT Skill: Writing a computer program using a specialized programming language,Office for National Statistics,8.87271
+2014,Eurostat,,Skill: ICT Skill: Creating electronic presentations with presentation software,Office for National Statistics,44.5152
+2015,Eurostat,,Skill: ICT Skill: Creating electronic presentations with presentation software,Office for National Statistics,44.5359
+2016,Eurostat,,Skill: ICT Skill: Creating electronic presentations with presentation software,Office for National Statistics,47.1722
+2017,Office for National Statistics,,Skill: ICT Skill: Creating electronic presentations with presentation software,Office for National Statistics,47.15957
+2019,Office for National Statistics,,Skill: ICT Skill: Creating electronic presentations with presentation software,Office for National Statistics,46.32205
+2015,Eurostat,,"Skill: ICT Skill: Finding, downloading, installing and configuring software",Office for National Statistics,57.9959
+2016,Eurostat,,"Skill: ICT Skill: Finding, downloading, installing and configuring software",Office for National Statistics,61.3198
+2017,Office for National Statistics,,"Skill: ICT Skill: Finding, downloading, installing and configuring software",Office for National Statistics,58.86211
+2019,Office for National Statistics,,"Skill: ICT Skill: Finding, downloading, installing and configuring software",Office for National Statistics,65.66411
+2014,Eurostat,,Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet,Office for National Statistics,53.4227
+2015,Eurostat,,Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet,Office for National Statistics,42.7121
+2016,Eurostat,,Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet,Office for National Statistics,47.3595
+2017,Office for National Statistics,,Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet,Office for National Statistics,45.99998
+2019,Office for National Statistics,,Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet,Office for National Statistics,46.47805
+2014,Eurostat,,Skill: ICT Skill: Transferring files between a computer and other devices,Office for National Statistics,65.3955
+2015,Eurostat,,Skill: ICT Skill: Transferring files between a computer and other devices,Office for National Statistics,51.8944
+2016,Eurostat,,Skill: ICT Skill: Transferring files between a computer and other devices,Office for National Statistics,55.1034
+2017,Office for National Statistics,,Skill: ICT Skill: Transferring files between a computer and other devices,Office for National Statistics,53.98514
+2019,Office for National Statistics,,Skill: ICT Skill: Transferring files between a computer and other devices,Office for National Statistics,52.10508
+2014,Eurostat,Female,Skill: ICT Skill: connecting and installing new devices,Eurostat,46.2808
+2014,Eurostat,Female,Skill: ICT Skill: Copying or moving a file or folder,Eurostat,71.1476
+2015,Eurostat,Female,Skill: ICT Skill: Copying or moving a file or folder,Eurostat,57.5104
+2016,Eurostat,Female,Skill: ICT Skill: Copying or moving a file or folder,Eurostat,59.4022
+2017,Eurostat,Female,Skill: ICT Skill: Copying or moving a file or folder,Eurostat,56.89431
+2014,Eurostat,Female,Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document,Eurostat,73.2995
+2015,Eurostat,Female,Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document,Eurostat,57.1802
+2016,Eurostat,Female,Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document,Eurostat,59.9863
+2017,Eurostat,Female,Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document,Eurostat,56.65783
+2014,Eurostat,Female,Skill: ICT Skill: Writing a computer program using a specialized programming language,Eurostat,9.4241
+2015,Eurostat,Female,Skill: ICT Skill: Writing a computer program using a specialized programming language,Eurostat,4.0079
+2016,Eurostat,Female,Skill: ICT Skill: Writing a computer program using a specialized programming language,Eurostat,5.2395
+2017,Eurostat,Female,Skill: ICT Skill: Writing a computer program using a specialized programming language,Eurostat,6.05419
+2014,Eurostat,Female,Skill: ICT Skill: Creating electronic presentations with presentation software,Eurostat,40.5701
+2015,Eurostat,Female,Skill: ICT Skill: Creating electronic presentations with presentation software,Eurostat,42.104
+2016,Eurostat,Female,Skill: ICT Skill: Creating electronic presentations with presentation software,Eurostat,47.3211
+2017,Eurostat,Female,Skill: ICT Skill: Creating electronic presentations with presentation software,Eurostat,43.87352
+2015,Eurostat,Female,"Skill: ICT Skill: Finding, downloading, installing and configuring software",Eurostat,52.5577
+2016,Eurostat,Female,"Skill: ICT Skill: Finding, downloading, installing and configuring software",Eurostat,57.4564
+2017,Eurostat,Female,"Skill: ICT Skill: Finding, downloading, installing and configuring software",Eurostat,55.57215
+2014,Eurostat,Female,Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet,Eurostat,50.6485
+2015,Eurostat,Female,Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet,Eurostat,38.3587
+2016,Eurostat,Female,Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet,Eurostat,45.6224
+2017,Eurostat,Female,Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet,Eurostat,40.76794
+2014,Eurostat,Female,Skill: ICT Skill: Transferring files between a computer and other devices,Eurostat,62.1218
+2015,Eurostat,Female,Skill: ICT Skill: Transferring files between a computer and other devices,Eurostat,47.7293
+2016,Eurostat,Female,Skill: ICT Skill: Transferring files between a computer and other devices,Eurostat,51.4755
+2017,Eurostat,Female,Skill: ICT Skill: Transferring files between a computer and other devices,Eurostat,47.39474
+2014,Eurostat,Male,Skill: ICT Skill: connecting and installing new devices,Eurostat,57.67
+2014,Eurostat,Male,Skill: ICT Skill: Copying or moving a file or folder,Eurostat,73.9344
+2015,Eurostat,Male,Skill: ICT Skill: Copying or moving a file or folder,Eurostat,65.2563
+2016,Eurostat,Male,Skill: ICT Skill: Copying or moving a file or folder,Eurostat,66.4323
+2017,Eurostat,Male,Skill: ICT Skill: Copying or moving a file or folder,Eurostat,66.49668
+2014,Eurostat,Male,Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document,Eurostat,73.3167
+2015,Eurostat,Male,Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document,Eurostat,62.4228
+2016,Eurostat,Male,Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document,Eurostat,63.5263
+2017,Eurostat,Male,Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document,Eurostat,64.11784
+2014,Eurostat,Male,Skill: ICT Skill: Writing a computer program using a specialized programming language,Eurostat,17.2792
+2015,Eurostat,Male,Skill: ICT Skill: Writing a computer program using a specialized programming language,Eurostat,9.3067
+2016,Eurostat,Male,Skill: ICT Skill: Writing a computer program using a specialized programming language,Eurostat,10.5746
+2017,Eurostat,Male,Skill: ICT Skill: Writing a computer program using a specialized programming language,Eurostat,12.92692
+2014,Eurostat,Male,Skill: ICT Skill: Creating electronic presentations with presentation software,Eurostat,47.2455
+2015,Eurostat,Male,Skill: ICT Skill: Creating electronic presentations with presentation software,Eurostat,46.926
+2016,Eurostat,Male,Skill: ICT Skill: Creating electronic presentations with presentation software,Eurostat,47.0772
+2017,Eurostat,Male,Skill: ICT Skill: Creating electronic presentations with presentation software,Eurostat,51.45726
+2015,Eurostat,Male,"Skill: ICT Skill: Finding, downloading, installing and configuring software",Eurostat,63.341
+2016,Eurostat,Male,"Skill: ICT Skill: Finding, downloading, installing and configuring software",Eurostat,63.7872
+2017,Eurostat,Male,"Skill: ICT Skill: Finding, downloading, installing and configuring software",Eurostat,62.91898
+2014,Eurostat,Male,Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet,Eurostat,55.3427
+2015,Eurostat,Male,Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet,Eurostat,46.991
+2016,Eurostat,Male,Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet,Eurostat,48.4689
+2017,Eurostat,Male,Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet,Eurostat,50.78559
+2014,Eurostat,Male,Skill: ICT Skill: Transferring files between a computer and other devices,Eurostat,67.6613
+2015,Eurostat,Male,Skill: ICT Skill: Transferring files between a computer and other devices,Eurostat,55.9882
+2016,Eurostat,Male,Skill: ICT Skill: Transferring files between a computer and other devices,Eurostat,57.4203
+2017,Eurostat,Male,Skill: ICT Skill: Transferring files between a computer and other devices,Eurostat,60.35752

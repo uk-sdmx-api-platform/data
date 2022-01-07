@@ -11,13 +11,37 @@
       "schema": {
         "fields": [
           {
+            "name": "Economic activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Agriculture (ISIC4 A01 A0210 A0322)",
+                "Industries",
+                "Services (G to T)"
+              ]
+            },
+            "title": "Economic activity"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Obs_Value = NaN;  NaN = A figure was not provided"
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]

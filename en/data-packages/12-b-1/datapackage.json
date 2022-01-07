@@ -11,13 +11,38 @@
       "schema": {
         "fields": [
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Obs_Value = 0;  The Office for National Statistics is responsible for publishing the Tourism Satellite Account tables for the UK. The Office for National Statistics is responsible for System of Environmental-Economic Accounting (SEEA) Physical flow accounts for energy and air emissions. The Department for Environment, Food and Rural Affairs are responsible for the water and waste figures.",
+                "The Office for National Statistics is responsible for publishing the Tourism Satellite Account tables for the UK. The Office for National Statistics is responsible for System of Environmental-Economic Accounting (SEEA) Physical flow accounts for energy and air emissions. The Department for Environment, Food and Rural Affairs are responsible for the water and waste figures."
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (SEEA tables) [12.b.1]",
+                "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (Total number of tables) [12.b.1]",
+                "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (Tourism Satellite Account tables) [12.b.1]"
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]

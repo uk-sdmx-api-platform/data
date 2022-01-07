@@ -1,1 +1,7 @@
-Year,Value
+Year,Sex,Composite breakdown,Value
+2012,,Skill: Functional literacy,83.40383
+2012,,Skill: Functional numeracy,75.54326
+2012,Female,Skill: Functional literacy,83.65742
+2012,Female,Skill: Functional numeracy,72.52913
+2012,Male,Skill: Functional literacy,83.1486
+2012,Male,Skill: Functional numeracy,78.57686

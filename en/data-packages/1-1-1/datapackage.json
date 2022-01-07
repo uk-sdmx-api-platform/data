@@ -11,25 +11,26 @@
       "schema": {
         "fields": [
           {
-            "name": "Group",
+            "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "A",
-                "B"
+                "Based on data from EU-SILC. Estimated from unit-record income data.",
+                "Based on data from FES-LIS. Estimated from unit-record income data.",
+                "Based on data from FRS-LIS. Estimated from unit-record income data."
               ]
             },
-            "title": "Group"
+            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]

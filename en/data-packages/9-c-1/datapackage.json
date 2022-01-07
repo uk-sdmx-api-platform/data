@@ -11,13 +11,98 @@
       "schema": {
         "fields": [
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "% UK Premises with 4G coverage from at least one operator in MAy 2016",
+                "% UK Premises with LTE coverage from at least one operator in June 2016",
+                "% UK Premises with LTE coverage from at least one operator in June 2017 assessed at -105dBm signal strength.",
+                "% UK premises with 3G/3.5G mobile coverage from at least one mobile in May 2016",
+                "% UK premises with 3G/3.5G mobile coverage from at least one mobile network operator June 2013. ",
+                "% UK premises with 3G/3.5G mobile coverage from at least one mobile network operator June 2014. ",
+                "% UK premises with 3G/3.5G mobile coverage from at least one mobile network operator May 2015.    2013 data has changed to 99.2%. ",
+                "% UK premises with 3G/3.5G mobile coverage from at least one mobile operator in June 2016",
+                "% of UK premises with 2G mobile coverage from at least one mobile network in May 2016",
+                "% of UK premises with 2G mobile coverage from at least one mobile network operator in June 2013. ",
+                "% of UK premises with 2G mobile coverage from at least one mobile network operator in June 2014. ",
+                "% of UK premises with 2G mobile coverage from at least one mobile network operator in May 2015.",
+                "99.6 % of UK premises with 2G mobile coverage from at least one mobile network in June 2017 (form would not allow 99.6 to be entered in the box).",
+                "99.7% of UK premises with 2G mobile coverage from at least one mobile network in September 2018. (Form would not allow 99.7 to be submitted)",
+                "99.8% UK premises with 3G/3.5G mobile coverage from at least one mobile operator in June 2017 (form would not allow 99.8 to be entered in the box).",
+                "99.9% UK Premises with LTE coverage from at least one operator in September 2018 assessed at -105dBm signal strength (form would not allow 99.9 to be submitted)",
+                "99.9% UK premises with 3G/3.5G mobile coverage from at least one mobile operator September 2018 (form would not allow 99.9 to be submitted)",
+                "Break in comparability: from this year, % UK premises with 3G/3.5G mobile coverage from at least one mobile network operator June 2012. ",
+                "Break in comparability: from this year, % of UK premises with 2G mobile coverage from at least one mobile network operator June 2012. ",
+                "Estimate.",
+                "ITU estimate",
+                "Proportion of the population living in a postcode area with at least 95% area coverage by one or more mobile networks."
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "C",
+                "E"
+              ]
+            },
+            "title": "NATURE"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "99.7% of UK premises with 2G mobile coverage from at least one mobile network in September 2018. (Form would not allow 99.7 to be submitted)",
+                "99.9% UK Premises with LTE coverage from at least one operator in September 2018 assessed at -105dBm signal strength (form would not allow 99.9 to be submitted)",
+                "99.9% UK premises with 3G/3.5G mobile coverage from at least one mobile operator September 2018 (form would not allow 99.9 to be submitted)"
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Proportion of population covered by at least a 2G mobile network [9.c.1]",
+                "Proportion of population covered by at least a 3G mobile network [9.c.1]",
+                "Proportion of population covered by at least a 4G mobile network [9.c.1]"
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ITU WTID2020",
+                "ITU estimate.",
+                "OECD.",
+                "Ofcom",
+                "Office of Communications"
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]

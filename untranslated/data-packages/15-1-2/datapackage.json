@@ -12,7 +12,106 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "UPPER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "88.19697",
+                "88.19762",
+                "89.91778",
+                "90.0184",
+                "90.02515",
+                "91.15162",
+                "77.02029",
+                "78.79135",
+                "79.24432",
+                "80.54966",
+                "81.38046",
+                "83.32763",
+                "84.06727",
+                "84.0926",
+                "84.12355",
+                "84.4379",
+                "85.78108",
+                "85.80697",
+                "85.80858",
+                "85.91679",
+                "85.91718",
+                "86.19733",
+                "86.35768",
+                "86.3682",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "LOWER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "88.19697",
+                "88.19762",
+                "89.91778",
+                "90.0184",
+                "90.02515",
+                "91.15162",
+                "77.01881",
+                "78.78987",
+                "79.24284",
+                "80.54818",
+                "81.37898",
+                "83.32615",
+                "84.06579",
+                "84.09112",
+                "84.12207",
+                "84.4379",
+                "85.78108",
+                "85.80697",
+                "85.80858",
+                "85.91679",
+                "85.91718",
+                "86.19733",
+                "86.35768",
+                "86.3682",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2]",
+                "Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Upper bound value",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "91.15162",
+                "86.3682",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Lower bound value",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "91.15162",
+                "86.3682",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

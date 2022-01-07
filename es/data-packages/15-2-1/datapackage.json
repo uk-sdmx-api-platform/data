@@ -12,8 +12,123 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                "3",
+                ""
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "C",
+                "E",
+                ""
+              ]
+            },
+            "title": "NATURE"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Official country report to FAO (FRA 2020)",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FAO, Global Forest Resources Assessment",
+                "Data submitted by FSC and PEFC secretariats (certifying bodies) to FAO, Global Forest Resources Assessment",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Above-ground biomass in forest per hectare (tonnes per hectare) [15.2.1]",
+                "Forest area certified under an independently verified certification scheme (hectares) [15.2.1]",
+                "Forest area net change rate (%) [15.2.1]",
+                "Proportion of forest area with a long-term management plan [15.2.1]",
+                "Proportion of forest area within legally established protected areas [15.2.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tonnes per hectare",
+                "Hectares",
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Nature of data points",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Country Data",
+                "Estimated",
+                ""
+              ]
+            },
+            "title": "Nature of data points"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Official country report to FAO (FRA 2020)",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FAO, Global Forest Resources Assessment",
+                "Data submitted by FSC and PEFC secretariats (certifying bodies) to FAO, Global Forest Resources Assessment",
+                ""
+              ]
+            },
+            "title": "Source details"
           },
           {
             "name": "Value",

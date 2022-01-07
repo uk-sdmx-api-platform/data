@@ -12,8 +12,24 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
+          },
+          {
+            "name": "Type of product",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agriculture products",
+                "Arms",
+                "Clothing",
+                "Industrial products",
+                "Oil",
+                "Textiles",
+                ""
+              ]
+            },
+            "title": "Type of product"
           },
           {
             "name": "Value",

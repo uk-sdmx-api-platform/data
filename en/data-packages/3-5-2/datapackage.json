@@ -11,13 +11,101 @@
       "schema": {
         "fields": [
           {
+            "name": "LOWER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "10.53492",
+                "11.95185",
+                "11.99615",
+                "15.34371",
+                "15.49693",
+                "16.52559",
+                "18.68605",
+                "18.94522",
+                "4.66315",
+                "4.70684",
+                "5.05634",
+                "5.82071",
+                "5.90865",
+                "9.81143",
+                "9.93644"
+              ]
+            },
+            "title": "LOWER_BOUND"
+          },
+          {
+            "name": "Lower bound value",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "15.49693",
+                "4.70684",
+                "9.93644"
+              ]
+            },
+            "title": "Lower bound value"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UPPER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "12.6509",
+                "12.97976",
+                "13.69353",
+                "15.80084",
+                "15.88111",
+                "19.83932",
+                "20.25599",
+                "21.47234",
+                "24.68279",
+                "25.03481",
+                "6.03148",
+                "6.20952",
+                "6.61402",
+                "7.79298",
+                "7.81548"
+              ]
+            },
+            "title": "UPPER_BOUND"
+          },
+          {
+            "name": "Upper bound value",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "12.97976",
+                "20.25599",
+                "6.20952"
+              ]
+            },
+            "title": "Upper bound value"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]

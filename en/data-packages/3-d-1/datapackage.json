@@ -11,13 +11,97 @@
       "schema": {
         "fields": [
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SPAR new questionaire for IHR Annual reporting from year 2018, the capacities had changed and available at WHO e-SPAR database (https://extranet.who.int/e-spar/ ) and disseminated to WHO Global Health Observatory (https://www.who.int/data/gho/data/themes/international-health-regulations-(2005)-monitoring-framework ) and the WHO Strategic Partnership for Health Security and Emergency Preparedness (SPH) Portal (https://extranet.who.int/sph/home )",
+                "WHO standard questionaire for IHR Annual reporting from years 2010 to 2017,  data collected available at WHO e-SPAR database (https://extranet.who.int/e-spar/ ), WHO Global Health Observatory (https://www.who.int/data/gho/data/themes/international-health-regulations-(2005)-monitoring-framework ) and the WHO Strategic Partnership for Health Security and Emergency Preparedness (SPH) Portal (https://extranet.who.int/sph/home )"
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "IHR Capacity: Chemical events",
+                "IHR Capacity: Coordination and National Focal Point communications",
+                "IHR Capacity: Food safety",
+                "IHR Capacity: Human resources",
+                "IHR Capacity: Laboratory",
+                "IHR Capacity: National legislation, policy and financing",
+                "IHR Capacity: Points of entry",
+                "IHR Capacity: Preparedness",
+                "IHR Capacity: Radionuclear emergencies",
+                "IHR Capacity: Response",
+                "IHR Capacity: Risk communication",
+                "IHR Capacity: Surveillance",
+                "IHR Capacity: Zoonotic events",
+                "State Party Annual Report: Chemical events ",
+                "State Party Annual Report: Food safety ",
+                "State Party Annual Report: Health Service Provision ",
+                "State Party Annual Report: Human resources ",
+                "State Party Annual Report: IHR Coordination and National IHR Focal Point Functions ",
+                "State Party Annual Report: Laboratory ",
+                "State Party Annual Report: Legislation and Financing",
+                "State Party Annual Report: National Health Emergency Framework ",
+                "State Party Annual Report: Points of entry ",
+                "State Party Annual Report: Radiation emergencies ",
+                "State Party Annual Report: Risk Communication ",
+                "State Party Annual Report: Surveillance ",
+                "State Party Annual Report: Zoonotic events and the human–animal interface "
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SPAR new questionaire for IHR Annual reporting from year 2018, the capacities had changed and available at WHO e-SPAR database (https://extranet.who.int/e-spar/ ) and disseminated to WHO Global Health Observatory (https://www.who.int/data/gho/data/themes/international-health-regulations-(2005)-monitoring-framework ) and the WHO Strategic Partnership for Health Security and Emergency Preparedness (SPH) Portal (https://extranet.who.int/sph/home )",
+                "WHO standard questionaire for IHR Annual reporting from years 2010 to 2017,  data collected available at WHO e-SPAR database (https://extranet.who.int/e-spar/ ), WHO Global Health Observatory (https://www.who.int/data/gho/data/themes/international-health-regulations-(2005)-monitoring-framework ) and the WHO Strategic Partnership for Health Security and Emergency Preparedness (SPH) Portal (https://extranet.who.int/sph/home )"
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "IHR National Self-Assessment and reports received and available at WHO e-SPAR database (https://extranet.who.int/e-spar/ ), WHO Global Health Observatory (https://www.who.int/data/gho/data/themes/international-health-regulations-(2005)-monitoring-framework ) and  the WHO Strategic Partnership for Health Security and Emergency Preparedness (SPH) Portal (https://extranet.who.int/sph/home )",
+                "IHR National Self-Assessment and reports received and registered at WHO e-SPAR database (https://extranet.who.int/e-spar/ ) "
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "IHR National Self-Assessment and reports received and available at WHO e-SPAR database (https://extranet.who.int/e-spar/ ), WHO Global Health Observatory (https://www.who.int/data/gho/data/themes/international-health-regulations-(2005)-monitoring-framework ) and  the WHO Strategic Partnership for Health Security and Emergency Preparedness (SPH) Portal (https://extranet.who.int/sph/home )",
+                "IHR National Self-Assessment and reports received and registered at WHO e-SPAR database (https://extranet.who.int/e-spar/ ) "
+              ]
+            },
+            "title": "Source details"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]

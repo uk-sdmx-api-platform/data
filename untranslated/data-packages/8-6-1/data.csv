@@ -1,1 +1,49 @@
-Year,Value
+Year,COMMENT_OBS,Sex,Value
+2004,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old | Break in series: Methodology revised,,5.5
+2005,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old | Break in series: Methodology revised,,8.4
+2006,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old | Break in series: Methodology revised,,8.6
+2007,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old | Break in series: Methodology revised,,11.9
+2008,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old | Break in series: Methodology revised,,12.1
+2009,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old,,13.2
+2010,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old,,13.6
+2011,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old,,14.2
+2012,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old,,13.9
+2013,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old,,13.2
+2014,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old,,11.9
+2015,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old,,11.1
+2016,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old,,10.9
+2017,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old,,10.3
+2018,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old,,10.5
+2019,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old,,10.5
+2004,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old | Break in series: Methodology revised,Female,6.7
+2005,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old | Break in series: Methodology revised,Female,9.6
+2006,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old | Break in series: Methodology revised,Female,9.6
+2007,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old | Break in series: Methodology revised,Female,13.7
+2008,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old | Break in series: Methodology revised,Female,14.1
+2009,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old,Female,14.5
+2010,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old,Female,15.1
+2011,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old,Female,15.4
+2012,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old,Female,15.0
+2013,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old,Female,14.4
+2014,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old,Female,13.1
+2015,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old,Female,12.4
+2016,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old,Female,11.5
+2017,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old,Female,10.4
+2018,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old,Female,11.2
+2019,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old,Female,10.6
+2004,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old | Break in series: Methodology revised,Male,4.2
+2005,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old | Break in series: Methodology revised,Male,7.3
+2006,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old | Break in series: Methodology revised,Male,7.5
+2007,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old | Break in series: Methodology revised,Male,10.1
+2008,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old | Break in series: Methodology revised,Male,10.1
+2009,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old,Male,11.9
+2010,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old,Male,12.1
+2011,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old,Male,13.1
+2012,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old,Male,12.8
+2013,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old,Male,12.2
+2014,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old,Male,10.7
+2015,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old,Male,9.8
+2016,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old,Male,10.3
+2017,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old,Male,10.2
+2018,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old,Male,9.7
+2019,Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old,Male,10.5

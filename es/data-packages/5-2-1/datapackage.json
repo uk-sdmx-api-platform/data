@@ -12,8 +12,68 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
+          },
+          {
+            "name": "UPPER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "7.1",
+                "8.4",
+                ""
+              ]
+            },
+            "title": "UPPER_BOUND"
+          },
+          {
+            "name": "LOWER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1.8",
+                "2.1",
+                ""
+              ]
+            },
+            "title": "LOWER_BOUND"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 years old and over",
+                "15 to 49 years old",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Upper bound value",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "7.1",
+                "8.4",
+                ""
+              ]
+            },
+            "title": "Upper bound value"
+          },
+          {
+            "name": "Lower bound value",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1.8",
+                "2.1",
+                ""
+              ]
+            },
+            "title": "Lower bound value"
           },
           {
             "name": "Value",

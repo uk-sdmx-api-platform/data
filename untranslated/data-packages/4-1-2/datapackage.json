@@ -12,7 +12,99 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "United Kingdom of Great Britain and Northern Ireland EU-SILC 2005. World Inequality Database on Education (WIDE), June 2019. Data extracted on 13 April 2021.",
+                "United Kingdom of Great Britain and Northern Ireland EU-SILC 2011. World Inequality Database on Education (WIDE), June 2019. Data extracted on 13 April 2021.",
+                "United Kingdom of Great Britain and Northern Ireland EU-SILC 2013. World Inequality Database on Education (WIDE), June 2019. Data extracted on 13 April 2021.",
+                "United Kingdom of Great Britain and Northern Ireland EU-SILC 2014. World Inequality Database on Education (WIDE), June 2019. Data extracted on 13 April 2021.",
+                "United Kingdom of Great Britain and Northern Ireland EU-SILC 2005. World Inequality Database on Education (WIDE), June 2019.;Value suppressed (less than 25 unweighted observations in sample). Data extracted on 13 April 2021.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                "Urban",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Income or wealth quantile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Quintile 1 (poorest)",
+                "Quintile 2",
+                "Quintile 3",
+                "Quintile 4",
+                "Quintile 5 (richest)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lower secondary education",
+                "Upper secondary education",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "United Kingdom of Great Britain and Northern Ireland EU-SILC 2014. World Inequality Database on Education (WIDE), June 2019. Data extracted on 13 April 2021.",
+                "United Kingdom of Great Britain and Northern Ireland EU-SILC 2013. World Inequality Database on Education (WIDE), June 2019. Data extracted on 13 April 2021.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Obs_Value = 0;  This data point is NOT APPLICABLE for the submitting nation.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Obs_Value = 0;  This data point is NOT APPLICABLE for the submitting nation.",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

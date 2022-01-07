@@ -12,7 +12,53 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Average tariff applied by developed countries, most-favored nation status, by type of product (%)  [17.12.1]",
+                "Average tariff applied by developed countries, preferential status, by type of product (%)  [17.12.1]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of product",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agriculture products",
+                "Arms",
+                "Clothing",
+                "Industrial products",
+                "Oil",
+                "Textiles",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Obs_Value = 0;  ",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Obs_Value = 0;  ",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

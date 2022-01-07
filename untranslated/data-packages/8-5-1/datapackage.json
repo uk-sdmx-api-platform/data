@@ -12,7 +12,48 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Repository: Eurostat | Economic activity coverage: Excluding agriculture, public administration, and activities of households as employers and of extraterritorial organisations and bodies | Establishment size coverage: All establishments with at least 10 employees | Local currency: GBR - British pound(GBP)",
+                "Data reference period: April | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Reference group coverage: Employees | Local currency: GBR - British pound(GBP) | Working time arrangement coverage: Full-time and part time workers",
+                "Data reference period: April | Reference group coverage: Employees | Local currency: GBR - British pound(GBP) | Working time arrangement coverage: Full-time and part time workers",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Occupation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Managers",
+                "Professionals",
+                "Technicians and associate professionals",
+                "Clerical support workers",
+                "Service and sales workers",
+                "Skilled agricultural, forestry and fishery workers",
+                "Craft and related trades workers",
+                "Plant and machine operators, and assemblers",
+                "Elementary occupations",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

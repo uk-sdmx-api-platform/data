@@ -11,13 +11,101 @@
       "schema": {
         "fields": [
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Eurostat estimate.",
+                "Eurostat_2019",
+                "Eurostat_2021"
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Waste treatment: Incineration",
+                "Waste treatment: Landfilling",
+                "Waste treatment: Recycling"
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Eurostat estimate.",
+                "Eurostat_2021"
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Electronic waste collected (Tonnes) [12.4.2]",
+                "Electronic waste collected, per capita (KG) [12.4.2]",
+                "Municipal waste treated, by type of treatment (%) [12.4.2]"
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UNSD / UNU / WESR",
+                "UNSTATS / WESR "
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "UNSD / UNU / WESR",
+                "UNSTATS / WESR "
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Kilograms",
+                "Metric Tons",
+                "Percent"
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]
