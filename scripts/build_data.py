@@ -1,6 +1,7 @@
 from sdg.open_sdg import open_sdg_build
 
-if 'reporting_status' in meta:
+def alter_meta(meta):
+    if 'reporting_status' in meta:
         del meta['reporting_status']
     return meta
 
