@@ -16,16 +16,16 @@
             "constraints": {
               "enum": [
                 "",
-                "ABT2_ACHIEVE",
-                "LS_COMPDISSE"
+                "ABT2 status: National target reflecting ABT2 exists and progress is on track to achieve it",
+                "Level/Status: Regular compilation and dissemination"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -37,7 +37,7 @@
                 "UNSTATS / WESR "
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "Value",

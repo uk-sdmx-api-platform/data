@@ -3,11 +3,11 @@ Year,COMPOSITE_BREAKDOWN,Value
 2010,,85.56868
 2015,,85.56103
 2018,,85.5756
-2000,ELV_5,4.7619
-2010,ELV_5,3.06122
-2015,ELV_5,3.06122
-2018,ELV_5,3.06122
-2000,ELV_6,85.86166
-2010,ELV_6,85.83462
-2015,ELV_6,85.82695
-2018,ELV_6,85.84156
+2000,Elevation 1.000–1.500 meters and slope > 5 or local elevation range (LER 7 kilometer radius) > 300 meters,4.7619
+2010,Elevation 1.000–1.500 meters and slope > 5 or local elevation range (LER 7 kilometer radius) > 300 meters,3.06122
+2015,Elevation 1.000–1.500 meters and slope > 5 or local elevation range (LER 7 kilometer radius) > 300 meters,3.06122
+2018,Elevation 1.000–1.500 meters and slope > 5 or local elevation range (LER 7 kilometer radius) > 300 meters,3.06122
+2000,Elevation 300–1.000 meters and local elevation range (7 kilometer radius) > 300 meters,85.86166
+2010,Elevation 300–1.000 meters and local elevation range (7 kilometer radius) > 300 meters,85.83462
+2015,Elevation 300–1.000 meters and local elevation range (7 kilometer radius) > 300 meters,85.82695
+2018,Elevation 300–1.000 meters and local elevation range (7 kilometer radius) > 300 meters,85.84156

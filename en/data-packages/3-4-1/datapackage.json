@@ -16,10 +16,10 @@
             "constraints": {
               "enum": [
                 "",
-                "Y30T70"
+                "30 to exact 70 years old"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "COMPOSITE_BREAKDOWN",
@@ -27,13 +27,13 @@
             "constraints": {
               "enum": [
                 "",
-                "NCD_CARDIO",
-                "NCD_CNCR",
-                "NCD_CRESPD",
-                "NCD_DIABTS"
+                "Non-communicable disease: Cardiovascular disease",
+                "Non-communicable disease: Cancer",
+                "Non-communicable disease: Chronic respiratory disease",
+                "Non-communicable disease: Diabetes"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "LOWER_BOUND",
@@ -58,12 +58,12 @@
                 "9.3"
               ]
             },
-            "title": "LOWER_BOUND"
+            "title": "Lower bound value"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SEX",
@@ -71,16 +71,16 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "UPPER_BOUND",
@@ -105,7 +105,7 @@
                 "98775"
               ]
             },
-            "title": "UPPER_BOUND"
+            "title": "Upper bound value"
           },
           {
             "name": "Value",

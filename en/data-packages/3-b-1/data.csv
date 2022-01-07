@@ -1,63 +1,63 @@
-Year,SOURCE_DETAIL,SERIES,COMMENT_OBS,Value
-2000,"WHO/UNICEF coverage estimates 2018 revision, July 2019",SH_ACS_DTP3,,91
-2001,"WHO/UNICEF coverage estimates 2018 revision, July 2019",SH_ACS_DTP3,,91
-2002,"WHO/UNICEF coverage estimates 2018 revision, July 2019",SH_ACS_DTP3,,91
-2003,"WHO/UNICEF coverage estimates 2018 revision, July 2019",SH_ACS_DTP3,,91
-2004,"WHO/UNICEF coverage estimates 2018 revision, July 2019",SH_ACS_DTP3,,92
-2005,"WHO/UNICEF coverage estimates 2018 revision, July 2019",SH_ACS_DTP3,,91
-2006,"WHO/UNICEF coverage estimates 2018 revision, July 2019",SH_ACS_DTP3,,92
-2007,"WHO/UNICEF coverage estimates 2018 revision, July 2019",SH_ACS_DTP3,,92
-2008,"WHO/UNICEF coverage estimates 2018 revision, July 2019",SH_ACS_DTP3,,92
-2009,"WHO/UNICEF coverage estimates 2018 revision, July 2019",SH_ACS_DTP3,,93
-2010,"WHO/UNICEF coverage estimates 2018 revision, July 2019",SH_ACS_DTP3,,94
-2011,"WHO/UNICEF coverage estimates 2018 revision, July 2019",SH_ACS_DTP3,,95
-2012,"WHO/UNICEF coverage estimates 2018 revision, July 2019",SH_ACS_DTP3,,95
-2013,"WHO/UNICEF coverage estimates 2018 revision, July 2019",SH_ACS_DTP3,,95
-2014,"WHO/UNICEF coverage estimates 2018 revision, July 2019",SH_ACS_DTP3,,95
-2015,"WHO/UNICEF coverage estimates 2018 revision, July 2019",SH_ACS_DTP3,,95
-2016,"WHO/UNICEF coverage estimates 2018 revision, July 2019",SH_ACS_DTP3,,94
-2017,"WHO/UNICEF coverage estimates 2018 revision, July 2019",SH_ACS_DTP3,,94
-2018,"WHO/UNICEF coverage estimates 2018 revision, July 2019",SH_ACS_DTP3,,94
-2019,"WHO/UNICEF coverage estimates 2018 revision, July 2019",SH_ACS_DTP3,,93
-2010,WHO and UNICEF HPV coverage estimates,SH_ACS_HPV,,78
-2011,WHO and UNICEF HPV coverage estimates,SH_ACS_HPV,,83
-2012,WHO and UNICEF HPV coverage estimates,SH_ACS_HPV,,87
-2013,WHO and UNICEF HPV coverage estimates,SH_ACS_HPV,,84
-2014,WHO and UNICEF HPV coverage estimates,SH_ACS_HPV,,85
-2015,WHO and UNICEF HPV coverage estimates,SH_ACS_HPV,,84
-2016,WHO and UNICEF HPV coverage estimates,SH_ACS_HPV,,83
-2017,WHO and UNICEF HPV coverage estimates,SH_ACS_HPV,,82
-2018,WHO and UNICEF HPV coverage estimates,SH_ACS_HPV,,82
-2019,WHO and UNICEF HPV coverage estimates,SH_ACS_HPV,,82
-2000,"WHO/UNICEF coverage estimates 2019 revision, July 2020",SH_ACS_MCV2,,76
-2001,"WHO/UNICEF coverage estimates 2019 revision, July 2020",SH_ACS_MCV2,,74
-2002,"WHO/UNICEF coverage estimates 2019 revision, July 2020",SH_ACS_MCV2,,74
-2003,"WHO/UNICEF coverage estimates 2019 revision, July 2020",SH_ACS_MCV2,,77
-2004,"WHO/UNICEF coverage estimates 2019 revision, July 2020",SH_ACS_MCV2,,76
-2005,"WHO/UNICEF coverage estimates 2019 revision, July 2020",SH_ACS_MCV2,,75
-2006,"WHO/UNICEF coverage estimates 2019 revision, July 2020",SH_ACS_MCV2,,75
-2007,"WHO/UNICEF coverage estimates 2019 revision, July 2020",SH_ACS_MCV2,,74
-2008,"WHO/UNICEF coverage estimates 2019 revision, July 2020",SH_ACS_MCV2,,75
-2009,"WHO/UNICEF coverage estimates 2019 revision, July 2020",SH_ACS_MCV2,,79
-2010,"WHO/UNICEF coverage estimates 2019 revision, July 2020",SH_ACS_MCV2,,84
-2011,"WHO/UNICEF coverage estimates 2019 revision, July 2020",SH_ACS_MCV2,,85
-2012,"WHO/UNICEF coverage estimates 2019 revision, July 2020",SH_ACS_MCV2,,87
-2013,"WHO/UNICEF coverage estimates 2019 revision, July 2020",SH_ACS_MCV2,,88
-2014,"WHO/UNICEF coverage estimates 2019 revision, July 2020",SH_ACS_MCV2,,89
-2015,"WHO/UNICEF coverage estimates 2019 revision, July 2020",SH_ACS_MCV2,,89
-2016,"WHO/UNICEF coverage estimates 2019 revision, July 2020",SH_ACS_MCV2,,89
-2017,"WHO/UNICEF coverage estimates 2019 revision, July 2020",SH_ACS_MCV2,,88
-2018,"WHO/UNICEF coverage estimates 2019 revision, July 2020",SH_ACS_MCV2,,88
-2019,"WHO/UNICEF coverage estimates 2019 revision, July 2020",SH_ACS_MCV2,,87
-2008,"WHO/UNICEF coverage estimates 2019 revision, July 2020",SH_ACS_PCV3,Obs_Value = 0;  ,0
-2009,"WHO/UNICEF coverage estimates 2019 revision, July 2020",SH_ACS_PCV3,Obs_Value = 0;  ,0
-2010,"WHO/UNICEF coverage estimates 2019 revision, July 2020",SH_ACS_PCV3,Obs_Value = 0;  ,89
-2011,"WHO/UNICEF coverage estimates 2019 revision, July 2020",SH_ACS_PCV3,Obs_Value = 0;  ,90
-2012,"WHO/UNICEF coverage estimates 2019 revision, July 2020",SH_ACS_PCV3,Obs_Value = 0;  ,92
-2013,"WHO/UNICEF coverage estimates 2019 revision, July 2020",SH_ACS_PCV3,Obs_Value = 0;  ,93
-2014,"WHO/UNICEF coverage estimates 2019 revision, July 2020",SH_ACS_PCV3,Obs_Value = 0;  ,93
-2015,"WHO/UNICEF coverage estimates 2019 revision, July 2020",SH_ACS_PCV3,Obs_Value = 0;  ,93
-2016,"WHO/UNICEF coverage estimates 2019 revision, July 2020",SH_ACS_PCV3,Obs_Value = 0;  ,92
-2017,"WHO/UNICEF coverage estimates 2019 revision, July 2020",SH_ACS_PCV3,Obs_Value = 0;  ,92
-2018,"WHO/UNICEF coverage estimates 2019 revision, July 2020",SH_ACS_PCV3,Obs_Value = 0;  ,92
-2019,"WHO/UNICEF coverage estimates 2019 revision, July 2020",SH_ACS_PCV3,Obs_Value = 0;  ,91
+Year,Source details,SERIES,Observation-level footnotes,Value
+2000,"WHO/UNICEF coverage estimates 2018 revision, July 2019",Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) [3.b.1],,91
+2001,"WHO/UNICEF coverage estimates 2018 revision, July 2019",Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) [3.b.1],,91
+2002,"WHO/UNICEF coverage estimates 2018 revision, July 2019",Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) [3.b.1],,91
+2003,"WHO/UNICEF coverage estimates 2018 revision, July 2019",Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) [3.b.1],,91
+2004,"WHO/UNICEF coverage estimates 2018 revision, July 2019",Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) [3.b.1],,92
+2005,"WHO/UNICEF coverage estimates 2018 revision, July 2019",Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) [3.b.1],,91
+2006,"WHO/UNICEF coverage estimates 2018 revision, July 2019",Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) [3.b.1],,92
+2007,"WHO/UNICEF coverage estimates 2018 revision, July 2019",Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) [3.b.1],,92
+2008,"WHO/UNICEF coverage estimates 2018 revision, July 2019",Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) [3.b.1],,92
+2009,"WHO/UNICEF coverage estimates 2018 revision, July 2019",Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) [3.b.1],,93
+2010,"WHO/UNICEF coverage estimates 2018 revision, July 2019",Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) [3.b.1],,94
+2011,"WHO/UNICEF coverage estimates 2018 revision, July 2019",Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) [3.b.1],,95
+2012,"WHO/UNICEF coverage estimates 2018 revision, July 2019",Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) [3.b.1],,95
+2013,"WHO/UNICEF coverage estimates 2018 revision, July 2019",Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) [3.b.1],,95
+2014,"WHO/UNICEF coverage estimates 2018 revision, July 2019",Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) [3.b.1],,95
+2015,"WHO/UNICEF coverage estimates 2018 revision, July 2019",Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) [3.b.1],,95
+2016,"WHO/UNICEF coverage estimates 2018 revision, July 2019",Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) [3.b.1],,94
+2017,"WHO/UNICEF coverage estimates 2018 revision, July 2019",Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) [3.b.1],,94
+2018,"WHO/UNICEF coverage estimates 2018 revision, July 2019",Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) [3.b.1],,94
+2019,"WHO/UNICEF coverage estimates 2018 revision, July 2019",Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) [3.b.1],,93
+2010,WHO and UNICEF HPV coverage estimates,"Proportion of the target population with access to affordable medicines and vaccines on a sustainable basis, human papillomavirus (HPV) [3.b.1]",,78
+2011,WHO and UNICEF HPV coverage estimates,"Proportion of the target population with access to affordable medicines and vaccines on a sustainable basis, human papillomavirus (HPV) [3.b.1]",,83
+2012,WHO and UNICEF HPV coverage estimates,"Proportion of the target population with access to affordable medicines and vaccines on a sustainable basis, human papillomavirus (HPV) [3.b.1]",,87
+2013,WHO and UNICEF HPV coverage estimates,"Proportion of the target population with access to affordable medicines and vaccines on a sustainable basis, human papillomavirus (HPV) [3.b.1]",,84
+2014,WHO and UNICEF HPV coverage estimates,"Proportion of the target population with access to affordable medicines and vaccines on a sustainable basis, human papillomavirus (HPV) [3.b.1]",,85
+2015,WHO and UNICEF HPV coverage estimates,"Proportion of the target population with access to affordable medicines and vaccines on a sustainable basis, human papillomavirus (HPV) [3.b.1]",,84
+2016,WHO and UNICEF HPV coverage estimates,"Proportion of the target population with access to affordable medicines and vaccines on a sustainable basis, human papillomavirus (HPV) [3.b.1]",,83
+2017,WHO and UNICEF HPV coverage estimates,"Proportion of the target population with access to affordable medicines and vaccines on a sustainable basis, human papillomavirus (HPV) [3.b.1]",,82
+2018,WHO and UNICEF HPV coverage estimates,"Proportion of the target population with access to affordable medicines and vaccines on a sustainable basis, human papillomavirus (HPV) [3.b.1]",,82
+2019,WHO and UNICEF HPV coverage estimates,"Proportion of the target population with access to affordable medicines and vaccines on a sustainable basis, human papillomavirus (HPV) [3.b.1]",,82
+2000,"WHO/UNICEF coverage estimates 2019 revision, July 2020",Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) [3.b.1],,76
+2001,"WHO/UNICEF coverage estimates 2019 revision, July 2020",Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) [3.b.1],,74
+2002,"WHO/UNICEF coverage estimates 2019 revision, July 2020",Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) [3.b.1],,74
+2003,"WHO/UNICEF coverage estimates 2019 revision, July 2020",Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) [3.b.1],,77
+2004,"WHO/UNICEF coverage estimates 2019 revision, July 2020",Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) [3.b.1],,76
+2005,"WHO/UNICEF coverage estimates 2019 revision, July 2020",Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) [3.b.1],,75
+2006,"WHO/UNICEF coverage estimates 2019 revision, July 2020",Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) [3.b.1],,75
+2007,"WHO/UNICEF coverage estimates 2019 revision, July 2020",Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) [3.b.1],,74
+2008,"WHO/UNICEF coverage estimates 2019 revision, July 2020",Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) [3.b.1],,75
+2009,"WHO/UNICEF coverage estimates 2019 revision, July 2020",Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) [3.b.1],,79
+2010,"WHO/UNICEF coverage estimates 2019 revision, July 2020",Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) [3.b.1],,84
+2011,"WHO/UNICEF coverage estimates 2019 revision, July 2020",Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) [3.b.1],,85
+2012,"WHO/UNICEF coverage estimates 2019 revision, July 2020",Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) [3.b.1],,87
+2013,"WHO/UNICEF coverage estimates 2019 revision, July 2020",Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) [3.b.1],,88
+2014,"WHO/UNICEF coverage estimates 2019 revision, July 2020",Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) [3.b.1],,89
+2015,"WHO/UNICEF coverage estimates 2019 revision, July 2020",Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) [3.b.1],,89
+2016,"WHO/UNICEF coverage estimates 2019 revision, July 2020",Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) [3.b.1],,89
+2017,"WHO/UNICEF coverage estimates 2019 revision, July 2020",Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) [3.b.1],,88
+2018,"WHO/UNICEF coverage estimates 2019 revision, July 2020",Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) [3.b.1],,88
+2019,"WHO/UNICEF coverage estimates 2019 revision, July 2020",Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) [3.b.1],,87
+2008,"WHO/UNICEF coverage estimates 2019 revision, July 2020",Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) [3.b.1],Obs_Value = 0;  ,0
+2009,"WHO/UNICEF coverage estimates 2019 revision, July 2020",Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) [3.b.1],Obs_Value = 0;  ,0
+2010,"WHO/UNICEF coverage estimates 2019 revision, July 2020",Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) [3.b.1],Obs_Value = 0;  ,89
+2011,"WHO/UNICEF coverage estimates 2019 revision, July 2020",Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) [3.b.1],Obs_Value = 0;  ,90
+2012,"WHO/UNICEF coverage estimates 2019 revision, July 2020",Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) [3.b.1],Obs_Value = 0;  ,92
+2013,"WHO/UNICEF coverage estimates 2019 revision, July 2020",Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) [3.b.1],Obs_Value = 0;  ,93
+2014,"WHO/UNICEF coverage estimates 2019 revision, July 2020",Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) [3.b.1],Obs_Value = 0;  ,93
+2015,"WHO/UNICEF coverage estimates 2019 revision, July 2020",Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) [3.b.1],Obs_Value = 0;  ,93
+2016,"WHO/UNICEF coverage estimates 2019 revision, July 2020",Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) [3.b.1],Obs_Value = 0;  ,92
+2017,"WHO/UNICEF coverage estimates 2019 revision, July 2020",Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) [3.b.1],Obs_Value = 0;  ,92
+2018,"WHO/UNICEF coverage estimates 2019 revision, July 2020",Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) [3.b.1],Obs_Value = 0;  ,92
+2019,"WHO/UNICEF coverage estimates 2019 revision, July 2020",Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) [3.b.1],Obs_Value = 0;  ,91

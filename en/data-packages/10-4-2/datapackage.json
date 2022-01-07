@@ -16,11 +16,11 @@
             "constraints": {
               "enum": [
                 "",
-                "FIS_POSTFIS_DIS_INC",
-                "FIS_PREFIS_INC"
+                "Fiscal intervention stage: Postfiscal disposable income",
+                "Fiscal intervention stage: Prefiscal income"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "Value",

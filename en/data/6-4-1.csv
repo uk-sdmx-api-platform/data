@@ -1,4 +1,4 @@
-Year,ACTIVITY,COMMENT_OBS,Value
+Year,Economic activity,Observation-level footnotes,Value
 2005,,,222.49
 2006,,,181.35
 2007,,,283.31
@@ -13,55 +13,55 @@ Year,ACTIVITY,COMMENT_OBS,Value
 2016,,,313.78
 2017,,,319.74
 2018,,,324.34
-2005,ISIC4_A01_A0210_A0322,Obs_Value = NaN;  NaN = A figure was not provided,0.64
-2006,ISIC4_A01_A0210_A0322,Obs_Value = NaN;  NaN = A figure was not provided,0.53
-2007,ISIC4_A01_A0210_A0322,Obs_Value = NaN;  NaN = A figure was not provided,0.46
-2008,ISIC4_A01_A0210_A0322,Obs_Value = NaN;  NaN = A figure was not provided,0.62
-2009,ISIC4_A01_A0210_A0322,Obs_Value = NaN;  NaN = A figure was not provided,0.68
-2010,ISIC4_A01_A0210_A0322,Obs_Value = NaN;  NaN = A figure was not provided,0.27
-2011,ISIC4_A01_A0210_A0322,Obs_Value = NaN;  NaN = A figure was not provided,0.69
-2012,ISIC4_A01_A0210_A0322,Obs_Value = NaN;  NaN = A figure was not provided,0.66
-2013,ISIC4_A01_A0210_A0322,Obs_Value = NaN;  NaN = A figure was not provided,0.25
-2014,ISIC4_A01_A0210_A0322,Obs_Value = NaN;  NaN = A figure was not provided,0.71
-2015,ISIC4_A01_A0210_A0322,Obs_Value = NaN;  NaN = A figure was not provided,0.58
-2016,ISIC4_A01_A0210_A0322,Obs_Value = NaN;  NaN = A figure was not provided,0.32
-2017,ISIC4_A01_A0210_A0322,Obs_Value = NaN;  NaN = A figure was not provided,0.66
-2018,ISIC4_A01_A0210_A0322,Obs_Value = NaN;  NaN = A figure was not provided,0.65
-2000,ISIC4_BTFXE,,66.12
-2001,ISIC4_BTFXE,,74.6
-2002,ISIC4_BTFXE,,88.43
-2003,ISIC4_BTFXE,,106.71
-2004,ISIC4_BTFXE,,133.5
-2005,ISIC4_BTFXE,,189.2
-2006,ISIC4_BTFXE,,309.8
-2007,ISIC4_BTFXE,,400.89
-2008,ISIC4_BTFXE,,444.69
-2009,ISIC4_BTFXE,,338.11
-2010,ISIC4_BTFXE,,496.72
-2011,ISIC4_BTFXE,,664.49
-2012,ISIC4_BTFXE,,396.3
-2013,ISIC4_BTFXE,,464.0
-2014,ISIC4_BTFXE,,539.54
-2015,ISIC4_BTFXE,,494.89
-2016,ISIC4_BTFXE,,454.1
-2017,ISIC4_BTFXE,,465.11
-2018,ISIC4_BTFXE,,465.12
-2000,ISIC4_GTT,,213.31
-2001,ISIC4_GTT,,225.11
-2002,ISIC4_GTT,,224.41
-2003,ISIC4_GTT,,245.39
-2004,ISIC4_GTT,,265.94
-2005,ISIC4_GTT,,289.95
-2006,ISIC4_GTT,,304.87
-2007,ISIC4_GTT,,326.68
-2008,ISIC4_GTT,,328.78
-2009,ISIC4_GTT,,334.67
-2010,ISIC4_GTT,,323.65
-2011,ISIC4_GTT,,333.07
-2012,ISIC4_GTT,,339.23
-2013,ISIC4_GTT,,364.29
-2014,ISIC4_GTT,,397.14
-2015,ISIC4_GTT,,357.06
-2016,ISIC4_GTT,,350.57
-2017,ISIC4_GTT,,356.78
-2018,ISIC4_GTT,,363.0
+2005,Agriculture (ISIC4 A01 A0210 A0322),Obs_Value = NaN;  NaN = A figure was not provided,0.64
+2006,Agriculture (ISIC4 A01 A0210 A0322),Obs_Value = NaN;  NaN = A figure was not provided,0.53
+2007,Agriculture (ISIC4 A01 A0210 A0322),Obs_Value = NaN;  NaN = A figure was not provided,0.46
+2008,Agriculture (ISIC4 A01 A0210 A0322),Obs_Value = NaN;  NaN = A figure was not provided,0.62
+2009,Agriculture (ISIC4 A01 A0210 A0322),Obs_Value = NaN;  NaN = A figure was not provided,0.68
+2010,Agriculture (ISIC4 A01 A0210 A0322),Obs_Value = NaN;  NaN = A figure was not provided,0.27
+2011,Agriculture (ISIC4 A01 A0210 A0322),Obs_Value = NaN;  NaN = A figure was not provided,0.69
+2012,Agriculture (ISIC4 A01 A0210 A0322),Obs_Value = NaN;  NaN = A figure was not provided,0.66
+2013,Agriculture (ISIC4 A01 A0210 A0322),Obs_Value = NaN;  NaN = A figure was not provided,0.25
+2014,Agriculture (ISIC4 A01 A0210 A0322),Obs_Value = NaN;  NaN = A figure was not provided,0.71
+2015,Agriculture (ISIC4 A01 A0210 A0322),Obs_Value = NaN;  NaN = A figure was not provided,0.58
+2016,Agriculture (ISIC4 A01 A0210 A0322),Obs_Value = NaN;  NaN = A figure was not provided,0.32
+2017,Agriculture (ISIC4 A01 A0210 A0322),Obs_Value = NaN;  NaN = A figure was not provided,0.66
+2018,Agriculture (ISIC4 A01 A0210 A0322),Obs_Value = NaN;  NaN = A figure was not provided,0.65
+2000,Industries,,66.12
+2001,Industries,,74.6
+2002,Industries,,88.43
+2003,Industries,,106.71
+2004,Industries,,133.5
+2005,Industries,,189.2
+2006,Industries,,309.8
+2007,Industries,,400.89
+2008,Industries,,444.69
+2009,Industries,,338.11
+2010,Industries,,496.72
+2011,Industries,,664.49
+2012,Industries,,396.3
+2013,Industries,,464.0
+2014,Industries,,539.54
+2015,Industries,,494.89
+2016,Industries,,454.1
+2017,Industries,,465.11
+2018,Industries,,465.12
+2000,Services (G to T),,213.31
+2001,Services (G to T),,225.11
+2002,Services (G to T),,224.41
+2003,Services (G to T),,245.39
+2004,Services (G to T),,265.94
+2005,Services (G to T),,289.95
+2006,Services (G to T),,304.87
+2007,Services (G to T),,326.68
+2008,Services (G to T),,328.78
+2009,Services (G to T),,334.67
+2010,Services (G to T),,323.65
+2011,Services (G to T),,333.07
+2012,Services (G to T),,339.23
+2013,Services (G to T),,364.29
+2014,Services (G to T),,397.14
+2015,Services (G to T),,357.06
+2016,Services (G to T),,350.57
+2017,Services (G to T),,356.78
+2018,Services (G to T),,363.0

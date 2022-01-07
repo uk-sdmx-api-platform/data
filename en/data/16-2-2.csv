@@ -1,125 +1,125 @@
-Year,COMMENT_OBS,SERIES,SEX,AGE,Value
+Year,Observation-level footnotes,SERIES,Sex,Age,Value
 2009,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETV,,,549
+",Detected victims of human trafficking (number) [16.2.2],,,549
 2010,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETV,,,297
+",Detected victims of human trafficking (number) [16.2.2],,,297
 2011,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETV,,,482
+",Detected victims of human trafficking (number) [16.2.2],,,482
 2012,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETV,,,555
+",Detected victims of human trafficking (number) [16.2.2],,,555
 2013,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETV,,,816
+",Detected victims of human trafficking (number) [16.2.2],,,816
 2014,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETV,,,543
+",Detected victims of human trafficking (number) [16.2.2],,,543
 2015,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETV,,,596
+",Detected victims of human trafficking (number) [16.2.2],,,596
 2016,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETV,,,601
+",Detected victims of human trafficking (number) [16.2.2],,,601
 2017,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETV,,,29
+",Detected victims of human trafficking (number) [16.2.2],,,29
 2010,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVFL,F,,36
+","Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Female,,36
 2011,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVFL,F,,44
+","Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Female,,44
 2012,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVFL,F,,100
+","Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Female,,100
 2013,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVFL,F,,148
+","Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Female,,148
 2014,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVFL,F,,123
+","Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Female,,123
 2015,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVFL,F,,30
+","Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Female,,30
 2016,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVFL,F,,35
+","Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Female,,35
 2017,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVFL,F,,3
+","Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Female,,3
 2014,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVFL,F,Y_GE18,81
+","Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Female,18 years old and over,81
 2015,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVFL,F,Y_GE18,80
+","Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Female,18 years old and over,80
 2016,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVFL,F,Y_GE18,77
+","Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Female,18 years old and over,77
 2017,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVFL,F,Y_GE18,1
+","Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Female,18 years old and over,1
 2014,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVFL,F,Y0T17,42
+","Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Female,under 18 years old,42
 2015,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVFL,F,Y0T17,10
+","Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Female,under 18 years old,10
 2016,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVFL,F,Y0T17,11
+","Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Female,under 18 years old,11
 2017,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVFL,F,Y0T17,2
+","Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Female,under 18 years old,2
 2010,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVFL,M,,67
+","Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Male,,67
 2011,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVFL,M,,164
+","Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Male,,164
 2012,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVFL,M,,212
+","Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Male,,212
 2013,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVFL,M,,287
+","Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Male,,287
 2014,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVFL,M,,241
+","Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Male,,241
 2015,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVFL,M,,216
+","Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Male,,216
 2016,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVFL,M,,250
+","Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Male,,250
 2017,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVFL,M,,10
+","Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Male,,10
 2014,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVFL,M,Y_GE18,195
+","Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Male,18 years old and over,195
 2015,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVFL,M,Y_GE18,216
+","Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Male,18 years old and over,216
 2016,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVFL,M,Y_GE18,226
+","Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Male,18 years old and over,226
 2017,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVFL,M,Y_GE18,6
+","Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Male,18 years old and over,6
 2014,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVFL,M,Y0T17,46
+","Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Male,under 18 years old,46
 2015,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVFL,M,Y0T17,32
+","Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Male,under 18 years old,32
 2016,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVFL,M,Y0T17,24
+","Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Male,under 18 years old,24
 2017,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVFL,M,Y0T17,4
+","Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Male,under 18 years old,4
 2011,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVOG,F,,1
+",Detected victims of human trafficking for removal of organ (number) [16.2.2],Female,,1
 2012,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVOG,F,,1
+",Detected victims of human trafficking for removal of organ (number) [16.2.2],Female,,1
 2011,"Obs_Value = 0;  Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVOG,M,,0
+",Detected victims of human trafficking for removal of organ (number) [16.2.2],Male,,0
 2012,"Obs_Value = 0;  Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVOG,M,,0
+",Detected victims of human trafficking for removal of organ (number) [16.2.2],Male,,0
 2010,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVOP,,,73
+",Detected victims of human trafficking for other purposes (number) [16.2.2],,,73
 2011,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVOP,,,82
+",Detected victims of human trafficking for other purposes (number) [16.2.2],,,82
 2012,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVOP,,,80
+",Detected victims of human trafficking for other purposes (number) [16.2.2],,,80
 2013,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVOP,,,65
+",Detected victims of human trafficking for other purposes (number) [16.2.2],,,65
 2016,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVOP,,,55
+",Detected victims of human trafficking for other purposes (number) [16.2.2],,,55
 2017,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVOP,,,2
+",Detected victims of human trafficking for other purposes (number) [16.2.2],,,2
 2010,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVOP,F,,63
+",Detected victims of human trafficking for other purposes (number) [16.2.2],Female,,63
 2011,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVOP,F,,65
+",Detected victims of human trafficking for other purposes (number) [16.2.2],Female,,65
 2012,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVOP,F,,66
+",Detected victims of human trafficking for other purposes (number) [16.2.2],Female,,66
 2013,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVOP,F,,55
+",Detected victims of human trafficking for other purposes (number) [16.2.2],Female,,55
 2016,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVOP,F,,37
+",Detected victims of human trafficking for other purposes (number) [16.2.2],Female,,37
 2017,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVOP,F,,2
+",Detected victims of human trafficking for other purposes (number) [16.2.2],Female,,2
 2010,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVOP,M,,10
+",Detected victims of human trafficking for other purposes (number) [16.2.2],Male,,10
 2011,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVOP,M,,17
+",Detected victims of human trafficking for other purposes (number) [16.2.2],Male,,17
 2012,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVOP,M,,14
+",Detected victims of human trafficking for other purposes (number) [16.2.2],Male,,14
 2013,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVOP,M,,10
+",Detected victims of human trafficking for other purposes (number) [16.2.2],Male,,10
 2016,"Data in reference to one country but derived from different types of sources should not be compared between them.
-",VC_HTF_DETVOP,M,,18
+",Detected victims of human trafficking for other purposes (number) [16.2.2],Male,,18

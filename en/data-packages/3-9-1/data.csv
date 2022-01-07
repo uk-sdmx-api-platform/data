@@ -1,5 +1,5 @@
 Year,SERIES,Value
-2016,SH_AAP_ASMORT,14
-2016,SH_AAP_MORT,32
-2016,SH_STA_AIRP,32
-2016,SH_STA_ASAIRP,14
+2016,Age-standardized mortality rate attributed to ambient air pollution [3.9.1],14
+2016,Crude death rate attributed to ambient air pollution [3.9.1],32
+2016,Crude death rate attributed to household and ambient air pollution [3.9.1],32
+2016,Age-standardized mortality rate attributed to household and ambient air pollution [3.9.1],14

@@ -22,12 +22,12 @@
                 "Lower Chamber or Unicameral, Data valid as of 1 Jan of given year, figures correspond to the number of seats filled in parliament at the given time."
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SEX",
@@ -35,10 +35,10 @@
             "constraints": {
               "enum": [
                 "",
-                "F"
+                "Female"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -50,12 +50,12 @@
                 "Inter-Parliamentary Union (IPU), Parline Database"
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

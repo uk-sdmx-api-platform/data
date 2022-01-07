@@ -21,7 +21,7 @@
                 "Mooring Name: WCO E1 | LATITUDE: 50.033 | LONGITUDE: -4.37"
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "CUST_BREAKDOWN",
@@ -29,12 +29,12 @@
             "constraints": {
               "enum": [
                 "",
-                "C01",
-                "C02",
-                "C03"
+                "Custom code 01",
+                "Custom code 02",
+                "Custom code 03"
               ]
             },
-            "title": "CUST_BREAKDOWN"
+            "title": "Custom Breakdown"
           },
           {
             "name": "CUST_BREAKDOWN_LB",
@@ -47,7 +47,7 @@
                 "WCO L4"
               ]
             },
-            "title": "CUST_BREAKDOWN_LB"
+            "title": "Label for custom breakdown"
           },
           {
             "name": "LOWER_BOUND",
@@ -60,7 +60,7 @@
                 "7.886"
               ]
             },
-            "title": "LOWER_BOUND"
+            "title": "Lower bound value"
           },
           {
             "name": "UPPER_BOUND",
@@ -73,7 +73,7 @@
                 "8.164"
               ]
             },
-            "title": "UPPER_BOUND"
+            "title": "Upper bound value"
           },
           {
             "name": "Value",

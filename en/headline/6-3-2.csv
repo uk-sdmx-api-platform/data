@@ -1,9 +1,9 @@
 Year,Value,SERIES
-2017,56.2,EN_H2O_GRAMBQ
-2020,57.76,EN_H2O_GRAMBQ
-2017,99.37,EN_H2O_OPAMBQ
-2020,100.0,EN_H2O_OPAMBQ
-2017,95.95,EN_H2O_RVAMBQ
-2020,95.99,EN_H2O_RVAMBQ
-2017,87.1,EN_H2O_WBAMBQ
-2020,89.9,EN_H2O_WBAMBQ
+2017,56.2,Proportion of groundwater bodies with good ambient water quality [6.3.2]
+2020,57.76,Proportion of groundwater bodies with good ambient water quality [6.3.2]
+2017,99.37,Proportion of open water bodies with good ambient water quality [6.3.2]
+2020,100.0,Proportion of open water bodies with good ambient water quality [6.3.2]
+2017,95.95,Proportion of river water bodies with good ambient water quality [6.3.2]
+2020,95.99,Proportion of river water bodies with good ambient water quality [6.3.2]
+2017,87.1,Proportion of bodies of water with good ambient water quality [6.3.2]
+2020,89.9,Proportion of bodies of water with good ambient water quality [6.3.2]

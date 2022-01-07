@@ -1,41 +1,41 @@
 Year,Value,UNIT_MEASURE,SERIES
-2000,3.8,PER_1000_LIVE_BIRTHS,SH_DYN_NMRT
-2001,3.7,PER_1000_LIVE_BIRTHS,SH_DYN_NMRT
-2002,3.6,PER_1000_LIVE_BIRTHS,SH_DYN_NMRT
-2003,3.6,PER_1000_LIVE_BIRTHS,SH_DYN_NMRT
-2004,3.5,PER_1000_LIVE_BIRTHS,SH_DYN_NMRT
-2005,3.5,PER_1000_LIVE_BIRTHS,SH_DYN_NMRT
-2006,3.4,PER_1000_LIVE_BIRTHS,SH_DYN_NMRT
-2007,3.3,PER_1000_LIVE_BIRTHS,SH_DYN_NMRT
-2008,3.2,PER_1000_LIVE_BIRTHS,SH_DYN_NMRT
-2009,3.1,PER_1000_LIVE_BIRTHS,SH_DYN_NMRT
-2010,3.0,PER_1000_LIVE_BIRTHS,SH_DYN_NMRT
-2011,3.0,PER_1000_LIVE_BIRTHS,SH_DYN_NMRT
-2012,2.9,PER_1000_LIVE_BIRTHS,SH_DYN_NMRT
-2013,2.8,PER_1000_LIVE_BIRTHS,SH_DYN_NMRT
-2014,2.7,PER_1000_LIVE_BIRTHS,SH_DYN_NMRT
-2015,2.7,PER_1000_LIVE_BIRTHS,SH_DYN_NMRT
-2016,2.7,PER_1000_LIVE_BIRTHS,SH_DYN_NMRT
-2017,2.8,PER_1000_LIVE_BIRTHS,SH_DYN_NMRT
-2018,2.8,PER_1000_LIVE_BIRTHS,SH_DYN_NMRT
-2019,2.8,PER_1000_LIVE_BIRTHS,SH_DYN_NMRT
-2000,2636.0,NUMBER,SH_DYN_NMRTN
-2001,2554.0,NUMBER,SH_DYN_NMRTN
-2002,2497.0,NUMBER,SH_DYN_NMRTN
-2003,2482.0,NUMBER,SH_DYN_NMRTN
-2004,2494.0,NUMBER,SH_DYN_NMRTN
-2005,2512.0,NUMBER,SH_DYN_NMRTN
-2006,2525.0,NUMBER,SH_DYN_NMRTN
-2007,2527.0,NUMBER,SH_DYN_NMRTN
-2008,2509.0,NUMBER,SH_DYN_NMRTN
-2009,2476.0,NUMBER,SH_DYN_NMRTN
-2010,2430.0,NUMBER,SH_DYN_NMRTN
-2011,2373.0,NUMBER,SH_DYN_NMRTN
-2012,2305.0,NUMBER,SH_DYN_NMRTN
-2013,2235.0,NUMBER,SH_DYN_NMRTN
-2014,2182.0,NUMBER,SH_DYN_NMRTN
-2015,2157.0,NUMBER,SH_DYN_NMRTN
-2016,2154.0,NUMBER,SH_DYN_NMRTN
-2017,2158.0,NUMBER,SH_DYN_NMRTN
-2018,2156.0,NUMBER,SH_DYN_NMRTN
-2019,2142.0,NUMBER,SH_DYN_NMRTN
+2000,3.8,"Per 1,000 live births",Neonatal mortality rate [3.2.2]
+2001,3.7,"Per 1,000 live births",Neonatal mortality rate [3.2.2]
+2002,3.6,"Per 1,000 live births",Neonatal mortality rate [3.2.2]
+2003,3.6,"Per 1,000 live births",Neonatal mortality rate [3.2.2]
+2004,3.5,"Per 1,000 live births",Neonatal mortality rate [3.2.2]
+2005,3.5,"Per 1,000 live births",Neonatal mortality rate [3.2.2]
+2006,3.4,"Per 1,000 live births",Neonatal mortality rate [3.2.2]
+2007,3.3,"Per 1,000 live births",Neonatal mortality rate [3.2.2]
+2008,3.2,"Per 1,000 live births",Neonatal mortality rate [3.2.2]
+2009,3.1,"Per 1,000 live births",Neonatal mortality rate [3.2.2]
+2010,3.0,"Per 1,000 live births",Neonatal mortality rate [3.2.2]
+2011,3.0,"Per 1,000 live births",Neonatal mortality rate [3.2.2]
+2012,2.9,"Per 1,000 live births",Neonatal mortality rate [3.2.2]
+2013,2.8,"Per 1,000 live births",Neonatal mortality rate [3.2.2]
+2014,2.7,"Per 1,000 live births",Neonatal mortality rate [3.2.2]
+2015,2.7,"Per 1,000 live births",Neonatal mortality rate [3.2.2]
+2016,2.7,"Per 1,000 live births",Neonatal mortality rate [3.2.2]
+2017,2.8,"Per 1,000 live births",Neonatal mortality rate [3.2.2]
+2018,2.8,"Per 1,000 live births",Neonatal mortality rate [3.2.2]
+2019,2.8,"Per 1,000 live births",Neonatal mortality rate [3.2.2]
+2000,2636.0,Number,Neonatal deaths (number) [3.2.2]
+2001,2554.0,Number,Neonatal deaths (number) [3.2.2]
+2002,2497.0,Number,Neonatal deaths (number) [3.2.2]
+2003,2482.0,Number,Neonatal deaths (number) [3.2.2]
+2004,2494.0,Number,Neonatal deaths (number) [3.2.2]
+2005,2512.0,Number,Neonatal deaths (number) [3.2.2]
+2006,2525.0,Number,Neonatal deaths (number) [3.2.2]
+2007,2527.0,Number,Neonatal deaths (number) [3.2.2]
+2008,2509.0,Number,Neonatal deaths (number) [3.2.2]
+2009,2476.0,Number,Neonatal deaths (number) [3.2.2]
+2010,2430.0,Number,Neonatal deaths (number) [3.2.2]
+2011,2373.0,Number,Neonatal deaths (number) [3.2.2]
+2012,2305.0,Number,Neonatal deaths (number) [3.2.2]
+2013,2235.0,Number,Neonatal deaths (number) [3.2.2]
+2014,2182.0,Number,Neonatal deaths (number) [3.2.2]
+2015,2157.0,Number,Neonatal deaths (number) [3.2.2]
+2016,2154.0,Number,Neonatal deaths (number) [3.2.2]
+2017,2158.0,Number,Neonatal deaths (number) [3.2.2]
+2018,2156.0,Number,Neonatal deaths (number) [3.2.2]
+2019,2142.0,Number,Neonatal deaths (number) [3.2.2]

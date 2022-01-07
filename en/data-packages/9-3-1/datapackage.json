@@ -16,11 +16,11 @@
             "constraints": {
               "enum": [
                 "",
-                "ISIC3_D",
-                "ISIC4_C"
+                "Manufacturing (ISIC3 D)",
+                "Manufacturing"
               ]
             },
-            "title": "ACTIVITY"
+            "title": "Economic activity"
           },
           {
             "name": "Value",

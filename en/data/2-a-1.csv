@@ -1,58 +1,58 @@
-Year,SOURCE_DETAIL,SERIES,UNIT_MEASURE,COMMENT_OBS,Value
-2001,UNSD national account estimates,AG_PRD_AGVAS,PT,,0.79
-2002,UNSD national account estimates,AG_PRD_AGVAS,PT,,0.92
-2003,UNSD national account estimates,AG_PRD_AGVAS,PT,,0.88
-2004,UNSD national account estimates,AG_PRD_AGVAS,PT,,0.77
-2005,UNSD national account estimates,AG_PRD_AGVAS,PT,,0.55
-2006,UNSD national account estimates,AG_PRD_AGVAS,PT,,0.6
-2007,UNSD national account estimates,AG_PRD_AGVAS,PT,,0.57
-2008,UNSD national account estimates,AG_PRD_AGVAS,PT,,0.68
-2009,UNSD national account estimates,AG_PRD_AGVAS,PT,,0.69
-2010,UNSD national account estimates,AG_PRD_AGVAS,PT,,0.61
-2011,UNSD national account estimates,AG_PRD_AGVAS,PT,,0.7
-2012,UNSD national account estimates,AG_PRD_AGVAS,PT,,0.64
-2013,UNSD national account estimates,AG_PRD_AGVAS,PT,,0.64
-2014,UNSD national account estimates,AG_PRD_AGVAS,PT,,0.75
-2015,UNSD national account estimates,AG_PRD_AGVAS,PT,,0.65
-2016,UNSD national account estimates,AG_PRD_AGVAS,PT,,0.58
-2017,UNSD national account estimates,AG_PRD_AGVAS,PT,,0.57
-2018,UNSD national account estimates,AG_PRD_AGVAS,PT,,0.57
-2019,UNSD national account estimates,AG_PRD_AGVAS,PT,,0.59
-2001,EUROSTAT data. UNSD national account estimates,AG_PRD_ORTIND,IX,Consolidated General Government Expenditure,1.1
-2002,EUROSTAT data. UNSD national account estimates,AG_PRD_ORTIND,IX,Consolidated General Government Expenditure,0.5488
-2003,EUROSTAT data. UNSD national account estimates,AG_PRD_ORTIND,IX,Consolidated General Government Expenditure,0.5699
-2004,EUROSTAT data. UNSD national account estimates,AG_PRD_ORTIND,IX,Consolidated General Government Expenditure,0.6835
-2005,EUROSTAT data. UNSD national account estimates,AG_PRD_ORTIND,IX,Consolidated General Government Expenditure,1.02
-2006,EUROSTAT data. UNSD national account estimates,AG_PRD_ORTIND,IX,Consolidated General Government Expenditure,0.8776
-2007,EUROSTAT data. UNSD national account estimates,AG_PRD_ORTIND,IX,Consolidated General Government Expenditure,0.8321
-2008,EUROSTAT data. UNSD national account estimates,AG_PRD_ORTIND,IX,Consolidated General Government Expenditure,0.5532
-2009,EUROSTAT data. UNSD national account estimates,AG_PRD_ORTIND,IX,Consolidated General Government Expenditure,0.5179
-2010,EUROSTAT data. UNSD national account estimates,AG_PRD_ORTIND,IX,Consolidated General Government Expenditure,0.6
-2011,EUROSTAT data. UNSD national account estimates,AG_PRD_ORTIND,IX,Consolidated General Government Expenditure,0.543
-2012,EUROSTAT data. UNSD national account estimates,AG_PRD_ORTIND,IX,Consolidated General Government Expenditure,0.4937
-2013,EUROSTAT data. UNSD national account estimates,AG_PRD_ORTIND,IX,Consolidated General Government Expenditure,0.4852
-2014,EUROSTAT data. UNSD national account estimates,AG_PRD_ORTIND,IX,Consolidated General Government Expenditure,0.4037
-2015,EUROSTAT data. UNSD national account estimates,AG_PRD_ORTIND,IX,Consolidated General Government Expenditure,0.45
-2016,EUROSTAT data. UNSD national account estimates,AG_PRD_ORTIND,IX,Consolidated General Government Expenditure,0.4946
-2017,EUROSTAT data. UNSD national account estimates,AG_PRD_ORTIND,IX,Consolidated General Government Expenditure,0.4948
-2018,EUROSTAT data. UNSD national account estimates,AG_PRD_ORTIND,IX,Consolidated General Government Expenditure,0.5
-2019,EUROSTAT data. UNSD national account estimates,AG_PRD_ORTIND,IX,Consolidated General Government Expenditure,0.48
-2001,EUROSTAT data. UNSD national account estimates,AG_XPD_AGSGB,PT,Consolidated General Government Expenditure,0.87
-2002,EUROSTAT data. UNSD national account estimates,AG_XPD_AGSGB,PT,Consolidated General Government Expenditure,0.51
-2003,EUROSTAT data. UNSD national account estimates,AG_XPD_AGSGB,PT,Consolidated General Government Expenditure,0.5
-2004,EUROSTAT data. UNSD national account estimates,AG_XPD_AGSGB,PT,Consolidated General Government Expenditure,0.52
-2005,EUROSTAT data. UNSD national account estimates,AG_XPD_AGSGB,PT,Consolidated General Government Expenditure,0.56
-2006,EUROSTAT data. UNSD national account estimates,AG_XPD_AGSGB,PT,Consolidated General Government Expenditure,0.53
-2007,EUROSTAT data. UNSD national account estimates,AG_XPD_AGSGB,PT,Consolidated General Government Expenditure,0.47
-2008,EUROSTAT data. UNSD national account estimates,AG_XPD_AGSGB,PT,Consolidated General Government Expenditure,0.38
-2009,EUROSTAT data. UNSD national account estimates,AG_XPD_AGSGB,PT,Consolidated General Government Expenditure,0.36
-2010,EUROSTAT data. UNSD national account estimates,AG_XPD_AGSGB,PT,Consolidated General Government Expenditure,0.36
-2011,EUROSTAT data. UNSD national account estimates,AG_XPD_AGSGB,PT,Consolidated General Government Expenditure,0.38
-2012,EUROSTAT data. UNSD national account estimates,AG_XPD_AGSGB,PT,Consolidated General Government Expenditure,0.32
-2013,EUROSTAT data. UNSD national account estimates,AG_XPD_AGSGB,PT,Consolidated General Government Expenditure,0.31
-2014,EUROSTAT data. UNSD national account estimates,AG_XPD_AGSGB,PT,Consolidated General Government Expenditure,0.3
-2015,EUROSTAT data. UNSD national account estimates,AG_XPD_AGSGB,PT,Consolidated General Government Expenditure,0.29
-2016,EUROSTAT data. UNSD national account estimates,AG_XPD_AGSGB,PT,Consolidated General Government Expenditure,0.28
-2017,EUROSTAT data. UNSD national account estimates,AG_XPD_AGSGB,PT,Consolidated General Government Expenditure,0.28
-2018,EUROSTAT data. UNSD national account estimates,AG_XPD_AGSGB,PT,Consolidated General Government Expenditure,0.28
-2019,EUROSTAT data. UNSD national account estimates,AG_XPD_AGSGB,PT,Consolidated General Government Expenditure,0.28
+Year,Source details,SERIES,UNIT_MEASURE,Observation-level footnotes,Value
+2001,UNSD national account estimates,Agriculture value added share of GDP [2.a.1],Percent,,0.79
+2002,UNSD national account estimates,Agriculture value added share of GDP [2.a.1],Percent,,0.92
+2003,UNSD national account estimates,Agriculture value added share of GDP [2.a.1],Percent,,0.88
+2004,UNSD national account estimates,Agriculture value added share of GDP [2.a.1],Percent,,0.77
+2005,UNSD national account estimates,Agriculture value added share of GDP [2.a.1],Percent,,0.55
+2006,UNSD national account estimates,Agriculture value added share of GDP [2.a.1],Percent,,0.6
+2007,UNSD national account estimates,Agriculture value added share of GDP [2.a.1],Percent,,0.57
+2008,UNSD national account estimates,Agriculture value added share of GDP [2.a.1],Percent,,0.68
+2009,UNSD national account estimates,Agriculture value added share of GDP [2.a.1],Percent,,0.69
+2010,UNSD national account estimates,Agriculture value added share of GDP [2.a.1],Percent,,0.61
+2011,UNSD national account estimates,Agriculture value added share of GDP [2.a.1],Percent,,0.7
+2012,UNSD national account estimates,Agriculture value added share of GDP [2.a.1],Percent,,0.64
+2013,UNSD national account estimates,Agriculture value added share of GDP [2.a.1],Percent,,0.64
+2014,UNSD national account estimates,Agriculture value added share of GDP [2.a.1],Percent,,0.75
+2015,UNSD national account estimates,Agriculture value added share of GDP [2.a.1],Percent,,0.65
+2016,UNSD national account estimates,Agriculture value added share of GDP [2.a.1],Percent,,0.58
+2017,UNSD national account estimates,Agriculture value added share of GDP [2.a.1],Percent,,0.57
+2018,UNSD national account estimates,Agriculture value added share of GDP [2.a.1],Percent,,0.57
+2019,UNSD national account estimates,Agriculture value added share of GDP [2.a.1],Percent,,0.59
+2001,EUROSTAT data. UNSD national account estimates,Agriculture orientation index for government expenditures [2.a.1],Index,Consolidated General Government Expenditure,1.1
+2002,EUROSTAT data. UNSD national account estimates,Agriculture orientation index for government expenditures [2.a.1],Index,Consolidated General Government Expenditure,0.5488
+2003,EUROSTAT data. UNSD national account estimates,Agriculture orientation index for government expenditures [2.a.1],Index,Consolidated General Government Expenditure,0.5699
+2004,EUROSTAT data. UNSD national account estimates,Agriculture orientation index for government expenditures [2.a.1],Index,Consolidated General Government Expenditure,0.6835
+2005,EUROSTAT data. UNSD national account estimates,Agriculture orientation index for government expenditures [2.a.1],Index,Consolidated General Government Expenditure,1.02
+2006,EUROSTAT data. UNSD national account estimates,Agriculture orientation index for government expenditures [2.a.1],Index,Consolidated General Government Expenditure,0.8776
+2007,EUROSTAT data. UNSD national account estimates,Agriculture orientation index for government expenditures [2.a.1],Index,Consolidated General Government Expenditure,0.8321
+2008,EUROSTAT data. UNSD national account estimates,Agriculture orientation index for government expenditures [2.a.1],Index,Consolidated General Government Expenditure,0.5532
+2009,EUROSTAT data. UNSD national account estimates,Agriculture orientation index for government expenditures [2.a.1],Index,Consolidated General Government Expenditure,0.5179
+2010,EUROSTAT data. UNSD national account estimates,Agriculture orientation index for government expenditures [2.a.1],Index,Consolidated General Government Expenditure,0.6
+2011,EUROSTAT data. UNSD national account estimates,Agriculture orientation index for government expenditures [2.a.1],Index,Consolidated General Government Expenditure,0.543
+2012,EUROSTAT data. UNSD national account estimates,Agriculture orientation index for government expenditures [2.a.1],Index,Consolidated General Government Expenditure,0.4937
+2013,EUROSTAT data. UNSD national account estimates,Agriculture orientation index for government expenditures [2.a.1],Index,Consolidated General Government Expenditure,0.4852
+2014,EUROSTAT data. UNSD national account estimates,Agriculture orientation index for government expenditures [2.a.1],Index,Consolidated General Government Expenditure,0.4037
+2015,EUROSTAT data. UNSD national account estimates,Agriculture orientation index for government expenditures [2.a.1],Index,Consolidated General Government Expenditure,0.45
+2016,EUROSTAT data. UNSD national account estimates,Agriculture orientation index for government expenditures [2.a.1],Index,Consolidated General Government Expenditure,0.4946
+2017,EUROSTAT data. UNSD national account estimates,Agriculture orientation index for government expenditures [2.a.1],Index,Consolidated General Government Expenditure,0.4948
+2018,EUROSTAT data. UNSD national account estimates,Agriculture orientation index for government expenditures [2.a.1],Index,Consolidated General Government Expenditure,0.5
+2019,EUROSTAT data. UNSD national account estimates,Agriculture orientation index for government expenditures [2.a.1],Index,Consolidated General Government Expenditure,0.48
+2001,EUROSTAT data. UNSD national account estimates,Agriculture share of Government Expenditure [2.a.1],Percent,Consolidated General Government Expenditure,0.87
+2002,EUROSTAT data. UNSD national account estimates,Agriculture share of Government Expenditure [2.a.1],Percent,Consolidated General Government Expenditure,0.51
+2003,EUROSTAT data. UNSD national account estimates,Agriculture share of Government Expenditure [2.a.1],Percent,Consolidated General Government Expenditure,0.5
+2004,EUROSTAT data. UNSD national account estimates,Agriculture share of Government Expenditure [2.a.1],Percent,Consolidated General Government Expenditure,0.52
+2005,EUROSTAT data. UNSD national account estimates,Agriculture share of Government Expenditure [2.a.1],Percent,Consolidated General Government Expenditure,0.56
+2006,EUROSTAT data. UNSD national account estimates,Agriculture share of Government Expenditure [2.a.1],Percent,Consolidated General Government Expenditure,0.53
+2007,EUROSTAT data. UNSD national account estimates,Agriculture share of Government Expenditure [2.a.1],Percent,Consolidated General Government Expenditure,0.47
+2008,EUROSTAT data. UNSD national account estimates,Agriculture share of Government Expenditure [2.a.1],Percent,Consolidated General Government Expenditure,0.38
+2009,EUROSTAT data. UNSD national account estimates,Agriculture share of Government Expenditure [2.a.1],Percent,Consolidated General Government Expenditure,0.36
+2010,EUROSTAT data. UNSD national account estimates,Agriculture share of Government Expenditure [2.a.1],Percent,Consolidated General Government Expenditure,0.36
+2011,EUROSTAT data. UNSD national account estimates,Agriculture share of Government Expenditure [2.a.1],Percent,Consolidated General Government Expenditure,0.38
+2012,EUROSTAT data. UNSD national account estimates,Agriculture share of Government Expenditure [2.a.1],Percent,Consolidated General Government Expenditure,0.32
+2013,EUROSTAT data. UNSD national account estimates,Agriculture share of Government Expenditure [2.a.1],Percent,Consolidated General Government Expenditure,0.31
+2014,EUROSTAT data. UNSD national account estimates,Agriculture share of Government Expenditure [2.a.1],Percent,Consolidated General Government Expenditure,0.3
+2015,EUROSTAT data. UNSD national account estimates,Agriculture share of Government Expenditure [2.a.1],Percent,Consolidated General Government Expenditure,0.29
+2016,EUROSTAT data. UNSD national account estimates,Agriculture share of Government Expenditure [2.a.1],Percent,Consolidated General Government Expenditure,0.28
+2017,EUROSTAT data. UNSD national account estimates,Agriculture share of Government Expenditure [2.a.1],Percent,Consolidated General Government Expenditure,0.28
+2018,EUROSTAT data. UNSD national account estimates,Agriculture share of Government Expenditure [2.a.1],Percent,Consolidated General Government Expenditure,0.28
+2019,EUROSTAT data. UNSD national account estimates,Agriculture share of Government Expenditure [2.a.1],Percent,Consolidated General Government Expenditure,0.28

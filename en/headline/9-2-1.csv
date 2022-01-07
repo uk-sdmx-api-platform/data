@@ -1,21 +1,21 @@
 Year,Value,UNIT_MEASURE,SERIES
-2000,13.43,PT,NV_IND_MANF_CD
-2001,12.56,PT,NV_IND_MANF_CD
-2002,12.25,PT,NV_IND_MANF_CD
-2003,11.71,PT,NV_IND_MANF_CD
-2004,11.08,PT,NV_IND_MANF_CD
-2005,10.59,PT,NV_IND_MANF_CD
-2006,10.22,PT,NV_IND_MANF_CD
-2007,9.68,PT,NV_IND_MANF_CD
-2008,9.55,PT,NV_IND_MANF_CD
-2009,9.17,PT,NV_IND_MANF_CD
-2010,9.52,PT,NV_IND_MANF_CD
-2011,9.4,PT,NV_IND_MANF_CD
-2012,9.33,PT,NV_IND_MANF_CD
-2013,9.57,PT,NV_IND_MANF_CD
-2014,9.38,PT,NV_IND_MANF_CD
-2015,9.35,PT,NV_IND_MANF_CD
-2016,9.14,PT,NV_IND_MANF_CD
-2017,9.14,PT,NV_IND_MANF_CD
-2018,8.95,PT,NV_IND_MANF_CD
-2019,8.69,PT,NV_IND_MANF_CD
+2000,13.43,Percent,Manufacturing value added (current United States dollars) as a proportion of GDP [9.2.1]
+2001,12.56,Percent,Manufacturing value added (current United States dollars) as a proportion of GDP [9.2.1]
+2002,12.25,Percent,Manufacturing value added (current United States dollars) as a proportion of GDP [9.2.1]
+2003,11.71,Percent,Manufacturing value added (current United States dollars) as a proportion of GDP [9.2.1]
+2004,11.08,Percent,Manufacturing value added (current United States dollars) as a proportion of GDP [9.2.1]
+2005,10.59,Percent,Manufacturing value added (current United States dollars) as a proportion of GDP [9.2.1]
+2006,10.22,Percent,Manufacturing value added (current United States dollars) as a proportion of GDP [9.2.1]
+2007,9.68,Percent,Manufacturing value added (current United States dollars) as a proportion of GDP [9.2.1]
+2008,9.55,Percent,Manufacturing value added (current United States dollars) as a proportion of GDP [9.2.1]
+2009,9.17,Percent,Manufacturing value added (current United States dollars) as a proportion of GDP [9.2.1]
+2010,9.52,Percent,Manufacturing value added (current United States dollars) as a proportion of GDP [9.2.1]
+2011,9.4,Percent,Manufacturing value added (current United States dollars) as a proportion of GDP [9.2.1]
+2012,9.33,Percent,Manufacturing value added (current United States dollars) as a proportion of GDP [9.2.1]
+2013,9.57,Percent,Manufacturing value added (current United States dollars) as a proportion of GDP [9.2.1]
+2014,9.38,Percent,Manufacturing value added (current United States dollars) as a proportion of GDP [9.2.1]
+2015,9.35,Percent,Manufacturing value added (current United States dollars) as a proportion of GDP [9.2.1]
+2016,9.14,Percent,Manufacturing value added (current United States dollars) as a proportion of GDP [9.2.1]
+2017,9.14,Percent,Manufacturing value added (current United States dollars) as a proportion of GDP [9.2.1]
+2018,8.95,Percent,Manufacturing value added (current United States dollars) as a proportion of GDP [9.2.1]
+2019,8.69,Percent,Manufacturing value added (current United States dollars) as a proportion of GDP [9.2.1]

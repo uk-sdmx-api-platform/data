@@ -16,10 +16,10 @@
             "constraints": {
               "enum": [
                 "",
-                "Y_GE15"
+                "15 years old and over"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "LOWER_BOUND",
@@ -41,12 +41,12 @@
                 "78.2"
               ]
             },
-            "title": "LOWER_BOUND"
+            "title": "Lower bound value"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SEX",
@@ -54,16 +54,16 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "UNIT_MULT",
@@ -71,11 +71,11 @@
             "constraints": {
               "enum": [
                 "",
-                "0",
-                "3"
+                "Units",
+                "Thousands"
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Unit multiplier"
           },
           {
             "name": "UPPER_BOUND",
@@ -96,7 +96,7 @@
                 "77.1"
               ]
             },
-            "title": "UPPER_BOUND"
+            "title": "Upper bound value"
           },
           {
             "name": "Value",

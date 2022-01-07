@@ -13,7 +13,7 @@
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "Value",

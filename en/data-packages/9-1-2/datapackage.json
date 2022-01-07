@@ -16,14 +16,14 @@
             "constraints": {
               "enum": [
                 "",
-                "MOT_AIR",
-                "MOT_IWW",
-                "MOT_RAI",
-                "MOT_ROA",
-                "MOT_SEA"
+                "Mode of Transport: Air",
+                "Mode of transport: Inland waterway transport",
+                "Mode of Transport: Rail",
+                "Mode of Transport: Road",
+                "Mode of Transport: Maritime"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "NATURE",
@@ -31,17 +31,17 @@
             "constraints": {
               "enum": [
                 "",
-                "C",
-                "E",
-                "M"
+                "Country Data",
+                "Estimated",
+                "Modeled"
               ]
             },
-            "title": "NATURE"
+            "title": "Nature of data points"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -54,12 +54,12 @@
                 "the International Transport Forum at the OECD (ITF-OECD)"
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

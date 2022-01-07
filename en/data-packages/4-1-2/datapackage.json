@@ -19,7 +19,7 @@
                 "Obs_Value = 0;  This data point is NOT APPLICABLE for the submitting nation."
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "EDUCATION_LEV",
@@ -27,11 +27,11 @@
             "constraints": {
               "enum": [
                 "",
-                "ISCED11_2",
-                "ISCED11_3"
+                "Lower secondary education",
+                "Upper secondary education"
               ]
             },
-            "title": "EDUCATION_LEV"
+            "title": "Education level"
           },
           {
             "name": "INCOME_WEALTH_QUANTILE",
@@ -39,14 +39,14 @@
             "constraints": {
               "enum": [
                 "",
-                "Q1",
-                "Q2",
-                "Q3",
-                "Q4",
-                "Q5"
+                "Quintile 1 (poorest)",
+                "Quintile 2",
+                "Quintile 3",
+                "Quintile 4",
+                "Quintile 5 (richest)"
               ]
             },
-            "title": "INCOME_WEALTH_QUANTILE"
+            "title": "Income or wealth quantile"
           },
           {
             "name": "SEX",
@@ -54,11 +54,11 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -70,7 +70,7 @@
                 "United Kingdom of Great Britain and Northern Ireland EU-SILC 2014. World Inequality Database on Education (WIDE), June 2019. Data extracted on 13 April 2021."
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "URBANISATION",
@@ -78,11 +78,11 @@
             "constraints": {
               "enum": [
                 "",
-                "R",
-                "U"
+                "Rural",
+                "Urban"
               ]
             },
-            "title": "URBANISATION"
+            "title": "Degree of urbanisation"
           },
           {
             "name": "Value",

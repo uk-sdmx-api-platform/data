@@ -16,10 +16,10 @@
             "constraints": {
               "enum": [
                 "",
-                "Y16T65"
+                "16 to 65 years old"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "COMMENT_OBS",
@@ -30,7 +30,7 @@
                 "Obs_Value = 0;  This data point is NOT APPLICABLE for the submitting nation."
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "COMPOSITE_BREAKDOWN",
@@ -38,22 +38,22 @@
             "constraints": {
               "enum": [
                 "",
-                "SKILL_ICTATCH",
-                "SKILL_ICTCDV",
-                "SKILL_ICTCMFL",
-                "SKILL_ICTCPT",
-                "SKILL_ICTPRGM",
-                "SKILL_ICTPST",
-                "SKILL_ICTSFWR",
-                "SKILL_ICTSSHT",
-                "SKILL_ICTTRFF",
-                "SKILL_LTRCY",
-                "SKILL_MATH",
-                "SKILL_NMRCY",
-                "SKILL_READ"
+                "Skill: ICT Skill: Sending e-mails with attached files",
+                "Skill: ICT Skill: connecting and installing new devices",
+                "Skill: ICT Skill: Copying or moving a file or folder",
+                "Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document",
+                "Skill: ICT Skill: Writing a computer program using a specialized programming language",
+                "Skill: ICT Skill: Creating electronic presentations with presentation software",
+                "Skill: ICT Skill: Finding, downloading, installing and configuring software",
+                "Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet",
+                "Skill: ICT Skill: Transferring files between a computer and other devices",
+                "Skill: Functional literacy",
+                "Skill: Mathematics",
+                "Skill: Functional numeracy",
+                "Skill: Reading"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "EDUCATION_LEV",
@@ -61,16 +61,16 @@
             "constraints": {
               "enum": [
                 "",
-                "ISCED11_2",
-                "ISCED11_3"
+                "Lower secondary education",
+                "Upper secondary education"
               ]
             },
-            "title": "EDUCATION_LEV"
+            "title": "Education level"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -87,7 +87,7 @@
                 "United Kingdom of Great Britain and Northern Ireland EU-SILC 2014. World Inequality Database on Education (WIDE), June 2019. Data extracted on 13 April 2021."
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "Value",

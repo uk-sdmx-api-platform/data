@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -21,12 +21,12 @@
                 "Reference to Target 9 was a requirement"
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -38,7 +38,7 @@
                 "Data gathered from the latest version of NBSAP"
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "Value",

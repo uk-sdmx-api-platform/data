@@ -20,7 +20,7 @@
                 "Obs_Value = 0;  Out of 354 local breeds (including extinct ones), 1 are reported with genetic material stored, out of which 0 are reported with sufficient material stored to allow them to be reconstituted"
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "NATURE",
@@ -28,16 +28,16 @@
             "constraints": {
               "enum": [
                 "",
-                "C",
-                "E"
+                "Country Data",
+                "Estimated"
               ]
             },
-            "title": "NATURE"
+            "title": "Nature of data points"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -49,7 +49,7 @@
                 "FAO-WIEWS (http://www.fao.org/wiews) and EURISCO (http://eurisco.ipk-gatersleben.de)"
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "Value",

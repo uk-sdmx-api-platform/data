@@ -16,19 +16,19 @@
             "constraints": {
               "enum": [
                 "",
-                "ISCO08_221",
-                "ISCO08_2221_3221",
-                "ISCO08_222_322",
-                "ISCO08_2261",
-                "ISCO08_2262"
+                "Medical doctors",
+                "Nursing personnel",
+                "Nursing and midwifery personnel",
+                "Dentists",
+                "Pharmacists"
               ]
             },
-            "title": "OCCUPATION"
+            "title": "Occupation"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SEX",
@@ -36,16 +36,16 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

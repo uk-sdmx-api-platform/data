@@ -16,11 +16,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Y0T17",
-                "Y_GE18"
+                "under 18 years old",
+                "18 years old and over"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "COMMENT_OBS",
@@ -32,12 +32,12 @@
                 "Obs_Value = 0;  Data in reference to one country but derived from different types of sources should not be compared between them.\n"
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SEX",
@@ -45,11 +45,11 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "Value",

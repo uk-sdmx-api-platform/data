@@ -16,23 +16,23 @@
             "constraints": {
               "enum": [
                 "",
-                "DL_EXTREME",
-                "DL_HIGH",
-                "DL_LOW",
-                "DL_MEDIUM"
+                "Deviation Level: Extreme (75-100%)",
+                "Deviation Level: High (50-75%)",
+                "Deviation Level: Low (0-25%)",
+                "Deviation Level: Medium (25-50%)"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

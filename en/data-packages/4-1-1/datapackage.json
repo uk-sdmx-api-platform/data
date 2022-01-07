@@ -16,11 +16,11 @@
             "constraints": {
               "enum": [
                 "",
-                "SKILL_MATH",
-                "SKILL_READ"
+                "Skill: Mathematics",
+                "Skill: Reading"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "EDUCATION_LEV",
@@ -28,11 +28,11 @@
             "constraints": {
               "enum": [
                 "",
-                "ISCED11_1",
-                "ISCED11_2"
+                "Primary education",
+                "Lower secondary education"
               ]
             },
-            "title": "EDUCATION_LEV"
+            "title": "Education level"
           },
           {
             "name": "SEX",
@@ -40,11 +40,11 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -57,7 +57,7 @@
                 "Trends in International Mathematics and Science Study (TIMSS). Students achieving at least Intermediate International Benchmark. Grade 4. The results correspond only to England Data extracted on 13 April 2021."
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "Value",

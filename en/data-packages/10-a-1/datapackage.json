@@ -16,15 +16,15 @@
             "constraints": {
               "enum": [
                 "",
-                "AGG_AGR",
-                "AGG_ARMS",
-                "AGG_CLTH",
-                "AGG_IND",
-                "AGG_OIL",
-                "AGG_TXT"
+                "Agriculture products",
+                "Arms",
+                "Clothing",
+                "Industrial products",
+                "Oil",
+                "Textiles"
               ]
             },
-            "title": "PRODUCT"
+            "title": "Type of product"
           },
           {
             "name": "Value",

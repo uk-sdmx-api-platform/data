@@ -1,24 +1,24 @@
 Year,Value,SERIES
-2016,93.5,SI_COV_BENFTS
-2020,93.5,SI_COV_BENFTS
-2016,100.0,SI_COV_CHLD
-2020,100.0,SI_COV_CHLD
-2016,100.0,SI_COV_DISAB
-2017,100.0,SI_COV_DISAB
-2020,100.0,SI_COV_DISAB
-2000,98.0,SI_COV_PENSN
-2013,100.0,SI_COV_PENSN
-2014,100.0,SI_COV_PENSN
-2020,100.0,SI_COV_PENSN
-2016,100.0,SI_COV_POOR
-2000,68.2,SI_COV_UEMP
-2005,61.0,SI_COV_UEMP
-2007,53.8,SI_COV_UEMP
-2009,65.0,SI_COV_UEMP
-2010,61.6,SI_COV_UEMP
-2011,60.8,SI_COV_UEMP
-2014,60.0,SI_COV_UEMP
-2020,56.4,SI_COV_UEMP
-2016,76.6,SI_COV_VULN
-2020,76.6,SI_COV_VULN
-2019,68.0,SI_COV_WKINJRY
+2016,93.5,Proportion of population covered by at least one social protection benefit [1.3.1]
+2020,93.5,Proportion of population covered by at least one social protection benefit [1.3.1]
+2016,100.0,Proportion of children/households receiving child/family cash benefit [1.3.1]
+2020,100.0,Proportion of children/households receiving child/family cash benefit [1.3.1]
+2016,100.0,Proportion of population with severe disabilities receiving disability cash benefit [1.3.1]
+2017,100.0,Proportion of population with severe disabilities receiving disability cash benefit [1.3.1]
+2020,100.0,Proportion of population with severe disabilities receiving disability cash benefit [1.3.1]
+2000,98.0,Proportion of population above statutory pensionable age receiving a pension [1.3.1]
+2013,100.0,Proportion of population above statutory pensionable age receiving a pension [1.3.1]
+2014,100.0,Proportion of population above statutory pensionable age receiving a pension [1.3.1]
+2020,100.0,Proportion of population above statutory pensionable age receiving a pension [1.3.1]
+2016,100.0,Proportion of poor population receiving social assistance cash benefit [1.3.1]
+2000,68.2,Proportion of unemployed persons receiving unemployment cash benefit [1.3.1]
+2005,61.0,Proportion of unemployed persons receiving unemployment cash benefit [1.3.1]
+2007,53.8,Proportion of unemployed persons receiving unemployment cash benefit [1.3.1]
+2009,65.0,Proportion of unemployed persons receiving unemployment cash benefit [1.3.1]
+2010,61.6,Proportion of unemployed persons receiving unemployment cash benefit [1.3.1]
+2011,60.8,Proportion of unemployed persons receiving unemployment cash benefit [1.3.1]
+2014,60.0,Proportion of unemployed persons receiving unemployment cash benefit [1.3.1]
+2020,56.4,Proportion of unemployed persons receiving unemployment cash benefit [1.3.1]
+2016,76.6,Proportion of vulnerable population receiving social assistance cash benefit [1.3.1]
+2020,76.6,Proportion of vulnerable population receiving social assistance cash benefit [1.3.1]
+2019,68.0,Proportion of employed population covered in the event of work injury [1.3.1]

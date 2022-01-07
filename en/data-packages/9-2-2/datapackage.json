@@ -16,11 +16,11 @@
             "constraints": {
               "enum": [
                 "",
-                "ISIC3_D",
-                "ISIC4_C"
+                "Manufacturing (ISIC3 D)",
+                "Manufacturing"
               ]
             },
-            "title": "ACTIVITY"
+            "title": "Economic activity"
           },
           {
             "name": "COMMENT_OBS",
@@ -32,7 +32,7 @@
                 "Repository: Eurostat special tabulation | Break in series: Methodology revised"
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "Value",

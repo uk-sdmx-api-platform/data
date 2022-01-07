@@ -19,7 +19,7 @@
                 "The Exclusive Economic Zone (EEZ) comprises an area which extends either from the coast, or in federal systems from the seaward boundaries of the constituent states (3 to 12 nautical miles, in most cases) to 200 nautical miles (370 kilometres) off the coa"
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "LOWER_BOUND",
@@ -30,12 +30,12 @@
                 "85.30549"
               ]
             },
-            "title": "LOWER_BOUND"
+            "title": "Lower bound value"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -47,12 +47,12 @@
                 "Protected Planet: The World Database on Protected Areas (WDPA) [On-line], December, 2018, International Union for Conservation of Nature (IUCN) and United Nations Environment Programme's World Conservation Monitoring Centre (UNEP-WCMC)."
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "UPPER_BOUND",
@@ -63,7 +63,7 @@
                 "85.30549"
               ]
             },
-            "title": "UPPER_BOUND"
+            "title": "Upper bound value"
           },
           {
             "name": "Value",

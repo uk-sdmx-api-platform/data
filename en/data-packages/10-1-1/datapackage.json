@@ -16,10 +16,10 @@
             "constraints": {
               "enum": [
                 "",
-                "B40"
+                "Bottom 40%"
               ]
             },
-            "title": "INCOME_WEALTH_QUANTILE"
+            "title": "Income or wealth quantile"
           },
           {
             "name": "Value",

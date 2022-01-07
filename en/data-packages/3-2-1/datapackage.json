@@ -16,16 +16,16 @@
             "constraints": {
               "enum": [
                 "",
-                "Y0",
-                "Y0T4"
+                "under 1 year old",
+                "under 5 years old"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SEX",
@@ -33,16 +33,16 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

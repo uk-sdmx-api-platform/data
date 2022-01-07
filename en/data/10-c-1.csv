@@ -1,260 +1,260 @@
-Year,COMMENT_OBS,SERIES,CUST_BREAKDOWN,CUST_BREAKDOWN_LB,Value
-2016,Third quarter of the specified year.,SI_RMT_COST_BC,C04,Afghanistan,9.5771
-2017,Third quarter of the specified year.,SI_RMT_COST_BC,C04,Afghanistan,10.34954
-2018,Third quarter of the specified year.,SI_RMT_COST_BC,C04,Afghanistan,10.44064
-2019,Third quarter of the specified year.,SI_RMT_COST_BC,C04,Afghanistan,9.85659
-2016,Third quarter of the specified year.,SI_RMT_COST_BC,C08,Albania,8.57443
-2017,Third quarter of the specified year.,SI_RMT_COST_BC,C08,Albania,10.02317
-2018,Third quarter of the specified year.,SI_RMT_COST_BC,C08,Albania,8.62522
-2019,Third quarter of the specified year.,SI_RMT_COST_BC,C08,Albania,10.55096
-2016,Third quarter of the specified year.,SI_RMT_COST_BC,C100,Bulgaria,10.00002
-2017,Third quarter of the specified year.,SI_RMT_COST_BC,C100,Bulgaria,9.35523
-2018,Third quarter of the specified year.,SI_RMT_COST_BC,C100,Bulgaria,7.7109
-2019,Third quarter of the specified year.,SI_RMT_COST_BC,C100,Bulgaria,7.89829
-2016,Third quarter of the specified year.,SI_RMT_COST_BC,C144,Sri Lanka,5.12637
-2017,Third quarter of the specified year.,SI_RMT_COST_BC,C144,Sri Lanka,5.0389
-2018,Third quarter of the specified year.,SI_RMT_COST_BC,C144,Sri Lanka,5.03203
-2019,Third quarter of the specified year.,SI_RMT_COST_BC,C144,Sri Lanka,5.29087
-2016,Third quarter of the specified year.,SI_RMT_COST_BC,C156,China,6.61364
-2017,Third quarter of the specified year.,SI_RMT_COST_BC,C156,China,8.85495
-2018,Third quarter of the specified year.,SI_RMT_COST_BC,C156,China,7.63058
-2019,Third quarter of the specified year.,SI_RMT_COST_BC,C156,China,8.7324
-2016,Third quarter of the specified year.,SI_RMT_COST_BC,C231,Ethiopia,9.42892
-2017,Third quarter of the specified year.,SI_RMT_COST_BC,C231,Ethiopia,8.79886
-2018,Third quarter of the specified year.,SI_RMT_COST_BC,C231,Ethiopia,8.62765
-2019,Third quarter of the specified year.,SI_RMT_COST_BC,C231,Ethiopia,8.83017
-2016,Third quarter of the specified year.,SI_RMT_COST_BC,C232,Eritrea,8.80033
-2017,Third quarter of the specified year.,SI_RMT_COST_BC,C232,Eritrea,13.11366
-2018,Third quarter of the specified year.,SI_RMT_COST_BC,C232,Eritrea,12.21924
-2019,Third quarter of the specified year.,SI_RMT_COST_BC,C232,Eritrea,11.3525
-2016,Third quarter of the specified year.,SI_RMT_COST_BC,C270,Gambia,12.46131
-2017,Third quarter of the specified year.,SI_RMT_COST_BC,C270,Gambia,9.71662
-2018,Third quarter of the specified year.,SI_RMT_COST_BC,C270,Gambia,12.67105
-2019,Third quarter of the specified year.,SI_RMT_COST_BC,C270,Gambia,13.26285
-2016,Third quarter of the specified year.,SI_RMT_COST_BC,C288,Ghana,6.07414
-2017,Third quarter of the specified year.,SI_RMT_COST_BC,C288,Ghana,6.01555
-2018,Third quarter of the specified year.,SI_RMT_COST_BC,C288,Ghana,5.71583
-2019,Third quarter of the specified year.,SI_RMT_COST_BC,C288,Ghana,5.10835
-2016,Third quarter of the specified year.,SI_RMT_COST_BC,C356,India,4.18821
-2017,Third quarter of the specified year.,SI_RMT_COST_BC,C356,India,4.02775
-2018,Third quarter of the specified year.,SI_RMT_COST_BC,C356,India,4.01127
-2019,Third quarter of the specified year.,SI_RMT_COST_BC,C356,India,3.65481
-2016,Third quarter of the specified year.,SI_RMT_COST_BC,C388,Jamaica,8.07002
-2017,Third quarter of the specified year.,SI_RMT_COST_BC,C388,Jamaica,9.05192
-2018,Third quarter of the specified year.,SI_RMT_COST_BC,C388,Jamaica,8.56747
-2019,Third quarter of the specified year.,SI_RMT_COST_BC,C388,Jamaica,8.85824
-2016,Third quarter of the specified year.,SI_RMT_COST_BC,C404,Kenya,6.44315
-2017,Third quarter of the specified year.,SI_RMT_COST_BC,C404,Kenya,5.21103
-2018,Third quarter of the specified year.,SI_RMT_COST_BC,C404,Kenya,5.95321
-2019,Third quarter of the specified year.,SI_RMT_COST_BC,C404,Kenya,5.96043
-2016,Third quarter of the specified year.,SI_RMT_COST_BC,C422,Lebanon,14.83535
-2017,Third quarter of the specified year.,SI_RMT_COST_BC,C422,Lebanon,14.82614
-2018,Third quarter of the specified year.,SI_RMT_COST_BC,C422,Lebanon,12.83274
-2019,Third quarter of the specified year.,SI_RMT_COST_BC,C422,Lebanon,11.69903
-2016,Third quarter of the specified year.,SI_RMT_COST_BC,C440,Lithuania,6.74309
-2017,Third quarter of the specified year.,SI_RMT_COST_BC,C440,Lithuania,6.90961
-2018,Third quarter of the specified year.,SI_RMT_COST_BC,C440,Lithuania,6.83036
-2019,Third quarter of the specified year.,SI_RMT_COST_BC,C440,Lithuania,6.39292
-2016,Third quarter of the specified year.,SI_RMT_COST_BC,C50,Bangladesh,4.55477
-2017,Third quarter of the specified year.,SI_RMT_COST_BC,C50,Bangladesh,4.48675
-2018,Third quarter of the specified year.,SI_RMT_COST_BC,C50,Bangladesh,5.20275
-2019,Third quarter of the specified year.,SI_RMT_COST_BC,C50,Bangladesh,5.10969
-2016,Third quarter of the specified year.,SI_RMT_COST_BC,C524,Nepal,5.99368
-2017,Third quarter of the specified year.,SI_RMT_COST_BC,C524,Nepal,6.12398
-2018,Third quarter of the specified year.,SI_RMT_COST_BC,C524,Nepal,6.84286
-2019,Third quarter of the specified year.,SI_RMT_COST_BC,C524,Nepal,6.78926
-2016,Third quarter of the specified year.,SI_RMT_COST_BC,C566,Nigeria,8.01291
-2017,Third quarter of the specified year.,SI_RMT_COST_BC,C566,Nigeria,4.84922
-2018,Third quarter of the specified year.,SI_RMT_COST_BC,C566,Nigeria,5.89516
-2019,Third quarter of the specified year.,SI_RMT_COST_BC,C566,Nigeria,6.73966
-2016,Third quarter of the specified year.,SI_RMT_COST_BC,C586,Pakistan,4.12417
-2017,Third quarter of the specified year.,SI_RMT_COST_BC,C586,Pakistan,3.89728
-2018,Third quarter of the specified year.,SI_RMT_COST_BC,C586,Pakistan,4.38934
-2019,Third quarter of the specified year.,SI_RMT_COST_BC,C586,Pakistan,4.86524
-2016,Third quarter of the specified year.,SI_RMT_COST_BC,C608,Philippines,6.99734
-2017,Third quarter of the specified year.,SI_RMT_COST_BC,C608,Philippines,5.8552
-2018,Third quarter of the specified year.,SI_RMT_COST_BC,C608,Philippines,5.22973
-2019,Third quarter of the specified year.,SI_RMT_COST_BC,C608,Philippines,4.72371
-2016,Third quarter of the specified year.,SI_RMT_COST_BC,C616,Poland,5.31171
-2017,Third quarter of the specified year.,SI_RMT_COST_BC,C616,Poland,5.69212
-2018,Third quarter of the specified year.,SI_RMT_COST_BC,C616,Poland,4.76371
-2019,Third quarter of the specified year.,SI_RMT_COST_BC,C616,Poland,4.75339
-2016,Third quarter of the specified year.,SI_RMT_COST_BC,C642,Romania,9.39808
-2017,Third quarter of the specified year.,SI_RMT_COST_BC,C642,Romania,7.04173
-2018,Third quarter of the specified year.,SI_RMT_COST_BC,C642,Romania,6.16375
-2019,Third quarter of the specified year.,SI_RMT_COST_BC,C642,Romania,5.69086
-2016,Third quarter of the specified year.,SI_RMT_COST_BC,C646,Rwanda,13.04338
-2017,Third quarter of the specified year.,SI_RMT_COST_BC,C646,Rwanda,10.05452
-2018,Third quarter of the specified year.,SI_RMT_COST_BC,C646,Rwanda,9.93324
-2019,Third quarter of the specified year.,SI_RMT_COST_BC,C646,Rwanda,10.08758
-2016,Third quarter of the specified year.,SI_RMT_COST_BC,C694,Sierra Leone,7.48717
-2017,Third quarter of the specified year.,SI_RMT_COST_BC,C694,Sierra Leone,8.30958
-2018,Third quarter of the specified year.,SI_RMT_COST_BC,C694,Sierra Leone,10.35175
-2019,Third quarter of the specified year.,SI_RMT_COST_BC,C694,Sierra Leone,11.25876
-2016,Third quarter of the specified year.,SI_RMT_COST_BC,C704,Viet Nam,8.31491
-2017,Third quarter of the specified year.,SI_RMT_COST_BC,C704,Viet Nam,9.74191
-2018,Third quarter of the specified year.,SI_RMT_COST_BC,C704,Viet Nam,7.74698
-2019,Third quarter of the specified year.,SI_RMT_COST_BC,C704,Viet Nam,8.39389
-2016,Third quarter of the specified year.,SI_RMT_COST_BC,C706,Somalia,7.83798
-2017,Third quarter of the specified year.,SI_RMT_COST_BC,C706,Somalia,7.46448
-2018,Third quarter of the specified year.,SI_RMT_COST_BC,C706,Somalia,7.01965
-2019,Third quarter of the specified year.,SI_RMT_COST_BC,C706,Somalia,8.69676
-2016,Third quarter of the specified year.,SI_RMT_COST_BC,C710,South Africa,7.07212
-2017,Third quarter of the specified year.,SI_RMT_COST_BC,C710,South Africa,8.45322
-2018,Third quarter of the specified year.,SI_RMT_COST_BC,C710,South Africa,8.1655
-2019,Third quarter of the specified year.,SI_RMT_COST_BC,C710,South Africa,7.79324
-2016,Third quarter of the specified year.,SI_RMT_COST_BC,C716,Zimbabwe,8.03637
-2017,Third quarter of the specified year.,SI_RMT_COST_BC,C716,Zimbabwe,7.99592
-2018,Third quarter of the specified year.,SI_RMT_COST_BC,C716,Zimbabwe,8.23606
-2019,Third quarter of the specified year.,SI_RMT_COST_BC,C716,Zimbabwe,7.23558
-2016,Third quarter of the specified year.,SI_RMT_COST_BC,C728,South Sudan,11.03166
-2017,Third quarter of the specified year.,SI_RMT_COST_BC,C728,South Sudan,10.9998
-2018,Third quarter of the specified year.,SI_RMT_COST_BC,C728,South Sudan,9.43569
-2019,Third quarter of the specified year.,SI_RMT_COST_BC,C728,South Sudan,9.2494
-2016,Third quarter of the specified year.,SI_RMT_COST_BC,C76,Brazil,6.57066
-2017,Third quarter of the specified year.,SI_RMT_COST_BC,C76,Brazil,4.21538
-2018,Third quarter of the specified year.,SI_RMT_COST_BC,C76,Brazil,7.04601
-2019,Third quarter of the specified year.,SI_RMT_COST_BC,C76,Brazil,7.28393
-2016,Third quarter of the specified year.,SI_RMT_COST_BC,C764,Thailand,9.86149
-2017,Third quarter of the specified year.,SI_RMT_COST_BC,C764,Thailand,9.90314
-2018,Third quarter of the specified year.,SI_RMT_COST_BC,C764,Thailand,8.78418
-2019,Third quarter of the specified year.,SI_RMT_COST_BC,C764,Thailand,10.00574
-2016,Third quarter of the specified year.,SI_RMT_COST_BC,C800,Uganda,8.81468
-2017,Third quarter of the specified year.,SI_RMT_COST_BC,C800,Uganda,7.36131
-2018,Third quarter of the specified year.,SI_RMT_COST_BC,C800,Uganda,7.50622
-2019,Third quarter of the specified year.,SI_RMT_COST_BC,C800,Uganda,9.1675
-2016,Third quarter of the specified year.,SI_RMT_COST_BC,C834,United Republic of Tanzania,11.64004
-2017,Third quarter of the specified year.,SI_RMT_COST_BC,C834,United Republic of Tanzania,9.47947
-2018,Third quarter of the specified year.,SI_RMT_COST_BC,C834,United Republic of Tanzania,9.7573
-2019,Third quarter of the specified year.,SI_RMT_COST_BC,C834,United Republic of Tanzania,9.46688
-2016,Third quarter of the specified year.,SI_RMT_COST_BC,C894,Zambia,9.05203
-2017,Third quarter of the specified year.,SI_RMT_COST_BC,C894,Zambia,11.37147
-2018,Third quarter of the specified year.,SI_RMT_COST_BC,C894,Zambia,9.97353
-2019,Third quarter of the specified year.,SI_RMT_COST_BC,C894,Zambia,9.41576
-2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C04,Afghanistan,12.78288
-2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C04,Afghanistan,14.5117
-2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C04,Afghanistan,11.20569
-2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C04,Afghanistan,11.43922
-2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C08,Albania,9.27843
-2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C08,Albania,7.23656
-2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C08,Albania,8.49355
-2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C08,Albania,7.99398
-2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C100,Bulgaria,10.77386
-2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C100,Bulgaria,1.93778
-2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C100,Bulgaria,2.86917
-2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C100,Bulgaria,1.63477
-2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C144,Sri Lanka,6.14107
-2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C144,Sri Lanka,1.41164
-2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C144,Sri Lanka,1.99126
-2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C144,Sri Lanka,1.69574
-2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C156,China,7.44885
-2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C156,China,2.43196
-2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C156,China,2.20713
-2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C156,China,2.07417
-2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C231,Ethiopia,12.08252
-2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C231,Ethiopia,9.74657
-2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C231,Ethiopia,5.66472
-2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C231,Ethiopia,5.44876
-2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C232,Eritrea,9.66667
-2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C232,Eritrea,13.63374
-2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C232,Eritrea,11.64296
-2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C270,Gambia,13.64249
-2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C270,Gambia,6.10154
-2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C270,Gambia,6.09887
-2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C270,Gambia,6.35886
-2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C288,Ghana,6.55722
-2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C288,Ghana,2.82843
-2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C288,Ghana,2.6895
-2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C288,Ghana,1.54571
-2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C356,India,4.48001
-2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C356,India,0.11234
-2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C356,India,0.57189
-2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C356,India,-0.04035
-2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C388,Jamaica,8.57534
-2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C388,Jamaica,5.86408
-2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C388,Jamaica,5.99303
-2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C388,Jamaica,6.42265
-2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C404,Kenya,6.66103
-2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C404,Kenya,2.21451
-2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C404,Kenya,2.32206
-2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C404,Kenya,1.2594
-2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C422,Lebanon,19.0247
-2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C422,Lebanon,8.93644
-2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C422,Lebanon,7.43055
-2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C440,Lithuania,7.94171
-2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C440,Lithuania,1.59625
-2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C440,Lithuania,1.25433
-2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C440,Lithuania,0.73337
-2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C50,Bangladesh,6.07263
-2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C50,Bangladesh,3.29793
-2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C50,Bangladesh,2.62472
-2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C50,Bangladesh,2.30805
-2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C524,Nepal,8.14847
-2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C524,Nepal,5.94243
-2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C524,Nepal,5.28434
-2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C524,Nepal,4.85054
-2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C566,Nigeria,7.16573
-2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C566,Nigeria,4.83867
-2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C566,Nigeria,2.75769
-2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C566,Nigeria,4.75291
-2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C586,Pakistan,5.26778
-2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C586,Pakistan,1.26418
-2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C586,Pakistan,1.83904
-2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C586,Pakistan,2.34338
-2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C608,Philippines,7.77746
-2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C608,Philippines,2.48197
-2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C608,Philippines,2.52014
-2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C608,Philippines,0.69805
-2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C616,Poland,5.95554
-2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C616,Poland,1.39632
-2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C616,Poland,0.99579
-2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C616,Poland,0.87085
-2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C642,Romania,9.79174
-2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C642,Romania,1.18776
-2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C642,Romania,1.20761
-2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C642,Romania,1.08052
-2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C646,Rwanda,14.91966
-2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C646,Rwanda,8.65045
-2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C646,Rwanda,6.96817
-2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C646,Rwanda,6.92753
-2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C694,Sierra Leone,10.05245
-2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C694,Sierra Leone,8.71736
-2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C694,Sierra Leone,10.27892
-2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C694,Sierra Leone,13.48656
-2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C704,Viet Nam,10.7631
-2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C704,Viet Nam,3.1193
-2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C704,Viet Nam,3.32255
-2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C706,Somalia,7.8052
-2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C706,Somalia,7.26049
-2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C706,Somalia,8.07733
-2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C706,Somalia,8.75248
-2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C710,South Africa,8.53432
-2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C710,South Africa,3.47013
-2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C710,South Africa,2.90627
-2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C710,South Africa,1.52713
-2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C716,Zimbabwe,8.32198
-2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C716,Zimbabwe,5.4459
-2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C716,Zimbabwe,5.80353
-2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C716,Zimbabwe,6.3419
-2016,Obs_Value = NaN;  Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C728,South Sudan,11.32167
-2017,Obs_Value = NaN;  Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C728,South Sudan,16.03512
-2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C76,Brazil,6.65735
-2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C76,Brazil,-1.34783
-2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C76,Brazil,2.14565
-2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C76,Brazil,2.48654
-2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C764,Thailand,13.09609
-2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C764,Thailand,3.17313
-2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C764,Thailand,2.7412
-2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C764,Thailand,2.26984
-2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C800,Uganda,9.95977
-2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C800,Uganda,3.35742
-2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C800,Uganda,3.1589
-2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C800,Uganda,3.95852
-2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C834,United Republic of Tanzania,11.64004
-2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C834,United Republic of Tanzania,4.75252
-2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C834,United Republic of Tanzania,5.27926
-2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C834,United Republic of Tanzania,5.80142
-2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C894,Zambia,9.94294
-2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C894,Zambia,10.88788
-2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C894,Zambia,7.62098
-2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SI_RMT_COST_SC,C894,Zambia,8.62322
+Year,Observation-level footnotes,SERIES,Custom Breakdown,Label for custom breakdown,Value
+2016,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 04,Afghanistan,9.5771
+2017,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 04,Afghanistan,10.34954
+2018,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 04,Afghanistan,10.44064
+2019,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 04,Afghanistan,9.85659
+2016,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 08,Albania,8.57443
+2017,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 08,Albania,10.02317
+2018,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 08,Albania,8.62522
+2019,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 08,Albania,10.55096
+2016,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 100,Bulgaria,10.00002
+2017,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 100,Bulgaria,9.35523
+2018,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 100,Bulgaria,7.7109
+2019,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 100,Bulgaria,7.89829
+2016,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 144,Sri Lanka,5.12637
+2017,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 144,Sri Lanka,5.0389
+2018,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 144,Sri Lanka,5.03203
+2019,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 144,Sri Lanka,5.29087
+2016,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 156,China,6.61364
+2017,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 156,China,8.85495
+2018,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 156,China,7.63058
+2019,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 156,China,8.7324
+2016,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 231,Ethiopia,9.42892
+2017,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 231,Ethiopia,8.79886
+2018,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 231,Ethiopia,8.62765
+2019,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 231,Ethiopia,8.83017
+2016,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 232,Eritrea,8.80033
+2017,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 232,Eritrea,13.11366
+2018,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 232,Eritrea,12.21924
+2019,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 232,Eritrea,11.3525
+2016,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 270,Gambia,12.46131
+2017,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 270,Gambia,9.71662
+2018,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 270,Gambia,12.67105
+2019,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 270,Gambia,13.26285
+2016,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 288,Ghana,6.07414
+2017,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 288,Ghana,6.01555
+2018,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 288,Ghana,5.71583
+2019,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 288,Ghana,5.10835
+2016,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 356,India,4.18821
+2017,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 356,India,4.02775
+2018,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 356,India,4.01127
+2019,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 356,India,3.65481
+2016,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 388,Jamaica,8.07002
+2017,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 388,Jamaica,9.05192
+2018,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 388,Jamaica,8.56747
+2019,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 388,Jamaica,8.85824
+2016,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 404,Kenya,6.44315
+2017,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 404,Kenya,5.21103
+2018,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 404,Kenya,5.95321
+2019,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 404,Kenya,5.96043
+2016,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 422,Lebanon,14.83535
+2017,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 422,Lebanon,14.82614
+2018,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 422,Lebanon,12.83274
+2019,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 422,Lebanon,11.69903
+2016,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 440,Lithuania,6.74309
+2017,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 440,Lithuania,6.90961
+2018,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 440,Lithuania,6.83036
+2019,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 440,Lithuania,6.39292
+2016,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 50,Bangladesh,4.55477
+2017,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 50,Bangladesh,4.48675
+2018,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 50,Bangladesh,5.20275
+2019,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 50,Bangladesh,5.10969
+2016,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 524,Nepal,5.99368
+2017,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 524,Nepal,6.12398
+2018,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 524,Nepal,6.84286
+2019,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 524,Nepal,6.78926
+2016,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 566,Nigeria,8.01291
+2017,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 566,Nigeria,4.84922
+2018,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 566,Nigeria,5.89516
+2019,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 566,Nigeria,6.73966
+2016,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 586,Pakistan,4.12417
+2017,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 586,Pakistan,3.89728
+2018,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 586,Pakistan,4.38934
+2019,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 586,Pakistan,4.86524
+2016,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 608,Philippines,6.99734
+2017,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 608,Philippines,5.8552
+2018,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 608,Philippines,5.22973
+2019,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 608,Philippines,4.72371
+2016,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 616,Poland,5.31171
+2017,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 616,Poland,5.69212
+2018,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 616,Poland,4.76371
+2019,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 616,Poland,4.75339
+2016,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 642,Romania,9.39808
+2017,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 642,Romania,7.04173
+2018,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 642,Romania,6.16375
+2019,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 642,Romania,5.69086
+2016,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 646,Rwanda,13.04338
+2017,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 646,Rwanda,10.05452
+2018,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 646,Rwanda,9.93324
+2019,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 646,Rwanda,10.08758
+2016,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 694,Sierra Leone,7.48717
+2017,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 694,Sierra Leone,8.30958
+2018,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 694,Sierra Leone,10.35175
+2019,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 694,Sierra Leone,11.25876
+2016,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 704,Viet Nam,8.31491
+2017,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 704,Viet Nam,9.74191
+2018,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 704,Viet Nam,7.74698
+2019,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 704,Viet Nam,8.39389
+2016,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 706,Somalia,7.83798
+2017,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 706,Somalia,7.46448
+2018,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 706,Somalia,7.01965
+2019,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 706,Somalia,8.69676
+2016,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 710,South Africa,7.07212
+2017,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 710,South Africa,8.45322
+2018,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 710,South Africa,8.1655
+2019,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 710,South Africa,7.79324
+2016,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 716,Zimbabwe,8.03637
+2017,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 716,Zimbabwe,7.99592
+2018,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 716,Zimbabwe,8.23606
+2019,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 716,Zimbabwe,7.23558
+2016,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 728,South Sudan,11.03166
+2017,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 728,South Sudan,10.9998
+2018,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 728,South Sudan,9.43569
+2019,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 728,South Sudan,9.2494
+2016,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 76,Brazil,6.57066
+2017,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 76,Brazil,4.21538
+2018,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 76,Brazil,7.04601
+2019,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 76,Brazil,7.28393
+2016,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 764,Thailand,9.86149
+2017,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 764,Thailand,9.90314
+2018,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 764,Thailand,8.78418
+2019,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 764,Thailand,10.00574
+2016,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 800,Uganda,8.81468
+2017,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 800,Uganda,7.36131
+2018,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 800,Uganda,7.50622
+2019,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 800,Uganda,9.1675
+2016,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 834,United Republic of Tanzania,11.64004
+2017,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 834,United Republic of Tanzania,9.47947
+2018,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 834,United Republic of Tanzania,9.7573
+2019,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 834,United Republic of Tanzania,9.46688
+2016,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 894,Zambia,9.05203
+2017,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 894,Zambia,11.37147
+2018,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 894,Zambia,9.97353
+2019,Third quarter of the specified year.,Corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 894,Zambia,9.41576
+2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 04,Afghanistan,12.78288
+2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 04,Afghanistan,14.5117
+2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 04,Afghanistan,11.20569
+2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 04,Afghanistan,11.43922
+2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 08,Albania,9.27843
+2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 08,Albania,7.23656
+2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 08,Albania,8.49355
+2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 08,Albania,7.99398
+2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 100,Bulgaria,10.77386
+2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 100,Bulgaria,1.93778
+2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 100,Bulgaria,2.86917
+2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 100,Bulgaria,1.63477
+2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 144,Sri Lanka,6.14107
+2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 144,Sri Lanka,1.41164
+2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 144,Sri Lanka,1.99126
+2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 144,Sri Lanka,1.69574
+2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 156,China,7.44885
+2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 156,China,2.43196
+2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 156,China,2.20713
+2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 156,China,2.07417
+2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 231,Ethiopia,12.08252
+2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 231,Ethiopia,9.74657
+2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 231,Ethiopia,5.66472
+2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 231,Ethiopia,5.44876
+2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 232,Eritrea,9.66667
+2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 232,Eritrea,13.63374
+2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 232,Eritrea,11.64296
+2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 270,Gambia,13.64249
+2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 270,Gambia,6.10154
+2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 270,Gambia,6.09887
+2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 270,Gambia,6.35886
+2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 288,Ghana,6.55722
+2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 288,Ghana,2.82843
+2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 288,Ghana,2.6895
+2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 288,Ghana,1.54571
+2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 356,India,4.48001
+2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 356,India,0.11234
+2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 356,India,0.57189
+2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 356,India,-0.04035
+2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 388,Jamaica,8.57534
+2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 388,Jamaica,5.86408
+2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 388,Jamaica,5.99303
+2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 388,Jamaica,6.42265
+2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 404,Kenya,6.66103
+2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 404,Kenya,2.21451
+2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 404,Kenya,2.32206
+2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 404,Kenya,1.2594
+2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 422,Lebanon,19.0247
+2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 422,Lebanon,8.93644
+2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 422,Lebanon,7.43055
+2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 440,Lithuania,7.94171
+2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 440,Lithuania,1.59625
+2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 440,Lithuania,1.25433
+2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 440,Lithuania,0.73337
+2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 50,Bangladesh,6.07263
+2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 50,Bangladesh,3.29793
+2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 50,Bangladesh,2.62472
+2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 50,Bangladesh,2.30805
+2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 524,Nepal,8.14847
+2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 524,Nepal,5.94243
+2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 524,Nepal,5.28434
+2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 524,Nepal,4.85054
+2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 566,Nigeria,7.16573
+2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 566,Nigeria,4.83867
+2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 566,Nigeria,2.75769
+2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 566,Nigeria,4.75291
+2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 586,Pakistan,5.26778
+2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 586,Pakistan,1.26418
+2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 586,Pakistan,1.83904
+2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 586,Pakistan,2.34338
+2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 608,Philippines,7.77746
+2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 608,Philippines,2.48197
+2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 608,Philippines,2.52014
+2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 608,Philippines,0.69805
+2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 616,Poland,5.95554
+2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 616,Poland,1.39632
+2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 616,Poland,0.99579
+2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 616,Poland,0.87085
+2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 642,Romania,9.79174
+2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 642,Romania,1.18776
+2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 642,Romania,1.20761
+2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 642,Romania,1.08052
+2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 646,Rwanda,14.91966
+2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 646,Rwanda,8.65045
+2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 646,Rwanda,6.96817
+2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 646,Rwanda,6.92753
+2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 694,Sierra Leone,10.05245
+2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 694,Sierra Leone,8.71736
+2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 694,Sierra Leone,10.27892
+2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 694,Sierra Leone,13.48656
+2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 704,Viet Nam,10.7631
+2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 704,Viet Nam,3.1193
+2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 704,Viet Nam,3.32255
+2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 706,Somalia,7.8052
+2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 706,Somalia,7.26049
+2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 706,Somalia,8.07733
+2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 706,Somalia,8.75248
+2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 710,South Africa,8.53432
+2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 710,South Africa,3.47013
+2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 710,South Africa,2.90627
+2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 710,South Africa,1.52713
+2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 716,Zimbabwe,8.32198
+2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 716,Zimbabwe,5.4459
+2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 716,Zimbabwe,5.80353
+2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 716,Zimbabwe,6.3419
+2016,Obs_Value = NaN;  Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 728,South Sudan,11.32167
+2017,Obs_Value = NaN;  Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 728,South Sudan,16.03512
+2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 76,Brazil,6.65735
+2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 76,Brazil,-1.34783
+2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 76,Brazil,2.14565
+2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 76,Brazil,2.48654
+2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 764,Thailand,13.09609
+2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 764,Thailand,3.17313
+2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 764,Thailand,2.7412
+2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 764,Thailand,2.26984
+2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 800,Uganda,9.95977
+2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 800,Uganda,3.35742
+2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 800,Uganda,3.1589
+2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 800,Uganda,3.95852
+2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 834,United Republic of Tanzania,11.64004
+2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 834,United Republic of Tanzania,4.75252
+2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 834,United Republic of Tanzania,5.27926
+2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 834,United Republic of Tanzania,5.80142
+2016,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 894,Zambia,9.94294
+2017,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 894,Zambia,10.88788
+2018,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 894,Zambia,7.62098
+2019,Third quarter of the specified year. Global SmaRT Average: 4.47%.,SmaRT corridor remittance costs as a proportion of the amount remitted [10.c.1],Custom code 894,Zambia,8.62322

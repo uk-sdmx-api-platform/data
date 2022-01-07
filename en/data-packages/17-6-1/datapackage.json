@@ -23,7 +23,7 @@
                 "Obs_Value = 0;  Estimated breakdown based on data for residential connections."
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "COMPOSITE_BREAKDOWN",
@@ -31,12 +31,12 @@
             "constraints": {
               "enum": [
                 "",
-                "IS_256KT2M",
-                "IS_2MT10M",
-                "IS_GE10M"
+                "Internet speed: 256 kbit/s to less than 2 Mbit/s",
+                "Internet speed: 2 Mbit/s to less than 10 Mbit/s",
+                "Internet speed: 10 Mbit/s or above"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "NATURE",
@@ -44,16 +44,16 @@
             "constraints": {
               "enum": [
                 "",
-                "C",
-                "E"
+                "Country Data",
+                "Estimated"
               ]
             },
-            "title": "NATURE"
+            "title": "Nature of data points"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -65,12 +65,12 @@
                 "Ofcom"
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

@@ -19,7 +19,7 @@
                 "2019"
               ]
             },
-            "title": "BASE_PER"
+            "title": "Base period"
           },
           {
             "name": "COMMENT_OBS",
@@ -35,17 +35,17 @@
                 "Net Disbursements; Based on OECD, DAC database, 2021; Provisional; Constant 2019 USD million"
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

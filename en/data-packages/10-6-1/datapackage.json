@@ -16,25 +16,25 @@
             "constraints": {
               "enum": [
                 "",
-                "IO_ADB",
-                "IO_AFDB",
-                "IO_ECOSOC",
-                "IO_FSB",
-                "IO_IADB",
-                "IO_IBRD",
-                "IO_IFC",
-                "IO_IMF",
-                "IO_UNGA",
-                "IO_UNSC",
-                "IO_WTO"
+                "International Organisation: Asian Development Bank",
+                "International Organisation: African Development Bank",
+                "International Organisation: UN Economic and Social Council",
+                "International Organisation: Financial Stability Board",
+                "International Organisation: Inter-American Development Bank",
+                "International Organisation: International Bank for Reconstruction and Development",
+                "International Organisation: International Finance Corporation",
+                "International Organisation: International Monetary Fund",
+                "International Organisation: UN General Assembly",
+                "International Organisation: UN Security Council",
+                "International Organisation: World Trade Organisation"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -56,7 +56,7 @@
                 "WTO Annual Report 2020"
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "Value",

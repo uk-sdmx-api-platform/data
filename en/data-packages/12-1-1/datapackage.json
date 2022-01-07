@@ -16,18 +16,18 @@
             "constraints": {
               "enum": [
                 "",
-                "POL_ECONFIS",
-                "POL_MACRO",
-                "POL_REGLEG",
-                "POL_VOLSRG"
+                "Policy instruments: Economic and fiscal instruments (taxes and tax incentives, grants, preferential loans, etc.)",
+                "Policy instruments: Macro policies (e.g. national strategies/action plans, new institutions/entities)",
+                "Policy instruments: Regulatory and legal instruments (e.g. laws, standards, enforcement measures)",
+                "Policy instruments: Voluntary and self-regulation schemes (e.g. sectoral partnerships, codes of conduct, CSR initiatives)"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "Value",

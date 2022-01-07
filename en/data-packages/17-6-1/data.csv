@@ -1,113 +1,113 @@
-Year,NATURE,SOURCE_DETAIL,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,COMMENT_OBS,Value
-2000,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,,PER_100_POP,,0.08976
-2001,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,,PER_100_POP,,0.55977
-2002,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,,PER_100_POP,,2.28648
-2003,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,,PER_100_POP,,5.22772
-2004,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,,PER_100_POP,,10.2282
-2005,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,,PER_100_POP,,16.41896
-2006,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,,PER_100_POP,,21.39545
-2007,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,,PER_100_POP,,25.39412
-2008,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,,PER_100_POP,,27.85421
-2009,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,,PER_100_POP,,28.45395
-2010,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,,PER_100_POP,,30.17896
-2011,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,,PER_100_POP,,32.15914
-2012,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,,PER_100_POP,,33.608
-2013,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,,PER_100_POP,,35.45457
-2014,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,,PER_100_POP,,36.27132
-2015,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,,PER_100_POP,,37.4477
-2016,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,,PER_100_POP,,38.42294
-2017,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,,PER_100_POP,,39.02955
-2018,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,,PER_100_POP,,39.59703
-2019,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,,PER_100_POP,,39.66666
-2008,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_256KT2M,PER_100_POP,Obs_Value = 0;  ,1.34844
-2009,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_256KT2M,PER_100_POP,Obs_Value = 0;  ,0.63029
-2010,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_256KT2M,PER_100_POP,Obs_Value = 0;  ,0.38275
-2011,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_256KT2M,PER_100_POP,Obs_Value = 0;  ,0.0
-2012,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_256KT2M,PER_100_POP,Obs_Value = 0;  ,0.0
-2013,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_256KT2M,PER_100_POP,Obs_Value = 0;  ,0.0
-2014,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_256KT2M,PER_100_POP,Obs_Value = 0;  ,0.0
-2015,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_256KT2M,PER_100_POP,Obs_Value = 0;  ,0.0
-2016,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_256KT2M,PER_100_POP,Obs_Value = 0;  ,0.0
-2017,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_256KT2M,PER_100_POP,Obs_Value = 0;  ,0.0
-2018,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_256KT2M,PER_100_POP,Obs_Value = 0;  ,0.0
-2019,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_256KT2M,PER_100_POP,Obs_Value = 0;  ,0.0
-2008,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_2MT10M,PER_100_POP,,24.56598
-2009,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_2MT10M,PER_100_POP,,18.23661
-2010,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_2MT10M,PER_100_POP,,9.93042
-2011,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_2MT10M,PER_100_POP,,8.56806
-2012,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_2MT10M,PER_100_POP,,7.42279
-2013,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_2MT10M,PER_100_POP,,5.80817
-2014,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_2MT10M,PER_100_POP,,4.68702
-2015,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_2MT10M,PER_100_POP,,2.62134
-2016,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_2MT10M,PER_100_POP,,1.76745
-2017,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_2MT10M,PER_100_POP,,1.17954
-2018,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_2MT10M,PER_100_POP,,0.62714
-2019,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_2MT10M,PER_100_POP,,0.39669
-2008,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_GE10M,PER_100_POP,,1.88186
-2009,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_GE10M,PER_100_POP,,9.55792
-2010,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_GE10M,PER_100_POP,,19.83672
-2011,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_GE10M,PER_100_POP,,22.34296
-2012,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_GE10M,PER_100_POP,,25.40093
-2013,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_GE10M,PER_100_POP,,27.72843
-2014,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_GE10M,PER_100_POP,,31.5843
-2015,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_GE10M,PER_100_POP,,34.82636
-2016,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_GE10M,PER_100_POP,,36.65549
-2017,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_GE10M,PER_100_POP,,37.85001
-2018,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_GE10M,PER_100_POP,,38.96989
-2019,E,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",IT_NET_BBND,IS_GE10M,PER_100_POP,,39.26997
-2000,C,Ofcom,IT_NET_BBNDN,,NUMBER,Excl. corporate connections.,52890.0
-2001,C,Ofcom,IT_NET_BBNDN,,NUMBER,Excl. corporate connections.,330960.0
-2002,C,Ofcom,IT_NET_BBNDN,,NUMBER,Excl. corporate connections.,1356481.0
-2003,C,Ofcom,IT_NET_BBNDN,,NUMBER,Excl. corporate connections.,3113702.33
-2004,C,Ofcom,IT_NET_BBNDN,,NUMBER,Excl. corporate connections.,6123907.0
-2005,C,Ofcom,IT_NET_BBNDN,,NUMBER,Excl. corporate connections.,9898653.0
-2006,C,Ofcom,IT_NET_BBNDN,,NUMBER,Excl. corporate connections.,13013000.0
-2007,C,Ofcom,IT_NET_BBNDN,,NUMBER,Excl. corporate connections.,15606000.0
-2008,C,Ofcom,IT_NET_BBNDN,,NUMBER,Excl. corporate connections.,17310023.0
-2009,C,Ofcom,IT_NET_BBNDN,,NUMBER,Excl. corporate connections.,17877223.0
-2010,C,Ofcom,IT_NET_BBNDN,,NUMBER,Excl. corporate connections.,19151508.0
-2011,C,Ofcom,IT_NET_BBNDN,,NUMBER,Excl. corporate connections.,20588901.0
-2012,C,Ofcom,IT_NET_BBNDN,,NUMBER,Excl. corporate connections.,21685668.0
-2013,C,Ofcom,IT_NET_BBNDN,,NUMBER,Excl. corporate connections.,23039803.0
-2014,C,Ofcom,IT_NET_BBNDN,,NUMBER,Excl. corporate connections.,23729800.0
-2015,C,Ofcom,IT_NET_BBNDN,,NUMBER,Excl. corporate connections.,24663109.0
-2016,C,Ofcom,IT_NET_BBNDN,,NUMBER,Excl. corporate connections.,25473619.0
-2017,C,Ofcom,IT_NET_BBNDN,,NUMBER,Excl. corporate connections.,26043431.0
-2018,C,Ofcom,IT_NET_BBNDN,,NUMBER,Excl. corporate connections.,26586110.0
-2019,C,Ofcom,IT_NET_BBNDN,,NUMBER,Excl. corporate connections.,26786963.0
-2008,C,Ofcom,IT_NET_BBNDN,IS_256KT2M,NUMBER,Obs_Value = 0;  Estimated breakdown based on data for residential connections.,837991.0
-2009,C,Ofcom,IT_NET_BBNDN,IS_256KT2M,NUMBER,Obs_Value = 0;  Estimated breakdown based on data for residential connections.,396005.0
-2010,C,Ofcom,IT_NET_BBNDN,IS_256KT2M,NUMBER,Obs_Value = 0;  Estimated breakdown based on data for residential connections.,242891.0
-2011,C,Ofcom,IT_NET_BBNDN,IS_256KT2M,NUMBER,Obs_Value = 0;  Estimated breakdown based on data for residential connections.,0.0
-2012,C,Ofcom,IT_NET_BBNDN,IS_256KT2M,NUMBER,Obs_Value = 0;  Estimated breakdown based on data for residential connections.,0.0
-2013,C,Ofcom,IT_NET_BBNDN,IS_256KT2M,NUMBER,Obs_Value = 0;  Estimated breakdown based on data for residential connections.,0.0
-2014,C,Ofcom,IT_NET_BBNDN,IS_256KT2M,NUMBER,Obs_Value = 0;  Estimated breakdown based on data for residential connections.,0.0
-2015,C,Ofcom,IT_NET_BBNDN,IS_256KT2M,NUMBER,Obs_Value = 0;  Estimated breakdown based on data for residential connections.,0.0
-2016,C,Ofcom,IT_NET_BBNDN,IS_256KT2M,NUMBER,Obs_Value = 0;  Estimated breakdown based on data for residential connections.,0.0
-2017,C,Ofcom,IT_NET_BBNDN,IS_256KT2M,NUMBER,Obs_Value = 0;  Estimated breakdown based on data for residential connections.,0.0
-2018,C,Ofcom,IT_NET_BBNDN,IS_256KT2M,NUMBER,Obs_Value = 0;  Estimated breakdown based on data for residential connections.,0.0
-2019,C,Ofcom,IT_NET_BBNDN,IS_256KT2M,NUMBER,Obs_Value = 0;  Estimated breakdown based on data for residential connections.,0.0
-2008,C,Ofcom,IT_NET_BBNDN,IS_2MT10M,NUMBER,"Incl. <2 Mbit/s, Estimated breakdown based on data for residential connections.",15266549.0
-2009,C,Ofcom,IT_NET_BBNDN,IS_2MT10M,NUMBER,"Incl. <2 Mbit/s, Estimated breakdown based on data for residential connections.",11457811.0
-2010,C,Ofcom,IT_NET_BBNDN,IS_2MT10M,NUMBER,"Incl. <2 Mbit/s, Estimated breakdown based on data for residential connections.",6301828.0
-2011,C,Ofcom,IT_NET_BBNDN,IS_2MT10M,NUMBER,"Incl. <2 Mbit/s, Estimated breakdown based on data for residential connections.",5485439.0
-2012,C,Ofcom,IT_NET_BBNDN,IS_2MT10M,NUMBER,"Incl. <2 Mbit/s, Estimated breakdown based on data for residential connections.",4789579.0
-2013,C,Ofcom,IT_NET_BBNDN,IS_2MT10M,NUMBER,"Incl. <2 Mbit/s, Estimated breakdown based on data for residential connections.",3774383.0
-2014,C,Ofcom,IT_NET_BBNDN,IS_2MT10M,NUMBER,"Incl. <2 Mbit/s, Estimated breakdown based on data for residential connections.",3066389.0
-2015,C,Ofcom,IT_NET_BBNDN,IS_2MT10M,NUMBER,"Incl. <2 Mbit/s, Estimated breakdown based on data for residential connections.",1726418.0
-2016,C,Ofcom,IT_NET_BBNDN,IS_2MT10M,NUMBER,"Incl. <2 Mbit/s, Estimated breakdown based on data for residential connections.",1171786.0
-2017,C,Ofcom,IT_NET_BBNDN,IS_2MT10M,NUMBER,"Incl. <2 Mbit/s, Estimated breakdown based on data for residential connections.",787079.0
-2018,C,Ofcom,IT_NET_BBNDN,IS_2MT10M,NUMBER,"Incl. <2 Mbit/s, Estimated breakdown based on data for residential connections.",421072.0
-2019,C,Ofcom,IT_NET_BBNDN,IS_2MT10M,NUMBER,"Incl. <2 Mbit/s, Estimated breakdown based on data for residential connections.",267883.0
-2008,C,Ofcom,IT_NET_BBNDN,IS_GE10M,NUMBER,Estimated breakdown based on data for residential connections.,1169483.0
-2009,C,Ofcom,IT_NET_BBNDN,IS_GE10M,NUMBER,Estimated breakdown based on data for residential connections.,6005106.0
-2010,C,Ofcom,IT_NET_BBNDN,IS_GE10M,NUMBER,Estimated breakdown based on data for residential connections.,12588345.0
-2011,C,Ofcom,IT_NET_BBNDN,IS_GE10M,NUMBER,Estimated breakdown based on data for residential connections.,14304394.0
-2012,C,Ofcom,IT_NET_BBNDN,IS_GE10M,NUMBER,Estimated breakdown based on data for residential connections.,16390030.0
-2013,C,Ofcom,IT_NET_BBNDN,IS_GE10M,NUMBER,Estimated breakdown based on data for residential connections.,18019050.0
-2014,C,Ofcom,IT_NET_BBNDN,IS_GE10M,NUMBER,Estimated breakdown based on data for residential connections.,20663411.0
-2015,C,Ofcom,IT_NET_BBNDN,IS_GE10M,NUMBER,Estimated breakdown based on data for residential connections.,22936692.0
-2016,C,Ofcom,IT_NET_BBNDN,IS_GE10M,NUMBER,Estimated breakdown based on data for residential connections.,24301833.0
-2017,C,Ofcom,IT_NET_BBNDN,IS_GE10M,NUMBER,Estimated breakdown based on data for residential connections.,25256352.0
-2018,C,Ofcom,IT_NET_BBNDN,IS_GE10M,NUMBER,Estimated breakdown based on data for residential connections.,26165038.0
-2019,C,Ofcom,IT_NET_BBNDN,IS_GE10M,NUMBER,Estimated breakdown based on data for residential connections.,26519080.0
+Year,Nature of data points,Source details,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Observation-level footnotes,Value
+2000,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Per 100 population,,0.08976
+2001,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Per 100 population,,0.55977
+2002,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Per 100 population,,2.28648
+2003,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Per 100 population,,5.22772
+2004,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Per 100 population,,10.2282
+2005,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Per 100 population,,16.41896
+2006,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Per 100 population,,21.39545
+2007,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Per 100 population,,25.39412
+2008,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Per 100 population,,27.85421
+2009,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Per 100 population,,28.45395
+2010,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Per 100 population,,30.17896
+2011,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Per 100 population,,32.15914
+2012,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Per 100 population,,33.608
+2013,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Per 100 population,,35.45457
+2014,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Per 100 population,,36.27132
+2015,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Per 100 population,,37.4477
+2016,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Per 100 population,,38.42294
+2017,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Per 100 population,,39.02955
+2018,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Per 100 population,,39.59703
+2019,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Per 100 population,,39.66666
+2008,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 256 kbit/s to less than 2 Mbit/s,Per 100 population,Obs_Value = 0;  ,1.34844
+2009,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 256 kbit/s to less than 2 Mbit/s,Per 100 population,Obs_Value = 0;  ,0.63029
+2010,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 256 kbit/s to less than 2 Mbit/s,Per 100 population,Obs_Value = 0;  ,0.38275
+2011,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 256 kbit/s to less than 2 Mbit/s,Per 100 population,Obs_Value = 0;  ,0.0
+2012,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 256 kbit/s to less than 2 Mbit/s,Per 100 population,Obs_Value = 0;  ,0.0
+2013,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 256 kbit/s to less than 2 Mbit/s,Per 100 population,Obs_Value = 0;  ,0.0
+2014,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 256 kbit/s to less than 2 Mbit/s,Per 100 population,Obs_Value = 0;  ,0.0
+2015,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 256 kbit/s to less than 2 Mbit/s,Per 100 population,Obs_Value = 0;  ,0.0
+2016,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 256 kbit/s to less than 2 Mbit/s,Per 100 population,Obs_Value = 0;  ,0.0
+2017,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 256 kbit/s to less than 2 Mbit/s,Per 100 population,Obs_Value = 0;  ,0.0
+2018,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 256 kbit/s to less than 2 Mbit/s,Per 100 population,Obs_Value = 0;  ,0.0
+2019,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 256 kbit/s to less than 2 Mbit/s,Per 100 population,Obs_Value = 0;  ,0.0
+2008,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 2 Mbit/s to less than 10 Mbit/s,Per 100 population,,24.56598
+2009,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 2 Mbit/s to less than 10 Mbit/s,Per 100 population,,18.23661
+2010,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 2 Mbit/s to less than 10 Mbit/s,Per 100 population,,9.93042
+2011,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 2 Mbit/s to less than 10 Mbit/s,Per 100 population,,8.56806
+2012,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 2 Mbit/s to less than 10 Mbit/s,Per 100 population,,7.42279
+2013,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 2 Mbit/s to less than 10 Mbit/s,Per 100 population,,5.80817
+2014,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 2 Mbit/s to less than 10 Mbit/s,Per 100 population,,4.68702
+2015,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 2 Mbit/s to less than 10 Mbit/s,Per 100 population,,2.62134
+2016,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 2 Mbit/s to less than 10 Mbit/s,Per 100 population,,1.76745
+2017,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 2 Mbit/s to less than 10 Mbit/s,Per 100 population,,1.17954
+2018,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 2 Mbit/s to less than 10 Mbit/s,Per 100 population,,0.62714
+2019,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 2 Mbit/s to less than 10 Mbit/s,Per 100 population,,0.39669
+2008,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 10 Mbit/s or above,Per 100 population,,1.88186
+2009,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 10 Mbit/s or above,Per 100 population,,9.55792
+2010,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 10 Mbit/s or above,Per 100 population,,19.83672
+2011,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 10 Mbit/s or above,Per 100 population,,22.34296
+2012,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 10 Mbit/s or above,Per 100 population,,25.40093
+2013,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 10 Mbit/s or above,Per 100 population,,27.72843
+2014,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 10 Mbit/s or above,Per 100 population,,31.5843
+2015,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 10 Mbit/s or above,Per 100 population,,34.82636
+2016,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 10 Mbit/s or above,Per 100 population,,36.65549
+2017,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 10 Mbit/s or above,Per 100 population,,37.85001
+2018,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 10 Mbit/s or above,Per 100 population,,38.96989
+2019,Estimated,"Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",Fixed broadband subscriptions per 100 inhabitants [17.6.1],Internet speed: 10 Mbit/s or above,Per 100 population,,39.26997
+2000,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],,Number,Excl. corporate connections.,52890.0
+2001,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],,Number,Excl. corporate connections.,330960.0
+2002,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],,Number,Excl. corporate connections.,1356481.0
+2003,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],,Number,Excl. corporate connections.,3113702.33
+2004,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],,Number,Excl. corporate connections.,6123907.0
+2005,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],,Number,Excl. corporate connections.,9898653.0
+2006,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],,Number,Excl. corporate connections.,13013000.0
+2007,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],,Number,Excl. corporate connections.,15606000.0
+2008,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],,Number,Excl. corporate connections.,17310023.0
+2009,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],,Number,Excl. corporate connections.,17877223.0
+2010,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],,Number,Excl. corporate connections.,19151508.0
+2011,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],,Number,Excl. corporate connections.,20588901.0
+2012,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],,Number,Excl. corporate connections.,21685668.0
+2013,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],,Number,Excl. corporate connections.,23039803.0
+2014,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],,Number,Excl. corporate connections.,23729800.0
+2015,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],,Number,Excl. corporate connections.,24663109.0
+2016,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],,Number,Excl. corporate connections.,25473619.0
+2017,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],,Number,Excl. corporate connections.,26043431.0
+2018,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],,Number,Excl. corporate connections.,26586110.0
+2019,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],,Number,Excl. corporate connections.,26786963.0
+2008,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 256 kbit/s to less than 2 Mbit/s,Number,Obs_Value = 0;  Estimated breakdown based on data for residential connections.,837991.0
+2009,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 256 kbit/s to less than 2 Mbit/s,Number,Obs_Value = 0;  Estimated breakdown based on data for residential connections.,396005.0
+2010,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 256 kbit/s to less than 2 Mbit/s,Number,Obs_Value = 0;  Estimated breakdown based on data for residential connections.,242891.0
+2011,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 256 kbit/s to less than 2 Mbit/s,Number,Obs_Value = 0;  Estimated breakdown based on data for residential connections.,0.0
+2012,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 256 kbit/s to less than 2 Mbit/s,Number,Obs_Value = 0;  Estimated breakdown based on data for residential connections.,0.0
+2013,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 256 kbit/s to less than 2 Mbit/s,Number,Obs_Value = 0;  Estimated breakdown based on data for residential connections.,0.0
+2014,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 256 kbit/s to less than 2 Mbit/s,Number,Obs_Value = 0;  Estimated breakdown based on data for residential connections.,0.0
+2015,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 256 kbit/s to less than 2 Mbit/s,Number,Obs_Value = 0;  Estimated breakdown based on data for residential connections.,0.0
+2016,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 256 kbit/s to less than 2 Mbit/s,Number,Obs_Value = 0;  Estimated breakdown based on data for residential connections.,0.0
+2017,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 256 kbit/s to less than 2 Mbit/s,Number,Obs_Value = 0;  Estimated breakdown based on data for residential connections.,0.0
+2018,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 256 kbit/s to less than 2 Mbit/s,Number,Obs_Value = 0;  Estimated breakdown based on data for residential connections.,0.0
+2019,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 256 kbit/s to less than 2 Mbit/s,Number,Obs_Value = 0;  Estimated breakdown based on data for residential connections.,0.0
+2008,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 2 Mbit/s to less than 10 Mbit/s,Number,"Incl. <2 Mbit/s, Estimated breakdown based on data for residential connections.",15266549.0
+2009,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 2 Mbit/s to less than 10 Mbit/s,Number,"Incl. <2 Mbit/s, Estimated breakdown based on data for residential connections.",11457811.0
+2010,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 2 Mbit/s to less than 10 Mbit/s,Number,"Incl. <2 Mbit/s, Estimated breakdown based on data for residential connections.",6301828.0
+2011,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 2 Mbit/s to less than 10 Mbit/s,Number,"Incl. <2 Mbit/s, Estimated breakdown based on data for residential connections.",5485439.0
+2012,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 2 Mbit/s to less than 10 Mbit/s,Number,"Incl. <2 Mbit/s, Estimated breakdown based on data for residential connections.",4789579.0
+2013,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 2 Mbit/s to less than 10 Mbit/s,Number,"Incl. <2 Mbit/s, Estimated breakdown based on data for residential connections.",3774383.0
+2014,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 2 Mbit/s to less than 10 Mbit/s,Number,"Incl. <2 Mbit/s, Estimated breakdown based on data for residential connections.",3066389.0
+2015,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 2 Mbit/s to less than 10 Mbit/s,Number,"Incl. <2 Mbit/s, Estimated breakdown based on data for residential connections.",1726418.0
+2016,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 2 Mbit/s to less than 10 Mbit/s,Number,"Incl. <2 Mbit/s, Estimated breakdown based on data for residential connections.",1171786.0
+2017,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 2 Mbit/s to less than 10 Mbit/s,Number,"Incl. <2 Mbit/s, Estimated breakdown based on data for residential connections.",787079.0
+2018,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 2 Mbit/s to less than 10 Mbit/s,Number,"Incl. <2 Mbit/s, Estimated breakdown based on data for residential connections.",421072.0
+2019,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 2 Mbit/s to less than 10 Mbit/s,Number,"Incl. <2 Mbit/s, Estimated breakdown based on data for residential connections.",267883.0
+2008,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 10 Mbit/s or above,Number,Estimated breakdown based on data for residential connections.,1169483.0
+2009,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 10 Mbit/s or above,Number,Estimated breakdown based on data for residential connections.,6005106.0
+2010,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 10 Mbit/s or above,Number,Estimated breakdown based on data for residential connections.,12588345.0
+2011,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 10 Mbit/s or above,Number,Estimated breakdown based on data for residential connections.,14304394.0
+2012,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 10 Mbit/s or above,Number,Estimated breakdown based on data for residential connections.,16390030.0
+2013,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 10 Mbit/s or above,Number,Estimated breakdown based on data for residential connections.,18019050.0
+2014,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 10 Mbit/s or above,Number,Estimated breakdown based on data for residential connections.,20663411.0
+2015,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 10 Mbit/s or above,Number,Estimated breakdown based on data for residential connections.,22936692.0
+2016,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 10 Mbit/s or above,Number,Estimated breakdown based on data for residential connections.,24301833.0
+2017,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 10 Mbit/s or above,Number,Estimated breakdown based on data for residential connections.,25256352.0
+2018,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 10 Mbit/s or above,Number,Estimated breakdown based on data for residential connections.,26165038.0
+2019,Country Data,Ofcom,Fixed broadband subscriptions (number) [17.6.1],Internet speed: 10 Mbit/s or above,Number,Estimated breakdown based on data for residential connections.,26519080.0

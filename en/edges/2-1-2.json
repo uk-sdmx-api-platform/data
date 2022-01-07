@@ -1,1 +1,1 @@
-{"From":["UNIT_MULT","UPPER_BOUND","LOWER_BOUND","SEX"],"To":["UPPER_BOUND","LOWER_BOUND","SEX","AGE"]}
+{"From":["Upper bound value","Lower bound value","Sex"],"To":["Lower bound value","Sex","Age"]}

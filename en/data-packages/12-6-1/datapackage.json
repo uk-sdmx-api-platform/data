@@ -16,11 +16,11 @@
             "constraints": {
               "enum": [
                 "",
-                "LOR_ADVANCED",
-                "LOR_MINIMUM"
+                "Level of requirement: Advanced",
+                "Level of requirement: Minimum"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "Value",

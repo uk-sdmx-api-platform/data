@@ -16,11 +16,11 @@
             "constraints": {
               "enum": [
                 "",
-                "SKILL_LTRCY",
-                "SKILL_NMRCY"
+                "Skill: Functional literacy",
+                "Skill: Functional numeracy"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "SEX",
@@ -28,11 +28,11 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "Value",

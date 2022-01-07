@@ -16,15 +16,15 @@
             "constraints": {
               "enum": [
                 "",
-                "Y15T24",
-                "Y25T44",
-                "Y45T54",
-                "Y55T64",
-                "Y_GE15",
-                "Y_GE65"
+                "15 to 24 years old",
+                "25 to 44 years old",
+                "45 to 54 years old",
+                "55 to 64 years old",
+                "15 years old and over",
+                "65 years old and over"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "COMMENT_OBS",
@@ -37,12 +37,12 @@
                 "Travel related to unpaid domestic work is not included."
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SEX",
@@ -50,11 +50,11 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "Value",

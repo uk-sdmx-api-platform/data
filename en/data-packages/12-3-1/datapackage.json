@@ -16,22 +16,22 @@
             "constraints": {
               "enum": [
                 "",
-                "FWS_HHS",
-                "FWS_OOHC",
-                "FWS_RTL"
+                "Food Waste Sector: Households",
+                "Food Waste Sector: Out-of-home consumption",
+                "Food Waste Sector: Retail"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

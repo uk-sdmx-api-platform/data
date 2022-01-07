@@ -1,3 +1,3 @@
 From,To
-COMMENT_OBS,SEX
-COMMENT_OBS,COMPOSITE_BREAKDOWN
+Observation-level footnotes,Sex
+Observation-level footnotes,COMPOSITE_BREAKDOWN

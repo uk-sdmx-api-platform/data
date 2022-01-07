@@ -16,12 +16,12 @@
             "constraints": {
               "enum": [
                 "",
-                "C01",
-                "C02",
-                "C03"
+                "Custom code 01",
+                "Custom code 02",
+                "Custom code 03"
               ]
             },
-            "title": "CUST_BREAKDOWN"
+            "title": "Custom Breakdown"
           },
           {
             "name": "CUST_BREAKDOWN_LB",
@@ -34,7 +34,7 @@
                 "Manchester"
               ]
             },
-            "title": "CUST_BREAKDOWN_LB"
+            "title": "Label for custom breakdown"
           },
           {
             "name": "Value",

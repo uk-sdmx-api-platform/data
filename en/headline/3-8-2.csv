@@ -1,7 +1,7 @@
 Year,Value,SERIES
-2000,2.0,SH_XPD_EARN10
-2005,2.03,SH_XPD_EARN10
-2013,1.64,SH_XPD_EARN10
-2000,0.26,SH_XPD_EARN25
-2005,0.34,SH_XPD_EARN25
-2013,0.48,SH_XPD_EARN25
+2000,2.0,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income [3.8.2]
+2005,2.03,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income [3.8.2]
+2013,1.64,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income [3.8.2]
+2000,0.26,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income [3.8.2]
+2005,0.34,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income [3.8.2]
+2013,0.48,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income [3.8.2]

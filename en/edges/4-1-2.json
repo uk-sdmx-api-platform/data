@@ -1,1 +1,1 @@
-{"From":["SOURCE_DETAIL","EDUCATION_LEV","EDUCATION_LEV","URBANISATION","EDUCATION_LEV"],"To":["EDUCATION_LEV","SEX","URBANISATION","COMMENT_OBS","INCOME_WEALTH_QUANTILE"]}
+{"From":["Source details","Education level","Education level","Degree of urbanisation","Education level"],"To":["Education level","Sex","Degree of urbanisation","Observation-level footnotes","Income or wealth quantile"]}

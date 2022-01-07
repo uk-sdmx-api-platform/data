@@ -16,18 +16,18 @@
             "constraints": {
               "enum": [
                 "",
-                "ISCO08_1",
-                "ISCO08_2",
-                "ISCO08_3",
-                "ISCO08_4",
-                "ISCO08_5",
-                "ISCO08_6",
-                "ISCO08_7",
-                "ISCO08_8",
-                "ISCO08_9"
+                "Managers",
+                "Professionals",
+                "Technicians and associate professionals",
+                "Clerical support workers",
+                "Service and sales workers",
+                "Skilled agricultural, forestry and fishery workers",
+                "Craft and related trades workers",
+                "Plant and machine operators, and assemblers",
+                "Elementary occupations"
               ]
             },
-            "title": "OCCUPATION"
+            "title": "Occupation"
           },
           {
             "name": "SEX",
@@ -35,11 +35,11 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "Value",

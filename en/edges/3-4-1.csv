@@ -1,5 +1,5 @@
 From,To
-UPPER_BOUND,LOWER_BOUND
-LOWER_BOUND,SEX
-LOWER_BOUND,AGE
-LOWER_BOUND,COMPOSITE_BREAKDOWN
+Upper bound value,Lower bound value
+Lower bound value,Sex
+Lower bound value,Age
+Lower bound value,COMPOSITE_BREAKDOWN

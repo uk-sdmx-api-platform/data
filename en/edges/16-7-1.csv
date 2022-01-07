@@ -1,4 +1,4 @@
 From,To
-COMMENT_OBS,AGE
-AGE,SEX
-SEX,COMPOSITE_BREAKDOWN
+Observation-level footnotes,Age
+Age,Sex
+Sex,COMPOSITE_BREAKDOWN

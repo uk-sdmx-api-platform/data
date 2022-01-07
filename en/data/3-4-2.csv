@@ -1,31 +1,31 @@
-Year,UPPER_BOUND,LOWER_BOUND,SERIES,SEX,UNIT_MEASURE,Value
-2000,8.4,7.4,SH_STA_SCIDE,,PER_100000_POP,8.5
-2005,8.4,7.4,SH_STA_SCIDE,,PER_100000_POP,7.9
-2010,8.4,7.4,SH_STA_SCIDE,,PER_100000_POP,7.8
-2015,8.4,7.4,SH_STA_SCIDE,,PER_100000_POP,8.8
-2019,8.4,7.4,SH_STA_SCIDE,,PER_100000_POP,7.9
-2000,4.3,3.8,SH_STA_SCIDE,F,PER_100000_POP,4.3
-2005,4.3,3.8,SH_STA_SCIDE,F,PER_100000_POP,4.1
-2010,4.3,3.8,SH_STA_SCIDE,F,PER_100000_POP,3.7
-2015,4.3,3.8,SH_STA_SCIDE,F,PER_100000_POP,4.4
-2019,4.3,3.8,SH_STA_SCIDE,F,PER_100000_POP,4.0
-2000,12.6,11.2,SH_STA_SCIDE,M,PER_100000_POP,13.0
-2005,12.6,11.2,SH_STA_SCIDE,M,PER_100000_POP,11.8
-2010,12.6,11.2,SH_STA_SCIDE,M,PER_100000_POP,12.1
-2015,12.6,11.2,SH_STA_SCIDE,M,PER_100000_POP,13.4
-2019,12.6,11.2,SH_STA_SCIDE,M,PER_100000_POP,11.8
-2000,5674,5018,SH_STA_SCIDEN,,NUMBER,5036.0
-2005,5674,5018,SH_STA_SCIDEN,,NUMBER,4740.0
-2010,5674,5018,SH_STA_SCIDEN,,NUMBER,4970.0
-2015,5674,5018,SH_STA_SCIDEN,,NUMBER,5808.0
-2019,5674,5018,SH_STA_SCIDEN,,NUMBER,5325.0
-2000,1469,1282,SH_STA_SCIDEN,F,NUMBER,1302.0
-2005,1469,1282,SH_STA_SCIDEN,F,NUMBER,1254.0
-2010,1469,1282,SH_STA_SCIDEN,F,NUMBER,1209.0
-2015,1469,1282,SH_STA_SCIDEN,F,NUMBER,1453.0
-2019,1469,1282,SH_STA_SCIDEN,F,NUMBER,1376.0
-2000,4205,3736,SH_STA_SCIDEN,M,NUMBER,3735.0
-2005,4205,3736,SH_STA_SCIDEN,M,NUMBER,3486.0
-2010,4205,3736,SH_STA_SCIDEN,M,NUMBER,3761.0
-2015,4205,3736,SH_STA_SCIDEN,M,NUMBER,4355.0
-2019,4205,3736,SH_STA_SCIDEN,M,NUMBER,3949.0
+Year,Upper bound value,Lower bound value,SERIES,Sex,UNIT_MEASURE,Value
+2000,8.4,7.4,Suicide mortality rate [3.4.2],,"Per 100,000 population",8.5
+2005,8.4,7.4,Suicide mortality rate [3.4.2],,"Per 100,000 population",7.9
+2010,8.4,7.4,Suicide mortality rate [3.4.2],,"Per 100,000 population",7.8
+2015,8.4,7.4,Suicide mortality rate [3.4.2],,"Per 100,000 population",8.8
+2019,8.4,7.4,Suicide mortality rate [3.4.2],,"Per 100,000 population",7.9
+2000,4.3,3.8,Suicide mortality rate [3.4.2],Female,"Per 100,000 population",4.3
+2005,4.3,3.8,Suicide mortality rate [3.4.2],Female,"Per 100,000 population",4.1
+2010,4.3,3.8,Suicide mortality rate [3.4.2],Female,"Per 100,000 population",3.7
+2015,4.3,3.8,Suicide mortality rate [3.4.2],Female,"Per 100,000 population",4.4
+2019,4.3,3.8,Suicide mortality rate [3.4.2],Female,"Per 100,000 population",4.0
+2000,12.6,11.2,Suicide mortality rate [3.4.2],Male,"Per 100,000 population",13.0
+2005,12.6,11.2,Suicide mortality rate [3.4.2],Male,"Per 100,000 population",11.8
+2010,12.6,11.2,Suicide mortality rate [3.4.2],Male,"Per 100,000 population",12.1
+2015,12.6,11.2,Suicide mortality rate [3.4.2],Male,"Per 100,000 population",13.4
+2019,12.6,11.2,Suicide mortality rate [3.4.2],Male,"Per 100,000 population",11.8
+2000,5674,5018,Number of deaths attributed to suicide [3.4.2],,Number,5036.0
+2005,5674,5018,Number of deaths attributed to suicide [3.4.2],,Number,4740.0
+2010,5674,5018,Number of deaths attributed to suicide [3.4.2],,Number,4970.0
+2015,5674,5018,Number of deaths attributed to suicide [3.4.2],,Number,5808.0
+2019,5674,5018,Number of deaths attributed to suicide [3.4.2],,Number,5325.0
+2000,1469,1282,Number of deaths attributed to suicide [3.4.2],Female,Number,1302.0
+2005,1469,1282,Number of deaths attributed to suicide [3.4.2],Female,Number,1254.0
+2010,1469,1282,Number of deaths attributed to suicide [3.4.2],Female,Number,1209.0
+2015,1469,1282,Number of deaths attributed to suicide [3.4.2],Female,Number,1453.0
+2019,1469,1282,Number of deaths attributed to suicide [3.4.2],Female,Number,1376.0
+2000,4205,3736,Number of deaths attributed to suicide [3.4.2],Male,Number,3735.0
+2005,4205,3736,Number of deaths attributed to suicide [3.4.2],Male,Number,3486.0
+2010,4205,3736,Number of deaths attributed to suicide [3.4.2],Male,Number,3761.0
+2015,4205,3736,Number of deaths attributed to suicide [3.4.2],Male,Number,4355.0
+2019,4205,3736,Number of deaths attributed to suicide [3.4.2],Male,Number,3949.0

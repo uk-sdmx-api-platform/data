@@ -20,7 +20,7 @@
                 "Official country report to FAO (FRA 2020)"
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "NATURE",
@@ -28,16 +28,16 @@
             "constraints": {
               "enum": [
                 "",
-                "C",
-                "E"
+                "Country Data",
+                "Estimated"
               ]
             },
-            "title": "NATURE"
+            "title": "Nature of data points"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -50,12 +50,12 @@
                 "FAO, Global Forest Resources Assessment and FAOSTAT"
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "UNIT_MULT",
@@ -63,11 +63,11 @@
             "constraints": {
               "enum": [
                 "",
-                "0",
-                "3"
+                "Units",
+                "Thousands"
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Unit multiplier"
           },
           {
             "name": "Value",

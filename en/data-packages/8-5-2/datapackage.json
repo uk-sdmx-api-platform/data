@@ -16,12 +16,12 @@
             "constraints": {
               "enum": [
                 "",
-                "Y15T24",
-                "Y_GE15",
-                "Y_GE25"
+                "15 to 24 years old",
+                "15 years old and over",
+                "25 years old and over"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "COMMENT_OBS",
@@ -33,7 +33,7 @@
                 "Repository: Eurostat special tabulation"
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "DISABILITY_STATUS",
@@ -41,16 +41,16 @@
             "constraints": {
               "enum": [
                 "",
-                "PD",
-                "PWD"
+                "Persons with disability",
+                "Persons without disability"
               ]
             },
-            "title": "DISABILITY_STATUS"
+            "title": "Disability status"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SEX",
@@ -58,11 +58,11 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -74,7 +74,7 @@
                 "LFS - Labour Force Survey"
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "Value",

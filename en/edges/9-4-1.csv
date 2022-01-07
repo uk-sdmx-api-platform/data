@@ -1,4 +1,3 @@
 From,To
-UNIT_MULT,SOURCE_DETAIL
-SOURCE_DETAIL,ACTIVITY
-SOURCE_DETAIL,BASE_PER
+Source details,Economic activity
+Source details,Base period

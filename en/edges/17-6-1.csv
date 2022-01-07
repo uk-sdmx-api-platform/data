@@ -1,4 +1,4 @@
 From,To
-NATURE,SOURCE_DETAIL
-SOURCE_DETAIL,COMPOSITE_BREAKDOWN
-SOURCE_DETAIL,COMMENT_OBS
+Nature of data points,Source details
+Source details,COMPOSITE_BREAKDOWN
+Source details,Observation-level footnotes

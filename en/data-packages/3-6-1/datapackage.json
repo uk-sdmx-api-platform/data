@@ -21,7 +21,7 @@
                 "4.5"
               ]
             },
-            "title": "LOWER_BOUND"
+            "title": "Lower bound value"
           },
           {
             "name": "SEX",
@@ -29,11 +29,11 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UPPER_BOUND",
@@ -46,7 +46,7 @@
                 "5.1"
               ]
             },
-            "title": "UPPER_BOUND"
+            "title": "Upper bound value"
           },
           {
             "name": "Value",

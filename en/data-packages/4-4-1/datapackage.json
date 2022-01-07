@@ -16,17 +16,17 @@
             "constraints": {
               "enum": [
                 "",
-                "SKILL_ICTCDV",
-                "SKILL_ICTCMFL",
-                "SKILL_ICTCPT",
-                "SKILL_ICTPRGM",
-                "SKILL_ICTPST",
-                "SKILL_ICTSFWR",
-                "SKILL_ICTSSHT",
-                "SKILL_ICTTRFF"
+                "Skill: ICT Skill: connecting and installing new devices",
+                "Skill: ICT Skill: Copying or moving a file or folder",
+                "Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document",
+                "Skill: ICT Skill: Writing a computer program using a specialized programming language",
+                "Skill: ICT Skill: Creating electronic presentations with presentation software",
+                "Skill: ICT Skill: Finding, downloading, installing and configuring software",
+                "Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet",
+                "Skill: ICT Skill: Transferring files between a computer and other devices"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "SEX",
@@ -34,11 +34,11 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -50,7 +50,7 @@
                 "Office for National Statistics"
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "Value",

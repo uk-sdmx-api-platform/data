@@ -16,12 +16,12 @@
             "constraints": {
               "enum": [
                 "",
-                "ISIC4_A01_A0210_A0322",
-                "ISIC4_BTFXE",
-                "ISIC4_GTT"
+                "Agriculture (ISIC4 A01 A0210 A0322)",
+                "Industries",
+                "Services (G to T)"
               ]
             },
-            "title": "ACTIVITY"
+            "title": "Economic activity"
           },
           {
             "name": "COMMENT_OBS",
@@ -32,7 +32,7 @@
                 "Obs_Value = NaN;  NaN = A figure was not provided"
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "Value",

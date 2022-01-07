@@ -22,7 +22,7 @@
                 "Repository: ILO calculations based on Eurostat data | Reference group coverage: Employees | Coverage of occupational injuries: Reported injuries | Definition of permanent incapacity: Permanent incapacity is defined as 183 or days of absence from work"
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "COMPOSITE_BREAKDOWN",
@@ -30,17 +30,17 @@
             "constraints": {
               "enum": [
                 "",
-                "MS_EUMIGRANT",
-                "MS_NOMIGRANT",
-                "MS_NONEUMIGRANT"
+                "Migrant Status: EU Migrant",
+                "Migrant Status: Non-migrant",
+                "Migrant Status: Non-EU Migrant"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SEX",
@@ -48,11 +48,11 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "Value",

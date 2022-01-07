@@ -20,12 +20,12 @@
                 "Gross disbursements; Based on OECD, CRS databased, 2021; Constant 2019 USD million"
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "Value",

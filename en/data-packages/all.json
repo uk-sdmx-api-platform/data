@@ -18,22 +18,22 @@
             "constraints": {
               "enum": [
                 "",
-                "FWS_HHS",
-                "FWS_OOHC",
-                "FWS_RTL"
+                "Food Waste Sector: Households",
+                "Food Waste Sector: Out-of-home consumption",
+                "Food Waste Sector: Retail"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -93,7 +93,7 @@
                 "Official country report to FAO (FRA 2020)"
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "NATURE",
@@ -101,16 +101,16 @@
             "constraints": {
               "enum": [
                 "",
-                "C",
-                "E"
+                "Country Data",
+                "Estimated"
               ]
             },
-            "title": "NATURE"
+            "title": "Nature of data points"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -123,12 +123,12 @@
                 "FAO, Global Forest Resources Assessment and FAOSTAT"
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "UNIT_MULT",
@@ -136,11 +136,11 @@
             "constraints": {
               "enum": [
                 "",
-                "0",
-                "3"
+                "Units",
+                "Thousands"
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Unit multiplier"
           },
           {
             "name": "Value",
@@ -175,7 +175,7 @@
                 "Official country report to FAO (FRA 2020)"
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "NATURE",
@@ -183,16 +183,16 @@
             "constraints": {
               "enum": [
                 "",
-                "C",
-                "E"
+                "Country Data",
+                "Estimated"
               ]
             },
-            "title": "NATURE"
+            "title": "Nature of data points"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -204,12 +204,12 @@
                 "FAO, Global Forest Resources Assessment"
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "UNIT_MULT",
@@ -217,11 +217,11 @@
             "constraints": {
               "enum": [
                 "",
-                "0",
-                "3"
+                "Units",
+                "Thousands"
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Unit multiplier"
           },
           {
             "name": "Value",
@@ -256,12 +256,12 @@
                 "Consolidated General Government Expenditure"
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -273,12 +273,12 @@
                 "UNSD national account estimates"
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -310,10 +310,10 @@
             "constraints": {
               "enum": [
                 "",
-                "Y_GE15"
+                "15 years old and over"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "LOWER_BOUND",
@@ -335,12 +335,12 @@
                 "78.2"
               ]
             },
-            "title": "LOWER_BOUND"
+            "title": "Lower bound value"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SEX",
@@ -348,16 +348,16 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "UNIT_MULT",
@@ -365,11 +365,11 @@
             "constraints": {
               "enum": [
                 "",
-                "0",
-                "3"
+                "Units",
+                "Thousands"
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Unit multiplier"
           },
           {
             "name": "UPPER_BOUND",
@@ -390,7 +390,7 @@
                 "77.1"
               ]
             },
-            "title": "UPPER_BOUND"
+            "title": "Upper bound value"
           },
           {
             "name": "Value",
@@ -425,12 +425,12 @@
                 "Quarter four data of the year in reference"
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -450,12 +450,12 @@
                 "World Trade Organization, and World Bank GDP estimates."
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -562,7 +562,7 @@
                 "2019"
               ]
             },
-            "title": "BASE_PER"
+            "title": "Base period"
           },
           {
             "name": "COMMENT_OBS",
@@ -578,17 +578,17 @@
                 "Net Disbursements; Based on OECD, DAC database, 2021; Provisional; Constant 2019 USD million"
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -648,12 +648,12 @@
                 "Gross disbursements; Based on OECD, CRS databased, 2021; Constant 2019 USD million"
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "Value",
@@ -709,11 +709,11 @@
             "constraints": {
               "enum": [
                 "",
-                "R",
-                "U"
+                "Rural",
+                "Urban"
               ]
             },
-            "title": "URBANISATION"
+            "title": "Degree of urbanisation"
           },
           {
             "name": "Value",
@@ -790,7 +790,7 @@
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "Value",
@@ -822,11 +822,11 @@
             "constraints": {
               "enum": [
                 "",
-                "ISIC4_C",
-                "ISIC4_C10T32X19"
+                "Manufacturing",
+                "Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment"
               ]
             },
-            "title": "ACTIVITY"
+            "title": "Economic activity"
           },
           {
             "name": "BASE_PER",
@@ -838,12 +838,12 @@
                 "2017"
               ]
             },
-            "title": "BASE_PER"
+            "title": "Base period"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -855,12 +855,12 @@
                 "UNIDO MVA 2021 Database. Available at https://stat.unido.org. IEA (2020), CO2 Emissions from Fuel Combustion. https://www.iea.org/statistics"
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "UNIT_MULT",
@@ -868,11 +868,11 @@
             "constraints": {
               "enum": [
                 "",
-                "0",
-                "6"
+                "Units",
+                "Millions"
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Unit multiplier"
           },
           {
             "name": "Value",
@@ -928,11 +928,11 @@
             "constraints": {
               "enum": [
                 "",
-                "R",
-                "U"
+                "Rural",
+                "Urban"
               ]
             },
-            "title": "URBANISATION"
+            "title": "Degree of urbanisation"
           },
           {
             "name": "Value",
@@ -968,7 +968,7 @@
                 "Eurostat_2021"
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "COMPOSITE_BREAKDOWN",
@@ -976,17 +976,17 @@
             "constraints": {
               "enum": [
                 "",
-                "WT_INCINRT",
-                "WT_LANDFIL",
-                "WT_RECYCL"
+                "Waste treatment: Incineration",
+                "Waste treatment: Landfilling",
+                "Waste treatment: Recycling"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -998,12 +998,12 @@
                 "UNSTATS / WESR "
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1032,7 +1032,7 @@
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "Value",
@@ -1064,23 +1064,23 @@
             "constraints": {
               "enum": [
                 "",
-                "DL_EXTREME",
-                "DL_HIGH",
-                "DL_LOW",
-                "DL_MEDIUM"
+                "Deviation Level: Extreme (75-100%)",
+                "Deviation Level: High (50-75%)",
+                "Deviation Level: Low (0-25%)",
+                "Deviation Level: Medium (25-50%)"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1112,16 +1112,16 @@
             "constraints": {
               "enum": [
                 "",
-                "FCC_H",
-                "FCC_M"
+                "Frequency of Chlorophyll-a concentration: High",
+                "Frequency of Chlorophyll-a concentration: Moderate"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -1133,12 +1133,12 @@
                 "World Environment Situation Room"
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1173,7 +1173,7 @@
                 "2010"
               ]
             },
-            "title": "BASE_PER"
+            "title": "Base period"
           },
           {
             "name": "PRODUCT",
@@ -1181,35 +1181,35 @@
             "constraints": {
               "enum": [
                 "",
-                "MF1",
-                "MF11",
-                "MF121",
-                "MF122",
-                "MF13",
-                "MF14",
-                "MF2",
-                "MF21",
-                "MF22",
-                "MF3",
-                "MF4",
-                "MF41",
-                "MF421",
-                "MF422",
-                "MF_AGG3A",
-                "MF_AGG3B"
+                "Biomass (material flows)",
+                "Crops (material flows)",
+                "Crop residues (material flows)",
+                "Grazed biomass and fodder crops (material flows)",
+                "Wood (material flows)",
+                "Wild catch and harvest (material flows)",
+                "Metal ores (material flows)",
+                "Ferrous ores (material flows)",
+                "Non-ferrous ores (material flows)",
+                "Non-metallic minerals (material flows)",
+                "Fossil fuels (material flows)",
+                "Coal (material flows)",
+                "Petroleum (material flows)",
+                "Natural gas (material flows)",
+                "Non-metallic minerals - construction dominant (material flows)",
+                "Non-metallic minerals - industrial or agricultural dominant (material flows)"
               ]
             },
-            "title": "PRODUCT"
+            "title": "Type of product"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1244,7 +1244,7 @@
                 "2010"
               ]
             },
-            "title": "BASE_PER"
+            "title": "Base period"
           },
           {
             "name": "PRODUCT",
@@ -1252,35 +1252,35 @@
             "constraints": {
               "enum": [
                 "",
-                "MF1",
-                "MF11",
-                "MF121",
-                "MF122",
-                "MF13",
-                "MF14",
-                "MF2",
-                "MF21",
-                "MF22",
-                "MF3",
-                "MF4",
-                "MF41",
-                "MF421",
-                "MF422",
-                "MF_AGG3A",
-                "MF_AGG3B"
+                "Biomass (material flows)",
+                "Crops (material flows)",
+                "Crop residues (material flows)",
+                "Grazed biomass and fodder crops (material flows)",
+                "Wood (material flows)",
+                "Wild catch and harvest (material flows)",
+                "Metal ores (material flows)",
+                "Ferrous ores (material flows)",
+                "Non-ferrous ores (material flows)",
+                "Non-metallic minerals (material flows)",
+                "Fossil fuels (material flows)",
+                "Coal (material flows)",
+                "Petroleum (material flows)",
+                "Natural gas (material flows)",
+                "Non-metallic minerals - construction dominant (material flows)",
+                "Non-metallic minerals - industrial or agricultural dominant (material flows)"
               ]
             },
-            "title": "PRODUCT"
+            "title": "Type of product"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1312,12 +1312,12 @@
             "constraints": {
               "enum": [
                 "",
-                "C01",
-                "C02",
-                "C03"
+                "Custom code 01",
+                "Custom code 02",
+                "Custom code 03"
               ]
             },
-            "title": "CUST_BREAKDOWN"
+            "title": "Custom Breakdown"
           },
           {
             "name": "CUST_BREAKDOWN_LB",
@@ -1330,7 +1330,7 @@
                 "Manchester"
               ]
             },
-            "title": "CUST_BREAKDOWN_LB"
+            "title": "Label for custom breakdown"
           },
           {
             "name": "Value",
@@ -1362,11 +1362,11 @@
             "constraints": {
               "enum": [
                 "",
-                "LOR_ADVANCED",
-                "LOR_MINIMUM"
+                "Level of requirement: Advanced",
+                "Level of requirement: Minimum"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "Value",
@@ -1446,16 +1446,16 @@
             "constraints": {
               "enum": [
                 "",
-                "ABT2_ACHIEVE",
-                "LS_COMPDISSE"
+                "ABT2 status: National target reflecting ABT2 exists and progress is on track to achieve it",
+                "Level/Status: Regular compilation and dissemination"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -1467,7 +1467,7 @@
                 "UNSTATS / WESR "
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "Value",
@@ -1504,12 +1504,12 @@
                 "Parties  refers to Parties to the Convention on Biological Diversity that have ratified, accepted, approved or acceded the Nagoya Protocol, including those for which the Protocol has not yet entered into force following the 90 days period set out in Article 33.2 of the Protocol. For values:  TRUE = 1.0; FALSE = 0.0. Data as per 15 February 2017."
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -1522,7 +1522,7 @@
                 "https://www.cbd.int/abs/nagoya-protocol/signatories/default.shtml, Access and Benefit-sharing Clearing-house https://absch.cbd.int/, http://www.fao.org/plant-treaty/countries/membership/en/,  The Online Reporting System on Compliance of the International Treaty on PGRFA http://faoitpgrfa.ort-production.linode.unep-wcmc.org and  Easy-SMTA https://mls.planttreaty.org ,"
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "Value",
@@ -1557,17 +1557,17 @@
                 "2015"
               ]
             },
-            "title": "BASE_PER"
+            "title": "Base period"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "UNIT_MULT",
@@ -1575,11 +1575,11 @@
             "constraints": {
               "enum": [
                 "",
-                "0",
-                "6"
+                "Units",
+                "Millions"
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Unit multiplier"
           },
           {
             "name": "Value",
@@ -1615,7 +1615,7 @@
                 "Obs_Value = 0;  Out of 354 local breeds (including extinct ones), 1 are reported with genetic material stored, out of which 0 are reported with sufficient material stored to allow them to be reconstituted"
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "NATURE",
@@ -1623,16 +1623,16 @@
             "constraints": {
               "enum": [
                 "",
-                "C",
-                "E"
+                "Country Data",
+                "Estimated"
               ]
             },
-            "title": "NATURE"
+            "title": "Nature of data points"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -1644,7 +1644,7 @@
                 "FAO-WIEWS (http://www.fao.org/wiews) and EURISCO (http://eurisco.ipk-gatersleben.de)"
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "Value",
@@ -1697,7 +1697,7 @@
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "Value",
@@ -1753,12 +1753,12 @@
             "constraints": {
               "enum": [
                 "",
-                "ISIC4_A01_A0210_A0322",
-                "ISIC4_BTFXE",
-                "ISIC4_GTT"
+                "Agriculture (ISIC4 A01 A0210 A0322)",
+                "Industries",
+                "Services (G to T)"
               ]
             },
-            "title": "ACTIVITY"
+            "title": "Economic activity"
           },
           {
             "name": "COMMENT_OBS",
@@ -1769,7 +1769,7 @@
                 "Obs_Value = NaN;  NaN = A figure was not provided"
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "Value",
@@ -1792,7 +1792,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -1806,12 +1806,12 @@
                 "Reference to Target 9 was a requirement"
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -1823,7 +1823,7 @@
                 "Data gathered from the latest version of NBSAP"
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "Value",
@@ -1858,7 +1858,7 @@
                 "The Exclusive Economic Zone (EEZ) comprises an area which extends either from the coast, or in federal systems from the seaward boundaries of the constituent states (3 to 12 nautical miles, in most cases) to 200 nautical miles (370 kilometres) off the coa"
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "LOWER_BOUND",
@@ -1869,12 +1869,12 @@
                 "85.30549"
               ]
             },
-            "title": "LOWER_BOUND"
+            "title": "Lower bound value"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -1886,12 +1886,12 @@
                 "Protected Planet: The World Database on Protected Areas (WDPA) [On-line], December, 2018, International Union for Conservation of Nature (IUCN) and United Nations Environment Programme's World Conservation Monitoring Centre (UNEP-WCMC)."
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "UPPER_BOUND",
@@ -1902,7 +1902,7 @@
                 "85.30549"
               ]
             },
-            "title": "UPPER_BOUND"
+            "title": "Upper bound value"
           },
           {
             "name": "Value",
@@ -1934,11 +1934,11 @@
             "constraints": {
               "enum": [
                 "",
-                "ELV_5",
-                "ELV_6"
+                "Elevation 1.000–1.500 meters and slope > 5 or local elevation range (LER 7 kilometer radius) > 300 meters",
+                "Elevation 300–1.000 meters and local elevation range (7 kilometer radius) > 300 meters"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "Value",
@@ -1975,7 +1975,7 @@
                 "Mooring Name: WCO E1 | LATITUDE: 50.033 | LONGITUDE: -4.37"
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "CUST_BREAKDOWN",
@@ -1983,12 +1983,12 @@
             "constraints": {
               "enum": [
                 "",
-                "C01",
-                "C02",
-                "C03"
+                "Custom code 01",
+                "Custom code 02",
+                "Custom code 03"
               ]
             },
-            "title": "CUST_BREAKDOWN"
+            "title": "Custom Breakdown"
           },
           {
             "name": "CUST_BREAKDOWN_LB",
@@ -2001,7 +2001,7 @@
                 "WCO L4"
               ]
             },
-            "title": "CUST_BREAKDOWN_LB"
+            "title": "Label for custom breakdown"
           },
           {
             "name": "LOWER_BOUND",
@@ -2014,7 +2014,7 @@
                 "7.886"
               ]
             },
-            "title": "LOWER_BOUND"
+            "title": "Lower bound value"
           },
           {
             "name": "UPPER_BOUND",
@@ -2027,7 +2027,7 @@
                 "8.164"
               ]
             },
-            "title": "UPPER_BOUND"
+            "title": "Upper bound value"
           },
           {
             "name": "Value",
@@ -2063,12 +2063,12 @@
                 "91.15162"
               ]
             },
-            "title": "LOWER_BOUND"
+            "title": "Lower bound value"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "UPPER_BOUND",
@@ -2080,7 +2080,7 @@
                 "91.15162"
               ]
             },
-            "title": "UPPER_BOUND"
+            "title": "Upper bound value"
           },
           {
             "name": "Value",
@@ -2253,7 +2253,7 @@
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "Value",
@@ -2282,7 +2282,7 @@
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "Value",
@@ -2314,11 +2314,11 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -2347,7 +2347,7 @@
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "Value",
@@ -2472,12 +2472,12 @@
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "UNIT_MULT",
@@ -2485,11 +2485,11 @@
             "constraints": {
               "enum": [
                 "",
-                "0",
-                "6"
+                "Units",
+                "Millions"
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Unit multiplier"
           },
           {
             "name": "Value",
@@ -2518,7 +2518,7 @@
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "Value",
@@ -2550,14 +2550,14 @@
             "constraints": {
               "enum": [
                 "",
-                "MOT_AIR",
-                "MOT_IWW",
-                "MOT_RAI",
-                "MOT_ROA",
-                "MOT_SEA"
+                "Mode of Transport: Air",
+                "Mode of transport: Inland waterway transport",
+                "Mode of Transport: Rail",
+                "Mode of Transport: Road",
+                "Mode of Transport: Maritime"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "NATURE",
@@ -2565,17 +2565,17 @@
             "constraints": {
               "enum": [
                 "",
-                "C",
-                "E",
-                "M"
+                "Country Data",
+                "Estimated",
+                "Modeled"
               ]
             },
-            "title": "NATURE"
+            "title": "Nature of data points"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -2588,12 +2588,12 @@
                 "the International Transport Forum at the OECD (ITF-OECD)"
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2630,12 +2630,12 @@
                 "99.9% UK premises with 3G/3.5G mobile coverage from at least one mobile operator September 2018 (form would not allow 99.9 to be submitted)"
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "Value",
@@ -2674,7 +2674,7 @@
                 "Obs_Value = 0;  Estimated breakdown based on data for residential connections."
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "COMPOSITE_BREAKDOWN",
@@ -2682,12 +2682,12 @@
             "constraints": {
               "enum": [
                 "",
-                "IS_256KT2M",
-                "IS_2MT10M",
-                "IS_GE10M"
+                "Internet speed: 256 kbit/s to less than 2 Mbit/s",
+                "Internet speed: 2 Mbit/s to less than 10 Mbit/s",
+                "Internet speed: 10 Mbit/s or above"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "NATURE",
@@ -2695,16 +2695,16 @@
             "constraints": {
               "enum": [
                 "",
-                "C",
-                "E"
+                "Country Data",
+                "Estimated"
               ]
             },
-            "title": "NATURE"
+            "title": "Nature of data points"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -2716,12 +2716,12 @@
                 "Ofcom"
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2780,17 +2780,17 @@
                 "2015"
               ]
             },
-            "title": "BASE_PER"
+            "title": "Base period"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2822,11 +2822,11 @@
             "constraints": {
               "enum": [
                 "",
-                "ISIC3_D",
-                "ISIC4_C"
+                "Manufacturing (ISIC3 D)",
+                "Manufacturing"
               ]
             },
-            "title": "ACTIVITY"
+            "title": "Economic activity"
           },
           {
             "name": "Value",
@@ -2954,17 +2954,17 @@
             "constraints": {
               "enum": [
                 "",
-                "SKILL_ICTCDV",
-                "SKILL_ICTCMFL",
-                "SKILL_ICTCPT",
-                "SKILL_ICTPRGM",
-                "SKILL_ICTPST",
-                "SKILL_ICTSFWR",
-                "SKILL_ICTSSHT",
-                "SKILL_ICTTRFF"
+                "Skill: ICT Skill: connecting and installing new devices",
+                "Skill: ICT Skill: Copying or moving a file or folder",
+                "Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document",
+                "Skill: ICT Skill: Writing a computer program using a specialized programming language",
+                "Skill: ICT Skill: Creating electronic presentations with presentation software",
+                "Skill: ICT Skill: Finding, downloading, installing and configuring software",
+                "Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet",
+                "Skill: ICT Skill: Transferring files between a computer and other devices"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "SEX",
@@ -2972,11 +2972,11 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -2988,7 +2988,7 @@
                 "Office for National Statistics"
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "Value",
@@ -3020,11 +3020,11 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -3056,11 +3056,11 @@
             "constraints": {
               "enum": [
                 "",
-                "SKILL_LTRCY",
-                "SKILL_NMRCY"
+                "Skill: Functional literacy",
+                "Skill: Functional numeracy"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "SEX",
@@ -3068,11 +3068,11 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -3104,10 +3104,10 @@
             "constraints": {
               "enum": [
                 "",
-                "Y16T65"
+                "16 to 65 years old"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "COMMENT_OBS",
@@ -3118,7 +3118,7 @@
                 "Obs_Value = 0;  This data point is NOT APPLICABLE for the submitting nation."
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "COMPOSITE_BREAKDOWN",
@@ -3126,22 +3126,22 @@
             "constraints": {
               "enum": [
                 "",
-                "SKILL_ICTATCH",
-                "SKILL_ICTCDV",
-                "SKILL_ICTCMFL",
-                "SKILL_ICTCPT",
-                "SKILL_ICTPRGM",
-                "SKILL_ICTPST",
-                "SKILL_ICTSFWR",
-                "SKILL_ICTSSHT",
-                "SKILL_ICTTRFF",
-                "SKILL_LTRCY",
-                "SKILL_MATH",
-                "SKILL_NMRCY",
-                "SKILL_READ"
+                "Skill: ICT Skill: Sending e-mails with attached files",
+                "Skill: ICT Skill: connecting and installing new devices",
+                "Skill: ICT Skill: Copying or moving a file or folder",
+                "Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document",
+                "Skill: ICT Skill: Writing a computer program using a specialized programming language",
+                "Skill: ICT Skill: Creating electronic presentations with presentation software",
+                "Skill: ICT Skill: Finding, downloading, installing and configuring software",
+                "Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet",
+                "Skill: ICT Skill: Transferring files between a computer and other devices",
+                "Skill: Functional literacy",
+                "Skill: Mathematics",
+                "Skill: Functional numeracy",
+                "Skill: Reading"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "EDUCATION_LEV",
@@ -3149,16 +3149,16 @@
             "constraints": {
               "enum": [
                 "",
-                "ISCED11_2",
-                "ISCED11_3"
+                "Lower secondary education",
+                "Upper secondary education"
               ]
             },
-            "title": "EDUCATION_LEV"
+            "title": "Education level"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -3175,7 +3175,7 @@
                 "United Kingdom of Great Britain and Northern Ireland EU-SILC 2014. World Inequality Database on Education (WIDE), June 2019. Data extracted on 13 April 2021."
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "Value",
@@ -3204,7 +3204,7 @@
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "Value",
@@ -3233,7 +3233,7 @@
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "Value",
@@ -3262,7 +3262,7 @@
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "Value",
@@ -3294,11 +3294,11 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -3333,7 +3333,7 @@
                 "Obs_Value = 0;  This data point is NOT APPLICABLE for the submitting nation."
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "EDUCATION_LEV",
@@ -3341,11 +3341,11 @@
             "constraints": {
               "enum": [
                 "",
-                "ISCED11_2",
-                "ISCED11_3"
+                "Lower secondary education",
+                "Upper secondary education"
               ]
             },
-            "title": "EDUCATION_LEV"
+            "title": "Education level"
           },
           {
             "name": "INCOME_WEALTH_QUANTILE",
@@ -3353,14 +3353,14 @@
             "constraints": {
               "enum": [
                 "",
-                "Q1",
-                "Q2",
-                "Q3",
-                "Q4",
-                "Q5"
+                "Quintile 1 (poorest)",
+                "Quintile 2",
+                "Quintile 3",
+                "Quintile 4",
+                "Quintile 5 (richest)"
               ]
             },
-            "title": "INCOME_WEALTH_QUANTILE"
+            "title": "Income or wealth quantile"
           },
           {
             "name": "SEX",
@@ -3368,11 +3368,11 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -3384,7 +3384,7 @@
                 "United Kingdom of Great Britain and Northern Ireland EU-SILC 2014. World Inequality Database on Education (WIDE), June 2019. Data extracted on 13 April 2021."
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "URBANISATION",
@@ -3392,11 +3392,11 @@
             "constraints": {
               "enum": [
                 "",
-                "R",
-                "U"
+                "Rural",
+                "Urban"
               ]
             },
-            "title": "URBANISATION"
+            "title": "Degree of urbanisation"
           },
           {
             "name": "Value",
@@ -3428,11 +3428,11 @@
             "constraints": {
               "enum": [
                 "",
-                "SKILL_MATH",
-                "SKILL_READ"
+                "Skill: Mathematics",
+                "Skill: Reading"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "EDUCATION_LEV",
@@ -3440,11 +3440,11 @@
             "constraints": {
               "enum": [
                 "",
-                "ISCED11_1",
-                "ISCED11_2"
+                "Primary education",
+                "Lower secondary education"
               ]
             },
-            "title": "EDUCATION_LEV"
+            "title": "Education level"
           },
           {
             "name": "SEX",
@@ -3452,11 +3452,11 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -3469,7 +3469,7 @@
                 "Trends in International Mathematics and Science Study (TIMSS). Students achieving at least Intermediate International Benchmark. Grade 4. The results correspond only to England Data extracted on 13 April 2021."
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "Value",
@@ -3501,15 +3501,15 @@
             "constraints": {
               "enum": [
                 "",
-                "PD_1",
-                "PD_2",
-                "PD_3",
-                "PD_4",
-                "PD_5",
-                "PD_6"
+                "Policy Domain 1. Migrant rights",
+                "Policy Domain 2. Whole-of-government/ Evidence-based policies",
+                "Policy Domain 3. Cooperation and partnerships",
+                "Policy Domain 4. Socioeconomic well-being",
+                "Policy Domain 5. Mobility dimensions of crises",
+                "Policy Domain 6. Safe, orderly and regular migration"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "Value",
@@ -3565,12 +3565,12 @@
             "constraints": {
               "enum": [
                 "",
-                "Y0T45",
-                "Y_GE46",
-                "_X"
+                "under 46 years old",
+                "46 years old and over",
+                "Not available"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "COMMENT_OBS",
@@ -3592,7 +3592,7 @@
                 "Obs_Value = 0;  Bicameral: Upper chamber (House of Lords), No Committee, Data valid as of 1 Jan of given year"
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "COMPOSITE_BREAKDOWN",
@@ -3600,19 +3600,19 @@
             "constraints": {
               "enum": [
                 "",
-                "PC_DEFENCE",
-                "PC_FINANCE",
-                "PC_FOR_AFF",
-                "PC_GEN_EQU",
-                "PC_HUM_RIGH"
+                "Parliamentary committee: Defence",
+                "Parliamentary committee: Finance",
+                "Parliamentary committee: Foreign Affairs",
+                "Parliamentary committee: Gender Equality",
+                "Parliamentary committee: Human Rights"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SEX",
@@ -3620,17 +3620,17 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M",
-                "_X"
+                "Female",
+                "Male",
+                "Not available"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3731,12 +3731,12 @@
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3765,12 +3765,12 @@
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3799,12 +3799,12 @@
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3842,12 +3842,12 @@
                 "Lower Chamber or Unicameral, Data valid as of 1 Jan of given year, figures correspond to the number of seats filled in parliament at the given time."
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SEX",
@@ -3855,10 +3855,10 @@
             "constraints": {
               "enum": [
                 "",
-                "F"
+                "Female"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -3870,12 +3870,12 @@
                 "Inter-Parliamentary Union (IPU), Parline Database"
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3904,7 +3904,7 @@
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -3916,7 +3916,7 @@
                 "World Environment Situation Room"
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "Value",
@@ -3972,25 +3972,25 @@
             "constraints": {
               "enum": [
                 "",
-                "IO_ADB",
-                "IO_AFDB",
-                "IO_ECOSOC",
-                "IO_FSB",
-                "IO_IADB",
-                "IO_IBRD",
-                "IO_IFC",
-                "IO_IMF",
-                "IO_UNGA",
-                "IO_UNSC",
-                "IO_WTO"
+                "International Organisation: Asian Development Bank",
+                "International Organisation: African Development Bank",
+                "International Organisation: UN Economic and Social Council",
+                "International Organisation: Financial Stability Board",
+                "International Organisation: Inter-American Development Bank",
+                "International Organisation: International Bank for Reconstruction and Development",
+                "International Organisation: International Finance Corporation",
+                "International Organisation: International Monetary Fund",
+                "International Organisation: UN General Assembly",
+                "International Organisation: UN Security Council",
+                "International Organisation: World Trade Organisation"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -4012,7 +4012,7 @@
                 "WTO Annual Report 2020"
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "Value",
@@ -4044,25 +4044,25 @@
             "constraints": {
               "enum": [
                 "",
-                "IO_ADB",
-                "IO_AFDB",
-                "IO_ECOSOC",
-                "IO_FSB",
-                "IO_IADB",
-                "IO_IBRD",
-                "IO_IFC",
-                "IO_IMF",
-                "IO_UNGA",
-                "IO_UNSC",
-                "IO_WTO"
+                "International Organisation: Asian Development Bank",
+                "International Organisation: African Development Bank",
+                "International Organisation: UN Economic and Social Council",
+                "International Organisation: Financial Stability Board",
+                "International Organisation: Inter-American Development Bank",
+                "International Organisation: International Bank for Reconstruction and Development",
+                "International Organisation: International Finance Corporation",
+                "International Organisation: International Monetary Fund",
+                "International Organisation: UN General Assembly",
+                "International Organisation: UN Security Council",
+                "International Organisation: World Trade Organisation"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -4084,7 +4084,7 @@
                 "WTO Annual Report 2020"
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "Value",
@@ -4113,7 +4113,7 @@
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "Value",
@@ -4149,12 +4149,12 @@
                 "Name of National Human Rights Institution: Zambian Human Rights Commission ."
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "Value",
@@ -4183,7 +4183,7 @@
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "Value",
@@ -4244,12 +4244,12 @@
                 "Value \"1\" represents country's death registration data are at least 75 per cent complete. \"0\" represents country's death registration data are less than 75 per cent complete."
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -4261,7 +4261,7 @@
                 "Demographic and Social Statistics Branch, United Nations Statistics Division (UNSD), Department of Economic and Social Affairs, United Nations."
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "Value",
@@ -4293,18 +4293,18 @@
             "constraints": {
               "enum": [
                 "",
-                "POL_ECONFIS",
-                "POL_MACRO",
-                "POL_REGLEG",
-                "POL_VOLSRG"
+                "Policy instruments: Economic and fiscal instruments (taxes and tax incentives, grants, preferential loans, etc.)",
+                "Policy instruments: Macro policies (e.g. national strategies/action plans, new institutions/entities)",
+                "Policy instruments: Regulatory and legal instruments (e.g. laws, standards, enforcement measures)",
+                "Policy instruments: Voluntary and self-regulation schemes (e.g. sectoral partnerships, codes of conduct, CSR initiatives)"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "Value",
@@ -4357,7 +4357,7 @@
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "Value",
@@ -4392,12 +4392,12 @@
                 "Obs_Value = 0;  "
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -4410,7 +4410,7 @@
                 "WHO/UNICEF coverage estimates 2019 revision, July 2020"
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "Value",
@@ -4471,7 +4471,7 @@
                 "9.93644"
               ]
             },
-            "title": "LOWER_BOUND"
+            "title": "Lower bound value"
           },
           {
             "name": "SEX",
@@ -4479,11 +4479,11 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UPPER_BOUND",
@@ -4496,7 +4496,7 @@
                 "6.20952"
               ]
             },
-            "title": "UPPER_BOUND"
+            "title": "Upper bound value"
           },
           {
             "name": "Value",
@@ -4532,12 +4532,12 @@
                 "Percentage of bloodstream infection due to methicillin-resistant Staphylococcus aureus (MRSA) among patients seeking care and whose blood sample is taken and tested."
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "Value",
@@ -4569,10 +4569,10 @@
             "constraints": {
               "enum": [
                 "",
-                "Y30T70"
+                "30 to exact 70 years old"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "COMPOSITE_BREAKDOWN",
@@ -4580,13 +4580,13 @@
             "constraints": {
               "enum": [
                 "",
-                "NCD_CARDIO",
-                "NCD_CNCR",
-                "NCD_CRESPD",
-                "NCD_DIABTS"
+                "Non-communicable disease: Cardiovascular disease",
+                "Non-communicable disease: Cancer",
+                "Non-communicable disease: Chronic respiratory disease",
+                "Non-communicable disease: Diabetes"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "LOWER_BOUND",
@@ -4611,12 +4611,12 @@
                 "9.3"
               ]
             },
-            "title": "LOWER_BOUND"
+            "title": "Lower bound value"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SEX",
@@ -4624,16 +4624,16 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "UPPER_BOUND",
@@ -4658,7 +4658,7 @@
                 "98775"
               ]
             },
-            "title": "UPPER_BOUND"
+            "title": "Upper bound value"
           },
           {
             "name": "Value",
@@ -4690,16 +4690,16 @@
             "constraints": {
               "enum": [
                 "",
-                "Y0",
-                "Y0T4"
+                "under 1 year old",
+                "under 5 years old"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SEX",
@@ -4707,16 +4707,16 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4745,12 +4745,12 @@
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4858,7 +4858,7 @@
                 "WHO standard questionaire for IHR Annual reporting from years 2010 to 2017,  data collected available at WHO e-SPAR database (https://extranet.who.int/e-spar/ ), WHO Global Health Observatory (https://www.who.int/data/gho/data/themes/international-health-regulations-(2005)-monitoring-framework ) and the WHO Strategic Partnership for Health Security and Emergency Preparedness (SPH) Portal (https://extranet.who.int/sph/home )"
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "COMPOSITE_BREAKDOWN",
@@ -4866,35 +4866,35 @@
             "constraints": {
               "enum": [
                 "",
-                "IHR_01",
-                "IHR_02",
-                "IHR_03",
-                "IHR_04",
-                "IHR_05",
-                "IHR_06",
-                "IHR_07",
-                "IHR_08",
-                "IHR_09",
-                "IHR_10",
-                "IHR_11",
-                "IHR_12",
-                "IHR_13",
-                "SPAR_01",
-                "SPAR_02",
-                "SPAR_03",
-                "SPAR_04",
-                "SPAR_05",
-                "SPAR_06",
-                "SPAR_07",
-                "SPAR_08",
-                "SPAR_09",
-                "SPAR_10",
-                "SPAR_11",
-                "SPAR_12",
-                "SPAR_13"
+                "IHR Capacity: National legislation, policy and financing",
+                "IHR Capacity: Coordination and National Focal Point communications",
+                "IHR Capacity: Surveillance",
+                "IHR Capacity: Response",
+                "IHR Capacity: Preparedness",
+                "IHR Capacity: Risk communication",
+                "IHR Capacity: Human resources",
+                "IHR Capacity: Laboratory",
+                "IHR Capacity: Points of entry",
+                "IHR Capacity: Zoonotic events",
+                "IHR Capacity: Food safety",
+                "IHR Capacity: Chemical events",
+                "IHR Capacity: Radionuclear emergencies",
+                "State Party Annual Report: Legislation and Financing",
+                "State Party Annual Report: IHR Coordination and National IHR Focal Point Functions ",
+                "State Party Annual Report: Zoonotic events and the human–animal interface ",
+                "State Party Annual Report: Food safety ",
+                "State Party Annual Report: Laboratory ",
+                "State Party Annual Report: Surveillance ",
+                "State Party Annual Report: Human resources ",
+                "State Party Annual Report: National Health Emergency Framework ",
+                "State Party Annual Report: Health Service Provision ",
+                "State Party Annual Report: Risk Communication ",
+                "State Party Annual Report: Points of entry ",
+                "State Party Annual Report: Chemical events ",
+                "State Party Annual Report: Radiation emergencies "
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -4906,7 +4906,7 @@
                 "IHR National Self-Assessment and reports received and registered at WHO e-SPAR database (https://extranet.who.int/e-spar/ ) "
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "Value",
@@ -4941,12 +4941,12 @@
                 "Obs_Value = 0;  "
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "Value",
@@ -4978,19 +4978,19 @@
             "constraints": {
               "enum": [
                 "",
-                "ISCO08_221",
-                "ISCO08_2221_3221",
-                "ISCO08_222_322",
-                "ISCO08_2261",
-                "ISCO08_2262"
+                "Medical doctors",
+                "Nursing personnel",
+                "Nursing and midwifery personnel",
+                "Dentists",
+                "Pharmacists"
               ]
             },
-            "title": "OCCUPATION"
+            "title": "Occupation"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SEX",
@@ -4998,16 +4998,16 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -5039,11 +5039,11 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -5078,12 +5078,12 @@
                 "Obs_Value = 0;  "
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "URBANISATION",
@@ -5091,11 +5091,11 @@
             "constraints": {
               "enum": [
                 "",
-                "R",
-                "U"
+                "Rural",
+                "Urban"
               ]
             },
-            "title": "URBANISATION"
+            "title": "Degree of urbanisation"
           },
           {
             "name": "Value",
@@ -5132,12 +5132,12 @@
                 "7.6"
               ]
             },
-            "title": "LOWER_BOUND"
+            "title": "Lower bound value"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "UPPER_BOUND",
@@ -5150,7 +5150,7 @@
                 "33.0"
               ]
             },
-            "title": "UPPER_BOUND"
+            "title": "Upper bound value"
           },
           {
             "name": "Value",
@@ -5211,7 +5211,7 @@
                 "0.4"
               ]
             },
-            "title": "LOWER_BOUND"
+            "title": "Lower bound value"
           },
           {
             "name": "SEX",
@@ -5219,11 +5219,11 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UPPER_BOUND",
@@ -5235,7 +5235,7 @@
                 "0.4"
               ]
             },
-            "title": "UPPER_BOUND"
+            "title": "Upper bound value"
           },
           {
             "name": "Value",
@@ -5275,12 +5275,12 @@
                 "7.4"
               ]
             },
-            "title": "LOWER_BOUND"
+            "title": "Lower bound value"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SEX",
@@ -5288,16 +5288,16 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "UPPER_BOUND",
@@ -5313,7 +5313,7 @@
                 "8.4"
               ]
             },
-            "title": "UPPER_BOUND"
+            "title": "Upper bound value"
           },
           {
             "name": "Value",
@@ -5350,7 +5350,7 @@
                 "4.5"
               ]
             },
-            "title": "LOWER_BOUND"
+            "title": "Lower bound value"
           },
           {
             "name": "SEX",
@@ -5358,11 +5358,11 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UPPER_BOUND",
@@ -5375,7 +5375,7 @@
                 "5.1"
               ]
             },
-            "title": "UPPER_BOUND"
+            "title": "Upper bound value"
           },
           {
             "name": "Value",
@@ -5431,11 +5431,11 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -5512,7 +5512,7 @@
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "Value",
@@ -5541,7 +5541,7 @@
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SEX",
@@ -5549,11 +5549,11 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -5585,11 +5585,11 @@
             "constraints": {
               "enum": [
                 "",
-                "FIS_POSTFIS_DIS_INC",
-                "FIS_PREFIS_INC"
+                "Fiscal intervention stage: Postfiscal disposable income",
+                "Fiscal intervention stage: Prefiscal income"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "Value",
@@ -5621,10 +5621,10 @@
             "constraints": {
               "enum": [
                 "",
-                "B40"
+                "Bottom 40%"
               ]
             },
-            "title": "INCOME_WEALTH_QUANTILE"
+            "title": "Income or wealth quantile"
           },
           {
             "name": "Value",
@@ -5709,7 +5709,7 @@
                 "Third quarter of the specified year. Global SmaRT Average: 4.47%."
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "CUST_BREAKDOWN",
@@ -5717,42 +5717,42 @@
             "constraints": {
               "enum": [
                 "",
-                "C04",
-                "C08",
-                "C100",
-                "C144",
-                "C156",
-                "C231",
-                "C232",
-                "C270",
-                "C288",
-                "C356",
-                "C388",
-                "C404",
-                "C422",
-                "C440",
-                "C50",
-                "C524",
-                "C566",
-                "C586",
-                "C608",
-                "C616",
-                "C642",
-                "C646",
-                "C694",
-                "C704",
-                "C706",
-                "C710",
-                "C716",
-                "C728",
-                "C76",
-                "C764",
-                "C800",
-                "C834",
-                "C894"
+                "Custom code 04",
+                "Custom code 08",
+                "Custom code 100",
+                "Custom code 144",
+                "Custom code 156",
+                "Custom code 231",
+                "Custom code 232",
+                "Custom code 270",
+                "Custom code 288",
+                "Custom code 356",
+                "Custom code 388",
+                "Custom code 404",
+                "Custom code 422",
+                "Custom code 440",
+                "Custom code 50",
+                "Custom code 524",
+                "Custom code 566",
+                "Custom code 586",
+                "Custom code 608",
+                "Custom code 616",
+                "Custom code 642",
+                "Custom code 646",
+                "Custom code 694",
+                "Custom code 704",
+                "Custom code 706",
+                "Custom code 710",
+                "Custom code 716",
+                "Custom code 728",
+                "Custom code 76",
+                "Custom code 764",
+                "Custom code 800",
+                "Custom code 834",
+                "Custom code 894"
               ]
             },
-            "title": "CUST_BREAKDOWN"
+            "title": "Custom Breakdown"
           },
           {
             "name": "CUST_BREAKDOWN_LB",
@@ -5795,12 +5795,12 @@
                 "Zimbabwe"
               ]
             },
-            "title": "CUST_BREAKDOWN_LB"
+            "title": "Label for custom breakdown"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "Value",
@@ -5856,15 +5856,15 @@
             "constraints": {
               "enum": [
                 "",
-                "Y15T24",
-                "Y25T44",
-                "Y45T54",
-                "Y55T64",
-                "Y_GE15",
-                "Y_GE65"
+                "15 to 24 years old",
+                "25 to 44 years old",
+                "45 to 54 years old",
+                "55 to 64 years old",
+                "15 years old and over",
+                "65 years old and over"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "COMMENT_OBS",
@@ -5877,12 +5877,12 @@
                 "Travel related to unpaid domestic work is not included."
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SEX",
@@ -5890,11 +5890,11 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -5926,18 +5926,18 @@
             "constraints": {
               "enum": [
                 "",
-                "ISCO08_1",
-                "ISCO08_2",
-                "ISCO08_3",
-                "ISCO08_4",
-                "ISCO08_5",
-                "ISCO08_6",
-                "ISCO08_7",
-                "ISCO08_8",
-                "ISCO08_9"
+                "Managers",
+                "Professionals",
+                "Technicians and associate professionals",
+                "Clerical support workers",
+                "Service and sales workers",
+                "Skilled agricultural, forestry and fishery workers",
+                "Craft and related trades workers",
+                "Plant and machine operators, and assemblers",
+                "Elementary occupations"
               ]
             },
-            "title": "OCCUPATION"
+            "title": "Occupation"
           },
           {
             "name": "SEX",
@@ -5945,11 +5945,11 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -5987,7 +5987,7 @@
                 "Repository: ILO calculations based on Eurostat data | Reference group coverage: Employees | Coverage of occupational injuries: Reported injuries | Definition of permanent incapacity: Permanent incapacity is defined as 183 or days of absence from work"
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "COMPOSITE_BREAKDOWN",
@@ -5995,17 +5995,17 @@
             "constraints": {
               "enum": [
                 "",
-                "MS_EUMIGRANT",
-                "MS_NOMIGRANT",
-                "MS_NONEUMIGRANT"
+                "Migrant Status: EU Migrant",
+                "Migrant Status: Non-migrant",
+                "Migrant Status: Non-EU Migrant"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SEX",
@@ -6013,11 +6013,11 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -6121,11 +6121,11 @@
             "constraints": {
               "enum": [
                 "",
-                "ISIC3_D",
-                "ISIC4_C"
+                "Manufacturing (ISIC3 D)",
+                "Manufacturing"
               ]
             },
-            "title": "ACTIVITY"
+            "title": "Economic activity"
           },
           {
             "name": "COMMENT_OBS",
@@ -6137,7 +6137,7 @@
                 "Repository: Eurostat special tabulation | Break in series: Methodology revised"
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "Value",
@@ -6169,11 +6169,11 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -6205,12 +6205,12 @@
             "constraints": {
               "enum": [
                 "",
-                "Y15T24",
-                "Y_GE15",
-                "Y_GE25"
+                "15 to 24 years old",
+                "15 years old and over",
+                "25 years old and over"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "COMMENT_OBS",
@@ -6222,7 +6222,7 @@
                 "Repository: Eurostat special tabulation"
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "DISABILITY_STATUS",
@@ -6230,16 +6230,16 @@
             "constraints": {
               "enum": [
                 "",
-                "PD",
-                "PWD"
+                "Persons with disability",
+                "Persons without disability"
               ]
             },
-            "title": "DISABILITY_STATUS"
+            "title": "Disability status"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SEX",
@@ -6247,11 +6247,11 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -6263,7 +6263,7 @@
                 "LFS - Labour Force Survey"
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "Value",
@@ -6340,7 +6340,7 @@
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "URBANISATION",
@@ -6348,11 +6348,11 @@
             "constraints": {
               "enum": [
                 "",
-                "R",
-                "U"
+                "Rural",
+                "Urban"
               ]
             },
-            "title": "URBANISATION"
+            "title": "Degree of urbanisation"
           },
           {
             "name": "Value",
@@ -6429,7 +6429,7 @@
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "Value",
@@ -6488,7 +6488,7 @@
                 "Obs_Value = 0;  "
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "PRODUCT",
@@ -6496,20 +6496,20 @@
             "constraints": {
               "enum": [
                 "",
-                "AGG_AGR",
-                "AGG_ARMS",
-                "AGG_CLTH",
-                "AGG_IND",
-                "AGG_OIL",
-                "AGG_TXT"
+                "Agriculture products",
+                "Arms",
+                "Clothing",
+                "Industrial products",
+                "Oil",
+                "Textiles"
               ]
             },
-            "title": "PRODUCT"
+            "title": "Type of product"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "Value",
@@ -6541,15 +6541,15 @@
             "constraints": {
               "enum": [
                 "",
-                "AGG_AGR",
-                "AGG_ARMS",
-                "AGG_CLTH",
-                "AGG_IND",
-                "AGG_OIL",
-                "AGG_TXT"
+                "Agriculture products",
+                "Arms",
+                "Clothing",
+                "Industrial products",
+                "Oil",
+                "Textiles"
               ]
             },
-            "title": "PRODUCT"
+            "title": "Type of product"
           },
           {
             "name": "Value",
@@ -6602,12 +6602,12 @@
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -6636,12 +6636,12 @@
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -6670,12 +6670,12 @@
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -6707,11 +6707,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Y0T17",
-                "Y_GE18"
+                "under 18 years old",
+                "18 years old and over"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "COMMENT_OBS",
@@ -6723,12 +6723,12 @@
                 "Obs_Value = 0;  Data in reference to one country but derived from different types of sources should not be compared between them.\n"
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SEX",
@@ -6736,11 +6736,11 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "Female",
+                "Male"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -6772,11 +6772,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Y15T49",
-                "Y_GE15"
+                "15 to 49 years old",
+                "15 years old and over"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "LOWER_BOUND",
@@ -6788,7 +6788,7 @@
                 "2.1"
               ]
             },
-            "title": "LOWER_BOUND"
+            "title": "Lower bound value"
           },
           {
             "name": "UPPER_BOUND",
@@ -6800,7 +6800,7 @@
                 "8.4"
               ]
             },
-            "title": "UPPER_BOUND"
+            "title": "Upper bound value"
           },
           {
             "name": "Value",

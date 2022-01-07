@@ -16,11 +16,11 @@
             "constraints": {
               "enum": [
                 "",
-                "ISIC4_C",
-                "ISIC4_C10T32X19"
+                "Manufacturing",
+                "Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment"
               ]
             },
-            "title": "ACTIVITY"
+            "title": "Economic activity"
           },
           {
             "name": "BASE_PER",
@@ -32,12 +32,12 @@
                 "2017"
               ]
             },
-            "title": "BASE_PER"
+            "title": "Base period"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -49,12 +49,12 @@
                 "UNIDO MVA 2021 Database. Available at https://stat.unido.org. IEA (2020), CO2 Emissions from Fuel Combustion. https://www.iea.org/statistics"
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "UNIT_MULT",
@@ -62,11 +62,11 @@
             "constraints": {
               "enum": [
                 "",
-                "0",
-                "6"
+                "Units",
+                "Millions"
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Unit multiplier"
           },
           {
             "name": "Value",

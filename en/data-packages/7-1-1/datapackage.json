@@ -16,11 +16,11 @@
             "constraints": {
               "enum": [
                 "",
-                "R",
-                "U"
+                "Rural",
+                "Urban"
               ]
             },
-            "title": "URBANISATION"
+            "title": "Degree of urbanisation"
           },
           {
             "name": "Value",

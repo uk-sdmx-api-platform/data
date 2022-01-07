@@ -16,12 +16,12 @@
             "constraints": {
               "enum": [
                 "",
-                "Y0T45",
-                "Y_GE46",
-                "_X"
+                "under 46 years old",
+                "46 years old and over",
+                "Not available"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "COMMENT_OBS",
@@ -43,7 +43,7 @@
                 "Obs_Value = 0;  Bicameral: Upper chamber (House of Lords), No Committee, Data valid as of 1 Jan of given year"
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "COMPOSITE_BREAKDOWN",
@@ -51,19 +51,19 @@
             "constraints": {
               "enum": [
                 "",
-                "PC_DEFENCE",
-                "PC_FINANCE",
-                "PC_FOR_AFF",
-                "PC_GEN_EQU",
-                "PC_HUM_RIGH"
+                "Parliamentary committee: Defence",
+                "Parliamentary committee: Finance",
+                "Parliamentary committee: Foreign Affairs",
+                "Parliamentary committee: Gender Equality",
+                "Parliamentary committee: Human Rights"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SEX",
@@ -71,17 +71,17 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M",
-                "_X"
+                "Female",
+                "Male",
+                "Not available"
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

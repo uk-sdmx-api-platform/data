@@ -19,17 +19,17 @@
                 "2015"
               ]
             },
-            "title": "BASE_PER"
+            "title": "Base period"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "UNIT_MULT",
@@ -37,11 +37,11 @@
             "constraints": {
               "enum": [
                 "",
-                "0",
-                "6"
+                "Units",
+                "Millions"
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Unit multiplier"
           },
           {
             "name": "Value",

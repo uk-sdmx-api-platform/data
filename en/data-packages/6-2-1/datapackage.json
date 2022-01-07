@@ -19,12 +19,12 @@
                 "Obs_Value = 0;  "
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "URBANISATION",
@@ -32,11 +32,11 @@
             "constraints": {
               "enum": [
                 "",
-                "R",
-                "U"
+                "Rural",
+                "Urban"
               ]
             },
-            "title": "URBANISATION"
+            "title": "Degree of urbanisation"
           },
           {
             "name": "Value",

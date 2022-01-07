@@ -20,7 +20,7 @@
                 "Eurostat_2021"
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "COMPOSITE_BREAKDOWN",
@@ -28,17 +28,17 @@
             "constraints": {
               "enum": [
                 "",
-                "WT_INCINRT",
-                "WT_LANDFIL",
-                "WT_RECYCL"
+                "Waste treatment: Incineration",
+                "Waste treatment: Landfilling",
+                "Waste treatment: Recycling"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -50,12 +50,12 @@
                 "UNSTATS / WESR "
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

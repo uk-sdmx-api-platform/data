@@ -16,16 +16,16 @@
             "constraints": {
               "enum": [
                 "",
-                "FCC_H",
-                "FCC_M"
+                "Frequency of Chlorophyll-a concentration: High",
+                "Frequency of Chlorophyll-a concentration: Moderate"
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -37,12 +37,12 @@
                 "World Environment Situation Room"
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
