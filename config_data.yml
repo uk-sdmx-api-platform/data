@@ -41,6 +41,7 @@ src_dir: ''
 inputs:
   - class:  InputSdmxMl_UnitedNationsApi
     reference_area: 826
+    import_codes: true
   - class: InputYamlMeta
     path_pattern: indicator-config/*-*.yml
     git: false
