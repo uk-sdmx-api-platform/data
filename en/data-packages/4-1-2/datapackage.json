@@ -22,54 +22,43 @@
             "title": "COMMENT_OBS"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Rural",
-                "Urban"
+                "ISCED11_2",
+                "ISCED11_3"
               ]
             },
-            "title": "Degree of urbanisation"
+            "title": "EDUCATION_LEV"
           },
           {
-            "name": "Education level",
+            "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Lower secondary education",
-                "Upper secondary education"
+                "Q1",
+                "Q2",
+                "Q3",
+                "Q4",
+                "Q5"
               ]
             },
-            "title": "Education level"
+            "title": "INCOME_WEALTH_QUANTILE"
           },
           {
-            "name": "Income or wealth quantile",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Quintile 1 (poorest)",
-                "Quintile 2",
-                "Quintile 3",
-                "Quintile 4",
-                "Quintile 5 (richest)"
+                "F",
+                "M"
               ]
             },
-            "title": "Income or wealth quantile"
-          },
-          {
-            "name": "Observation-level footnotes",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Obs_Value = 0;  This data point is NOT APPLICABLE for the submitting nation."
-              ]
-            },
-            "title": "Observation-level footnotes"
+            "title": "SEX"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -77,9 +66,6 @@
             "constraints": {
               "enum": [
                 "",
-                "United Kingdom of Great Britain and Northern Ireland EU-SILC 2005. World Inequality Database on Education (WIDE), June 2019. Data extracted on 13 April 2021.",
-                "United Kingdom of Great Britain and Northern Ireland EU-SILC 2005. World Inequality Database on Education (WIDE), June 2019.;Value suppressed (less than 25 unweighted observations in sample). Data extracted on 13 April 2021.",
-                "United Kingdom of Great Britain and Northern Ireland EU-SILC 2011. World Inequality Database on Education (WIDE), June 2019. Data extracted on 13 April 2021.",
                 "United Kingdom of Great Britain and Northern Ireland EU-SILC 2013. World Inequality Database on Education (WIDE), June 2019. Data extracted on 13 April 2021.",
                 "United Kingdom of Great Britain and Northern Ireland EU-SILC 2014. World Inequality Database on Education (WIDE), June 2019. Data extracted on 13 April 2021."
               ]
@@ -87,28 +73,16 @@
             "title": "SOURCE_DETAIL"
           },
           {
-            "name": "Sex",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Female",
-                "Male"
+                "R",
+                "U"
               ]
             },
-            "title": "Sex"
-          },
-          {
-            "name": "Source details",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "United Kingdom of Great Britain and Northern Ireland EU-SILC 2013. World Inequality Database on Education (WIDE), June 2019. Data extracted on 13 April 2021.",
-                "United Kingdom of Great Britain and Northern Ireland EU-SILC 2014. World Inequality Database on Education (WIDE), June 2019. Data extracted on 13 April 2021."
-              ]
-            },
-            "title": "Source details"
+            "title": "URBANISATION"
           },
           {
             "name": "Value",

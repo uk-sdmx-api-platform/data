@@ -16,18 +16,9 @@
             "title": "Year"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by provider (%)  [17.15.1]",
-                "Proportion of new development interventions drawn from country-led result frameworks - data by provider (%) [17.15.1]",
-                "Proportion of results indicators drawn from country-led results frameworks - data by provider (%) [17.15.1]",
-                "Proportion of results indicators which will be monitored using government sources and monitoring systems - data by provider (%) [17.15.1]",
-                ""
-              ]
-            },
-            "title": "SDG Series"
+            "title": "SERIES"
           },
           {
             "name": "Value",

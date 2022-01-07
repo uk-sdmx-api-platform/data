@@ -16,20 +16,20 @@
             "title": "Year"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Policy Domain 1. Migrant rights",
-                "Policy Domain 2. Whole-of-government/ Evidence-based policies",
-                "Policy Domain 3. Cooperation and partnerships",
-                "Policy Domain 4. Socioeconomic well-being",
-                "Policy Domain 5. Mobility dimensions of crises",
-                "Policy Domain 6. Safe, orderly and regular migration",
+                "PD_1",
+                "PD_2",
+                "PD_3",
+                "PD_4",
+                "PD_5",
+                "PD_6",
                 ""
               ]
             },
-            "title": "Composite breakdown"
+            "title": "COMPOSITE_BREAKDOWN"
           },
           {
             "name": "Value",

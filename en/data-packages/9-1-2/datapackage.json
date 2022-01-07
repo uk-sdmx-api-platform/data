@@ -11,19 +11,19 @@
       "schema": {
         "fields": [
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Mode of Transport: Air",
-                "Mode of Transport: Maritime",
-                "Mode of Transport: Rail",
-                "Mode of Transport: Road",
-                "Mode of transport: Inland waterway transport"
+                "MOT_AIR",
+                "MOT_IWW",
+                "MOT_RAI",
+                "MOT_ROA",
+                "MOT_SEA"
               ]
             },
-            "title": "Composite breakdown"
+            "title": "COMPOSITE_BREAKDOWN"
           },
           {
             "name": "NATURE",
@@ -39,30 +39,9 @@
             "title": "NATURE"
           },
           {
-            "name": "Nature of data points",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Country Data",
-                "Estimated",
-                "Modeled"
-              ]
-            },
-            "title": "Nature of data points"
-          },
-          {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2]",
-                "Freight volume (tonne kilometres) [9.1.2]",
-                "Passenger volume (passenger kilometres) [9.1.2]"
-              ]
-            },
-            "title": "SDG Series"
+            "title": "SERIES"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -78,30 +57,9 @@
             "title": "SOURCE_DETAIL"
           },
           {
-            "name": "Source details",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "ICAO",
-                "Source: UNCTAD Review of Maritime Transport, 2020 and UNCTADstat ( https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx).",
-                "the International Transport Forum at the OECD (ITF-OECD)"
-              ]
-            },
-            "title": "Source details"
-          },
-          {
-            "name": "Unit of measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Passenger kilometres",
-                "Tonne kilometres",
-                "Twenty-foot equivalent units (TEUs)"
-              ]
-            },
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

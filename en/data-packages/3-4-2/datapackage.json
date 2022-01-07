@@ -17,43 +17,6 @@
               "enum": [
                 "",
                 "11.2",
-                "11.4",
-                "11.6",
-                "1136",
-                "1182",
-                "12.5",
-                "12.8",
-                "1228",
-                "1282",
-                "1364",
-                "3.5",
-                "3.8",
-                "3361",
-                "3600",
-                "3623",
-                "3736",
-                "4.1",
-                "4159",
-                "4543",
-                "4760",
-                "4827",
-                "5018",
-                "5524",
-                "7.4",
-                "7.5",
-                "8.2",
-                "8.4"
-              ]
-            },
-            "title": "LOWER_BOUND"
-          },
-          {
-            "name": "Lower bound value",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "11.2",
                 "1282",
                 "3.8",
                 "3736",
@@ -61,84 +24,32 @@
                 "7.4"
               ]
             },
-            "title": "Lower bound value"
+            "title": "LOWER_BOUND"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Number of deaths attributed to suicide [3.4.2]",
-                "Suicide mortality rate [3.4.2]"
+                "F",
+                "M"
               ]
             },
-            "title": "SDG Series"
+            "title": "SEX"
           },
           {
-            "name": "Sex",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Female",
-                "Male"
-              ]
-            },
-            "title": "Sex"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "UPPER_BOUND",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "12.3",
-                "12.5",
-                "12.6",
-                "1278",
-                "13.4",
-                "1323",
-                "1364",
-                "14.1",
-                "1469",
-                "1540",
-                "3632",
-                "3859",
-                "3912",
-                "4",
-                "4.3",
-                "4.5",
-                "4.6",
-                "4205",
-                "4574",
-                "4955",
-                "5190",
-                "5223",
-                "5674",
-                "6114",
-                "8.2",
-                "8.4",
-                "8.9",
-                "9.3"
-              ]
-            },
-            "title": "UPPER_BOUND"
-          },
-          {
-            "name": "Unit of measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Number",
-                "Per 100,000 population"
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Upper bound value",
             "type": "string",
             "constraints": {
               "enum": [
@@ -151,7 +62,7 @@
                 "8.4"
               ]
             },
-            "title": "Upper bound value"
+            "title": "UPPER_BOUND"
           },
           {
             "name": "Value",

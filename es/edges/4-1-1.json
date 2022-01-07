@@ -1,1 +1,1 @@
-{"From":["SOURCE_DETAIL","Source details","Education level","Composite breakdown"],"To":["Education level","Sex","Composite breakdown","Source details"]}
+{"From":["SOURCE_DETAIL","COMPOSITE_BREAKDOWN","EDUCATION_LEV"],"To":["EDUCATION_LEV","SEX","COMPOSITE_BREAKDOWN"]}

@@ -26,49 +26,23 @@
             }
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beach litter per square kilometer (Number) [14.1.1]",
-                "Chlorophyll-a anomaly, remote sensing (%) [14.1.1]",
-                "Chlorophyll-a deviations, remote sensing  [14.1.1]",
+                "FCC_H",
+                "FCC_M",
                 ""
               ]
             }
           },
           {
-            "name": "Composite breakdown",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Frequency of Chlorophyll-a concentration: High",
-                "Frequency of Chlorophyll-a concentration: Moderate",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit of measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number",
-                "Percent",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Source details",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Plastic Pollution (MLW, MDMAP, ICC)",
-                "World Environment Situation Room",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Value",

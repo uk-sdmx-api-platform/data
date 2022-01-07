@@ -16,19 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "The data correspond to Tourism GVA (direct) as a percentage of total GVA",
-                "The data correspond to Tourism GVA (direct) as a percentage of total GVA. Break in series.",
-                "The data correspond to Tourism GVA (direct) as a percentage of total GVA. Break in series. Revised value.",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

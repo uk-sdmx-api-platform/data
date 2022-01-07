@@ -21,7 +21,6 @@
             "constraints": {
               "enum": [
                 "UNSD national account estimates",
-                "FAO Questionnaire. UNSD national account estimates.",
                 "EUROSTAT data. UNSD national account estimates",
                 ""
               ]
@@ -29,41 +28,14 @@
             "title": "SOURCE_DETAIL"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Agriculture value added share of GDP [2.a.1]",
-                "Agriculture orientation index for government expenditures [2.a.1]",
-                "Agriculture share of Government Expenditure [2.a.1]",
-                ""
-              ]
-            },
-            "title": "SDG Series"
+            "title": "SERIES"
           },
           {
-            "name": "Unit of measure",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                "Index",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Source details",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "UNSD national account estimates",
-                "EUROSTAT data. UNSD national account estimates",
-                ""
-              ]
-            },
-            "title": "Source details"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "COMMENT_OBS",
@@ -75,17 +47,6 @@
               ]
             },
             "title": "COMMENT_OBS"
-          },
-          {
-            "name": "Observation-level footnotes",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Consolidated General Government Expenditure",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
           },
           {
             "name": "Value",

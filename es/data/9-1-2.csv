@@ -1,27 +1,27 @@
-Year,NATURE,SOURCE_DETAIL,SDG Series,Composite breakdown,Unit of measure,Nature of data points,Source details,Value
-2017,C,ICAO,Freight volume (tonne kilometres) [9.1.2],Mode of Transport: Air,Tonne kilometres,Country Data,ICAO,5915641000.0
-2018,C,ICAO,Freight volume (tonne kilometres) [9.1.2],Mode of Transport: Air,Tonne kilometres,Country Data,ICAO,6198368000.0
-2019,C,ICAO,Freight volume (tonne kilometres) [9.1.2],Mode of Transport: Air,Tonne kilometres,Country Data,ICAO,5851190000.0
-2018,C,the International Transport Forum at the OECD (ITF-OECD),Freight volume (tonne kilometres) [9.1.2],Mode of transport: Inland waterway transport,Tonne kilometres,Modeled,the International Transport Forum at the OECD (ITF-OECD),1335000000.0
-2019,M,the International Transport Forum at the OECD (ITF-OECD),Freight volume (tonne kilometres) [9.1.2],Mode of transport: Inland waterway transport,Tonne kilometres,Modeled,the International Transport Forum at the OECD (ITF-OECD),6591800000.0
-2018,C,the International Transport Forum at the OECD (ITF-OECD),Freight volume (tonne kilometres) [9.1.2],Mode of Transport: Rail,Tonne kilometres,Modeled,the International Transport Forum at the OECD (ITF-OECD),17205693320.0
-2019,M,the International Transport Forum at the OECD (ITF-OECD),Freight volume (tonne kilometres) [9.1.2],Mode of Transport: Rail,Tonne kilometres,Modeled,the International Transport Forum at the OECD (ITF-OECD),39334600000.0
-2018,C,the International Transport Forum at the OECD (ITF-OECD),Freight volume (tonne kilometres) [9.1.2],Mode of Transport: Road,Tonne kilometres,Modeled,the International Transport Forum at the OECD (ITF-OECD),161112270000.0
-2019,M,the International Transport Forum at the OECD (ITF-OECD),Freight volume (tonne kilometres) [9.1.2],Mode of Transport: Road,Tonne kilometres,Modeled,the International Transport Forum at the OECD (ITF-OECD),197792400000.0
-2017,C,ICAO,Passenger volume (passenger kilometres) [9.1.2],Mode of Transport: Air,Passenger kilometres,Country Data,ICAO,323349149000.0
-2018,C,ICAO,Passenger volume (passenger kilometres) [9.1.2],Mode of Transport: Air,Passenger kilometres,Country Data,ICAO,356464912000.0
-2019,C,ICAO,Passenger volume (passenger kilometres) [9.1.2],Mode of Transport: Air,Passenger kilometres,Country Data,ICAO,344592149000.0
-2018,C,the International Transport Forum at the OECD (ITF-OECD),Passenger volume (passenger kilometres) [9.1.2],Mode of Transport: Rail,Passenger kilometres,Modeled,the International Transport Forum at the OECD (ITF-OECD),80526378370.0
-2019,M,the International Transport Forum at the OECD (ITF-OECD),Passenger volume (passenger kilometres) [9.1.2],Mode of Transport: Rail,Passenger kilometres,Modeled,the International Transport Forum at the OECD (ITF-OECD),108184000000.0
-2018,C,the International Transport Forum at the OECD (ITF-OECD),Passenger volume (passenger kilometres) [9.1.2],Mode of Transport: Road,Passenger kilometres,Modeled,the International Transport Forum at the OECD (ITF-OECD),707980378800.0
-2019,M,the International Transport Forum at the OECD (ITF-OECD),Passenger volume (passenger kilometres) [9.1.2],Mode of Transport: Road,Passenger kilometres,Modeled,the International Transport Forum at the OECD (ITF-OECD),534671533333.333
-2010,E,"Source: UNCTAD Review of Maritime Transport, 2020 and UNCTADstat ( https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx).",Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2],Mode of Transport: Maritime,Twenty-foot equivalent units (TEUs),Estimated,"Source: UNCTAD Review of Maritime Transport, 2020 and UNCTADstat ( https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx).",8222000.0
-2011,E,"Source: UNCTAD Review of Maritime Transport, 2020 and UNCTADstat ( https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx).",Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2],Mode of Transport: Maritime,Twenty-foot equivalent units (TEUs),Estimated,"Source: UNCTAD Review of Maritime Transport, 2020 and UNCTADstat ( https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx).",8141000.0
-2012,E,"Source: UNCTAD Review of Maritime Transport, 2020 and UNCTADstat ( https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx).",Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2],Mode of Transport: Maritime,Twenty-foot equivalent units (TEUs),Estimated,"Source: UNCTAD Review of Maritime Transport, 2020 and UNCTADstat ( https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx).",7980000.0
-2013,E,"Source: UNCTAD Review of Maritime Transport, 2020 and UNCTADstat ( https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx).",Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2],Mode of Transport: Maritime,Twenty-foot equivalent units (TEUs),Estimated,"Source: UNCTAD Review of Maritime Transport, 2020 and UNCTADstat ( https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx).",8244000.0
-2014,E,"Source: UNCTAD Review of Maritime Transport, 2020 and UNCTADstat ( https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx).",Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2],Mode of Transport: Maritime,Twenty-foot equivalent units (TEUs),Estimated,"Source: UNCTAD Review of Maritime Transport, 2020 and UNCTADstat ( https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx).",9511000.0
-2015,E,"Source: UNCTAD Review of Maritime Transport, 2020 and UNCTADstat ( https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx).",Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2],Mode of Transport: Maritime,Twenty-foot equivalent units (TEUs),Estimated,"Source: UNCTAD Review of Maritime Transport, 2020 and UNCTADstat ( https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx).",9772000.0
-2016,E,"Source: UNCTAD Review of Maritime Transport, 2020 and UNCTADstat ( https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx).",Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2],Mode of Transport: Maritime,Twenty-foot equivalent units (TEUs),Estimated,"Source: UNCTAD Review of Maritime Transport, 2020 and UNCTADstat ( https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx).",10200000.0
-2017,E,"Source: UNCTAD Review of Maritime Transport, 2020 and UNCTADstat ( https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx).",Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2],Mode of Transport: Maritime,Twenty-foot equivalent units (TEUs),Estimated,"Source: UNCTAD Review of Maritime Transport, 2020 and UNCTADstat ( https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx).",10240000.0
-2018,E,"Source: UNCTAD Review of Maritime Transport, 2020 and UNCTADstat ( https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx).",Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2],Mode of Transport: Maritime,Twenty-foot equivalent units (TEUs),Estimated,"Source: UNCTAD Review of Maritime Transport, 2020 and UNCTADstat ( https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx).",10313000.0
-2019,E,"Source: UNCTAD Review of Maritime Transport, 2020 and UNCTADstat ( https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx).",Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2],Mode of Transport: Maritime,Twenty-foot equivalent units (TEUs),Estimated,"Source: UNCTAD Review of Maritime Transport, 2020 and UNCTADstat ( https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx).",10276500.0
+Year,NATURE,SOURCE_DETAIL,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
+2017,C,ICAO,IS_RDP_FRGVOL,MOT_AIR,T_KM,5915641000.0
+2018,C,ICAO,IS_RDP_FRGVOL,MOT_AIR,T_KM,6198368000.0
+2019,C,ICAO,IS_RDP_FRGVOL,MOT_AIR,T_KM,5851190000.0
+2018,M,the International Transport Forum at the OECD (ITF-OECD),IS_RDP_FRGVOL,MOT_IWW,T_KM,1335000000.0
+2019,M,the International Transport Forum at the OECD (ITF-OECD),IS_RDP_FRGVOL,MOT_IWW,T_KM,6591800000.0
+2018,M,the International Transport Forum at the OECD (ITF-OECD),IS_RDP_FRGVOL,MOT_RAI,T_KM,17205693320.0
+2019,M,the International Transport Forum at the OECD (ITF-OECD),IS_RDP_FRGVOL,MOT_RAI,T_KM,39334600000.0
+2018,M,the International Transport Forum at the OECD (ITF-OECD),IS_RDP_FRGVOL,MOT_ROA,T_KM,161112270000.0
+2019,M,the International Transport Forum at the OECD (ITF-OECD),IS_RDP_FRGVOL,MOT_ROA,T_KM,197792400000.0
+2017,C,ICAO,IS_RDP_PFVOL,MOT_AIR,P_KM,323349149000.0
+2018,C,ICAO,IS_RDP_PFVOL,MOT_AIR,P_KM,356464912000.0
+2019,C,ICAO,IS_RDP_PFVOL,MOT_AIR,P_KM,344592149000.0
+2018,M,the International Transport Forum at the OECD (ITF-OECD),IS_RDP_PFVOL,MOT_RAI,P_KM,80526378370.0
+2019,M,the International Transport Forum at the OECD (ITF-OECD),IS_RDP_PFVOL,MOT_RAI,P_KM,108184000000.0
+2018,M,the International Transport Forum at the OECD (ITF-OECD),IS_RDP_PFVOL,MOT_ROA,P_KM,707980378800.0
+2019,M,the International Transport Forum at the OECD (ITF-OECD),IS_RDP_PFVOL,MOT_ROA,P_KM,534671533333.333
+2010,E,"Source: UNCTAD Review of Maritime Transport, 2020 and UNCTADstat ( https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx).",IS_RDP_PORFVOL,MOT_SEA,TEU,8222000.0
+2011,E,"Source: UNCTAD Review of Maritime Transport, 2020 and UNCTADstat ( https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx).",IS_RDP_PORFVOL,MOT_SEA,TEU,8141000.0
+2012,E,"Source: UNCTAD Review of Maritime Transport, 2020 and UNCTADstat ( https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx).",IS_RDP_PORFVOL,MOT_SEA,TEU,7980000.0
+2013,E,"Source: UNCTAD Review of Maritime Transport, 2020 and UNCTADstat ( https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx).",IS_RDP_PORFVOL,MOT_SEA,TEU,8244000.0
+2014,E,"Source: UNCTAD Review of Maritime Transport, 2020 and UNCTADstat ( https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx).",IS_RDP_PORFVOL,MOT_SEA,TEU,9511000.0
+2015,E,"Source: UNCTAD Review of Maritime Transport, 2020 and UNCTADstat ( https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx).",IS_RDP_PORFVOL,MOT_SEA,TEU,9772000.0
+2016,E,"Source: UNCTAD Review of Maritime Transport, 2020 and UNCTADstat ( https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx).",IS_RDP_PORFVOL,MOT_SEA,TEU,10200000.0
+2017,E,"Source: UNCTAD Review of Maritime Transport, 2020 and UNCTADstat ( https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx).",IS_RDP_PORFVOL,MOT_SEA,TEU,10240000.0
+2018,E,"Source: UNCTAD Review of Maritime Transport, 2020 and UNCTADstat ( https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx).",IS_RDP_PORFVOL,MOT_SEA,TEU,10313000.0
+2019,E,"Source: UNCTAD Review of Maritime Transport, 2020 and UNCTADstat ( https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx).",IS_RDP_PORFVOL,MOT_SEA,TEU,10276500.0

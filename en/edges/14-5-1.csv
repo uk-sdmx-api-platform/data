@@ -1,10 +1,4 @@
 From,To
-COMMENT_OBS,Observation-level footnotes
-Source details,COMMENT_OBS
-SOURCE_DETAIL,SDG Series
-SDG Series,Unit of measure
-Unit of measure,Source details
-Source details,UPPER_BOUND
+SOURCE_DETAIL,COMMENT_OBS
+SOURCE_DETAIL,UPPER_BOUND
 UPPER_BOUND,LOWER_BOUND
-LOWER_BOUND,Upper bound value
-Upper bound value,Lower bound value

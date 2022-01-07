@@ -40,64 +40,40 @@
             "title": "SOURCE_DETAIL"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "IHR Capacity: National legislation, policy and financing",
-                "IHR Capacity: Coordination and National Focal Point communications",
-                "IHR Capacity: Surveillance",
-                "IHR Capacity: Response",
-                "IHR Capacity: Preparedness",
-                "IHR Capacity: Risk communication",
-                "IHR Capacity: Human resources",
-                "IHR Capacity: Laboratory",
-                "IHR Capacity: Points of entry",
-                "IHR Capacity: Zoonotic events",
-                "IHR Capacity: Food safety",
-                "IHR Capacity: Chemical events",
-                "IHR Capacity: Radionuclear emergencies",
-                "State Party Annual Report: Legislation and Financing",
-                "State Party Annual Report: IHR Coordination and National IHR Focal Point Functions ",
-                "State Party Annual Report: Zoonotic events and the human–animal interface ",
-                "State Party Annual Report: Food safety ",
-                "State Party Annual Report: Laboratory ",
-                "State Party Annual Report: Surveillance ",
-                "State Party Annual Report: Human resources ",
-                "State Party Annual Report: National Health Emergency Framework ",
-                "State Party Annual Report: Health Service Provision ",
-                "State Party Annual Report: Risk Communication ",
-                "State Party Annual Report: Points of entry ",
-                "State Party Annual Report: Chemical events ",
-                "State Party Annual Report: Radiation emergencies ",
+                "IHR_01",
+                "IHR_02",
+                "IHR_03",
+                "IHR_04",
+                "IHR_05",
+                "IHR_06",
+                "IHR_07",
+                "IHR_08",
+                "IHR_09",
+                "IHR_10",
+                "IHR_11",
+                "IHR_12",
+                "IHR_13",
+                "SPAR_01",
+                "SPAR_02",
+                "SPAR_03",
+                "SPAR_04",
+                "SPAR_05",
+                "SPAR_06",
+                "SPAR_07",
+                "SPAR_08",
+                "SPAR_09",
+                "SPAR_10",
+                "SPAR_11",
+                "SPAR_12",
+                "SPAR_13",
                 ""
               ]
             },
-            "title": "Composite breakdown"
-          },
-          {
-            "name": "Observation-level footnotes",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "WHO standard questionaire for IHR Annual reporting from years 2010 to 2017,  data collected available at WHO e-SPAR database (https://extranet.who.int/e-spar/ ), WHO Global Health Observatory (https://www.who.int/data/gho/data/themes/international-health-regulations-(2005)-monitoring-framework ) and the WHO Strategic Partnership for Health Security and Emergency Preparedness (SPH) Portal (https://extranet.who.int/sph/home )",
-                "SPAR new questionaire for IHR Annual reporting from year 2018, the capacities had changed and available at WHO e-SPAR database (https://extranet.who.int/e-spar/ ) and disseminated to WHO Global Health Observatory (https://www.who.int/data/gho/data/themes/international-health-regulations-(2005)-monitoring-framework ) and the WHO Strategic Partnership for Health Security and Emergency Preparedness (SPH) Portal (https://extranet.who.int/sph/home )",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
-            "name": "Source details",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "IHR National Self-Assessment and reports received and available at WHO e-SPAR database (https://extranet.who.int/e-spar/ ), WHO Global Health Observatory (https://www.who.int/data/gho/data/themes/international-health-regulations-(2005)-monitoring-framework ) and  the WHO Strategic Partnership for Health Security and Emergency Preparedness (SPH) Portal (https://extranet.who.int/sph/home )",
-                "IHR National Self-Assessment and reports received and registered at WHO e-SPAR database (https://extranet.who.int/e-spar/ ) ",
-                ""
-              ]
-            },
-            "title": "Source details"
+            "title": "COMPOSITE_BREAKDOWN"
           },
           {
             "name": "Value",

@@ -11,20 +11,20 @@
       "schema": {
         "fields": [
           {
-            "name": "Type of product",
+            "name": "PRODUCT",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Agriculture products",
-                "Arms",
-                "Clothing",
-                "Industrial products",
-                "Oil",
-                "Textiles"
+                "AGG_AGR",
+                "AGG_ARMS",
+                "AGG_CLTH",
+                "AGG_IND",
+                "AGG_OIL",
+                "AGG_TXT"
               ]
             },
-            "title": "Type of product"
+            "title": "PRODUCT"
           },
           {
             "name": "Value",

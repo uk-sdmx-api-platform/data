@@ -15,17 +15,6 @@
             "type": "string"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Based on GDP per person engaged, constant 2010 US dollar",
-                "Obs_Value = 0.0;  Based on GDP per person engaged, constant 2010 US dollar",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

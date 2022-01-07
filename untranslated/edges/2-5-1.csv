@@ -1,7 +1,3 @@
 From,To
-NATURE,SOURCE_DETAIL
-Source details,COMMENT_OBS
-SOURCE_DETAIL,SDG Series
-SDG Series,Nature of data points
-Nature of data points,Observation-level footnotes
-Observation-level footnotes,Source details
+NATURE,COMMENT_OBS
+COMMENT_OBS,SOURCE_DETAIL

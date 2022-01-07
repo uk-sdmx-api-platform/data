@@ -37,34 +37,12 @@
             }
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "15 years old and over",
-                "15 to 49 years old",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Upper bound value",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "7.1",
-                "8.4",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Lower bound value",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1.8",
-                "2.1",
+                "Y_GE15",
+                "Y15T49",
                 ""
               ]
             }

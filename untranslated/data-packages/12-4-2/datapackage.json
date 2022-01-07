@@ -26,66 +26,27 @@
             }
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Electronic waste collected, per capita (KG) [12.4.2]",
-                "Electronic waste collected (Tonnes) [12.4.2]",
-                "Municipal waste treated, by type of treatment (%) [12.4.2]",
+                "WT_INCINRT",
+                "WT_LANDFIL",
+                "WT_RECYCL",
                 ""
               ]
             }
           },
           {
-            "name": "Composite breakdown",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Waste treatment: Incineration",
-                "Waste treatment: Landfilling",
-                "Waste treatment: Recycling",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit of measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Kilograms",
-                "Metric Tons",
-                "Percent",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Source details",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "UNSD / UNU / WESR",
-                "UNSTATS / WESR ",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Eurostat_2019",
-                "Eurostat_2021",
-                "Eurostat estimate.",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Observation-level footnotes",
             "type": "string",
             "constraints": {
               "enum": [

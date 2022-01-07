@@ -29,70 +29,37 @@
             "title": "COMMENT_OBS"
           },
           {
-            "name": "SOURCE_DETAIL",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Office for National Statistics based on United Kingdom Time Use Survey, 2000",
-                "Office for National Statistics based on United Kingdom Time Use Survey, 2014-2015",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
+            "title": "SERIES"
           },
           {
-            "name": "SDG Series",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of time spent on unpaid domestic chores and care work [5.4.1]",
-                "Proportion of time spent on unpaid care work [5.4.1]",
-                "Proportion of time spent on unpaid domestic chores [5.4.1]",
+                "F",
+                "M",
                 ""
               ]
             },
-            "title": "SDG Series"
+            "title": "SEX"
           },
           {
-            "name": "Sex",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "Y_GE15",
+                "Y_GE65",
+                "Y15T24",
+                "Y25T44",
+                "Y45T54",
+                "Y55T64",
                 ""
               ]
             },
-            "title": "Sex"
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15 years old and over",
-                "65 years old and over",
-                "15 to 24 years old",
-                "25 to 44 years old",
-                "45 to 54 years old",
-                "55 to 64 years old",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "Observation-level footnotes",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Travel related to unpaid domestic and care work is not included.",
-                "Travel related to unpaid care work is not included.",
-                "Travel related to unpaid domestic work is not included.",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
+            "title": "AGE"
           },
           {
             "name": "Value",

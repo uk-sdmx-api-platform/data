@@ -16,16 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Level of requirement: Advanced",
-                "Level of requirement: Minimum",
+                "LOR_ADVANCED",
+                "LOR_MINIMUM",
                 ""
               ]
             },
-            "title": "Composite breakdown"
+            "title": "COMPOSITE_BREAKDOWN"
           },
           {
             "name": "Value",

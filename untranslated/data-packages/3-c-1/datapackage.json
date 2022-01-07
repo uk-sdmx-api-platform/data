@@ -15,51 +15,37 @@
             "type": "string"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Health workder density [3.c.1]",
-                "Health worker distribution, by sex and type of occupation [3.c.1]",
+                "F",
+                "M",
                 ""
               ]
             }
           },
           {
-            "name": "Sex",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "ISCO08_221",
+                "ISCO08_222_322",
+                "ISCO08_2261",
+                "ISCO08_2262",
+                "ISCO08_2221_3221",
                 ""
               ]
             }
           },
           {
-            "name": "Occupation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Medical doctors",
-                "Nursing and midwifery personnel",
-                "Dentists",
-                "Pharmacists",
-                "Nursing personnel",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit of measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Per 10,000 population",
-                "Percent",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Value",

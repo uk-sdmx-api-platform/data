@@ -1,8 +1,6 @@
 From,To
-SOURCE_DETAIL,Education level
-Source details,Sex
-Source details,Degree of urbanisation
-Degree of urbanisation,Observation-level footnotes
-Source details,Income or wealth quantile
-Education level,Source details
-Observation-level footnotes,COMMENT_OBS
+SOURCE_DETAIL,EDUCATION_LEV
+EDUCATION_LEV,SEX
+EDUCATION_LEV,URBANISATION
+URBANISATION,COMMENT_OBS
+EDUCATION_LEV,INCOME_WEALTH_QUANTILE

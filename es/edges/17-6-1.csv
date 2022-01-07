@@ -1,9 +1,4 @@
 From,To
 NATURE,SOURCE_DETAIL
-SOURCE_DETAIL,SDG Series
-SDG Series,Unit of measure
-Source details,Composite breakdown
-Unit of measure,Nature of data points
-Nature of data points,Source details
-Source details,Observation-level footnotes
-Observation-level footnotes,COMMENT_OBS
+SOURCE_DETAIL,COMPOSITE_BREAKDOWN
+SOURCE_DETAIL,COMMENT_OBS

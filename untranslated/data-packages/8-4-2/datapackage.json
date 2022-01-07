@@ -15,65 +15,40 @@
             "type": "string"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "PRODUCT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Domestic material consumption per capita, by type of raw material [8.4.2,12.2.2]",
-                "Domestic material consumption per unit of GDP [8.4.2,12.2.2]",
-                "Domestic material consumption [8.4.2,12.2.2]",
+                "MF_AGG3A",
+                "MF_AGG3B",
+                "MF1",
+                "MF11",
+                "MF121",
+                "MF122",
+                "MF13",
+                "MF14",
+                "MF2",
+                "MF21",
+                "MF22",
+                "MF3",
+                "MF4",
+                "MF41",
+                "MF421",
+                "MF422",
                 ""
               ]
             }
           },
           {
-            "name": "Type of product",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Non-metallic minerals - construction dominant (material flows)",
-                "Non-metallic minerals - industrial or agricultural dominant (material flows)",
-                "Biomass (material flows)",
-                "Crops (material flows)",
-                "Crop residues (material flows)",
-                "Grazed biomass and fodder crops (material flows)",
-                "Wood (material flows)",
-                "Wild catch and harvest (material flows)",
-                "Metal ores (material flows)",
-                "Ferrous ores (material flows)",
-                "Non-ferrous ores (material flows)",
-                "Non-metallic minerals (material flows)",
-                "Fossil fuels (material flows)",
-                "Coal (material flows)",
-                "Petroleum (material flows)",
-                "Natural gas (material flows)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit of measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Metric Tons",
-                "Kilograms per constant USD",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "BASE_PER",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2010",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Base period",
             "type": "string",
             "constraints": {
               "enum": [

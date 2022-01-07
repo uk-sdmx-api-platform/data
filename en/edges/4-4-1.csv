@@ -1,4 +1,3 @@
 From,To
-SOURCE_DETAIL,Composite breakdown
-Source details,Sex
-Composite breakdown,Source details
+SOURCE_DETAIL,COMPOSITE_BREAKDOWN
+COMPOSITE_BREAKDOWN,SEX

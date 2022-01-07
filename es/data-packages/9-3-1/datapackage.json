@@ -16,16 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "Economic activity",
+            "name": "ACTIVITY",
             "type": "string",
             "constraints": {
               "enum": [
-                "Manufacturing (ISIC3 D)",
-                "Manufacturing",
+                "ISIC3_D",
+                "ISIC4_C",
                 ""
               ]
             },
-            "title": "Economic activity"
+            "title": "ACTIVITY"
           },
           {
             "name": "Value",

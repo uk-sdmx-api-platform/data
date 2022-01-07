@@ -26,26 +26,8 @@
             }
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total official flows (commitments) for Aid for Trade, by donor countries [8.a.1]",
-                "Total official flows (disbursement) for Aid for Trade, by donor countries [8.a.1]",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Observation-level footnotes",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Commitments; Based on OECD, CRS databased, 2021; Constant 2019 USD million",
-                "Gross disbursements; Based on OECD, CRS databased, 2021; Constant 2019 USD million",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",

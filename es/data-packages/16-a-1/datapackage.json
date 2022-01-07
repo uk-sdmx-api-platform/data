@@ -20,36 +20,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Name of National Human Rights Institution: Great Britain - Equality and Human Rights Commission; Northern Ireland - human Rights Commission; Scotland - Scottish Human Rights Commission.",
                 "Name of National Human Rights Institution: Zambian Human Rights Commission .",
+                "Name of National Human Rights Institution: Great Britain - Equality and Human Rights Commission; Northern Ireland - human Rights Commission; Scotland - Scottish Human Rights Commission.",
                 ""
               ]
             },
             "title": "COMMENT_OBS"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Countries with National Human Rights Institutions in compliance with the Paris Principles, A status (1 = YES; 0 = NO) [16.a.1]",
-                "Countries with no application for accreditation with the Paris Principles, D status  (1 = YES; 0 = NO) [16.a.1]",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "Observation-level footnotes",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Name of National Human Rights Institution: Zambian Human Rights Commission .",
-                "Name of National Human Rights Institution: Great Britain - Equality and Human Rights Commission; Northern Ireland - human Rights Commission; Scotland - Scottish Human Rights Commission.",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
+            "title": "SERIES"
           },
           {
             "name": "Value",

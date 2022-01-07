@@ -15,12 +15,12 @@
             "type": "string"
           },
           {
-            "name": "Economic activity",
+            "name": "ACTIVITY",
             "type": "string",
             "constraints": {
               "enum": [
-                "Manufacturing (ISIC3 D)",
-                "Manufacturing",
+                "ISIC3_D",
+                "ISIC4_C",
                 ""
               ]
             }

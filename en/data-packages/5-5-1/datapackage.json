@@ -16,10 +16,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Annual data as of 1 Feb of given year.",
                 "Based on public sector database maintained by Oscar Research Ltd, as at 6th of January, 2020.",
                 "Bicameral: Lower chamber (House of Commons), Data valid as of 1 Jan of given year",
-                "Data are as at 1 January of reporting year | single or lower chambers of national parliaments.",
                 "Lower Chamber or Unicameral, Data valid as of 1 Jan of given year based on the number of seats filled in parliament at the time",
                 "Lower Chamber or Unicameral, Data valid as of 1 Jan of given year, figures correspond to the number of seats filled in parliament at the given time."
               ]
@@ -27,32 +25,20 @@
             "title": "COMMENT_OBS"
           },
           {
-            "name": "Observation-level footnotes",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Based on public sector database maintained by Oscar Research Ltd, as at 6th of January, 2020.",
-                "Bicameral: Lower chamber (House of Commons), Data valid as of 1 Jan of given year",
-                "Lower Chamber or Unicameral, Data valid as of 1 Jan of given year based on the number of seats filled in parliament at the time",
-                "Lower Chamber or Unicameral, Data valid as of 1 Jan of given year, figures correspond to the number of seats filled in parliament at the given time."
-              ]
-            },
-            "title": "Observation-level footnotes"
+            "title": "SERIES"
           },
           {
-            "name": "SDG Series",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Number of seats held by women in national parliaments [5.5.1]",
-                "Number of seats in national parliaments [5.5.1]",
-                "Proportion of elected seats held by women in deliberative bodies of local government [5.5.1]",
-                "Proportion of seats held by women in national parliaments (% of total number of seats) [5.5.1]"
+                "F"
               ]
             },
-            "title": "SDG Series"
+            "title": "SEX"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -61,48 +47,15 @@
               "enum": [
                 "",
                 "Compiled by UNECE Statistical Division and UN Women",
-                "Inter-Parliamentary Union (IPU), Parline Database",
-                "Inter-Parliamentary Union (IPU), the database on Women in National Parliament, accessed February 1 of given year for annual data.",
-                "Inter-Parliamentary Union (IPU), the database on Women in National Parliament, accessed Jan 1 of given year for annual data.",
-                "Inter-Parliamentary Union (IPU), the database on Women in National Parliament, accessed January 1 of given year for annual data."
+                "Inter-Parliamentary Union (IPU), Parline Database"
               ]
             },
             "title": "SOURCE_DETAIL"
           },
           {
-            "name": "Sex",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Female"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Source details",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Compiled by UNECE Statistical Division and UN Women",
-                "Inter-Parliamentary Union (IPU), Parline Database"
-              ]
-            },
-            "title": "Source details"
-          },
-          {
-            "name": "Unit of measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Number",
-                "Percent"
-              ]
-            },
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

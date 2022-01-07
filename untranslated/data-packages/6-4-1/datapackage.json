@@ -15,19 +15,19 @@
             "type": "string"
           },
           {
-            "name": "Economic activity",
+            "name": "ACTIVITY",
             "type": "string",
             "constraints": {
               "enum": [
-                "Agriculture (ISIC4 A01 A0210 A0322)",
-                "Industries",
-                "Services (G to T)",
+                "ISIC4_A01_A0210_A0322",
+                "ISIC4_BTFXE",
+                "ISIC4_GTT",
                 ""
               ]
             }
           },
           {
-            "name": "Observation-level footnotes",
+            "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [

@@ -1,1 +1,1 @@
-{"From":["COMMENT_OBS","UPPER_BOUND","LOWER_BOUND","Custom Breakdown","Label for custom breakdown","Observation-level footnotes","Upper bound value"],"To":["UPPER_BOUND","LOWER_BOUND","Custom Breakdown","Label for custom breakdown","Observation-level footnotes","Upper bound value","Lower bound value"]}
+{"From":["COMMENT_OBS","UPPER_BOUND","LOWER_BOUND","CUST_BREAKDOWN"],"To":["UPPER_BOUND","LOWER_BOUND","CUST_BREAKDOWN","CUST_BREAKDOWN_LB"]}

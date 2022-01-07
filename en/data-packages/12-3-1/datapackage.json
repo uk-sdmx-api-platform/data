@@ -11,41 +11,27 @@
       "schema": {
         "fields": [
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Food Waste Sector: Households",
-                "Food Waste Sector: Out-of-home consumption",
-                "Food Waste Sector: Retail"
+                "FWS_HHS",
+                "FWS_OOHC",
+                "FWS_RTL"
               ]
             },
-            "title": "Composite breakdown"
+            "title": "COMPOSITE_BREAKDOWN"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Food waste [12.3.1]",
-                "Food waste per capita [12.3.1]"
-              ]
-            },
-            "title": "SDG Series"
+            "title": "SERIES"
           },
           {
-            "name": "Unit of measure",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Kilograms",
-                "Metric Tons"
-              ]
-            },
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

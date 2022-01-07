@@ -1,15 +1,15 @@
 Value,Disaggregation combinations using this value,Number of indicators
-Clerical support workers,9,1
-Craft and related trades workers,7,1
-Dentists,1,1
-Elementary occupations,7,1
-Managers,9,1
-Medical doctors,3,1
-Nursing and midwifery personnel,1,1
-Nursing personnel,2,1
-Pharmacists,1,1
-"Plant and machine operators, and assemblers",7,1
-Professionals,9,1
-Service and sales workers,9,1
-"Skilled agricultural, forestry and fishery workers",9,1
-Technicians and associate professionals,9,1
+ISCO08_1,3,1
+ISCO08_2,3,1
+ISCO08_221,3,1
+ISCO08_2221_3221,2,1
+ISCO08_222_322,1,1
+ISCO08_2261,1,1
+ISCO08_2262,1,1
+ISCO08_3,3,1
+ISCO08_4,3,1
+ISCO08_5,3,1
+ISCO08_6,3,1
+ISCO08_7,3,1
+ISCO08_8,3,1
+ISCO08_9,3,1

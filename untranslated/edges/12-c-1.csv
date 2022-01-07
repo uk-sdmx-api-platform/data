@@ -1,5 +1,2 @@
 From,To
-UNIT_MULT,SDG Series
-Unit of measure,BASE_PER
-BASE_PER,Base period
-SDG Series,Unit of measure
+UNIT_MULT,BASE_PER

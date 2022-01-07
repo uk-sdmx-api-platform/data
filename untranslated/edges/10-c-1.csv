@@ -1,5 +1,3 @@
 From,To
-COMMENT_OBS,SDG Series
-SDG Series,Custom Breakdown
-Custom Breakdown,Label for custom breakdown
-Label for custom breakdown,Observation-level footnotes
+COMMENT_OBS,CUST_BREAKDOWN
+CUST_BREAKDOWN,CUST_BREAKDOWN_LB

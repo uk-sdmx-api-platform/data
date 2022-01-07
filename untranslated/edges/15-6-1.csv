@@ -1,5 +1,2 @@
 From,To
-COMMENT_OBS,Observation-level footnotes
-Source details,COMMENT_OBS
-SOURCE_DETAIL,SDG Series
-SDG Series,Source details
+SOURCE_DETAIL,COMMENT_OBS

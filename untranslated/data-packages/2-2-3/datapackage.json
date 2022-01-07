@@ -19,44 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "11.3",
-                "11.1",
-                "11.0",
-                "11.2",
-                "11.5",
-                "11.7",
-                "11.8",
-                "12.0",
-                "12.3",
-                "12.6",
-                "13.1",
-                "14.0",
-                "15.0",
-                "16.2",
                 "17.8",
-                "10.9",
-                "10.8",
-                "12.1",
-                "12.4",
-                "13.0",
-                "13.9",
-                "14.9",
-                "16.3",
                 "17.7",
-                "29.1",
-                "28.4",
-                "27.9",
-                "27.5",
-                "27.0",
-                "26.5",
-                "26.4",
-                "26.3",
-                "26.1",
-                "26.7",
-                "27.4",
-                "29.2",
-                "30.4",
-                "31.3",
                 "33.0",
                 ""
               ]
@@ -67,59 +31,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "7.8",
-                "7.7",
-                "7.5",
-                "7.4",
-                "7.3",
-                "7.1",
-                "7.6",
-                "7.2",
-                "6.9",
-                "8.3",
-                "8.2",
-                "8.1",
-                "8.0",
-                "7.9",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of women aged 15-49 years with anaemia [2.2.3]",
-                "Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]",
-                "Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Upper bound value",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "17.8",
-                "17.7",
-                "33.0",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Lower bound value",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "7.1",
                 "6.9",
                 "7.6",
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",

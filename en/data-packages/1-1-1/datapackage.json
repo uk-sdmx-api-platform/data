@@ -11,19 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Based on data from EU-SILC. Estimated from unit-record income data.",
-                "Based on data from FES-LIS. Estimated from unit-record income data.",
-                "Based on data from FRS-LIS. Estimated from unit-record income data."
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

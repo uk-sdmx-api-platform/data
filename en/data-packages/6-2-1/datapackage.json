@@ -22,39 +22,21 @@
             "title": "COMMENT_OBS"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Rural",
-                "Urban"
-              ]
-            },
-            "title": "Degree of urbanisation"
+            "title": "SERIES"
           },
           {
-            "name": "Observation-level footnotes",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Obs_Value = 0;  "
+                "R",
+                "U"
               ]
             },
-            "title": "Observation-level footnotes"
-          },
-          {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Proportion of population practicing open defecation [6.2.1]",
-                "Proportion of population using safely managed sanitation services [6.2.1]"
-              ]
-            },
-            "title": "SDG Series"
+            "title": "URBANISATION"
           },
           {
             "name": "Value",

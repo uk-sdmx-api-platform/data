@@ -15,28 +15,6 @@
             "type": "string"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "I",
-                "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "NATURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "E",
-                "C",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

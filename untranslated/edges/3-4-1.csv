@@ -1,9 +1,5 @@
 From,To
 UPPER_BOUND,LOWER_BOUND
-LOWER_BOUND,SDG Series
-SDG Series,Unit of measure
-Lower bound value,Sex
-Lower bound value,Age
-Lower bound value,Composite breakdown
-Unit of measure,Upper bound value
-Upper bound value,Lower bound value
+LOWER_BOUND,SEX
+LOWER_BOUND,AGE
+LOWER_BOUND,COMPOSITE_BREAKDOWN

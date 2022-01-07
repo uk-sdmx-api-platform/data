@@ -19,30 +19,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Repository: Eurostat special tabulation",
                 "Repository: Eurostat special tabulation | Break in series: Methodology revised",
+                "Repository: Eurostat special tabulation",
                 ""
               ]
             }
           },
           {
-            "name": "Economic activity",
+            "name": "ACTIVITY",
             "type": "string",
             "constraints": {
               "enum": [
-                "Manufacturing (ISIC3 D)",
-                "Manufacturing",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Observation-level footnotes",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Repository: Eurostat special tabulation | Break in series: Methodology revised",
-                "Repository: Eurostat special tabulation",
+                "ISIC3_D",
+                "ISIC4_C",
                 ""
               ]
             }

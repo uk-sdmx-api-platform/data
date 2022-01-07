@@ -1,9 +1,9 @@
-Year,Composite breakdown,Value
-2015,Fiscal intervention stage: Postfiscal disposable income,36.0173
-2016,Fiscal intervention stage: Postfiscal disposable income,34.8
-2017,Fiscal intervention stage: Postfiscal disposable income,35.4
-2018,Fiscal intervention stage: Postfiscal disposable income,36.1
-2015,Fiscal intervention stage: Prefiscal income,46.99128
-2016,Fiscal intervention stage: Prefiscal income,45.4
-2017,Fiscal intervention stage: Prefiscal income,45.4
-2018,Fiscal intervention stage: Prefiscal income,45.9
+Year,COMPOSITE_BREAKDOWN,Value
+2015,FIS_POSTFIS_DIS_INC,36.0173
+2016,FIS_POSTFIS_DIS_INC,34.8
+2017,FIS_POSTFIS_DIS_INC,35.4
+2018,FIS_POSTFIS_DIS_INC,36.1
+2015,FIS_PREFIS_INC,46.99128
+2016,FIS_PREFIS_INC,45.4
+2017,FIS_PREFIS_INC,45.4
+2018,FIS_PREFIS_INC,45.9

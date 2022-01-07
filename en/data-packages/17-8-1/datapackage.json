@@ -11,37 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                " Users in the last 3 months.",
-                " Users in the last 3 months. Age 16-74.",
-                "Last 3 months.",
-                "Population age 16+ using internet in the last 3 months.",
-                "Population age 16+ using the Internet in the last 3 months.",
-                "Population age 16-74 using Internet in the last 3 months.",
-                "Population age 16-74."
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Eurostat",
-                "Eurostat.",
-                "ONS.",
-                "Office for National Statistics"
-              ]
-            },
-            "title": "SOURCE_DETAIL"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

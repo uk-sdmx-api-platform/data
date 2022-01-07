@@ -22,40 +22,14 @@
             "title": "BASE_PER"
           },
           {
-            "name": "Base period",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "2015"
-              ]
-            },
-            "title": "Base period"
+            "title": "SERIES"
           },
           {
-            "name": "SDG Series",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Manufacturing value added (current United States dollars) as a proportion of GDP [9.2.1]",
-                "Manufacturing value added as a proportion of GDP [9.2.1]",
-                "Manufacturing value added per capita [9.2.1]"
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "Unit of measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Constant USD",
-                "Percent"
-              ]
-            },
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

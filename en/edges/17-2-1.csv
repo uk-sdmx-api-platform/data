@@ -1,6 +1,2 @@
 From,To
-COMMENT_OBS,SDG Series
-SDG Series,Unit of measure
-Unit of measure,Observation-level footnotes
-Observation-level footnotes,BASE_PER
-BASE_PER,Base period
+COMMENT_OBS,BASE_PER

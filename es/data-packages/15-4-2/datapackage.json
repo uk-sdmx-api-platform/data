@@ -16,16 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Elevation 1.000–1.500 meters and slope > 5 or local elevation range (LER 7 kilometer radius) > 300 meters",
-                "Elevation 300–1.000 meters and local elevation range (7 kilometer radius) > 300 meters",
+                "ELV_5",
+                "ELV_6",
                 ""
               ]
             },
-            "title": "Composite breakdown"
+            "title": "COMPOSITE_BREAKDOWN"
           },
           {
             "name": "Value",

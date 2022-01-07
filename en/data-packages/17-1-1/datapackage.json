@@ -11,16 +11,14 @@
       "schema": {
         "fields": [
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Total government revenue as a proportion of GDP [17.1.1]",
-                "Total government revenue, in local currency [17.1.1]"
-              ]
-            },
-            "title": "SDG Series"
+            "title": "SERIES"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "UNIT_MULT",
@@ -33,23 +31,6 @@
               ]
             },
             "title": "UNIT_MULT"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string",
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "Unit of measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Local currency",
-                "Percent"
-              ]
-            },
-            "title": "Unit of measure"
           },
           {
             "name": "Value",

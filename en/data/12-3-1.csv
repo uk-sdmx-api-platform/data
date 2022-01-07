@@ -1,7 +1,7 @@
-Year,SDG Series,Composite breakdown,Unit of measure,Value
-2019,Food waste [12.3.1],Food Waste Sector: Households,Metric Tons,5199825.4
-2019,Food waste [12.3.1],Food Waste Sector: Out-of-home consumption,Metric Tons,1114248.3
-2019,Food waste [12.3.1],Food Waste Sector: Retail,Metric Tons,283626.84
-2019,Food waste per capita [12.3.1],Food Waste Sector: Households,Kilograms,77.0
-2019,Food waste per capita [12.3.1],Food Waste Sector: Out-of-home consumption,Kilograms,16.5
-2019,Food waste per capita [12.3.1],Food Waste Sector: Retail,Kilograms,4.2
+Year,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
+2019,AG_FOOD_WST,FWS_HHS,T,5199825.4
+2019,AG_FOOD_WST,FWS_OOHC,T,1114248.3
+2019,AG_FOOD_WST,FWS_RTL,T,283626.84
+2019,AG_FOOD_WST_PC,FWS_HHS,KG,77.0
+2019,AG_FOOD_WST_PC,FWS_OOHC,KG,16.5
+2019,AG_FOOD_WST_PC,FWS_RTL,KG,4.2

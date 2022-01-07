@@ -1,120 +1,82 @@
 Indicator,Disaggregations,Number of disaggregations
-#1-1-1,COMMENT_OBS,1
-#1-3-1,"SDG Series, Sex",2
-#1-4-1,"SDG Series, Degree of urbanisation",2
-#1-5-1,"SDG Series, Unit of measure",2
-#1-5-4,"SDG Series, Unit of measure",2
-#1-a-1,COMMENT_OBS,1
-#10-1-1,Income or wealth quantile,1
-#10-4-2,Composite breakdown,1
-#10-5-1,SDG Series,1
-#10-6-1,"SDG Series, Composite breakdown, SOURCE_DETAIL, Source details",4
-#10-7-2,Composite breakdown,1
-#10-7-3,COMMENT_OBS,1
-#10-a-1,Type of product,1
-#10-c-1,"SDG Series, COMMENT_OBS, Observation-level footnotes, Custom Breakdown, Label for custom breakdown",5
-#11-5-1,"SDG Series, Unit of measure",2
-#11-6-1,"Custom Breakdown, Label for custom breakdown",2
-#11-6-2,Degree of urbanisation,1
-#11-b-2,"SDG Series, Unit of measure",2
-#12-1-1,"SDG Series, Composite breakdown",2
-#12-2-2,"SDG Series, Unit of measure, BASE_PER, Base period, Type of product",5
-#12-3-1,"SDG Series, Composite breakdown, Unit of measure",3
-#12-4-1,"SDG Series, SOURCE_DETAIL, Source details",3
-#12-4-2,"SDG Series, Composite breakdown, Unit of measure, COMMENT_OBS, SOURCE_DETAIL, Observation-level footnotes, Source details",7
-#12-6-1,Composite breakdown,1
-#12-8-1,SDG Series,1
-#12-b-1,"SDG Series, COMMENT_OBS",2
-#12-c-1,"SDG Series, Unit of measure, UNIT_MULT, BASE_PER, Base period",5
-#13-1-1,"SDG Series, Unit of measure",2
-#13-1-3,"SDG Series, Unit of measure",2
-#13-3-1,SDG Series,1
-#14-1-1,"SDG Series, Composite breakdown, Unit of measure, SOURCE_DETAIL, Source details",5
-#14-3-1,"COMMENT_OBS, Observation-level footnotes, UPPER_BOUND, LOWER_BOUND, Upper bound value, Lower bound value, Custom Breakdown, Label for custom breakdown",8
-#14-5-1,"SDG Series, Unit of measure, COMMENT_OBS, SOURCE_DETAIL, Observation-level footnotes, Source details, UPPER_BOUND, LOWER_BOUND, Upper bound value, Lower bound value",10
-#14-c-1,SDG Series,1
-#15-1-1,"SDG Series, Unit of measure, COMMENT_OBS, UNIT_MULT, NATURE, SOURCE_DETAIL, Nature of data points, Observation-level footnotes, Source details",9
-#15-1-2,"SDG Series, UPPER_BOUND, LOWER_BOUND, Upper bound value, Lower bound value",5
-#15-2-1,"SDG Series, Unit of measure, COMMENT_OBS, UNIT_MULT, NATURE, SOURCE_DETAIL, Nature of data points, Observation-level footnotes, Source details",9
-#15-4-1,"UPPER_BOUND, LOWER_BOUND",2
-#15-4-2,Composite breakdown,1
-#15-5-1,"UPPER_BOUND, LOWER_BOUND",2
-#15-6-1,"SDG Series, COMMENT_OBS, SOURCE_DETAIL, Observation-level footnotes, Source details",5
-#15-8-1,"SDG Series, COMMENT_OBS, SOURCE_DETAIL, Observation-level footnotes, Source details",5
-#15-9-1,"SDG Series, Composite breakdown, SOURCE_DETAIL, Source details",4
-#16-2-2,"SDG Series, COMMENT_OBS, Observation-level footnotes, Sex, Age",5
-#16-7-1,"SDG Series, Composite breakdown, Unit of measure, COMMENT_OBS, Observation-level footnotes, Sex, Age",7
-#16-8-1,"SDG Series, Composite breakdown, SOURCE_DETAIL, Source details",4
-#16-a-1,"SDG Series, COMMENT_OBS, Observation-level footnotes",3
-#17-1-1,"SDG Series, Unit of measure, UNIT_MULT",3
-#17-12-1,"SDG Series, COMMENT_OBS, Observation-level footnotes, Type of product",4
-#17-13-1,"SDG Series, Unit of measure, COMMENT_OBS, SOURCE_DETAIL, Observation-level footnotes, Source details",6
-#17-15-1,SDG Series,1
-#17-19-2,"SDG Series, COMMENT_OBS, SOURCE_DETAIL, Observation-level footnotes, Source details",5
-#17-2-1,"SDG Series, Unit of measure, COMMENT_OBS, Observation-level footnotes, BASE_PER, Base period",6
-#17-6-1,"SDG Series, Composite breakdown, Unit of measure, COMMENT_OBS, NATURE, SOURCE_DETAIL, Nature of data points, Observation-level footnotes, Source details",9
-#17-8-1,"COMMENT_OBS, SOURCE_DETAIL",2
-#2-1-2,"SDG Series, Unit of measure, COMMENT_OBS, UNIT_MULT, UPPER_BOUND, LOWER_BOUND, Sex, Age, Upper bound value, Lower bound value",10
-#2-2-3,"SDG Series, UPPER_BOUND, LOWER_BOUND, Upper bound value, Lower bound value",5
-#2-5-1,"SDG Series, COMMENT_OBS, NATURE, SOURCE_DETAIL, Nature of data points, Observation-level footnotes, Source details",7
-#2-5-2,"COMMENT_OBS, NATURE",2
-#2-a-1,"SDG Series, Unit of measure, COMMENT_OBS, SOURCE_DETAIL, Observation-level footnotes, Source details",6
-#2-c-1,COMMENT_OBS,1
-#3-1-1,"UPPER_BOUND, LOWER_BOUND",2
-#3-2-1,"SDG Series, Unit of measure, Sex, Age",4
-#3-2-2,"SDG Series, Unit of measure",2
-#3-3-2,"UPPER_BOUND, LOWER_BOUND",2
-#3-4-1,"SDG Series, Composite breakdown, Unit of measure, UPPER_BOUND, LOWER_BOUND, Sex, Age, Upper bound value, Lower bound value",9
-#3-4-2,"SDG Series, Unit of measure, UPPER_BOUND, LOWER_BOUND, Sex, Upper bound value, Lower bound value",7
-#3-5-1,Sex,1
-#3-5-2,"UPPER_BOUND, LOWER_BOUND, Sex, Upper bound value, Lower bound value",5
-#3-6-1,"UPPER_BOUND, LOWER_BOUND, Sex, Upper bound value, Lower bound value",5
-#3-7-2,"NATURE, SOURCE_DETAIL",2
-#3-8-2,"SDG Series, SOURCE_DETAIL",2
-#3-9-1,SDG Series,1
-#3-9-3,"UPPER_BOUND, LOWER_BOUND, Sex, Upper bound value, Lower bound value",5
-#3-a-1,Sex,1
-#3-b-1,"SDG Series, COMMENT_OBS, SOURCE_DETAIL, Observation-level footnotes, Source details",5
-#3-c-1,"SDG Series, Unit of measure, Sex, Occupation",4
-#3-d-1,"Composite breakdown, COMMENT_OBS, SOURCE_DETAIL, Observation-level footnotes, Source details",5
-#3-d-2,"SDG Series, COMMENT_OBS, Observation-level footnotes",3
-#4-1-1,"Composite breakdown, SOURCE_DETAIL, Source details, Sex, Education level",5
-#4-1-2,"COMMENT_OBS, SOURCE_DETAIL, Observation-level footnotes, Source details, Sex, Degree of urbanisation, Education level, Income or wealth quantile",8
-#4-2-2,Sex,1
-#4-3-1,Sex,1
-#4-4-1,"Composite breakdown, SOURCE_DETAIL, Source details, Sex",4
-#4-5-1,"SDG Series, Composite breakdown, COMMENT_OBS, SOURCE_DETAIL, Observation-level footnotes, Source details, Age, Education level",8
-#4-6-1,"Composite breakdown, Sex",2
-#4-7-1,SDG Series,1
-#5-1-1,SDG Series,1
-#5-2-1,"UPPER_BOUND, LOWER_BOUND, Age, Upper bound value, Lower bound value",5
-#5-4-1,"SDG Series, COMMENT_OBS, SOURCE_DETAIL, Observation-level footnotes, Sex, Age",6
-#5-5-1,"SDG Series, Unit of measure, COMMENT_OBS, SOURCE_DETAIL, Observation-level footnotes, Source details, Sex",7
-#5-5-2,"SDG Series, COMMENT_OBS",2
-#5-6-2,"SDG Series, COMMENT_OBS, Observation-level footnotes",3
-#6-2-1,"SDG Series, COMMENT_OBS, Observation-level footnotes, Degree of urbanisation",4
-#6-3-2,SDG Series,1
-#6-4-1,"Observation-level footnotes, Economic activity",2
-#6-4-2,"NATURE, OBS_STATUS",2
-#6-5-1,SDG Series,1
-#6-5-2,SDG Series,1
-#6-6-1,"SDG Series, Composite breakdown, Unit of measure",3
-#7-1-1,Degree of urbanisation,1
-#8-10-1,SDG Series,1
-#8-10-2,Sex,1
-#8-2-1,COMMENT_OBS,1
-#8-4-2,"SDG Series, Unit of measure, BASE_PER, Base period, Type of product",5
-#8-5-1,"COMMENT_OBS, Sex, Occupation",3
-#8-5-2,"SDG Series, COMMENT_OBS, SOURCE_DETAIL, Observation-level footnotes, Source details, Sex, Age, Disability status",8
-#8-6-1,"COMMENT_OBS, Sex",2
-#8-8-1,"SDG Series, Composite breakdown, COMMENT_OBS, Observation-level footnotes, Sex",5
-#8-9-1,COMMENT_OBS,1
-#8-a-1,"SDG Series, COMMENT_OBS, Observation-level footnotes",3
-#9-1-2,"SDG Series, Composite breakdown, Unit of measure, NATURE, SOURCE_DETAIL, Nature of data points, Source details",7
-#9-2-1,"SDG Series, Unit of measure, BASE_PER, Base period",4
-#9-2-2,"COMMENT_OBS, Observation-level footnotes, Economic activity",3
-#9-3-1,Economic activity,1
-#9-4-1,"SDG Series, Unit of measure, UNIT_MULT, SOURCE_DETAIL, Source details, BASE_PER, Base period, Economic activity",8
-#9-5-1,COMMENT_OBS,1
-#9-5-2,COMMENT_OBS,1
-#9-c-1,"SDG Series, COMMENT_OBS, NATURE, SOURCE_DETAIL, Observation-level footnotes",5
+#1-3-1,SEX,1
+#1-4-1,URBANISATION,1
+#10-1-1,INCOME_WEALTH_QUANTILE,1
+#10-4-2,COMPOSITE_BREAKDOWN,1
+#10-6-1,"COMPOSITE_BREAKDOWN, SOURCE_DETAIL",2
+#10-7-2,COMPOSITE_BREAKDOWN,1
+#10-a-1,PRODUCT,1
+#10-c-1,"COMMENT_OBS, CUST_BREAKDOWN, CUST_BREAKDOWN_LB",3
+#11-6-1,"CUST_BREAKDOWN, CUST_BREAKDOWN_LB",2
+#11-6-2,URBANISATION,1
+#12-1-1,COMPOSITE_BREAKDOWN,1
+#12-2-2,"BASE_PER, PRODUCT",2
+#12-3-1,COMPOSITE_BREAKDOWN,1
+#12-4-1,SOURCE_DETAIL,1
+#12-4-2,"COMPOSITE_BREAKDOWN, COMMENT_OBS, SOURCE_DETAIL",3
+#12-6-1,COMPOSITE_BREAKDOWN,1
+#12-c-1,"UNIT_MULT, BASE_PER",2
+#14-1-1,"COMPOSITE_BREAKDOWN, SOURCE_DETAIL",2
+#14-3-1,"COMMENT_OBS, UPPER_BOUND, LOWER_BOUND, CUST_BREAKDOWN, CUST_BREAKDOWN_LB",5
+#14-5-1,"COMMENT_OBS, SOURCE_DETAIL, UPPER_BOUND, LOWER_BOUND",4
+#15-1-1,"UNIT_MULT, NATURE, COMMENT_OBS, SOURCE_DETAIL",4
+#15-1-2,"UPPER_BOUND, LOWER_BOUND",2
+#15-2-1,"UNIT_MULT, NATURE, COMMENT_OBS, SOURCE_DETAIL",4
+#15-4-2,COMPOSITE_BREAKDOWN,1
+#15-6-1,"COMMENT_OBS, SOURCE_DETAIL",2
+#15-8-1,"COMMENT_OBS, SOURCE_DETAIL",2
+#15-9-1,"COMPOSITE_BREAKDOWN, SOURCE_DETAIL",2
+#16-2-2,"COMMENT_OBS, SEX, AGE",3
+#16-7-1,"COMPOSITE_BREAKDOWN, COMMENT_OBS, SEX, AGE",4
+#16-8-1,"COMPOSITE_BREAKDOWN, SOURCE_DETAIL",2
+#16-a-1,COMMENT_OBS,1
+#17-1-1,UNIT_MULT,1
+#17-12-1,"COMMENT_OBS, PRODUCT",2
+#17-13-1,"COMMENT_OBS, SOURCE_DETAIL",2
+#17-19-2,"COMMENT_OBS, SOURCE_DETAIL",2
+#17-2-1,"COMMENT_OBS, BASE_PER",2
+#17-6-1,"COMPOSITE_BREAKDOWN, NATURE, COMMENT_OBS, SOURCE_DETAIL",4
+#2-1-2,"UNIT_MULT, UPPER_BOUND, LOWER_BOUND, SEX, AGE",5
+#2-2-3,"UPPER_BOUND, LOWER_BOUND",2
+#2-5-1,"NATURE, COMMENT_OBS, SOURCE_DETAIL",3
+#2-a-1,"COMMENT_OBS, SOURCE_DETAIL",2
+#3-2-1,"SEX, AGE",2
+#3-4-1,"COMPOSITE_BREAKDOWN, UPPER_BOUND, LOWER_BOUND, SEX, AGE",5
+#3-4-2,"UPPER_BOUND, LOWER_BOUND, SEX",3
+#3-5-1,SEX,1
+#3-5-2,"UPPER_BOUND, LOWER_BOUND, SEX",3
+#3-6-1,"UPPER_BOUND, LOWER_BOUND, SEX",3
+#3-9-3,"UPPER_BOUND, LOWER_BOUND, SEX",3
+#3-a-1,SEX,1
+#3-b-1,"COMMENT_OBS, SOURCE_DETAIL",2
+#3-c-1,"SEX, OCCUPATION",2
+#3-d-1,"COMPOSITE_BREAKDOWN, COMMENT_OBS, SOURCE_DETAIL",3
+#3-d-2,COMMENT_OBS,1
+#4-1-1,"COMPOSITE_BREAKDOWN, SOURCE_DETAIL, SEX, EDUCATION_LEV",4
+#4-1-2,"COMMENT_OBS, SOURCE_DETAIL, SEX, URBANISATION, EDUCATION_LEV, INCOME_WEALTH_QUANTILE",6
+#4-2-2,SEX,1
+#4-3-1,SEX,1
+#4-4-1,"COMPOSITE_BREAKDOWN, SOURCE_DETAIL, SEX",3
+#4-5-1,"COMPOSITE_BREAKDOWN, COMMENT_OBS, SOURCE_DETAIL, AGE, EDUCATION_LEV",5
+#4-6-1,"COMPOSITE_BREAKDOWN, SEX",2
+#5-2-1,"UPPER_BOUND, LOWER_BOUND, AGE",3
+#5-4-1,"COMMENT_OBS, SEX, AGE",3
+#5-5-1,"COMMENT_OBS, SOURCE_DETAIL, SEX",3
+#5-6-2,COMMENT_OBS,1
+#6-2-1,"COMMENT_OBS, URBANISATION",2
+#6-4-1,"COMMENT_OBS, ACTIVITY",2
+#6-6-1,COMPOSITE_BREAKDOWN,1
+#7-1-1,URBANISATION,1
+#8-10-2,SEX,1
+#8-4-2,"BASE_PER, PRODUCT",2
+#8-5-1,"SEX, OCCUPATION",2
+#8-5-2,"COMMENT_OBS, SOURCE_DETAIL, SEX, AGE, DISABILITY_STATUS",5
+#8-6-1,SEX,1
+#8-8-1,"COMPOSITE_BREAKDOWN, COMMENT_OBS, SEX",3
+#8-a-1,COMMENT_OBS,1
+#9-1-2,"COMPOSITE_BREAKDOWN, NATURE, SOURCE_DETAIL",3
+#9-2-1,BASE_PER,1
+#9-2-2,"COMMENT_OBS, ACTIVITY",2
+#9-3-1,ACTIVITY,1
+#9-4-1,"UNIT_MULT, SOURCE_DETAIL, BASE_PER, ACTIVITY",4
+#9-c-1,COMMENT_OBS,1

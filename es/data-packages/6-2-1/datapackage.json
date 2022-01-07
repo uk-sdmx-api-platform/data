@@ -27,39 +27,21 @@
             "title": "COMMENT_OBS"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of population practicing open defecation [6.2.1]",
-                "Proportion of population using safely managed sanitation services [6.2.1]",
-                ""
-              ]
-            },
-            "title": "SDG Series"
+            "title": "SERIES"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             },
-            "title": "Degree of urbanisation"
-          },
-          {
-            "name": "Observation-level footnotes",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Obs_Value = 0;  ",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
+            "title": "URBANISATION"
           },
           {
             "name": "Value",

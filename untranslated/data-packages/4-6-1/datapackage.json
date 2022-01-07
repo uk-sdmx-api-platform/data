@@ -15,23 +15,23 @@
             "type": "string"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Skill: Functional literacy",
-                "Skill: Functional numeracy",
+                "SKILL_LTRCY",
+                "SKILL_NMRCY",
                 ""
               ]
             }

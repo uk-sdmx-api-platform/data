@@ -1,1 +1,1 @@
-{"From":["SOURCE_DETAIL","SDG Series","Composite breakdown","Source details","Education level","Source details","Observation-level footnotes"],"To":["SDG Series","Source details","Age","Education level","Observation-level footnotes","Composite breakdown","COMMENT_OBS"]}
+{"From":["SOURCE_DETAIL","SOURCE_DETAIL","COMPOSITE_BREAKDOWN","EDUCATION_LEV"],"To":["EDUCATION_LEV","COMPOSITE_BREAKDOWN","AGE","COMMENT_OBS"]}

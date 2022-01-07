@@ -1,8 +1,4 @@
 From,To
 UNIT_MULT,SOURCE_DETAIL
-SOURCE_DETAIL,SDG Series
-SDG Series,Unit of measure
-Source details,Economic activity
-Unit of measure,Source details
-Source details,BASE_PER
-BASE_PER,Base period
+SOURCE_DETAIL,ACTIVITY
+SOURCE_DETAIL,BASE_PER

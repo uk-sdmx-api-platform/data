@@ -1,29 +1,29 @@
-Year,COMMENT_OBS,SOURCE_DETAIL,SDG Series,Observation-level footnotes,Source details,Value
-2012,"ABS measures reported refers to legislative, administrative and policy framework or measures reported to the ABS Clearing-House. For values:  TRUE = 1.0; FALSE = 0.0. Data as per 15 February 2017.",https://absch.cbd.int/countries,"Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES; 0 = NO) [15.6.1]","ABS measures reported refers to legislative, administrative and policy framework or measures reported to the ABS Clearing-House. For values:  TRUE = 1.0; FALSE = 0.0. Data as per 15 February 2017.",https://absch.cbd.int/countries,1
-2012,"Parties  refers to Parties to the Convention on Biological Diversity that have ratified, accepted, approved or acceded the Nagoya Protocol, including those for which the Protocol has not yet entered into force following the 90 days period set out in Article 33.2 of the Protocol. For values:  TRUE = 1.0; FALSE = 0.0. Data as per 15 February 2017.","https://www.cbd.int/abs/nagoya-protocol/signatories/default.shtml, Access and Benefit-sharing Clearing-house https://absch.cbd.int/, http://www.fao.org/plant-treaty/countries/membership/en/,  The Online Reporting System on Compliance of the International Treaty on PGRFA http://faoitpgrfa.ort-production.linode.unep-wcmc.org and  Easy-SMTA https://mls.planttreaty.org ,",Countries that are parties to the Nagoya Protocol (1 = YES; 0 = NO) [15.6.1],"Parties  refers to Parties to the Convention on Biological Diversity that have ratified, accepted, approved or acceded the Nagoya Protocol, including those for which the Protocol has not yet entered into force following the 90 days period set out in Article 33.2 of the Protocol. For values:  TRUE = 1.0; FALSE = 0.0. Data as per 15 February 2017.","https://www.cbd.int/abs/nagoya-protocol/signatories/default.shtml, Access and Benefit-sharing Clearing-house https://absch.cbd.int/, http://www.fao.org/plant-treaty/countries/membership/en/,  The Online Reporting System on Compliance of the International Treaty on PGRFA http://faoitpgrfa.ort-production.linode.unep-wcmc.org and  Easy-SMTA https://mls.planttreaty.org ,",1
-2016,,ITPGRFA Secretariat ,"Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO) [15.6.1]",,ITPGRFA Secretariat ,1
-2017,,ITPGRFA Secretariat ,"Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO) [15.6.1]",,ITPGRFA Secretariat ,1
-2018,,ITPGRFA Secretariat ,"Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO) [15.6.1]",,ITPGRFA Secretariat ,1
-2019,,ITPGRFA Secretariat ,"Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO) [15.6.1]",,ITPGRFA Secretariat ,1
-2020,,ITPGRFA Secretariat ,"Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO) [15.6.1]",,ITPGRFA Secretariat ,1
-2021,,ITPGRFA Secretariat ,"Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO) [15.6.1]",,ITPGRFA Secretariat ,1
-2012,,ITPGRFA Secretariat ,Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO) [15.6.1],,ITPGRFA Secretariat ,1
-2013,,ITPGRFA Secretariat ,Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO) [15.6.1],,ITPGRFA Secretariat ,1
-2014,,ITPGRFA Secretariat ,Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO) [15.6.1],,ITPGRFA Secretariat ,1
-2015,,ITPGRFA Secretariat ,Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO) [15.6.1],,ITPGRFA Secretariat ,1
-2016,,ITPGRFA Secretariat ,Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO) [15.6.1],,ITPGRFA Secretariat ,1
-2017,,ITPGRFA Secretariat ,Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO) [15.6.1],,ITPGRFA Secretariat ,1
-2018,,ITPGRFA Secretariat ,Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO) [15.6.1],,ITPGRFA Secretariat ,1
-2019,,ITPGRFA Secretariat ,Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO) [15.6.1],,ITPGRFA Secretariat ,1
-2020,,ITPGRFA Secretariat ,Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO) [15.6.1],,ITPGRFA Secretariat ,1
-2021,,ITPGRFA Secretariat ,Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO) [15.6.1],,ITPGRFA Secretariat ,1
-2012,Cumulative value.,ITPGRFA Secretariat ,Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country [15.6.1],Cumulative value.,ITPGRFA Secretariat ,390
-2013,Cumulative value.,ITPGRFA Secretariat ,Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country [15.6.1],Cumulative value.,ITPGRFA Secretariat ,476
-2014,Cumulative value.,ITPGRFA Secretariat ,Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country [15.6.1],Cumulative value.,ITPGRFA Secretariat ,562
-2015,Cumulative value.,ITPGRFA Secretariat ,Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country [15.6.1],Cumulative value.,ITPGRFA Secretariat ,692
-2016,Cumulative value.,ITPGRFA Secretariat ,Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country [15.6.1],Cumulative value.,ITPGRFA Secretariat ,858
-2017,Cumulative value.,ITPGRFA Secretariat ,Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country [15.6.1],Cumulative value.,ITPGRFA Secretariat ,1042
-2018,Cumulative value.,ITPGRFA Secretariat ,Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country [15.6.1],Cumulative value.,ITPGRFA Secretariat ,1213
-2019,Cumulative value.,ITPGRFA Secretariat ,Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country [15.6.1],Cumulative value.,ITPGRFA Secretariat ,1401
-2020,Cumulative value.,ITPGRFA Secretariat ,Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country [15.6.1],Cumulative value.,ITPGRFA Secretariat ,1468
-2021,Cumulative value.,ITPGRFA Secretariat ,Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country [15.6.1],Cumulative value.,ITPGRFA Secretariat ,1468
+Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,Value
+2012,"ABS measures reported refers to legislative, administrative and policy framework or measures reported to the ABS Clearing-House. For values:  TRUE = 1.0; FALSE = 0.0. Data as per 15 February 2017.",https://absch.cbd.int/countries,ER_CBD_ABSCLRHS,1
+2012,"Parties  refers to Parties to the Convention on Biological Diversity that have ratified, accepted, approved or acceded the Nagoya Protocol, including those for which the Protocol has not yet entered into force following the 90 days period set out in Article 33.2 of the Protocol. For values:  TRUE = 1.0; FALSE = 0.0. Data as per 15 February 2017.","https://www.cbd.int/abs/nagoya-protocol/signatories/default.shtml, Access and Benefit-sharing Clearing-house https://absch.cbd.int/, http://www.fao.org/plant-treaty/countries/membership/en/,  The Online Reporting System on Compliance of the International Treaty on PGRFA http://faoitpgrfa.ort-production.linode.unep-wcmc.org and  Easy-SMTA https://mls.planttreaty.org ,",ER_CBD_NAGOYA,1
+2016,,ITPGRFA Secretariat ,ER_CBD_ORSPGRFA,1
+2017,,ITPGRFA Secretariat ,ER_CBD_ORSPGRFA,1
+2018,,ITPGRFA Secretariat ,ER_CBD_ORSPGRFA,1
+2019,,ITPGRFA Secretariat ,ER_CBD_ORSPGRFA,1
+2020,,ITPGRFA Secretariat ,ER_CBD_ORSPGRFA,1
+2021,,ITPGRFA Secretariat ,ER_CBD_ORSPGRFA,1
+2012,,ITPGRFA Secretariat ,ER_CBD_PTYPGRFA,1
+2013,,ITPGRFA Secretariat ,ER_CBD_PTYPGRFA,1
+2014,,ITPGRFA Secretariat ,ER_CBD_PTYPGRFA,1
+2015,,ITPGRFA Secretariat ,ER_CBD_PTYPGRFA,1
+2016,,ITPGRFA Secretariat ,ER_CBD_PTYPGRFA,1
+2017,,ITPGRFA Secretariat ,ER_CBD_PTYPGRFA,1
+2018,,ITPGRFA Secretariat ,ER_CBD_PTYPGRFA,1
+2019,,ITPGRFA Secretariat ,ER_CBD_PTYPGRFA,1
+2020,,ITPGRFA Secretariat ,ER_CBD_PTYPGRFA,1
+2021,,ITPGRFA Secretariat ,ER_CBD_PTYPGRFA,1
+2012,Cumulative value.,ITPGRFA Secretariat ,ER_CBD_SMTA,390
+2013,Cumulative value.,ITPGRFA Secretariat ,ER_CBD_SMTA,476
+2014,Cumulative value.,ITPGRFA Secretariat ,ER_CBD_SMTA,562
+2015,Cumulative value.,ITPGRFA Secretariat ,ER_CBD_SMTA,692
+2016,Cumulative value.,ITPGRFA Secretariat ,ER_CBD_SMTA,858
+2017,Cumulative value.,ITPGRFA Secretariat ,ER_CBD_SMTA,1042
+2018,Cumulative value.,ITPGRFA Secretariat ,ER_CBD_SMTA,1213
+2019,Cumulative value.,ITPGRFA Secretariat ,ER_CBD_SMTA,1401
+2020,Cumulative value.,ITPGRFA Secretariat ,ER_CBD_SMTA,1468
+2021,Cumulative value.,ITPGRFA Secretariat ,ER_CBD_SMTA,1468

@@ -1,8 +1,5 @@
 From,To
 COMMENT_OBS,SOURCE_DETAIL
-SOURCE_DETAIL,SDG Series
-SDG Series,Observation-level footnotes
-Source details,Sex
-Source details,Age
-Source details,Disability status
-Observation-level footnotes,Source details
+SOURCE_DETAIL,SEX
+SOURCE_DETAIL,AGE
+SOURCE_DETAIL,DISABILITY_STATUS

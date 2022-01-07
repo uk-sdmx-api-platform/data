@@ -29,31 +29,9 @@
             "title": "SOURCE_DETAIL"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) [3.b.1]",
-                "Proportion of the target population with access to affordable medicines and vaccines on a sustainable basis, human papillomavirus (HPV) [3.b.1]",
-                "Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) [3.b.1]",
-                "Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) [3.b.1]",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "Source details",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "WHO/UNICEF coverage estimates 2018 revision, July 2019",
-                "WHO and UNICEF HPV coverage estimates",
-                "WHO/UNICEF coverage estimates 2019 revision, July 2020",
-                ""
-              ]
-            },
-            "title": "Source details"
+            "title": "SERIES"
           },
           {
             "name": "COMMENT_OBS",
@@ -65,17 +43,6 @@
               ]
             },
             "title": "COMMENT_OBS"
-          },
-          {
-            "name": "Observation-level footnotes",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Obs_Value = 0;  ",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
           },
           {
             "name": "Value",

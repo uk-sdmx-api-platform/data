@@ -1,8 +1,5 @@
 From,To
-SOURCE_DETAIL,SDG Series
-SDG Series,Source details
-Composite breakdown,Age
-Source details,Education level
-Education level,Observation-level footnotes
-Source details,Composite breakdown
-Observation-level footnotes,COMMENT_OBS
+SOURCE_DETAIL,EDUCATION_LEV
+SOURCE_DETAIL,COMPOSITE_BREAKDOWN
+COMPOSITE_BREAKDOWN,AGE
+EDUCATION_LEV,COMMENT_OBS

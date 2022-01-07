@@ -1,1 +1,1 @@
-{"data":{"Year":["2018","2018"],"UPPER_BOUND":["7.1","8.4"],"LOWER_BOUND":["1.8","2.1"],"Age":["15 years old and over","15 to 49 years old"],"Upper bound value":["7.1","8.4"],"Lower bound value":["1.8","2.1"],"Value":[3.6,4.2]},"edges":{"From":["UPPER_BOUND","LOWER_BOUND","Age","Upper bound value"],"To":["LOWER_BOUND","Age","Upper bound value","Lower bound value"]}}
+{"data":{"Year":["2018","2018"],"UPPER_BOUND":["7.1","8.4"],"LOWER_BOUND":["1.8","2.1"],"AGE":["Y_GE15","Y15T49"],"Value":[3.6,4.2]},"edges":{"From":["UPPER_BOUND","LOWER_BOUND"],"To":["LOWER_BOUND","AGE"]}}

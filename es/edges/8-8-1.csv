@@ -1,5 +1,3 @@
 From,To
-COMMENT_OBS,SDG Series
-SDG Series,Observation-level footnotes
-Observation-level footnotes,Sex
-Observation-level footnotes,Composite breakdown
+COMMENT_OBS,SEX
+COMMENT_OBS,COMPOSITE_BREAKDOWN

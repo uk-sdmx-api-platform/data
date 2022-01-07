@@ -34,42 +34,9 @@
             "title": "NATURE"
           },
           {
-            "name": "Nature of data points",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Country Data",
-                "Estimated"
-              ]
-            },
-            "title": "Nature of data points"
-          },
-          {
-            "name": "Observation-level footnotes",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Official country report to FAO (FRA 2020)"
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Above-ground biomass in forest per hectare (tonnes per hectare) [15.2.1]",
-                "Forest area certified under an independently verified certification scheme (hectares) [15.2.1]",
-                "Forest area net change rate (%) [15.2.1]",
-                "Proportion of forest area with a long-term management plan [15.2.1]",
-                "Proportion of forest area within legally established protected areas [15.2.1]"
-              ]
-            },
-            "title": "SDG Series"
+            "title": "SERIES"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -84,16 +51,9 @@
             "title": "SOURCE_DETAIL"
           },
           {
-            "name": "Source details",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Data submitted by FSC and PEFC secretariats (certifying bodies) to FAO, Global Forest Resources Assessment",
-                "FAO, Global Forest Resources Assessment"
-              ]
-            },
-            "title": "Source details"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "UNIT_MULT",
@@ -106,24 +66,6 @@
               ]
             },
             "title": "UNIT_MULT"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string",
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "Unit of measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Hectares",
-                "Percent",
-                "Tonnes per hectare"
-              ]
-            },
-            "title": "Unit of measure"
           },
           {
             "name": "Value",

@@ -11,6 +11,18 @@
       "schema": {
         "fields": [
           {
+            "name": "ACTIVITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ISIC4_C",
+                "ISIC4_C10T32X19"
+              ]
+            },
+            "title": "ACTIVITY"
+          },
+          {
             "name": "BASE_PER",
             "type": "string",
             "constraints": {
@@ -23,41 +35,9 @@
             "title": "BASE_PER"
           },
           {
-            "name": "Base period",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "2015",
-                "2017"
-              ]
-            },
-            "title": "Base period"
-          },
-          {
-            "name": "Economic activity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Manufacturing",
-                "Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment"
-              ]
-            },
-            "title": "Economic activity"
-          },
-          {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Carbon dioxide emissions from fuel combustion [9.4.1]",
-                "Carbon dioxide emissions per unit of GDP [9.4.1]",
-                "Carbon dioxide emissions per unit of manufacturing value added [9.4.1]"
-              ]
-            },
-            "title": "SDG Series"
+            "title": "SERIES"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -72,16 +52,9 @@
             "title": "SOURCE_DETAIL"
           },
           {
-            "name": "Source details",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "IEA (2020), CO2 Emissions from fuel combustion. https://www.iea.org/statistics",
-                "UNIDO MVA 2021 Database. Available at https://stat.unido.org. IEA (2020), CO2 Emissions from Fuel Combustion. https://www.iea.org/statistics"
-              ]
-            },
-            "title": "Source details"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "UNIT_MULT",
@@ -94,23 +67,6 @@
               ]
             },
             "title": "UNIT_MULT"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string",
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "Unit of measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Kilograms per constant USD",
-                "Metric Tons"
-              ]
-            },
-            "title": "Unit of measure"
           },
           {
             "name": "Value",

@@ -11,28 +11,21 @@
       "schema": {
         "fields": [
           {
-            "name": "Degree of urbanisation",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Rural",
-                "Urban"
-              ]
-            },
-            "title": "Degree of urbanisation"
+            "title": "SERIES"
           },
           {
-            "name": "SDG Series",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Proportion of population using basic drinking water services [1.4.1]",
-                "Proportion of population using basic sanitation services [1.4.1]"
+                "R",
+                "U"
               ]
             },
-            "title": "SDG Series"
+            "title": "URBANISATION"
           },
           {
             "name": "Value",

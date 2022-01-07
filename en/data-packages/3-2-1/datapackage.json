@@ -11,54 +11,38 @@
       "schema": {
         "fields": [
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "under 1 year old",
-                "under 5 years old"
+                "Y0",
+                "Y0T4"
               ]
             },
-            "title": "Age"
+            "title": "AGE"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Infant deaths (number) [3.2.1]",
-                "Infant mortality rate [3.2.1]",
-                "Under-five deaths (number) [3.2.1]",
-                "Under-five mortality rate [3.2.1]"
-              ]
-            },
-            "title": "SDG Series"
+            "title": "SERIES"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Female",
-                "Male"
+                "F",
+                "M"
               ]
             },
-            "title": "Sex"
+            "title": "SEX"
           },
           {
-            "name": "Unit of measure",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Number",
-                "Per 1,000 live births"
-              ]
-            },
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

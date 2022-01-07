@@ -16,48 +16,35 @@
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Repository: Eurostat | Economic activity coverage: Excluding agriculture, public administration, and activities of households as employers and of extraterritorial organisations and bodies | Establishment size coverage: All establishments with at least 10 employees | Local currency: GBR - British pound(GBP)",
-                "Data reference period: April | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Reference group coverage: Employees | Local currency: GBR - British pound(GBP) | Working time arrangement coverage: Full-time and part time workers",
-                "Data reference period: April | Reference group coverage: Employees | Local currency: GBR - British pound(GBP) | Working time arrangement coverage: Full-time and part time workers",
+                "F",
+                "M",
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "SEX"
           },
           {
-            "name": "Sex",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "ISCO08_1",
+                "ISCO08_2",
+                "ISCO08_3",
+                "ISCO08_4",
+                "ISCO08_5",
+                "ISCO08_6",
+                "ISCO08_7",
+                "ISCO08_8",
+                "ISCO08_9",
                 ""
               ]
             },
-            "title": "Sex"
-          },
-          {
-            "name": "Occupation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Managers",
-                "Professionals",
-                "Technicians and associate professionals",
-                "Clerical support workers",
-                "Service and sales workers",
-                "Skilled agricultural, forestry and fishery workers",
-                "Craft and related trades workers",
-                "Plant and machine operators, and assemblers",
-                "Elementary occupations",
-                ""
-              ]
-            },
-            "title": "Occupation"
+            "title": "OCCUPATION"
           },
           {
             "name": "Value",

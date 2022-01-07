@@ -1,4 +1,4 @@
-Year,Custom Breakdown,Label for custom breakdown,Value
-2015,Custom code 01,London,99.5
-2015,Custom code 02,Manchester,99.5
-2011,Custom code 03,Belfast,100.0
+Year,CUST_BREAKDOWN,CUST_BREAKDOWN_LB,Value
+2015,C01,London,99.5
+2015,C02,Manchester,99.5
+2011,C03,Belfast,100.0

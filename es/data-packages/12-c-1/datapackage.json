@@ -39,45 +39,14 @@
             "title": "BASE_PER"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Fossil-fuel subsidies (consumption and production) (millions of constant United States dollars) [12.c.1]",
-                "Fossil-fuel subsidies (consumption and production) as a proportion of total GDP [12.c.1]",
-                "Fossil-fuel subsidies (consumption and production) per capita (constant United States dollars) [12.c.1]",
-                ""
-              ]
-            },
-            "title": "SDG Series"
+            "title": "SERIES"
           },
           {
-            "name": "Unit of measure",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Constant USD",
-                "Percent",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string",
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "Base period",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2015",
-                ""
-              ]
-            },
-            "title": "Base period"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

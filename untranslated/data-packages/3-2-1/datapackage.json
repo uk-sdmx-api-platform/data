@@ -15,50 +15,34 @@
             "type": "string"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Infant mortality rate [3.2.1]",
-                "Infant deaths (number) [3.2.1]",
-                "Under-five mortality rate [3.2.1]",
-                "Under-five deaths (number) [3.2.1]",
+                "F",
+                "M",
                 ""
               ]
             }
           },
           {
-            "name": "Sex",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "Y0",
+                "Y0T4",
                 ""
               ]
             }
           },
           {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "under 1 year old",
-                "under 5 years old",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit of measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Per 1,000 live births",
-                "Number",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Value",

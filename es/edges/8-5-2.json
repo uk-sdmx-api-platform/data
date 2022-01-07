@@ -1,1 +1,1 @@
-{"From":["COMMENT_OBS","SOURCE_DETAIL","SDG Series","Source details","Source details","Source details","Observation-level footnotes"],"To":["SOURCE_DETAIL","SDG Series","Observation-level footnotes","Sex","Age","Disability status","Source details"]}
+{"From":["COMMENT_OBS","SOURCE_DETAIL","SOURCE_DETAIL","SOURCE_DETAIL"],"To":["SOURCE_DETAIL","SEX","AGE","DISABILITY_STATUS"]}

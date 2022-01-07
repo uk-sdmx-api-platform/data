@@ -33,90 +33,34 @@
             "constraints": {
               "enum": [
                 "Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",
-                "Office of Communications (Ofcom).",
-                "Office of Communications",
                 "Ofcom",
-                "ITU WTID2020",
                 ""
               ]
             },
             "title": "SOURCE_DETAIL"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Fixed broadband subscriptions per 100 inhabitants [17.6.1]",
-                "Fixed broadband subscriptions (number) [17.6.1]",
-                ""
-              ]
-            },
-            "title": "SDG Series"
+            "title": "SERIES"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Internet speed: 256 kbit/s to less than 2 Mbit/s",
-                "Internet speed: 2 Mbit/s to less than 10 Mbit/s",
-                "Internet speed: 10 Mbit/s or above",
+                "IS_256KT2M",
+                "IS_2MT10M",
+                "IS_GE10M",
                 ""
               ]
             },
-            "title": "Composite breakdown"
+            "title": "COMPOSITE_BREAKDOWN"
           },
           {
-            "name": "Unit of measure",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Per 100 population",
-                "Number",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Nature of data points",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Estimated",
-                "Country Data",
-                ""
-              ]
-            },
-            "title": "Nature of data points"
-          },
-          {
-            "name": "Source details",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",
-                "Ofcom",
-                ""
-              ]
-            },
-            "title": "Source details"
-          },
-          {
-            "name": "Observation-level footnotes",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Obs_Value = 0;  ",
-                "Excl. corporate connections.",
-                "Obs_Value = 0;  Estimated breakdown based on data for residential connections.",
-                "Incl. <2 Mbit/s, Estimated breakdown based on data for residential connections.",
-                "Estimated breakdown based on data for residential connections.",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "COMMENT_OBS",
@@ -125,9 +69,7 @@
               "enum": [
                 "Obs_Value = 0;  ",
                 "Excl. corporate connections.",
-                "Obs_Value = 0;  Data only for ≤2 Mbit/s Considered most of these subscriptions are at 2 Mbit/s.",
                 "Obs_Value = 0;  Estimated breakdown based on data for residential connections.",
-                "Incl. <2 Mbit/s, estimated to be marginal.",
                 "Incl. <2 Mbit/s, Estimated breakdown based on data for residential connections.",
                 "Estimated breakdown based on data for residential connections.",
                 ""

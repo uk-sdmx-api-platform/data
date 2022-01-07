@@ -16,16 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Fiscal intervention stage: Postfiscal disposable income",
-                "Fiscal intervention stage: Prefiscal income",
+                "FIS_POSTFIS_DIS_INC",
+                "FIS_PREFIS_INC",
                 ""
               ]
             },
-            "title": "Composite breakdown"
+            "title": "COMPOSITE_BREAKDOWN"
           },
           {
             "name": "Value",

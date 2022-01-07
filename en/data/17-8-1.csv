@@ -1,21 +1,21 @@
-Year,COMMENT_OBS,SOURCE_DETAIL,Value
-2000,Population age 16+ using internet in the last 3 months.,ONS.,26.82175
-2001,Population age 16+ using the Internet in the last 3 months.,ONS.,33.48109
-2002,Population age 16-74 using Internet in the last 3 months.,Eurostat.,56.48
-2003,Population age 16-74.,Eurostat.,64.82
-2004,Population age 16-74.,Eurostat.,65.61
-2005,Population age 16-74.,Eurostat.,70.0
-2006,Population age 16-74.,Eurostat.,68.82
-2007,Population age 16-74.,Eurostat.,75.09
-2008,Population age 16-74.,Eurostat.,78.39
-2009,Population age 16-74.,Eurostat.,83.56
-2010,Population age 16-74.,Eurostat.,85.0
-2011, Users in the last 3 months. Age 16-74.,Eurostat.,85.38
-2012, Users in the last 3 months.,Eurostat,87.48
-2013,Population age 16-74.,Eurostat.,89.8441
-2014,Population age 16-74.,Eurostat,91.61
-2015,Last 3 months.,Eurostat,92.0003
-2016,Last 3 months.,Eurostat,94.7758
-2017,,Office for National Statistics,90.42455
-2018,,Office for National Statistics,90.69201
-2019,,Office for National Statistics,92.51663
+Year,Value
+2000,26.82175
+2001,33.48109
+2002,56.48
+2003,64.82
+2004,65.61
+2005,70.0
+2006,68.82
+2007,75.09
+2008,78.39
+2009,83.56
+2010,85.0
+2011,85.38
+2012,87.48
+2013,89.8441
+2014,91.61
+2015,92.0003
+2016,94.7758
+2017,90.42455
+2018,90.69201
+2019,92.51663

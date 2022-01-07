@@ -37,67 +37,26 @@
             }
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Carbon dioxide emissions from fuel combustion [9.4.1]",
-                "Carbon dioxide emissions per unit of GDP [9.4.1]",
-                "Carbon dioxide emissions per unit of manufacturing value added [9.4.1]",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Economic activity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment",
-                "Manufacturing",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit of measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Metric Tons",
-                "Kilograms per constant USD",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit multiplier",
+            "name": "SERIES",
             "type": "string"
           },
           {
-            "name": "Source details",
+            "name": "ACTIVITY",
             "type": "string",
             "constraints": {
               "enum": [
-                "IEA (2020), CO2 Emissions from fuel combustion. https://www.iea.org/statistics",
-                "UNIDO MVA 2021 Database. Available at https://stat.unido.org. IEA (2020), CO2 Emissions from Fuel Combustion. https://www.iea.org/statistics",
+                "ISIC4_C10T32X19",
+                "ISIC4_C",
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "BASE_PER",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2017",
-                "2015",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Base period",
             "type": "string",
             "constraints": {
               "enum": [

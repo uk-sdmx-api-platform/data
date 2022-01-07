@@ -11,17 +11,9 @@
       "schema": {
         "fields": [
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Proportion of transboundary aquifers with an operational arrangement for water cooperation [6.5.2]",
-                "Proportion of transboundary basins (river and lake basins and aquifers) with an operational arrangement for water cooperation [6.5.2]",
-                "Proportion of transboundary river and lake basins with an operational arrangement for water cooperation [6.5.2]"
-              ]
-            },
-            "title": "SDG Series"
+            "title": "SERIES"
           },
           {
             "name": "Value",

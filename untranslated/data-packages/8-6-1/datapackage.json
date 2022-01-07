@@ -15,23 +15,12 @@
             "type": "string"
           },
           {
-            "name": "COMMENT_OBS",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old | Break in series: Methodology revised",
-                "Repository: Eurostat special tabulation | Age coverage - maximum age: 24 years old",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }

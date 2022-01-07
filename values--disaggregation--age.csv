@@ -1,18 +1,18 @@
 Value,Disaggregation combinations using this value,Number of indicators
-15 to 24 years old,18,2
-15 to 49 years old,1,1
-15 years old and over,59,4
-16 to 65 years old,6,1
-18 years old and over,2,1
-25 to 44 years old,12,1
-25 years old and over,6,1
-30 to exact 70 years old,15,1
-45 to 54 years old,12,1
-46 years old and over,9,1
-55 to 64 years old,12,1
-65 years old and over,12,1
-Not available,2,1
-under 1 year old,6,1
-under 18 years old,2,1
-under 46 years old,6,1
-under 5 years old,6,1
+_X,2,1
+Y0,6,1
+Y0T17,2,1
+Y0T4,6,1
+Y0T45,6,1
+Y15T24,9,2
+Y15T49,1,1
+Y16T65,6,1
+Y25T44,6,1
+Y30T70,3,1
+Y45T54,6,1
+Y55T64,6,1
+Y_GE15,18,4
+Y_GE18,2,1
+Y_GE25,3,1
+Y_GE46,9,1
+Y_GE65,6,1

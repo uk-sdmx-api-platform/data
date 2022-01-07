@@ -16,18 +16,9 @@
             "title": "Year"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Age-standardized mortality rate attributed to ambient air pollution [3.9.1]",
-                "Crude death rate attributed to ambient air pollution [3.9.1]",
-                "Crude death rate attributed to household and ambient air pollution [3.9.1]",
-                "Age-standardized mortality rate attributed to household and ambient air pollution [3.9.1]",
-                ""
-              ]
-            },
-            "title": "SDG Series"
+            "title": "SERIES"
           },
           {
             "name": "Value",

@@ -11,20 +11,20 @@
       "schema": {
         "fields": [
           {
-            "name": "Custom Breakdown",
+            "name": "CUST_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Custom code 01",
-                "Custom code 02",
-                "Custom code 03"
+                "C01",
+                "C02",
+                "C03"
               ]
             },
-            "title": "Custom Breakdown"
+            "title": "CUST_BREAKDOWN"
           },
           {
-            "name": "Label for custom breakdown",
+            "name": "CUST_BREAKDOWN_LB",
             "type": "string",
             "constraints": {
               "enum": [
@@ -34,7 +34,7 @@
                 "Manchester"
               ]
             },
-            "title": "Label for custom breakdown"
+            "title": "CUST_BREAKDOWN_LB"
           },
           {
             "name": "Value",

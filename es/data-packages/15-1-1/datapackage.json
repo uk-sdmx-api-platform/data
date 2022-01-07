@@ -58,7 +58,6 @@
               "enum": [
                 "FAO, Global Forest Resources Assessment and FAOSTAT",
                 "FAO, Global Forest Resources Assessment",
-                "Data from FAOSTAT extracted 20210125",
                 "FAO estimate based on FAOSTAT data from 2018",
                 ""
               ]
@@ -66,71 +65,14 @@
             "title": "SOURCE_DETAIL"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Forest area as a proportion of total land area [15.1.1]",
-                "Forest area (hectares) [15.1.1]",
-                "Land area (hectares) [15.1.1]",
-                ""
-              ]
-            },
-            "title": "SDG Series"
+            "title": "SERIES"
           },
           {
-            "name": "Unit of measure",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                "Hectares",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string",
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "Nature of data points",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Country Data",
-                "Estimated",
-                ""
-              ]
-            },
-            "title": "Nature of data points"
-          },
-          {
-            "name": "Observation-level footnotes",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Official country report to FAO (FRA 2020)",
-                "Official Official country report to FAO (FRA 2020)",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
-            "name": "Source details",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "FAO, Global Forest Resources Assessment and FAOSTAT",
-                "FAO, Global Forest Resources Assessment",
-                "FAO estimate based on FAOSTAT data from 2018",
-                ""
-              ]
-            },
-            "title": "Source details"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

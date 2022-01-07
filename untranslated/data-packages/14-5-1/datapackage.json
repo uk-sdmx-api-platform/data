@@ -36,71 +36,18 @@
             }
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) [14.5.1]",
-                "Protected marine area (Exclusive Economic Zones) (square kilometres) [14.5.1]",
-                "Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas [14.5.1]",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "Unit of measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                "Square kilometers",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Observation-level footnotes",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "The Exclusive Economic Zone (EEZ) comprises an area which extends either from the coast, or in federal systems from the seaward boundaries of the constituent states (3 to 12 nautical miles, in most cases) to 200 nautical miles (370 kilometres) off the coa",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Source details",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Protected Planet: The World Database on Protected Areas (WDPA) [On-line], December, 2018, International Union for Conservation of Nature (IUCN) and United Nations Environment Programme's World Conservation Monitoring Centre (UNEP-WCMC).",
-                "BirdLife International, IUCN and UNEP-WCMC (2020). Based on spatial overlap between polygons for Key Biodiversity Areas from the World Database of Key Biodiveristy Areas (www.keybiodiversityareas.org) and polygons for protected areas from the World Database on Protected Areas and (where available) for Other Effective area-based Conservation Measures and from the World Database on OECMs (www.protectedplanet.net)",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "UPPER_BOUND",
             "type": "string",
             "constraints": {
               "enum": [
-                "77.02725",
-                "78.13739",
-                "78.77889",
-                "79.38702",
-                "80.86297",
-                "82.48652",
-                "82.71935",
-                "82.73546",
-                "82.74292",
-                "83.31113",
-                "84.23937",
-                "84.28778",
-                "84.2907",
-                "84.48695",
-                "84.48766",
-                "84.99556",
-                "85.28643",
                 "85.30549",
                 ""
               ]
@@ -108,44 +55,6 @@
           },
           {
             "name": "LOWER_BOUND",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "77.02456",
-                "78.13471",
-                "78.7762",
-                "79.38433",
-                "80.86029",
-                "82.48384",
-                "82.71667",
-                "82.73278",
-                "82.74024",
-                "83.30845",
-                "84.23669",
-                "84.28509",
-                "84.28801",
-                "84.28929",
-                "84.48554",
-                "84.48625",
-                "84.99556",
-                "85.28643",
-                "85.30549",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Upper bound value",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "85.30549",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Lower bound value",
             "type": "string",
             "constraints": {
               "enum": [

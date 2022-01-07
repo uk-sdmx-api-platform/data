@@ -19,11 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0.3",
-                "0.2",
                 "0.4",
-                "0.1",
-                "0.5",
+                "0.3",
                 ""
               ]
             }
@@ -35,42 +32,18 @@
               "enum": [
                 "0.3",
                 "0.2",
-                "0.1",
                 "0.4",
                 ""
               ]
             }
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Upper bound value",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0.4",
-                "0.3",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Lower bound value",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0.3",
-                "0.2",
-                "0.4",
+                "F",
+                "M",
                 ""
               ]
             }

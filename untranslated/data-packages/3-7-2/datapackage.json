@@ -15,29 +15,6 @@
             "type": "string"
           },
           {
-            "name": "NATURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "C",
-                "CA",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Registration National Statistics",
-                "Registration UNSD & WPP2019",
-                "Estimate Human Fertility Database",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

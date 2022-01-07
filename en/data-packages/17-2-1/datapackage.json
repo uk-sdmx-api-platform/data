@@ -22,37 +22,7 @@
             "title": "BASE_PER"
           },
           {
-            "name": "Base period",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "2019"
-              ]
-            },
-            "title": "Base period"
-          },
-          {
             "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Based on OECD, DAC database, 2021; Constant 2019 USD million; Grant equivalent",
-                "Based on OECD, DAC database, 2021; Provisional; Grant equivalent",
-                "Net Disbursements | Based on OECD, DAC database, 2020",
-                "Net Disbursements | Based on OECD, DAC database, 2020 | Provisional",
-                "Net Disbursements; Based on OECD, DAC database, 2021; Constant 2019 USD million",
-                "Net Disbursements; Based on OECD, DAC database, 2021; Constant 2019 USD million; Including imputed multilateral",
-                "Net Disbursements; Based on OECD, DAC database, 2021; Including imputed multilateral",
-                "Net Disbursements; Based on OECD, DAC database, 2021; Provisional; Constant 2019 USD million",
-                "Obs_Value = 0.00;  Net Disbursements; Based on OECD, DAC database, 2021; Including imputed multilateral"
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
-            "name": "Observation-level footnotes",
             "type": "string",
             "constraints": {
               "enum": [
@@ -65,39 +35,17 @@
                 "Net Disbursements; Based on OECD, DAC database, 2021; Provisional; Constant 2019 USD million"
               ]
             },
-            "title": "Observation-level footnotes"
+            "title": "COMMENT_OBS"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Net official development assistance (ODA) as a percentage of OECD-DAC donors' GNI (grant equivalent methodology), by donor countries (%) [17.2.1]",
-                "Net official development assistance (ODA) as a percentage of OECD-DAC donors' GNI, by donor countries [17.2.1]",
-                "Net official development assistance (ODA) from OECD-DAC countries (grant equivalent methodology), by donor countries [17.2.1]",
-                "Net official development assistance (ODA) from OECD-DAC countries, by donor countries [17.2.1]",
-                "Net official development assistance (ODA) to LDCs as a percentage of OECD-DAC donors' GNI, by donor countries [17.2.1]",
-                "Net official development assistance (ODA) to LDCs from OECD-DAC countries, by donor countries [17.2.1]",
-                "Net official development assistance (ODA) to landlocked developing countries as a percentage of OECD-DAC donors' GNI, by donor countries [17.2.1]",
-                "Net official development assistance (ODA) to landlocked developing countries from OECD-DAC countries, by donor countries [17.2.1]",
-                "Net official development assistance (ODA) to small island states (SIDS) as a percentage of OECD-DAC donors' GNI, by donor countries [17.2.1]",
-                "Net official development assistance (ODA) to small island states (SIDS) from OECD-DAC countries, by donor countries [17.2.1]"
-              ]
-            },
-            "title": "SDG Series"
+            "title": "SERIES"
           },
           {
-            "name": "Unit of measure",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Constant USD",
-                "Percent"
-              ]
-            },
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

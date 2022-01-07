@@ -38,39 +38,8 @@
             }
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO) [17.19.2]",
-                "Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO) [17.19.2]",
-                "Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO) [17.19.2]",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Observation-level footnotes",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Value \"1\" represents country's birth registration data are at least 90 per cent complete. \"0\" represents country's birth registration data are less than 90 per cent complete.",
-                "Reference year represents the year of the census conducted.",
-                "Value \"1\" represents country's death registration data are at least 75 per cent complete. \"0\" represents country's death registration data are less than 75 per cent complete.",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Source details",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Demographic and Social Statistics Branch, United Nations Statistics Division (UNSD), Department of Economic and Social Affairs, United Nations",
-                "Demographic and Social Statistics Branch, United Nations Statistics Division (UNSD), Department of Economic and Social Affairs, United Nations.",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
