@@ -43,7 +43,7 @@ inputs:
     reference_area: 826
     import_codes: true
     dimension_query:
-      SERIES: ['SP_ACS_BSRVSAN', 'SP_ACS_BSRVH2O']
+      SERIES: SP_ACS_BSRVSAN+SP_ACS_BSRVH2O
     
   - class: InputYamlMeta
     path_pattern: indicator-config/*-*.yml
