@@ -13,21 +13,42 @@
       "schema": {
         "fields": [
           {
-            "name": "SERIES",
+            "name": "Observation status",
             "type": "string",
-            "title": "SDG Series"
+            "title": "Observation status"
           },
           {
-            "name": "URBANISATION",
+            "name": "Reporting type",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Rural",
-                "Urban"
+                "N"
               ]
             },
-            "title": "Degree of urbanisation"
+            "title": "Reporting type"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Proportion of population using basic drinking water services",
+                "Proportion of population using basic sanitation services"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
           },
           {
             "name": "Value",
@@ -36,12 +57,48 @@
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
       },
       "title": "Proportion of population living in households with access to basic services"
+    },
+    {
+      "path": "1-1-1/data.csv",
+      "name": "1-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "A",
+                "B"
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)"
     },
     {
       "path": "15-4-2/data.csv",
@@ -4698,30 +4755,6 @@
         ]
       },
       "title": "Proportion of informal employment in total employment, by sector and sex"
-    },
-    {
-      "path": "1-1-1/data.csv",
-      "name": "1-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)"
     },
     {
       "path": "6-5-1/data.csv",
