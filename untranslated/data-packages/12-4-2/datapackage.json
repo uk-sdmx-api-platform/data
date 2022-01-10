@@ -12,49 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "UNSD / UNU / WESR",
-                "UNSTATS / WESR ",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "WT_INCINRT",
-                "WT_LANDFIL",
-                "WT_RECYCL",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Eurostat_2021",
-                "Eurostat estimate.",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

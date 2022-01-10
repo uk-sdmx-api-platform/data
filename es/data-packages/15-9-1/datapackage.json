@@ -12,41 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "CHM / WESR ",
-                "UNSTATS / WESR ",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ABT2_ACHIEVE",
-                "LS_COMPDISSE",
-                ""
-              ]
-            },
-            "title": "COMPOSITE_BREAKDOWN"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

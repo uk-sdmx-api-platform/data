@@ -12,42 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Plastic Pollution (MLW, MDMAP, ICC)",
-                "World Environment Situation Room",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "FCC_H",
-                "FCC_M",
-                ""
-              ]
-            },
-            "title": "COMPOSITE_BREAKDOWN"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

@@ -12,42 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "F",
-                "M",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Y0",
-                "Y0T4",
-                ""
-              ]
-            },
-            "title": "AGE"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

@@ -11,51 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "LOWER_BOUND",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "15.49693",
-                "4.70684",
-                "9.93644"
-              ]
-            },
-            "title": "Lower bound value"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Female",
-                "Male"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "UPPER_BOUND",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "12.97976",
-                "20.25599",
-                "6.20952"
-              ]
-            },
-            "title": "Upper bound value"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           }
         ]

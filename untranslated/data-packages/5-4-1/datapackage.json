@@ -12,49 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Travel related to unpaid domestic and care work is not included.",
-                "Travel related to unpaid care work is not included.",
-                "Travel related to unpaid domestic work is not included.",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "F",
-                "M",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Y_GE15",
-                "Y_GE65",
-                "Y15T24",
-                "Y25T44",
-                "Y45T54",
-                "Y55T64",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

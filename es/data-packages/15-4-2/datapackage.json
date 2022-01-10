@@ -12,20 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ELV_5",
-                "ELV_6",
-                ""
-              ]
-            },
-            "title": "COMPOSITE_BREAKDOWN"
           },
           {
             "name": "Value",

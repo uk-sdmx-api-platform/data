@@ -12,46 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Eurostat",
-                "Office for National Statistics",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "F",
-                "M",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SKILL_ICTCDV",
-                "SKILL_ICTCMFL",
-                "SKILL_ICTCPT",
-                "SKILL_ICTPRGM",
-                "SKILL_ICTPST",
-                "SKILL_ICTSFWR",
-                "SKILL_ICTSSHT",
-                "SKILL_ICTTRFF",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

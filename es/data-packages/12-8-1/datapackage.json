@@ -12,13 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
           },
           {
             "name": "Value",

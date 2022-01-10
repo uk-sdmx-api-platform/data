@@ -11,59 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "15 to 24 years old",
-                "25 to 44 years old",
-                "45 to 54 years old",
-                "55 to 64 years old",
-                "15 years old and over",
-                "65 years old and over"
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Travel related to unpaid care work is not included.",
-                "Travel related to unpaid domestic and care work is not included.",
-                "Travel related to unpaid domestic work is not included."
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Female",
-                "Male"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           }
         ]

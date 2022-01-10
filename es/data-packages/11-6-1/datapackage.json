@@ -12,34 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "CUST_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "C01",
-                "C02",
-                "C03",
-                ""
-              ]
-            },
-            "title": "CUST_BREAKDOWN"
-          },
-          {
-            "name": "CUST_BREAKDOWN_LB",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "London",
-                "Manchester",
-                "Belfast",
-                ""
-              ]
-            },
-            "title": "CUST_BREAKDOWN_LB"
           },
           {
             "name": "Value",

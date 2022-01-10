@@ -12,53 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "NATURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "C",
-                "M",
-                "E",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ICAO",
-                "the International Transport Forum at the OECD (ITF-OECD)",
-                "Source: UNCTAD Review of Maritime Transport, 2020 and UNCTADstat ( https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx).",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "MOT_AIR",
-                "MOT_IWW",
-                "MOT_RAI",
-                "MOT_ROA",
-                "MOT_SEA",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "Value",

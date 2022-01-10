@@ -12,25 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "BASE_PER",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2015",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "Value",

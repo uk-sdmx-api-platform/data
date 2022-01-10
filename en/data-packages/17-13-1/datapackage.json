@@ -11,54 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Quarter four data of the year in reference"
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "International Monetary Fund, Balance of Payments Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",
-                "International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",
-                "International Monetary Fund, Financial Soundness Indicators.",
-                "International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",
-                "International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",
-                "International Monetary Fund, International Financial Statistics and data files.",
-                "International Monetary Fund, International Financial Statistics, supplemented by World Bank staff estimates.",
-                "The source of non-seasonally adjusted Gross Domestic Product (GDP) data in national currency, at current prices, is the International Finance Statistics quarterly database of the IMF, annualized by the World Bank, unless otherwise specified.",
-                "World Bank national accounts data, and OECD National Accounts data files.",
-                "World Trade Organization, and World Bank GDP estimates."
-              ]
-            },
-            "title": "Source details"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           }
         ]

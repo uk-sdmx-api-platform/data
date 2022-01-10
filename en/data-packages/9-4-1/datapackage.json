@@ -11,71 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "ACTIVITY",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Manufacturing",
-                "Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment"
-              ]
-            },
-            "title": "Economic activity"
-          },
-          {
-            "name": "BASE_PER",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "2015",
-                "2017"
-              ]
-            },
-            "title": "Base period"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "IEA (2020), CO2 Emissions from fuel combustion. https://www.iea.org/statistics",
-                "UNIDO MVA 2021 Database. Available at https://stat.unido.org. IEA (2020), CO2 Emissions from Fuel Combustion. https://www.iea.org/statistics"
-              ]
-            },
-            "title": "Source details"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Units",
-                "Millions"
-              ]
-            },
-            "title": "Unit multiplier"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           }
         ]

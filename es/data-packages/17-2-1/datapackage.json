@@ -12,45 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Net Disbursements; Based on OECD, DAC database, 2021; Including imputed multilateral",
-                "Net Disbursements; Based on OECD, DAC database, 2021; Constant 2019 USD million; Including imputed multilateral",
-                "Net Disbursements | Based on OECD, DAC database, 2020 | Provisional",
-                "Based on OECD, DAC database, 2021; Provisional; Grant equivalent",
-                "Net Disbursements; Based on OECD, DAC database, 2021; Provisional; Constant 2019 USD million",
-                "Based on OECD, DAC database, 2021; Constant 2019 USD million; Grant equivalent",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "BASE_PER",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2019",
-                ""
-              ]
-            },
-            "title": "BASE_PER"
           },
           {
             "name": "Value",

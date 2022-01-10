@@ -12,28 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "DL_EXTREME",
-                "DL_HIGH",
-                "DL_LOW",
-                "DL_MEDIUM",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "Value",

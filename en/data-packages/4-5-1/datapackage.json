@@ -11,92 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "16 to 65 years old"
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Obs_Value = 0;  This data point is NOT APPLICABLE for the submitting nation."
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Skill: ICT Skill: Sending e-mails with attached files",
-                "Skill: ICT Skill: connecting and installing new devices",
-                "Skill: ICT Skill: Copying or moving a file or folder",
-                "Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document",
-                "Skill: ICT Skill: Writing a computer program using a specialized programming language",
-                "Skill: ICT Skill: Creating electronic presentations with presentation software",
-                "Skill: ICT Skill: Finding, downloading, installing and configuring software",
-                "Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet",
-                "Skill: ICT Skill: Transferring files between a computer and other devices",
-                "Skill: Functional literacy",
-                "Skill: Mathematics",
-                "Skill: Functional numeracy",
-                "Skill: Reading"
-              ]
-            },
-            "title": "Composite breakdown"
-          },
-          {
-            "name": "EDUCATION_LEV",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Lower secondary education",
-                "Upper secondary education"
-              ]
-            },
-            "title": "Education level"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Adult Education Survey (AES). Data extracted on 13 April 2021.",
-                "England country only. Programme for the International Assessment of Adult Competencies (PIAAC) Data extracted on 13 April 2021.",
-                "Eurostat",
-                "Programme for International Student Assessment (PISA). Students achieving at least proficiency Level 2. Modal grade for PISA: http://dx.doi.org/10.1787/888934038799 Data extracted on 13 April 2021.",
-                "UNESCO Institute for Statistics.  Data extracted on 13 April 2021.",
-                "United Kingdom of Great Britain and Northern Ireland EU-SILC 2013. World Inequality Database on Education (WIDE), June 2019. Data extracted on 13 April 2021.",
-                "United Kingdom of Great Britain and Northern Ireland EU-SILC 2014. World Inequality Database on Education (WIDE), June 2019. Data extracted on 13 April 2021."
-              ]
-            },
-            "title": "Source details"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           }
         ]

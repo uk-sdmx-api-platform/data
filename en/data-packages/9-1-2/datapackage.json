@@ -11,64 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Mode of Transport: Air",
-                "Mode of transport: Inland waterway transport",
-                "Mode of Transport: Rail",
-                "Mode of Transport: Road",
-                "Mode of Transport: Maritime"
-              ]
-            },
-            "title": "Composite breakdown"
-          },
-          {
-            "name": "NATURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Country Data",
-                "Estimated",
-                "Modeled"
-              ]
-            },
-            "title": "Nature of data points"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "ICAO",
-                "Source: UNCTAD Review of Maritime Transport, 2020 and UNCTADstat ( https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx).",
-                "the International Transport Forum at the OECD (ITF-OECD)"
-              ]
-            },
-            "title": "Source details"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           }
         ]

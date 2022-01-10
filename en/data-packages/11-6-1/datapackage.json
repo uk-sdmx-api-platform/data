@@ -11,39 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "CUST_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Custom code 01",
-                "Custom code 02",
-                "Custom code 03"
-              ]
-            },
-            "title": "Custom Breakdown"
-          },
-          {
-            "name": "CUST_BREAKDOWN_LB",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Belfast",
-                "London",
-                "Manchester"
-              ]
-            },
-            "title": "Label for custom breakdown"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           }
         ]

@@ -11,70 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Official country report to FAO (FRA 2020)"
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
-            "name": "NATURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Country Data",
-                "Estimated"
-              ]
-            },
-            "title": "Nature of data points"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Data submitted by FSC and PEFC secretariats (certifying bodies) to FAO, Global Forest Resources Assessment",
-                "FAO, Global Forest Resources Assessment"
-              ]
-            },
-            "title": "Source details"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Units",
-                "Thousands"
-              ]
-            },
-            "title": "Unit multiplier"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           }
         ]

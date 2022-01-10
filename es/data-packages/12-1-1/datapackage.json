@@ -12,31 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           },
           {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "POL_ECONFIS",
-                "POL_MACRO",
-                "POL_REGLEG",
-                "POL_VOLSRG",
-                ""
-              ]
-            },
-            "title": "COMPOSITE_BREAKDOWN"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

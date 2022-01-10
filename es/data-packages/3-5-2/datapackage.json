@@ -12,46 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "UPPER_BOUND",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "12.97976",
-                "6.20952",
-                "20.25599",
-                ""
-              ]
-            },
-            "title": "UPPER_BOUND"
-          },
-          {
-            "name": "LOWER_BOUND",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "9.93644",
-                "4.70684",
-                "15.49693",
-                ""
-              ]
-            },
-            "title": "LOWER_BOUND"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "F",
-                "M",
-                ""
-              ]
-            },
-            "title": "SEX"
           },
           {
             "name": "Value",

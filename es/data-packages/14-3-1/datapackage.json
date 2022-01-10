@@ -12,73 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Mooring Name:  Garron Point Scotland | LATITUDE: 56.963 | LONGITUDE: -2.11",
-                "Mooring Name: WCO E1 | LATITUDE: 50.033 | LONGITUDE: -4.37",
-                "Mooring Name:  WCO L4| LATITUDE: 50.250 | LONGITUDE: -4.22",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
-            "name": "UPPER_BOUND",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "8.164",
-                "8.101",
-                "8.153",
-                ""
-              ]
-            },
-            "title": "UPPER_BOUND"
-          },
-          {
-            "name": "LOWER_BOUND",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "7.873",
-                "7.886",
-                "7.809",
-                ""
-              ]
-            },
-            "title": "LOWER_BOUND"
-          },
-          {
-            "name": "CUST_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "C01",
-                "C02",
-                "C03",
-                ""
-              ]
-            },
-            "title": "CUST_BREAKDOWN"
-          },
-          {
-            "name": "CUST_BREAKDOWN_LB",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Garron Point Scotland",
-                "WCO E1",
-                "WCO L4",
-                ""
-              ]
-            },
-            "title": "CUST_BREAKDOWN_LB"
           },
           {
             "name": "Value",

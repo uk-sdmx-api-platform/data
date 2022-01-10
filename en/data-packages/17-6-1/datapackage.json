@@ -11,75 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Estimated breakdown based on data for residential connections.",
-                "Excl. corporate connections.",
-                "Incl. <2 Mbit/s, Estimated breakdown based on data for residential connections.",
-                "Obs_Value = 0;  ",
-                "Obs_Value = 0;  Estimated breakdown based on data for residential connections."
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Internet speed: 256 kbit/s to less than 2 Mbit/s",
-                "Internet speed: 2 Mbit/s to less than 10 Mbit/s",
-                "Internet speed: 10 Mbit/s or above"
-              ]
-            },
-            "title": "Composite breakdown"
-          },
-          {
-            "name": "NATURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Country Data",
-                "Estimated"
-              ]
-            },
-            "title": "Nature of data points"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",
-                "Ofcom"
-              ]
-            },
-            "title": "Source details"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           }
         ]

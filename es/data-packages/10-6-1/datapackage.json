@@ -12,56 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ADB Financial Report 2019",
-                "African Development Bank Group Annual Report 2019",
-                "Report of the Economic and Social Council on its 2019 Session (A/74/3)",
-                "FSB Financial Statements March 2020",
-                "Inter-American Development Bank Annual Report 2019",
-                "IBRD Financial Statements June 2020",
-                "IFC 2020 Annual Report Volume 2",
-                "IMF Annual Report 2020",
-                "UN General Assembly website http://www.un.org/en/member-states/index.html",
-                "Security Council website https://www.un.org/securitycouncil/content/current-members",
-                "WTO Annual Report 2020",
-                "AfDB Annual Report 2019",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "IO_ADB",
-                "IO_AFDB",
-                "IO_ECOSOC",
-                "IO_FSB",
-                "IO_IADB",
-                "IO_IBRD",
-                "IO_IFC",
-                "IO_IMF",
-                "IO_UNGA",
-                "IO_UNSC",
-                "IO_WTO",
-                ""
-              ]
-            },
-            "title": "COMPOSITE_BREAKDOWN"
           },
           {
             "name": "Value",

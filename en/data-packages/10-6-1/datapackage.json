@@ -11,61 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "International Organisation: Asian Development Bank",
-                "International Organisation: African Development Bank",
-                "International Organisation: UN Economic and Social Council",
-                "International Organisation: Financial Stability Board",
-                "International Organisation: Inter-American Development Bank",
-                "International Organisation: International Bank for Reconstruction and Development",
-                "International Organisation: International Finance Corporation",
-                "International Organisation: International Monetary Fund",
-                "International Organisation: UN General Assembly",
-                "International Organisation: UN Security Council",
-                "International Organisation: World Trade Organisation"
-              ]
-            },
-            "title": "Composite breakdown"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "ADB Financial Report 2019",
-                "AfDB Annual Report 2019",
-                "African Development Bank Group Annual Report 2019",
-                "FSB Financial Statements March 2020",
-                "IBRD Financial Statements June 2020",
-                "IFC 2020 Annual Report Volume 2",
-                "IMF Annual Report 2020",
-                "Inter-American Development Bank Annual Report 2019",
-                "Report of the Economic and Social Council on its 2019 Session (A/74/3)",
-                "Security Council website https://www.un.org/securitycouncil/content/current-members",
-                "UN General Assembly website http://www.un.org/en/member-states/index.html",
-                "WTO Annual Report 2020"
-              ]
-            },
-            "title": "Source details"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           }
         ]

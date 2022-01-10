@@ -12,55 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Based on public sector database maintained by Oscar Research Ltd, as at 6th of January, 2020.",
-                "Lower Chamber or Unicameral, Data valid as of 1 Jan of given year based on the number of seats filled in parliament at the time",
-                "Lower Chamber or Unicameral, Data valid as of 1 Jan of given year, figures correspond to the number of seats filled in parliament at the given time.",
-                "Bicameral: Lower chamber (House of Commons), Data valid as of 1 Jan of given year",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Compiled by UNECE Statistical Division and UN Women",
-                "Inter-Parliamentary Union (IPU), Parline Database",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

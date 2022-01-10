@@ -11,31 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "99.7% of UK premises with 2G mobile coverage from at least one mobile network in September 2018. (Form would not allow 99.7 to be submitted)",
-                "99.9% UK Premises with LTE coverage from at least one operator in September 2018 assessed at -105dBm signal strength (form would not allow 99.9 to be submitted)",
-                "99.9% UK premises with 3G/3.5G mobile coverage from at least one mobile operator September 2018 (form would not allow 99.9 to be submitted)"
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           }
         ]

@@ -11,78 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Mooring Name:  Garron Point Scotland | LATITUDE: 56.963 | LONGITUDE: -2.11",
-                "Mooring Name:  WCO L4| LATITUDE: 50.250 | LONGITUDE: -4.22",
-                "Mooring Name: WCO E1 | LATITUDE: 50.033 | LONGITUDE: -4.37"
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
-            "name": "CUST_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Custom code 01",
-                "Custom code 02",
-                "Custom code 03"
-              ]
-            },
-            "title": "Custom Breakdown"
-          },
-          {
-            "name": "CUST_BREAKDOWN_LB",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Garron Point Scotland",
-                "WCO E1",
-                "WCO L4"
-              ]
-            },
-            "title": "Label for custom breakdown"
-          },
-          {
-            "name": "LOWER_BOUND",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "7.809",
-                "7.873",
-                "7.886"
-              ]
-            },
-            "title": "Lower bound value"
-          },
-          {
-            "name": "UPPER_BOUND",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "8.101",
-                "8.153",
-                "8.164"
-              ]
-            },
-            "title": "Upper bound value"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           }
         ]

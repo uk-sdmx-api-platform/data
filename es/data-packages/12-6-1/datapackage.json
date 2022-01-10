@@ -12,24 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "LOR_ADVANCED",
-                "LOR_MINIMUM",
-                ""
-              ]
-            },
-            "title": "COMPOSITE_BREAKDOWN"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

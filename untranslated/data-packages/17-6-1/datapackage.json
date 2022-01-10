@@ -12,63 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "NATURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "E",
-                "C",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",
-                "Ofcom",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "IS_256KT2M",
-                "IS_2MT10M",
-                "IS_GE10M",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Obs_Value = 0;  ",
-                "Excl. corporate connections.",
-                "Obs_Value = 0;  Estimated breakdown based on data for residential connections.",
-                "Incl. <2 Mbit/s, Estimated breakdown based on data for residential connections.",
-                "Estimated breakdown based on data for residential connections.",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

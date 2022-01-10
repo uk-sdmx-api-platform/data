@@ -12,42 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Value \"1\" represents country's birth registration data are at least 90 per cent complete. \"0\" represents country's birth registration data are less than 90 per cent complete.",
-                "Reference year represents the year of the census conducted.",
-                "Value \"1\" represents country's death registration data are at least 75 per cent complete. \"0\" represents country's death registration data are less than 75 per cent complete.",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Demographic and Social Statistics Branch, United Nations Statistics Division (UNSD), Department of Economic and Social Affairs, United Nations",
-                "Demographic and Social Statistics Branch, United Nations Statistics Division (UNSD), Department of Economic and Social Affairs, United Nations.",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

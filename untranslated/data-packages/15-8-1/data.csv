@@ -1,7 +1,1 @@
-Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,Value
-2020,Obs_Value = 0;  Responses to a set of key questons have been included in this dataset. ,Data gathered as a result of a survey,ER_IAS_GLOFUN,0
-2010,2020 dataset disaggregated into relevant themes,Data gathered from the latest version of NBSAP,ER_IAS_LEGIS,1
-2016,2020 dataset disaggregated into relevant themes,Data gathered from the latest version of NBSAP,ER_IAS_LEGIS,1
-2020,2020 dataset disaggregated into relevant themes,Data gathered from the latest version of NBSAP,ER_IAS_LEGIS,1
-2016,Reference to Target 9 was a requirement,Data gathered from the latest version of NBSAP,ER_IAS_NBSAP,1
-2020,Reference to Target 9 was a requirement,Data gathered from the latest version of NBSAP,ER_IAS_NBSAP,1
+Year,Value

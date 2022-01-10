@@ -12,25 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Commitments; Based on OECD, CRS databased, 2021; Constant 2019 USD million",
-                "Gross disbursements; Based on OECD, CRS databased, 2021; Constant 2019 USD million",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
           },
           {
             "name": "Value",

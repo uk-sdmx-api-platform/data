@@ -11,32 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Policy instruments: Economic and fiscal instruments (taxes and tax incentives, grants, preferential loans, etc.)",
-                "Policy instruments: Macro policies (e.g. national strategies/action plans, new institutions/entities)",
-                "Policy instruments: Regulatory and legal instruments (e.g. laws, standards, enforcement measures)",
-                "Policy instruments: Voluntary and self-regulation schemes (e.g. sectoral partnerships, codes of conduct, CSR initiatives)"
-              ]
-            },
-            "title": "Composite breakdown"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           }
         ]

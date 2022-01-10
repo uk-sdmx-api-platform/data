@@ -12,75 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "United Kingdom of Great Britain and Northern Ireland EU-SILC 2014. World Inequality Database on Education (WIDE), June 2019. Data extracted on 13 April 2021.",
-                "United Kingdom of Great Britain and Northern Ireland EU-SILC 2013. World Inequality Database on Education (WIDE), June 2019. Data extracted on 13 April 2021.",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "F",
-                "M",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "R",
-                "U",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "INCOME_WEALTH_QUANTILE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Q1",
-                "Q2",
-                "Q3",
-                "Q4",
-                "Q5",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "EDUCATION_LEV",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ISCED11_2",
-                "ISCED11_3",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Obs_Value = 0;  This data point is NOT APPLICABLE for the submitting nation.",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

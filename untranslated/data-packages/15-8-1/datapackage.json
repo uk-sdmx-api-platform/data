@@ -12,38 +12,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Obs_Value = 0;  Responses to a set of key questons have been included in this dataset. ",
-                "2020 dataset disaggregated into relevant themes",
-                "Reference to Target 9 was a requirement",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Data gathered as a result of a survey",
-                "Data gathered from the latest version of NBSAP",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SERIES",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

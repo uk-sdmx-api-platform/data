@@ -12,67 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Repository: Eurostat special tabulation",
-                "Data reference period: Second quarter | Geographical coverage: Total national, excluding overseas territories | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - minimum age: 16 years old | Type of difficulties: Impairments | Level of difficulties: Cannot do at all at least one activity | Minimum duration of disability: At least 12 months",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "LFS - EU Labour Force Survey",
-                "LFS - Labour Force Survey",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "F",
-                "M",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Y_GE15",
-                "Y_GE25",
-                "Y15T24",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "DISABILITY_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PD",
-                "PWD",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

@@ -12,36 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "PRODUCT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "AGG_AGR",
-                "AGG_ARMS",
-                "AGG_CLTH",
-                "AGG_IND",
-                "AGG_OIL",
-                "AGG_TXT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Obs_Value = 0;  ",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

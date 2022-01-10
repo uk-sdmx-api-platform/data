@@ -12,20 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "ACTIVITY",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ISIC3_D",
-                "ISIC4_C",
-                ""
-              ]
-            },
-            "title": "ACTIVITY"
           },
           {
             "name": "Value",

@@ -12,20 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "FIS_POSTFIS_DIS_INC",
-                "FIS_PREFIS_INC",
-                ""
-              ]
-            },
-            "title": "COMPOSITE_BREAKDOWN"
           },
           {
             "name": "Value",

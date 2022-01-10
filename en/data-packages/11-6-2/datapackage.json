@@ -11,25 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Rural",
-                "Urban"
-              ]
-            },
-            "title": "Degree of urbanisation"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           }
         ]

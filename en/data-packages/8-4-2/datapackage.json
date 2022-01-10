@@ -11,60 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "BASE_PER",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "2010"
-              ]
-            },
-            "title": "Base period"
-          },
-          {
-            "name": "PRODUCT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Biomass (material flows)",
-                "Crops (material flows)",
-                "Crop residues (material flows)",
-                "Grazed biomass and fodder crops (material flows)",
-                "Wood (material flows)",
-                "Wild catch and harvest (material flows)",
-                "Metal ores (material flows)",
-                "Ferrous ores (material flows)",
-                "Non-ferrous ores (material flows)",
-                "Non-metallic minerals (material flows)",
-                "Fossil fuels (material flows)",
-                "Coal (material flows)",
-                "Petroleum (material flows)",
-                "Natural gas (material flows)",
-                "Non-metallic minerals - construction dominant (material flows)",
-                "Non-metallic minerals - industrial or agricultural dominant (material flows)"
-              ]
-            },
-            "title": "Type of product"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           }
         ]

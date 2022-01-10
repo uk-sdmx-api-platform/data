@@ -11,34 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "BASE_PER",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "2015"
-              ]
-            },
-            "title": "Base period"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           }
         ]

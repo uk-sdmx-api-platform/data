@@ -12,23 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           },
           {
-            "name": "INCOME_WEALTH_QUANTILE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "B40",
-                ""
-              ]
-            },
-            "title": "INCOME_WEALTH_QUANTILE"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

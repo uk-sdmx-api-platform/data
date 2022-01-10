@@ -12,70 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "NATURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "E",
-                "C",
-                ""
-              ]
-            },
-            "title": "NATURE"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Data based on the World Telecommunication/ICT Indicators Database, 2020, International Telecommunication Union (ITU)",
-                "Ofcom",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "IS_256KT2M",
-                "IS_2MT10M",
-                "IS_GE10M",
-                ""
-              ]
-            },
-            "title": "COMPOSITE_BREAKDOWN"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Obs_Value = 0;  ",
-                "Excl. corporate connections.",
-                "Obs_Value = 0;  Estimated breakdown based on data for residential connections.",
-                "Incl. <2 Mbit/s, Estimated breakdown based on data for residential connections.",
-                "Estimated breakdown based on data for residential connections.",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",

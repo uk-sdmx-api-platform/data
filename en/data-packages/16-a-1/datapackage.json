@@ -11,30 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Name of National Human Rights Institution: Great Britain - Equality and Human Rights Commission; Northern Ireland - human Rights Commission; Scotland - Scottish Human Rights Commission.",
-                "Name of National Human Rights Institution: Zambian Human Rights Commission ."
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           }
         ]

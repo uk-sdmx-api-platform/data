@@ -11,101 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "15 years old and over"
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "LOWER_BOUND",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "0.0",
-                "0.2",
-                "0.3",
-                "1.4",
-                "2.3",
-                "2.9",
-                "20.9",
-                "205.6",
-                "3.0",
-                "6.5",
-                "64.7",
-                "78.2"
-              ]
-            },
-            "title": "Lower bound value"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Female",
-                "Male"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Units",
-                "Thousands"
-              ]
-            },
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "UPPER_BOUND",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "1.1",
-                "1.5",
-                "127.2",
-                "147.5",
-                "30.4",
-                "320.9",
-                "4.5",
-                "4.8",
-                "41.9",
-                "5.4",
-                "77.1"
-              ]
-            },
-            "title": "Upper bound value"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           }
         ]

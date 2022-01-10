@@ -11,67 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "LOWER_BOUND",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "11.2",
-                "1282",
-                "3.8",
-                "3736",
-                "5018",
-                "7.4"
-              ]
-            },
-            "title": "Lower bound value"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Female",
-                "Male"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "UPPER_BOUND",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "12.6",
-                "1469",
-                "4.3",
-                "4205",
-                "5674",
-                "8.4"
-              ]
-            },
-            "title": "Upper bound value"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           }
         ]

@@ -12,40 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "F",
-                "M",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "OCCUPATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ISCO08_221",
-                "ISCO08_222_322",
-                "ISCO08_2261",
-                "ISCO08_2262",
-                "ISCO08_2221_3221",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "Value",

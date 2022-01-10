@@ -11,42 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "ABT2 status: National target reflecting ABT2 exists and progress is on track to achieve it",
-                "Level/Status: Regular compilation and dissemination"
-              ]
-            },
-            "title": "Composite breakdown"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "CHM / WESR ",
-                "UNSTATS / WESR "
-              ]
-            },
-            "title": "Source details"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           }
         ]

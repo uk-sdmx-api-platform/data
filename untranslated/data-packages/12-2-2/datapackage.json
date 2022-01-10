@@ -12,50 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "PRODUCT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "MF_AGG3A",
-                "MF_AGG3B",
-                "MF1",
-                "MF11",
-                "MF121",
-                "MF122",
-                "MF13",
-                "MF14",
-                "MF2",
-                "MF21",
-                "MF22",
-                "MF3",
-                "MF4",
-                "MF41",
-                "MF421",
-                "MF422",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "BASE_PER",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2010",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

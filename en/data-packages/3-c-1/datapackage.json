@@ -11,50 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "OCCUPATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Medical doctors",
-                "Nursing personnel",
-                "Nursing and midwifery personnel",
-                "Dentists",
-                "Pharmacists"
-              ]
-            },
-            "title": "Occupation"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Female",
-                "Male"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           }
         ]

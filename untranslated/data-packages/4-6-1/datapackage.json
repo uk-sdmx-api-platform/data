@@ -12,29 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "F",
-                "M",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SKILL_LTRCY",
-                "SKILL_NMRCY",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

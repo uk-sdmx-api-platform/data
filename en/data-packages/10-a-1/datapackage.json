@@ -11,29 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "PRODUCT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Agriculture products",
-                "Arms",
-                "Clothing",
-                "Industrial products",
-                "Oil",
-                "Textiles"
-              ]
-            },
-            "title": "Type of product"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           }
         ]

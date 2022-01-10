@@ -11,57 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Obs_Value = 0.0;  Repository: ILO calculations based on Eurostat data | Coverage of occupational injuries: Reported injuries",
-                "Obs_Value = 0.0;  Repository: ILO calculations based on Eurostat data | Reference group coverage: Employees | Coverage of occupational injuries: Reported injuries | Definition of permanent incapacity: Permanent incapacity is defined as 183 or days of absence from work",
-                "Repository: ILO calculations based on Eurostat data | Coverage of occupational injuries: Reported injuries",
-                "Repository: ILO calculations based on Eurostat data | Reference group coverage: Employees | Coverage of occupational injuries: Reported injuries | Definition of permanent incapacity: Permanent incapacity is defined as 183 or days of absence from work"
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Migrant Status: EU Migrant",
-                "Migrant Status: Non-migrant",
-                "Migrant Status: Non-EU Migrant"
-              ]
-            },
-            "title": "Composite breakdown"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Female",
-                "Male"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           }
         ]

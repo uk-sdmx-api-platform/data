@@ -12,66 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "6",
-                "0",
-                ""
-              ]
-            },
-            "title": "UNIT_MULT"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "IEA (2020), CO2 Emissions from fuel combustion. https://www.iea.org/statistics",
-                "UNIDO MVA 2021 Database. Available at https://stat.unido.org. IEA (2020), CO2 Emissions from Fuel Combustion. https://www.iea.org/statistics",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "ACTIVITY",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ISIC4_C10T32X19",
-                "ISIC4_C",
-                ""
-              ]
-            },
-            "title": "ACTIVITY"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "BASE_PER",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2017",
-                "2015",
-                ""
-              ]
-            },
-            "title": "BASE_PER"
           },
           {
             "name": "Value",

@@ -12,52 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Repository: ILO calculations based on Eurostat data | Coverage of occupational injuries: Reported injuries",
-                "Obs_Value = 0.0;  Repository: ILO calculations based on Eurostat data | Coverage of occupational injuries: Reported injuries",
-                "Repository: ILO calculations based on Eurostat data | Reference group coverage: Employees | Coverage of occupational injuries: Reported injuries | Definition of permanent incapacity: Permanent incapacity is defined as 183 or days of absence from work",
-                "Obs_Value = 0.0;  Repository: ILO calculations based on Eurostat data | Reference group coverage: Employees | Coverage of occupational injuries: Reported injuries | Definition of permanent incapacity: Permanent incapacity is defined as 183 or days of absence from work",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "F",
-                "M",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "MS_EUMIGRANT",
-                "MS_NOMIGRANT",
-                "MS_NONEUMIGRANT",
-                ""
-              ]
-            },
-            "title": "COMPOSITE_BREAKDOWN"
           },
           {
             "name": "Value",

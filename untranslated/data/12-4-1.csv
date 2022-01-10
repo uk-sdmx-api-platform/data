@@ -1,10 +1,1 @@
-Year,SOURCE_DETAIL,SERIES,Value
-2015,Environment Live,SG_HAZ_CMRBASEL,100.0
-2020,Environment Live,SG_HAZ_CMRBASEL,100.0
-2020,Environment Live,SG_HAZ_CMRMNMT,66.67
-2015,World Environment Situation Room,SG_HAZ_CMRMNTRL,100.0
-2020,World Environment Situation Room,SG_HAZ_CMRMNTRL,100.0
-2015,Environment Live,SG_HAZ_CMRROTDAM,100.0
-2020,Environment Live,SG_HAZ_CMRROTDAM,96.55
-2015,Environment Live,SG_HAZ_CMRSTHOLM,100.0
-2020,Environment Live,SG_HAZ_CMRSTHOLM,87.5
+Year,Value

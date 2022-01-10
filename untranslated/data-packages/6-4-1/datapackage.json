@@ -12,29 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "ACTIVITY",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ISIC4_A01_A0210_A0322",
-                "ISIC4_BTFXE",
-                "ISIC4_GTT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Obs_Value = NaN;  NaN = A figure was not provided",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

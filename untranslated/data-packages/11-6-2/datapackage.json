@@ -12,18 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "R",
-                "U",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

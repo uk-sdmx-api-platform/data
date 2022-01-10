@@ -12,82 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "United Kingdom of Great Britain and Northern Ireland EU-SILC 2014. World Inequality Database on Education (WIDE), June 2019. Data extracted on 13 April 2021.",
-                "United Kingdom of Great Britain and Northern Ireland EU-SILC 2013. World Inequality Database on Education (WIDE), June 2019. Data extracted on 13 April 2021.",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "F",
-                "M",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "R",
-                "U",
-                ""
-              ]
-            },
-            "title": "URBANISATION"
-          },
-          {
-            "name": "INCOME_WEALTH_QUANTILE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Q1",
-                "Q2",
-                "Q3",
-                "Q4",
-                "Q5",
-                ""
-              ]
-            },
-            "title": "INCOME_WEALTH_QUANTILE"
-          },
-          {
-            "name": "EDUCATION_LEV",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ISCED11_2",
-                "ISCED11_3",
-                ""
-              ]
-            },
-            "title": "EDUCATION_LEV"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Obs_Value = 0;  This data point is NOT APPLICABLE for the submitting nation.",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",

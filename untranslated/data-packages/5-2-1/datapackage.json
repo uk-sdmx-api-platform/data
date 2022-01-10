@@ -12,40 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "UPPER_BOUND",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "7.1",
-                "8.4",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "LOWER_BOUND",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1.8",
-                "2.1",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Y_GE15",
-                "Y15T49",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

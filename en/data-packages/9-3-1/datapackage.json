@@ -11,25 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "ACTIVITY",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Manufacturing (ISIC3 D)",
-                "Manufacturing"
-              ]
-            },
-            "title": "Economic activity"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           }
         ]

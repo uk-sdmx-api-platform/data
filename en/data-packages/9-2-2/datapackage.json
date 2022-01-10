@@ -11,37 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "ACTIVITY",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Manufacturing (ISIC3 D)",
-                "Manufacturing"
-              ]
-            },
-            "title": "Economic activity"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Repository: Eurostat special tabulation",
-                "Repository: Eurostat special tabulation | Break in series: Methodology revised"
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           }
         ]

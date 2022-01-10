@@ -12,36 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "F",
-                "M",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "OCCUPATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ISCO08_1",
-                "ISCO08_2",
-                "ISCO08_3",
-                "ISCO08_4",
-                "ISCO08_5",
-                "ISCO08_6",
-                "ISCO08_7",
-                "ISCO08_8",
-                "ISCO08_9",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

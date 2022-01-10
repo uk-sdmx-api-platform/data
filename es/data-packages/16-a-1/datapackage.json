@@ -12,29 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Name of National Human Rights Institution: Zambian Human Rights Commission .",
-                "Name of National Human Rights Institution: Great Britain - Equality and Human Rights Commission; Northern Ireland - human Rights Commission; Scotland - Scottish Human Rights Commission.",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

@@ -12,32 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Repository: Eurostat special tabulation | Break in series: Methodology revised",
-                "Repository: Eurostat special tabulation",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
-            "name": "ACTIVITY",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ISIC3_D",
-                "ISIC4_C",
-                ""
-              ]
-            },
-            "title": "ACTIVITY"
           },
           {
             "name": "Value",

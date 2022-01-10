@@ -12,53 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           },
           {
-            "name": "NATURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "E",
-                "C",
-                ""
-              ]
-            },
-            "title": "NATURE"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Obs_Value = 0;  Out of 354 local breeds (including extinct ones), 1 are reported with genetic material stored, out of which 0 are reported with sufficient material stored to allow them to be reconstituted",
-                "Estimate based on the acquisition date of each conserved accession as reported in 2014.",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "DAD-IS 7.9.2021 http://www.fao.org/dad-is/",
-                "FAO-WIEWS (http://www.fao.org/wiews) and EURISCO (http://eurisco.ipk-gatersleben.de)",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

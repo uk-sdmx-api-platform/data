@@ -11,79 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "15 to 24 years old",
-                "15 years old and over",
-                "25 years old and over"
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Data reference period: Second quarter | Geographical coverage: Total national, excluding overseas territories | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - minimum age: 16 years old | Type of difficulties: Impairments | Level of difficulties: Cannot do at all at least one activity | Minimum duration of disability: At least 12 months",
-                "Repository: Eurostat special tabulation"
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
-            "name": "DISABILITY_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Persons with disability",
-                "Persons without disability"
-              ]
-            },
-            "title": "Disability status"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Female",
-                "Male"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "LFS - EU Labour Force Survey",
-                "LFS - Labour Force Survey"
-              ]
-            },
-            "title": "Source details"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           }
         ]
