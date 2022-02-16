@@ -29,6 +29,11 @@
             "title": "Reporting type"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -39,6 +44,18 @@
               ]
             },
             "title": "Series"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Rural",
+                "Urban"
+              ]
+            },
+            "title": "Degree of urbanisation"
           },
           {
             "name": "Unit measure",
@@ -57,7 +74,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
