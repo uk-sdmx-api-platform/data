@@ -17,10 +17,6 @@
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
             "name": "Poverty reduction aid type",
             "type": "string",
             "constraints": {
