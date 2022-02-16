@@ -34,18 +34,6 @@
             "title": "SDG Series"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Proportion of population using basic drinking water services",
-                "Proportion of population using basic sanitation services"
-              ]
-            },
-            "title": "Series"
-          },
-          {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
