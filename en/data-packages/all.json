@@ -13,6 +13,26 @@
       "schema": {
         "fields": [
           {
+            "name": "Poverty reduction aid type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Basic education",
+                "Basic health",
+                "Basic social services",
+                "Development food aid",
+                "Water supply and sanitation"
+              ]
+            },
+            "title": "Poverty reduction aid type"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
