@@ -16,15 +16,9 @@
             "title": "Year"
           },
           {
-            "name": "Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of population below international poverty line",
-                ""
-              ]
-            },
-            "title": "Series"
+            "title": "SERIES"
           },
           {
             "name": "Observation status",
