@@ -11,20 +11,9 @@
       "schema": {
         "fields": [
           {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
-          },
-          {
-            "name": "Reporting type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "N"
-              ]
-            },
-            "title": "Reporting type"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "SERIES",
@@ -36,12 +25,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Rural",
-                "Urban"
+                "Urban",
+                ""
               ]
             },
             "title": "Degree of urbanisation"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
           },
           {
             "name": "Unit measure",
@@ -54,14 +48,20 @@
             "title": "Unit multiplier"
           },
           {
+            "name": "Reporting type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "N",
+                ""
+              ]
+            },
+            "title": "Reporting type"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

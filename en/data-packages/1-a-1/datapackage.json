@@ -11,16 +11,21 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Poverty reduction aid type",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Basic education",
                 "Basic health",
                 "Basic social services",
                 "Development food aid",
-                "Water supply and sanitation"
+                "Water supply and sanitation",
+                ""
               ]
             },
             "title": "Poverty reduction aid type"
@@ -29,11 +34,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }
