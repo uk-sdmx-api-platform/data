@@ -124,3 +124,9 @@ docs_intro: This is a list of examples of endpoints and output that are
 # This is mainly intended to show units of measurement and series, which are not
 # normally considered "disaggregation".
 # docs_extra_disaggregations: ['Units', 'Series']
+
+sdmx_output_global:
+  column_map: column_mapping.csv
+  code_map: code_mapping.csv
+  sender_id: UK_ONS
+  default_values: {REF_AREA: 826}
