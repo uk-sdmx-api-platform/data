@@ -42,6 +42,7 @@ inputs:
   - class:  InputSdmxMl_UnitedNationsApi
     reference_area: 826
     import_codes: true
+    import_observation_attributes: true
     dimension_query:
       SERIES: SP_ACS_BSRVSAN+SP_ACS_BSRVH2O+SD_XPD_ESED+DC_ODA_POVDLG
   - class: InputCsvData
