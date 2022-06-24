@@ -1,1 +1,14 @@
-Year,Value
+Year,SERIES,Observation status,Unit multiplier,UNIT_MEASURE,Reporting type,Value
+2004,SI_POV_DAY1,Estimated value,Units,Percent,National,0.4
+2005,SI_POV_DAY1,Estimated value,Units,Percent,National,0.5
+2006,SI_POV_DAY1,Estimated value,Units,Percent,National,0.2
+2007,SI_POV_DAY1,Estimated value,Units,Percent,National,0.3
+2008,SI_POV_DAY1,Estimated value,Units,Percent,National,0.3
+2009,SI_POV_DAY1,Estimated value,Units,Percent,National,0.2
+2010,SI_POV_DAY1,Estimated value,Units,Percent,National,0.1
+2011,SI_POV_DAY1,Estimated value,Units,Percent,National,0.4
+2012,SI_POV_DAY1,Estimated value,Units,Percent,National,0.2
+2013,SI_POV_DAY1,Estimated value,Units,Percent,National,0.2
+2014,SI_POV_DAY1,Estimated value,Units,Percent,National,0.2
+2015,SI_POV_DAY1,Estimated value,Units,Percent,National,0.1
+2016,SI_POV_DAY1,Estimated value,Units,Percent,National,0.2

@@ -12,8 +12,39 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Reporting type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "National",
+                ""
+              ]
+            },
+            "title": "Reporting type"
           },
           {
             "name": "Value",

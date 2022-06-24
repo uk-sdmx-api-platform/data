@@ -324,6 +324,54 @@
       "title": "global_indicators.1-4-1-title"
     },
     {
+      "path": "1-1-1/data.csv",
+      "name": "1-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Reporting type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "National",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.1-1-1-title"
+    },
+    {
       "path": "8-2-1/data.csv",
       "name": "8-2-1",
       "profile": "tabular-data-resource",
@@ -5030,28 +5078,6 @@
         ]
       },
       "title": "global_indicators.14-4-1-title"
-    },
-    {
-      "path": "1-1-1/data.csv",
-      "name": "1-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.1-1-1-title"
     },
     {
       "path": "7-a-1/data.csv",
