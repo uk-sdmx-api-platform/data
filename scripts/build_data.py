@@ -7,4 +7,9 @@ def alter_meta(meta, context):
         print(context['indicator_id'])
     return meta
 
-open_sdg_build(config='config_data.yml', alter_meta=alter_meta)
+def alter_data(df):
+    print(df)
+    return df
+    
+
+open_sdg_build(config='config_data.yml', alter_meta=alter_meta, alter_data=alter_data)
