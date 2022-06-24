@@ -39,15 +39,15 @@ src_dir: ''
 # folder. Further, each item can have any/all of the parameters that class uses.
 # The defaults below show what is used when this is omitted.
 inputs:
+    - class: InputCsvData
+    # This describes the data files, relative to the "src_dir" indicated above.
+    path_pattern: data/*-*.csv
   - class:  InputSdmxMl_UnitedNationsApi
     reference_area: 826
     import_codes: true
     drop_singleton_dimensions: false
     dimension_query:
       SERIES: SI_POV_DAY1+SP_ACS_BSRVSAN+SP_ACS_BSRVH2O+SD_XPD_ESED+DC_ODA_POVDLG
-  - class: InputCsvData
-    # This describes the data files, relative to the "src_dir" indicated above.
-    path_pattern: data/*-*.csv
   - class: InputYamlMeta
     path_pattern: indicator-config/*-*.yml
     git: false
