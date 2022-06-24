@@ -1,14 +1,14 @@
-Year,SERIES,Observation status,Unit multiplier,Units,Value
-2004,Proportion of population below international poverty line,Estimated value,Units,Percentage (%),0.4
-2005,Proportion of population below international poverty line,Estimated value,Units,Percentage (%),0.5
-2006,Proportion of population below international poverty line,Estimated value,Units,Percentage (%),0.2
-2007,Proportion of population below international poverty line,Estimated value,Units,Percentage (%),0.3
-2008,Proportion of population below international poverty line,Estimated value,Units,Percentage (%),0.3
-2009,Proportion of population below international poverty line,Estimated value,Units,Percentage (%),0.2
-2010,Proportion of population below international poverty line,Estimated value,Units,Percentage (%),0.1
-2011,Proportion of population below international poverty line,Estimated value,Units,Percentage (%),0.4
-2012,Proportion of population below international poverty line,Estimated value,Units,Percentage (%),0.2
-2013,Proportion of population below international poverty line,Estimated value,Units,Percentage (%),0.2
-2014,Proportion of population below international poverty line,Estimated value,Units,Percentage (%),0.2
-2015,Proportion of population below international poverty line,Estimated value,Units,Percentage (%),0.1
-2016,Proportion of population below international poverty line,Estimated value,Units,Percentage (%),0.2
+Year,SERIES,OBS_STATUS,UNIT_MULT,UNIT_MEASURE,REPORTING_TYPE,Value
+2004,SI_POV_DAY1,E,1,PT,N,0.4
+2005,SI_POV_DAY1,E,1,PT,N,0.5
+2006,SI_POV_DAY1,E,1,PT,N,0.2
+2007,SI_POV_DAY1,E,1,PT,N,0.3
+2008,SI_POV_DAY1,E,1,PT,N,0.3
+2009,SI_POV_DAY1,E,1,PT,N,0.2
+2010,SI_POV_DAY1,E,1,PT,N,0.1
+2011,SI_POV_DAY1,E,1,PT,N,0.4
+2012,SI_POV_DAY1,E,1,PT,N,0.2
+2013,SI_POV_DAY1,E,1,PT,N,0.2
+2014,SI_POV_DAY1,E,1,PT,N,0.2
+2015,SI_POV_DAY1,E,1,PT,N,0.1
+2016,SI_POV_DAY1,E,1,PT,N,0.2
