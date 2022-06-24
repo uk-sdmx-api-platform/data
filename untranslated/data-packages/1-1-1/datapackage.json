@@ -15,6 +15,32 @@
             "type": "integer"
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Reporting type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "National",
+                ""
+              ]
+            }
+          },
+          {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
@@ -86,10 +112,6 @@
             }
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
@@ -132,10 +154,6 @@
                 ""
               ]
             }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
           },
           {
             "name": "Value",
