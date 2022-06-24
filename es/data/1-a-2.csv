@@ -1,19 +1,19 @@
-Year,Value
-2000,11.848
-2001,12.08186
-2002,13.32559
-2003,13.4005
-2004,12.75941
-2005,13.00338
-2006,12.96017
-2007,12.84258
-2008,12.73311
-2009,12.38475
-2010,12.78199
-2011,12.46857
-2013,12.66024
-2014,13.35372
-2015,13.49021
-2016,13.44864
-2017,13.76128
-2018,13.34408
+Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,Value
+2000,A,0,C,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,A,G,SD_XPD_ESED,826,PT,11.848
+2001,A,0,C,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,A,G,SD_XPD_ESED,826,PT,12.08186
+2002,A,0,C,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,A,G,SD_XPD_ESED,826,PT,13.32559
+2003,A,0,C,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,A,G,SD_XPD_ESED,826,PT,13.4005
+2004,A,0,C,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,A,G,SD_XPD_ESED,826,PT,12.75941
+2005,A,0,C,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,A,G,SD_XPD_ESED,826,PT,13.00338
+2006,A,0,C,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,A,G,SD_XPD_ESED,826,PT,12.96017
+2007,A,0,C,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,A,G,SD_XPD_ESED,826,PT,12.84258
+2008,A,0,C,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,A,G,SD_XPD_ESED,826,PT,12.73311
+2009,A,0,C,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,A,G,SD_XPD_ESED,826,PT,12.38475
+2010,A,0,C,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,A,G,SD_XPD_ESED,826,PT,12.78199
+2011,A,0,C,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,A,G,SD_XPD_ESED,826,PT,12.46857
+2013,A,0,C,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,A,G,SD_XPD_ESED,826,PT,12.66024
+2014,A,0,C,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,A,G,SD_XPD_ESED,826,PT,13.35372
+2015,A,0,C,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,A,G,SD_XPD_ESED,826,PT,13.49021
+2016,A,0,C,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,A,G,SD_XPD_ESED,826,PT,13.44864
+2017,A,0,C,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,A,G,SD_XPD_ESED,826,PT,13.76128
+2018,A,0,C,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,A,G,SD_XPD_ESED,826,PT,13.34408

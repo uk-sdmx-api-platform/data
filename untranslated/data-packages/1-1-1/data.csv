@@ -1,113 +1,100 @@
-Year,SERIES,Observation status,Unit multiplier,UNIT_MEASURE,Reporting type,COMMENT_OBS,SEX,AGE,URBANISATION,Value
-2004,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,,0.4
-2005,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,,0.5
-2006,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,,0.2
-2007,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,,0.3
-2008,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,,0.3
-2009,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,,0.2
-2010,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,,0.1
-2011,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,,0.4
-2012,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,,0.2
-2013,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,,0.2
-2014,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,,0.2
-2015,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,,0.1
-2016,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,,0.2
-1969,,,,,,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ",,,,0.2
-1974,,,,,,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ",,,,0.2
-1979,,,,,,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ",,,,0.2
-1986,,,,,,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ",,,,0.7
-1991,,,,,,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ",,,,0.2
-1994,,,,,,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ",,,,0.2
-1995,,,,,,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ",,,,0.2
-1996,,,,,,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ",,,,0.2
-1997,,,,,,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ",,,,0.2
-1998,,,,,,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ",,,,0.2
-1999,,,,,,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ",,,,0.2
-2000,,,,,,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ",,,,0.2
-2001,,,,,,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ",,,,0.2
-2002,,,,,,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ",,,,0.2
-2003,,,,,,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ",,,,0.2
-2004,,,,,,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ",,,,0.4
-2005,,,,,,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ",,,,0.5
-2006,,,,,,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ",,,,0.2
-2007,,,,,,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ",,,,0.3
-2008,,,,,,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ",,,,0.3
-2009,,,,,,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ",,,,0.2
-2010,,,,,,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ",,,,0.1
-2011,,,,,,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ",,,,0.4
-2012,,,,,,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ",,,,0.2
-2013,,,,,,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ",,,,0.2
-2014,,,,,,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ",,,,0.2
-2015,,,,,,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ",,,,0.1
-2016,,,,,,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ",,,,0.2
-2017,,,,,,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ",,,,0.3
-2008,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,,R,0.35218
-2009,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,,R,0.63412
-2010,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,,R,0.80617
-2011,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,,R,1.06198
-2012,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,,R,0.62223
-2013,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,,R,0.8626
-2014,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,,R,0.78211
-2015,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,,R,1.00924
-2016,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,,R,0.20429
-2017,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,,R,1.1628
-2008,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,,U,0.67085
-2009,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,,U,0.55273
-2010,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,,U,0.62398
-2011,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,,U,0.78753
-2012,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,,U,0.43585
-2013,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,,U,0.46287
-2014,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,,U,0.64614
-2015,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,,U,0.61198
-2016,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,,U,0.61124
-2017,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,,U,0.70677
-2008,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,Y_GE65,,0.10178
-2009,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,Y_GE65,,0.12961
-2010,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,Y_GE65,,0.20023
-2011,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,Y_GE65,,0.30394
-2012,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,Y_GE65,,0.13985
-2013,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,Y_GE65,,0.37854
-2014,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,Y_GE65,,0.16871
-2015,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,Y_GE65,,0.38279
-2016,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,Y_GE65,,0.2206
-2017,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,Y_GE65,,0.25983
-2008,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,Y0T14,,0.46609
-2009,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,Y0T14,,0.6451
-2010,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,Y0T14,,0.47919
-2011,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,Y0T14,,0.40421
-2012,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,Y0T14,,0.38459
-2013,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,Y0T14,,0.33464
-2014,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,Y0T14,,0.51656
-2015,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,Y0T14,,0.32971
-2016,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,Y0T14,,0.24603
-2017,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,Y0T14,,0.46323
-2008,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,Y15T64,,0.76376
-2009,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,Y15T64,,0.7611
-2010,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,Y15T64,,0.80888
-2011,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,Y15T64,,1.06892
-2012,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,Y15T64,,0.56731
-2013,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,Y15T64,,0.6046
-2014,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,Y15T64,,0.84639
-2015,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,Y15T64,,0.8426
-2016,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,Y15T64,,0.73974
-2017,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",,Y15T64,,0.99195
-2008,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",F,,,0.49864
-2009,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",F,,,0.4531
-2010,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",F,,,0.57032
-2011,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",F,,,0.61226
-2012,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",F,,,0.37684
-2013,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",F,,,0.39485
-2014,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",F,,,0.64848
-2015,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",F,,,0.55696
-2016,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",F,,,0.60637
-2017,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",F,,,0.68318
-2008,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",M,,,0.71297
-2009,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",M,,,0.82396
-2010,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",M,,,0.73122
-2011,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",M,,,1.044
-2012,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",M,,,0.54804
-2013,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",M,,,0.64416
-2014,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",M,,,0.68488
-2015,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",M,,,0.78906
-2016,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",M,,,0.50927
-2017,,,,,,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",M,,,0.84559
+Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,SEX,AGE,URBANISATION,UNIT_MEASURE,Value
+1969,A,0,G,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,,PT,0.2
+1974,A,0,G,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,,PT,0.2
+1979,A,0,G,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,,PT,0.2
+1986,A,0,G,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,,PT,0.7
+1991,A,0,G,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,,PT,0.2
+1994,A,0,G,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,,PT,0.2
+1995,A,0,G,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,,PT,0.2
+1996,A,0,G,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,,PT,0.2
+1997,A,0,G,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,,PT,0.2
+1998,A,0,G,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,,PT,0.2
+1999,A,0,G,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,,PT,0.2
+2000,A,0,G,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,,PT,0.2
+2001,A,0,G,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,,PT,0.2
+2002,A,0,G,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,,PT,0.2
+2003,A,0,G,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,,PT,0.2
+2004,A,0,G,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,,PT,0.4
+2005,A,0,G,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,,PT,0.5
+2006,A,0,G,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,,PT,0.2
+2007,A,0,G,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,,PT,0.3
+2008,A,0,G,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,,PT,0.3
+2009,A,0,G,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,,PT,0.2
+2010,A,0,G,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,,PT,0.1
+2011,A,0,G,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,,PT,0.4
+2012,A,0,G,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,,PT,0.2
+2013,A,0,G,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,,PT,0.2
+2014,A,0,G,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,,PT,0.2
+2015,A,0,G,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,,PT,0.1
+2016,A,0,G,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,,PT,0.2
+2017,A,0,G,"Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,,PT,0.3
+2008,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,R,PT,0.35218
+2009,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,R,PT,0.63412
+2010,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,R,PT,0.80617
+2011,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,R,PT,1.06198
+2012,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,R,PT,0.62223
+2013,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,R,PT,0.8626
+2014,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,R,PT,0.78211
+2015,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,R,PT,1.00924
+2016,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,R,PT,0.20429
+2017,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,R,PT,1.1628
+2008,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,U,PT,0.67085
+2009,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,U,PT,0.55273
+2010,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,U,PT,0.62398
+2011,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,U,PT,0.78753
+2012,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,U,PT,0.43585
+2013,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,U,PT,0.46287
+2014,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,U,PT,0.64614
+2015,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,U,PT,0.61198
+2016,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,U,PT,0.61124
+2017,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,,U,PT,0.70677
+2008,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,Y_GE65,,PT,0.10178
+2009,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,Y_GE65,,PT,0.12961
+2010,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,Y_GE65,,PT,0.20023
+2011,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,Y_GE65,,PT,0.30394
+2012,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,Y_GE65,,PT,0.13985
+2013,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,Y_GE65,,PT,0.37854
+2014,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,Y_GE65,,PT,0.16871
+2015,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,Y_GE65,,PT,0.38279
+2016,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,Y_GE65,,PT,0.2206
+2017,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,Y_GE65,,PT,0.25983
+2008,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,Y0T14,,PT,0.46609
+2009,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,Y0T14,,PT,0.6451
+2010,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,Y0T14,,PT,0.47919
+2011,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,Y0T14,,PT,0.40421
+2012,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,Y0T14,,PT,0.38459
+2013,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,Y0T14,,PT,0.33464
+2014,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,Y0T14,,PT,0.51656
+2015,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,Y0T14,,PT,0.32971
+2016,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,Y0T14,,PT,0.24603
+2017,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,Y0T14,,PT,0.46323
+2008,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,Y15T64,,PT,0.76376
+2009,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,Y15T64,,PT,0.7611
+2010,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,Y15T64,,PT,0.80888
+2011,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,Y15T64,,PT,1.06892
+2012,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,Y15T64,,PT,0.56731
+2013,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,Y15T64,,PT,0.6046
+2014,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,Y15T64,,PT,0.84639
+2015,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,Y15T64,,PT,0.8426
+2016,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,Y15T64,,PT,0.73974
+2017,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,,Y15T64,,PT,0.99195
+2008,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,F,,,PT,0.49864
+2009,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,F,,,PT,0.4531
+2010,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,F,,,PT,0.57032
+2011,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,F,,,PT,0.61226
+2012,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,F,,,PT,0.37684
+2013,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,F,,,PT,0.39485
+2014,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,F,,,PT,0.64848
+2015,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,F,,,PT,0.55696
+2016,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,F,,,PT,0.60637
+2017,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,F,,,PT,0.68318
+2008,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,M,,,PT,0.71297
+2009,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,M,,,PT,0.82396
+2010,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,M,,,PT,0.73122
+2011,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,M,,,PT,1.044
+2012,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,M,,,PT,0.54804
+2013,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,M,,,PT,0.64416
+2014,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,M,,,PT,0.68488
+2015,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,M,,,PT,0.78906
+2016,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,M,,,PT,0.50927
+2017,A,0,G,"Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.","Poverty and Inequality Portal, World Bank",A,G,SI_POV_DAY1,826,M,,,PT,0.84559

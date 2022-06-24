@@ -16,35 +16,37 @@
             "title": "Year"
           },
           {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string",
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Reporting type",
+            "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "National",
+                "Normal value",
                 ""
               ]
             },
-            "title": "Reporting type"
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Global monitoring data",
+                ""
+              ]
+            },
+            "title": "Nature of data points"
           },
           {
             "name": "COMMENT_OBS",
@@ -57,6 +59,55 @@
               ]
             },
             "title": "Observation-level footnotes"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Poverty and Inequality Portal, World Bank",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "FREQ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Annual",
+                ""
+              ]
+            },
+            "title": "Frequency of observation"
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Global",
+                ""
+              ]
+            },
+            "title": "Reporting type"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "United Kingdom of Great Britain and Northern Ireland",
+                ""
+              ]
+            },
+            "title": "Reference area"
           },
           {
             "name": "SEX",
@@ -94,6 +145,11 @@
               ]
             },
             "title": "Degree of urbanisation"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

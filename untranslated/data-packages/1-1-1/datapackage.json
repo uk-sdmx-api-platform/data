@@ -15,27 +15,31 @@
             "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "Observation status",
-            "type": "string"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Reporting type",
+            "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "National",
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "G",
                 ""
               ]
             }
@@ -47,6 +51,50 @@
               "enum": [
                 "Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ",
                 "Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Poverty and Inequality Portal, World Bank",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "FREQ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "G",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "826",
                 ""
               ]
             }
@@ -84,6 +132,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Value",

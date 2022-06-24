@@ -1,4 +1,9 @@
 From,To
-Observation-level footnotes,Sex
-Observation-level footnotes,Age
-Observation-level footnotes,Degree of urbanisation
+Nature of data points,Observation-level footnotes
+Observation-level footnotes,Source details
+Source details,Frequency of observation
+Frequency of observation,Reporting type
+Reporting type,Reference area
+Reference area,Sex
+Reference area,Age
+Reference area,Degree of urbanisation

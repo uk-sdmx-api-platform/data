@@ -1,20 +1,20 @@
-Year,Value
-2000,0.04
-2001,0.02
-2002,0.02
-2003,0.02
-2004,0.02
-2005,0.03
-2006,0.04
-2007,0.04
-2008,0.02
-2009,0.04
-2010,0.04
-2011,0.06
-2012,0.06
-2013,0.07
-2014,0.06
-2015,0.05
-2016,0.06
-2017,0.05
-2018,0.04
+Year,Observation status,Unit multiplier,Nature of data points,Observation-level footnotes,Source details,Frequency of observation,Reporting type,SERIES,Reference area,UNIT_MEASURE,Value
+2000,Normal value,Units,Country Data,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,Annual,Global,"Official development assistance grants for poverty reduction, by donor countries (percentage of GNI) [1.a.1]",United Kingdom of Great Britain and Northern Ireland,Percent,0.04
+2001,Normal value,Units,Country Data,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,Annual,Global,"Official development assistance grants for poverty reduction, by donor countries (percentage of GNI) [1.a.1]",United Kingdom of Great Britain and Northern Ireland,Percent,0.02
+2002,Normal value,Units,Country Data,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,Annual,Global,"Official development assistance grants for poverty reduction, by donor countries (percentage of GNI) [1.a.1]",United Kingdom of Great Britain and Northern Ireland,Percent,0.02
+2003,Normal value,Units,Country Data,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,Annual,Global,"Official development assistance grants for poverty reduction, by donor countries (percentage of GNI) [1.a.1]",United Kingdom of Great Britain and Northern Ireland,Percent,0.02
+2004,Normal value,Units,Country Data,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,Annual,Global,"Official development assistance grants for poverty reduction, by donor countries (percentage of GNI) [1.a.1]",United Kingdom of Great Britain and Northern Ireland,Percent,0.02
+2005,Normal value,Units,Country Data,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,Annual,Global,"Official development assistance grants for poverty reduction, by donor countries (percentage of GNI) [1.a.1]",United Kingdom of Great Britain and Northern Ireland,Percent,0.03
+2006,Normal value,Units,Country Data,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,Annual,Global,"Official development assistance grants for poverty reduction, by donor countries (percentage of GNI) [1.a.1]",United Kingdom of Great Britain and Northern Ireland,Percent,0.04
+2007,Normal value,Units,Country Data,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,Annual,Global,"Official development assistance grants for poverty reduction, by donor countries (percentage of GNI) [1.a.1]",United Kingdom of Great Britain and Northern Ireland,Percent,0.04
+2008,Normal value,Units,Country Data,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,Annual,Global,"Official development assistance grants for poverty reduction, by donor countries (percentage of GNI) [1.a.1]",United Kingdom of Great Britain and Northern Ireland,Percent,0.02
+2009,Normal value,Units,Country Data,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,Annual,Global,"Official development assistance grants for poverty reduction, by donor countries (percentage of GNI) [1.a.1]",United Kingdom of Great Britain and Northern Ireland,Percent,0.04
+2010,Normal value,Units,Country Data,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,Annual,Global,"Official development assistance grants for poverty reduction, by donor countries (percentage of GNI) [1.a.1]",United Kingdom of Great Britain and Northern Ireland,Percent,0.04
+2011,Normal value,Units,Country Data,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,Annual,Global,"Official development assistance grants for poverty reduction, by donor countries (percentage of GNI) [1.a.1]",United Kingdom of Great Britain and Northern Ireland,Percent,0.06
+2012,Normal value,Units,Country Data,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,Annual,Global,"Official development assistance grants for poverty reduction, by donor countries (percentage of GNI) [1.a.1]",United Kingdom of Great Britain and Northern Ireland,Percent,0.06
+2013,Normal value,Units,Country Data,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,Annual,Global,"Official development assistance grants for poverty reduction, by donor countries (percentage of GNI) [1.a.1]",United Kingdom of Great Britain and Northern Ireland,Percent,0.07
+2014,Normal value,Units,Country Data,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,Annual,Global,"Official development assistance grants for poverty reduction, by donor countries (percentage of GNI) [1.a.1]",United Kingdom of Great Britain and Northern Ireland,Percent,0.06
+2015,Normal value,Units,Country Data,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,Annual,Global,"Official development assistance grants for poverty reduction, by donor countries (percentage of GNI) [1.a.1]",United Kingdom of Great Britain and Northern Ireland,Percent,0.05
+2016,Normal value,Units,Country Data,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,Annual,Global,"Official development assistance grants for poverty reduction, by donor countries (percentage of GNI) [1.a.1]",United Kingdom of Great Britain and Northern Ireland,Percent,0.06
+2017,Normal value,Units,Country Data,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,Annual,Global,"Official development assistance grants for poverty reduction, by donor countries (percentage of GNI) [1.a.1]",United Kingdom of Great Britain and Northern Ireland,Percent,0.05
+2018,Normal value,Units,Country Data,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,Annual,Global,"Official development assistance grants for poverty reduction, by donor countries (percentage of GNI) [1.a.1]",United Kingdom of Great Britain and Northern Ireland,Percent,0.04

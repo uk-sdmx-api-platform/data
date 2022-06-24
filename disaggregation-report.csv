@@ -1,6 +1,12 @@
 Disaggregation,Number of indicators,Number of values
 AGE,1,3
-COMMENT_OBS,1,2
-Reporting type,1,1
+COMMENT_OBS,2,3
+FREQ,4,1
+NATURE,4,3
+OBS_STATUS,4,1
+REF_AREA,4,1
+REPORTING_TYPE,4,1
 SEX,1,2
+SOURCE_DETAIL,4,4
+UNIT_MULT,4,1
 URBANISATION,2,2
