@@ -1,20 +1,20 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,Value
-2000,A,0,C,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,A,G,DC_ODA_POVDLG,826,PT,0.04
-2001,A,0,C,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,A,G,DC_ODA_POVDLG,826,PT,0.02
-2002,A,0,C,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,A,G,DC_ODA_POVDLG,826,PT,0.02
-2003,A,0,C,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,A,G,DC_ODA_POVDLG,826,PT,0.02
-2004,A,0,C,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,A,G,DC_ODA_POVDLG,826,PT,0.02
-2005,A,0,C,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,A,G,DC_ODA_POVDLG,826,PT,0.03
-2006,A,0,C,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,A,G,DC_ODA_POVDLG,826,PT,0.04
-2007,A,0,C,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,A,G,DC_ODA_POVDLG,826,PT,0.04
-2008,A,0,C,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,A,G,DC_ODA_POVDLG,826,PT,0.02
-2009,A,0,C,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,A,G,DC_ODA_POVDLG,826,PT,0.04
-2010,A,0,C,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,A,G,DC_ODA_POVDLG,826,PT,0.04
-2011,A,0,C,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,A,G,DC_ODA_POVDLG,826,PT,0.06
-2012,A,0,C,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,A,G,DC_ODA_POVDLG,826,PT,0.06
-2013,A,0,C,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,A,G,DC_ODA_POVDLG,826,PT,0.07
-2014,A,0,C,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,A,G,DC_ODA_POVDLG,826,PT,0.06
-2015,A,0,C,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,A,G,DC_ODA_POVDLG,826,PT,0.05
-2016,A,0,C,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,A,G,DC_ODA_POVDLG,826,PT,0.06
-2017,A,0,C,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,A,G,DC_ODA_POVDLG,826,PT,0.05
-2018,A,0,C,"Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",The Organisation for Economic Co-operation and Development (OECD).,A,G,DC_ODA_POVDLG,826,PT,0.04
+Year,Value
+2000,0.04
+2001,0.02
+2002,0.02
+2003,0.02
+2004,0.02
+2005,0.03
+2006,0.04
+2007,0.04
+2008,0.02
+2009,0.04
+2010,0.04
+2011,0.06
+2012,0.06
+2013,0.07
+2014,0.06
+2015,0.05
+2016,0.06
+2017,0.05
+2018,0.04

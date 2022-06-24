@@ -47,6 +47,55 @@
             "title": "Reporting type"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ",
+                "Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "F",
+                "M",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y_GE65",
+                "Y0T14",
+                "Y15T64",
+                ""
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "R",
+                "U",
+                ""
+              ]
+            },
+            "title": "URBANISATION"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
