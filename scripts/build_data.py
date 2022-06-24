@@ -1,4 +1,5 @@
 from sdg.open_sdg import open_sdg_build
+import pandas as pd
 
 def alter_meta(meta, context):
     if 'reporting_status' in meta:
