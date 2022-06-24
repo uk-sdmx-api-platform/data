@@ -1,4 +1,10 @@
 Disaggregation,Number of indicators,Number of values
-Poverty reduction aid type,1,5
-Reporting type,1,1
+COMMENT_OBS,1,1
+FREQ,3,1
+NATURE,3,2
+OBS_STATUS,3,1
+REF_AREA,3,1
+REPORTING_TYPE,3,1
+SOURCE_DETAIL,3,3
+UNIT_MULT,3,1
 URBANISATION,1,2

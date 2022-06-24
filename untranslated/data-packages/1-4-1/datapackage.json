@@ -15,8 +15,78 @@
             "type": "integer"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "E",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2021)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "FREQ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "G",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SERIES",
             "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "826",
+                ""
+              ]
+            }
           },
           {
             "name": "URBANISATION",
@@ -30,26 +100,8 @@
             }
           },
           {
-            "name": "Observation status",
+            "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string"
-          },
-          {
-            "name": "Reporting type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "N",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",

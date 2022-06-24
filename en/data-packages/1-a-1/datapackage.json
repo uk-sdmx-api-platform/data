@@ -16,19 +16,102 @@
             "title": "Year"
           },
           {
-            "name": "Poverty reduction aid type",
+            "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "Basic education",
-                "Basic health",
-                "Basic social services",
-                "Development food aid",
-                "Water supply and sanitation",
+                "Normal value",
                 ""
               ]
             },
-            "title": "Poverty reduction aid type"
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Country Data",
+                ""
+              ]
+            },
+            "title": "Nature of data points"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "The Organisation for Economic Co-operation and Development (OECD).",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "FREQ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Annual",
+                ""
+              ]
+            },
+            "title": "Frequency of observation"
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Global",
+                ""
+              ]
+            },
+            "title": "Reporting type"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "United Kingdom of Great Britain and Northern Ireland",
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
