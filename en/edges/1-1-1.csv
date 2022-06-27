@@ -1,11 +1,9 @@
 From,To
-Observation status1,Unit multiplier1
-Unit multiplier1,Nature of data points
+Reporting type,Nature of data points
 Nature of data points,Observation-level footnotes
 Observation-level footnotes,Source details
 Source details,Frequency of observation
-Frequency of observation,Reporting type1
-Reporting type1,Reference area
+Frequency of observation,Reference area
 Reference area,Sex
 Reference area,Age
 Reference area,Degree of urbanisation

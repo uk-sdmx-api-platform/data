@@ -21,36 +21,11 @@
             "title": "SERIES"
           },
           {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string",
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "Reporting type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "National",
-                ""
-              ]
-            },
-            "title": "Reporting type"
-          },
-          {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
+                "Estimated value",
                 "A",
                 ""
               ]
@@ -62,11 +37,29 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Units",
                 "0",
                 ""
               ]
             },
             "title": "UNIT_MULT"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "National",
+                "G",
+                ""
+              ]
+            },
+            "title": "REPORTING_TYPE"
           },
           {
             "name": "NATURE",
@@ -112,17 +105,6 @@
               ]
             },
             "title": "FREQ"
-          },
-          {
-            "name": "REPORTING_TYPE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "G",
-                ""
-              ]
-            },
-            "title": "REPORTING_TYPE"
           },
           {
             "name": "REF_AREA",

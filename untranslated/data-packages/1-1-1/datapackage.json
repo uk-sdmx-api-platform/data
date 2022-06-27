@@ -19,32 +19,11 @@
             "type": "string"
           },
           {
-            "name": "Observation status",
-            "type": "string"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Reporting type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "National",
-                ""
-              ]
-            }
-          },
-          {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
+                "Estimated value",
                 "A",
                 ""
               ]
@@ -55,7 +34,23 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Units",
                 "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "National",
+                "G",
                 ""
               ]
             }
@@ -97,16 +92,6 @@
             "constraints": {
               "enum": [
                 "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "REPORTING_TYPE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "G",
                 ""
               ]
             }

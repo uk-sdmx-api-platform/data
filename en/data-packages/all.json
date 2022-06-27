@@ -23,36 +23,11 @@
             "title": "SDG Series"
           },
           {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string",
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Reporting type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "National",
-                ""
-              ]
-            },
-            "title": "Reporting type"
-          },
-          {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
+                "Estimated value",
                 "Normal value",
                 ""
               ]
@@ -65,10 +40,28 @@
             "constraints": {
               "enum": [
                 "Units",
+                "Units",
                 ""
               ]
             },
             "title": "Unit multiplier"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "National",
+                "Global",
+                ""
+              ]
+            },
+            "title": "Reporting type"
           },
           {
             "name": "NATURE",
@@ -114,17 +107,6 @@
               ]
             },
             "title": "Frequency of observation"
-          },
-          {
-            "name": "REPORTING_TYPE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Global",
-                ""
-              ]
-            },
-            "title": "Reporting type"
           },
           {
             "name": "REF_AREA",
