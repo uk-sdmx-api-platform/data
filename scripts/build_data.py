@@ -13,7 +13,8 @@ def alter_data(df):
         for row in df.intertuples():
             if row.Reference_area == 'United Kingdom of Great Britain and Northern Ireland':#
                 row.Reference_area = ''
-        if df['Reference area'].replace(r'^\s*$', np.nan, regex=True).isna().all()
+        if df['Reference area'].replace(r'^\s*$', np.nan, regex=True).isna().all():
+            df = df.drop('Reference area', 1)
     return df
     
 
