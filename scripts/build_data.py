@@ -10,6 +10,8 @@ def alter_meta(meta, context):
     return meta
 
 def alter_data(df):
+    with pd.option_context('display.max_rows', None, 'display.max_columns', None):
+        print(df)
     if 'Reference area' in df.columns:
         df["Reference area"].replace({"United Kingdom of Great Britain and Northern Ireland":""}, inplace=True)
         if df['Reference area'].replace(r'^\s*$', np.nan, regex=True).isna().all():
