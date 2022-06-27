@@ -9,8 +9,11 @@ def alter_meta(meta, context):
     return meta
 
 def alter_data(df):
-    with pd.option_context('display.max_rows', None, 'display.max_columns', None):
-        print(df)
+    if 'Reference area' in df.columns:
+        for row in df.intertuples():
+            if row.Reference_area == 'United Kingdom of Great Britain and Northern Ireland':#
+                row.Reference_area = ''
+        if df['Reference area'].replace(r'^\s*$', np.nan, regex=True).isna().all()
     return df
     
 
