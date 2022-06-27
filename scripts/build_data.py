@@ -21,7 +21,7 @@ def alter_data(df, context):
         with pd.option_context('display.max_rows', None, 'display.max_columns', None):
             print(df)
     if 'REF_AREA' in df.columns:
-        df["REF_AREA"].replace({826:""}, inplace=True)
+        df["REF_AREA"].replace({"826":""}, inplace=True)
         if df['REF_AREA'].replace(r'^\s*$', np.nan, regex=True).isna().all():
             df = df.drop('REF_AREA', 1)
         if context['indicator_id'] == '1-1-1'
