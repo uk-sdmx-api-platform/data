@@ -45,9 +45,9 @@ jobs:
         BRANCH: gh-pages
         FOLDER: _site
         CLEAN: true
-    - name: Waiting 4 minutes for staging data deployment
+    - name: Waiting 2 minutes for staging data deployment
       run: |
-        sleep 240
+        sleep 120
     - name: Rebuild site
       run: |
         curl -X POST https://api.github.com/repos/uk-sdmx-api-platform/site/dispatches \
