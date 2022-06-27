@@ -16,6 +16,10 @@ def alter_data(df):
         df["Reference area"].replace({"United Kingdom of Great Britain and Northern Ireland":""}, inplace=True)
         if df['Reference area'].replace(r'^\s*$', np.nan, regex=True).isna().all():
             df = df.drop('Reference area', 1)
+    if 'REF_AREA' in df.columns:
+        df["REF_AREA"].replace({826:""}, inplace=True)
+        if df['REF_AREA'].replace(r'^\s*$', np.nan, regex=True).isna().all():
+            df = df.drop('REF_AREA', 1)
     return df
     
 
