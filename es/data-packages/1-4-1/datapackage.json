@@ -87,17 +87,6 @@
             "title": "SERIES"
           },
           {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "826",
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {

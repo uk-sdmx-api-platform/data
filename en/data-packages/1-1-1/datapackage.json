@@ -107,17 +107,6 @@
             "title": "Frequency of observation"
           },
           {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "United Kingdom of Great Britain and Northern Ireland",
-                ""
-              ]
-            },
-            "title": "Reference area"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {

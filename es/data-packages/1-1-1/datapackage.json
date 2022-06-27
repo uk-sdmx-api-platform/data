@@ -107,17 +107,6 @@
             "title": "FREQ"
           },
           {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "826",
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {

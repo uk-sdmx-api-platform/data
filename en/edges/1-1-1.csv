@@ -3,7 +3,6 @@ Reporting type,Nature of data points
 Nature of data points,Observation-level footnotes
 Observation-level footnotes,Source details
 Source details,Frequency of observation
-Frequency of observation,Reference area
-Reference area,Sex
-Reference area,Age
-Reference area,Degree of urbanisation
+Frequency of observation,Sex
+Frequency of observation,Age
+Frequency of observation,Degree of urbanisation

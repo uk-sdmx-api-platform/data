@@ -87,17 +87,6 @@
             "title": "SERIES"
           },
           {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "826",
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"

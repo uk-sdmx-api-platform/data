@@ -98,17 +98,6 @@
             "title": "SDG Series"
           },
           {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "United Kingdom of Great Britain and Northern Ireland",
-                ""
-              ]
-            },
-            "title": "Reference area"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
