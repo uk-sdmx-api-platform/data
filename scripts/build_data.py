@@ -1,5 +1,6 @@
 from sdg.open_sdg import open_sdg_build
 import pandas as pd
+import numpy as np
 
 def alter_meta(meta, context):
     if 'reporting_status' in meta:
@@ -10,9 +11,7 @@ def alter_meta(meta, context):
 
 def alter_data(df):
     if 'Reference area' in df.columns:
-        for row in df.intertuples():
-            if row.Reference_area == 'United Kingdom of Great Britain and Northern Ireland':
-                row.Reference_area = ''
+        df["Reference area"].replace({"United Kingdom of Great Britain and Northern Ireland":""}, inplace=True)
         if df['Reference area'].replace(r'^\s*$', np.nan, regex=True).isna().all():
             df = df.drop('Reference area', 1)
     return df
