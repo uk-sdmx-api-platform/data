@@ -11,7 +11,7 @@ def alter_meta(meta, context):
 def alter_data(df):
     if 'Reference area' in df.columns:
         for row in df.intertuples():
-            if row.Reference_area == 'United Kingdom of Great Britain and Northern Ireland':#
+            if row.Reference_area == 'United Kingdom of Great Britain and Northern Ireland':
                 row.Reference_area = ''
         if df['Reference area'].replace(r'^\s*$', np.nan, regex=True).isna().all():
             df = df.drop('Reference area', 1)
