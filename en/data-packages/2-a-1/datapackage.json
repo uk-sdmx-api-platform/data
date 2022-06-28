@@ -26,6 +26,7 @@
             "constraints": {
               "enum": [
                 "Normal value",
+                "Missing value",
                 ""
               ]
             },
@@ -36,6 +37,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Units",
                 "Units",
                 ""
               ]
@@ -53,10 +55,55 @@
             "constraints": {
               "enum": [
                 "National",
+                "Global",
                 ""
               ]
             },
             "title": "Reporting type"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Not Available",
+                ""
+              ]
+            },
+            "title": "Nature of data points"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Obs_Value = NaN;  NaN = A figure was not provided",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NA",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "FREQ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Annual",
+                ""
+              ]
+            },
+            "title": "Frequency of observation"
           },
           {
             "name": "Value",

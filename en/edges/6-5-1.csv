@@ -1,2 +1,5 @@
 From,To
 Reporting type,Water resources management sub-category
+Reporting type,Nature of data points
+Nature of data points,Source details
+Source details,Frequency of observation

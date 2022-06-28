@@ -26,6 +26,7 @@
             "constraints": {
               "enum": [
                 "15 and over",
+                "Y_GE15",
                 ""
               ]
             },
@@ -52,6 +53,8 @@
               "enum": [
                 "Female",
                 "Male",
+                "F",
+                "M",
                 ""
               ]
             },
@@ -63,6 +66,7 @@
             "constraints": {
               "enum": [
                 "Normal value",
+                "A",
                 ""
               ]
             },
@@ -74,6 +78,7 @@
             "constraints": {
               "enum": [
                 "Units",
+                "0",
                 ""
               ]
             },
@@ -90,10 +95,70 @@
             "constraints": {
               "enum": [
                 "National",
+                "G",
                 ""
               ]
             },
             "title": "REPORTING_TYPE"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "G",
+                ""
+              ]
+            },
+            "title": "NATURE"
+          },
+          {
+            "name": "UPPER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "12.97976",
+                "6.20952",
+                "20.25599",
+                ""
+              ]
+            },
+            "title": "UPPER_BOUND"
+          },
+          {
+            "name": "LOWER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "9.93644",
+                "4.70684",
+                "15.49693",
+                ""
+              ]
+            },
+            "title": "LOWER_BOUND"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "WHO Global Information System on Alcohol and Health (GISAH)",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "FREQ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            },
+            "title": "FREQ"
           },
           {
             "name": "Value",

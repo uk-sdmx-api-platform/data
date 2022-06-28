@@ -26,6 +26,7 @@
             "constraints": {
               "enum": [
                 "Normal value",
+                "O",
                 ""
               ]
             },
@@ -37,6 +38,7 @@
             "constraints": {
               "enum": [
                 "Units",
+                "0",
                 ""
               ]
             },
@@ -53,10 +55,55 @@
             "constraints": {
               "enum": [
                 "National",
+                "G",
                 ""
               ]
             },
             "title": "REPORTING_TYPE"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_X",
+                ""
+              ]
+            },
+            "title": "NATURE"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Obs_Value = NaN;  NaN = A figure was not provided",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NA",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "FREQ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            },
+            "title": "FREQ"
           },
           {
             "name": "Value",

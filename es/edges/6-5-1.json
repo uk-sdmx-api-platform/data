@@ -1,1 +1,1 @@
-{"From":["REPORTING_TYPE","OBS_STATUS","REPORTING_TYPE"],"To":["Water resources management sub-category","REPORTING_TYPE","UNIT_MULT"]}
+{"From":["REPORTING_TYPE","OBS_STATUS","REPORTING_TYPE","UNIT_MULT","NATURE","SOURCE_DETAIL"],"To":["Water resources management sub-category","REPORTING_TYPE","UNIT_MULT","NATURE","SOURCE_DETAIL","FREQ"]}

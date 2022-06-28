@@ -2,3 +2,8 @@ From,To
 Age,Reporting type
 Reporting type,Beverage
 Reporting type,Sex
+Reporting type,Nature of data points
+Nature of data points,Upper bound value
+Upper bound value,Lower bound value
+Lower bound value,Source details
+Source details,Frequency of observation

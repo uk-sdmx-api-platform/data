@@ -73,6 +73,7 @@
             "constraints": {
               "enum": [
                 "Normal value",
+                "Normal value",
                 ""
               ]
             },
@@ -83,6 +84,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Units",
                 "Units",
                 ""
               ]
@@ -95,10 +97,44 @@
             "constraints": {
               "enum": [
                 "National",
+                "Global",
                 ""
               ]
             },
             "title": "Reporting type"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Country Data",
+                ""
+              ]
+            },
+            "title": "Nature of data points"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IWRM Data Portal, UNEP",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "FREQ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Annual",
+                ""
+              ]
+            },
+            "title": "Frequency of observation"
           },
           {
             "name": "Value",

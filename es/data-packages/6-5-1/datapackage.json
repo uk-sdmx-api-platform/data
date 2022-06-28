@@ -73,6 +73,7 @@
             "constraints": {
               "enum": [
                 "Normal value",
+                "A",
                 ""
               ]
             },
@@ -84,6 +85,7 @@
             "constraints": {
               "enum": [
                 "Units",
+                "0",
                 ""
               ]
             },
@@ -95,10 +97,44 @@
             "constraints": {
               "enum": [
                 "National",
+                "G",
                 ""
               ]
             },
             "title": "REPORTING_TYPE"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "C",
+                ""
+              ]
+            },
+            "title": "NATURE"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IWRM Data Portal, UNEP",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "FREQ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            },
+            "title": "FREQ"
           },
           {
             "name": "Value",
