@@ -1,19 +1,40 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,Frequency of observation,Reporting type,SERIES,UNIT_MEASURE,Value
-2000,Normal value,Units,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,Global,"Proportion of total government spending on essential services, education [1.a.2]",Percent,11.848
-2001,Normal value,Units,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,Global,"Proportion of total government spending on essential services, education [1.a.2]",Percent,12.08186
-2002,Normal value,Units,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,Global,"Proportion of total government spending on essential services, education [1.a.2]",Percent,13.32559
-2003,Normal value,Units,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,Global,"Proportion of total government spending on essential services, education [1.a.2]",Percent,13.4005
-2004,Normal value,Units,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,Global,"Proportion of total government spending on essential services, education [1.a.2]",Percent,12.75941
-2005,Normal value,Units,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,Global,"Proportion of total government spending on essential services, education [1.a.2]",Percent,13.00338
-2006,Normal value,Units,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,Global,"Proportion of total government spending on essential services, education [1.a.2]",Percent,12.96017
-2007,Normal value,Units,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,Global,"Proportion of total government spending on essential services, education [1.a.2]",Percent,12.84258
-2008,Normal value,Units,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,Global,"Proportion of total government spending on essential services, education [1.a.2]",Percent,12.73311
-2009,Normal value,Units,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,Global,"Proportion of total government spending on essential services, education [1.a.2]",Percent,12.38475
-2010,Normal value,Units,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,Global,"Proportion of total government spending on essential services, education [1.a.2]",Percent,12.78199
-2011,Normal value,Units,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,Global,"Proportion of total government spending on essential services, education [1.a.2]",Percent,12.46857
-2013,Normal value,Units,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,Global,"Proportion of total government spending on essential services, education [1.a.2]",Percent,12.66024
-2014,Normal value,Units,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,Global,"Proportion of total government spending on essential services, education [1.a.2]",Percent,13.35372
-2015,Normal value,Units,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,Global,"Proportion of total government spending on essential services, education [1.a.2]",Percent,13.49021
-2016,Normal value,Units,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,Global,"Proportion of total government spending on essential services, education [1.a.2]",Percent,13.44864
-2017,Normal value,Units,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,Global,"Proportion of total government spending on essential services, education [1.a.2]",Percent,13.76128
-2018,Normal value,Units,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,Global,"Proportion of total government spending on essential services, education [1.a.2]",Percent,13.34408
+Year,SERIES,Observation status,Unit multiplier,UNIT_MEASURE,Reporting type,Nature of data points,Source details,Frequency of observation,Value
+2000/01,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,National,,,,12.73584906
+2001/02,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,National,,,,13.33333333
+2002/03,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,National,,,,13.30900243
+2003/04,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,National,,,,13.61911141
+2004/05,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,National,,,,13.5483871
+2005/06,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,National,,,,13.6381399
+2006/07,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,National,,,,13.66017964
+2007/08,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,National,,,,13.88496824
+2008/09,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,National,,,,13.47183899
+2009/10,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,National,,,,13.56114006
+2010/11,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,National,,,,13.58978167
+2011/12,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,National,,,,12.80532939
+2012/13,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,National,,,,12.38039158
+2013/14,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,National,,,,12.26647357
+2014/15,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,National,,,,12.10182025
+2015/16,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,National,,,,11.82615963
+2016/17,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,National,,,,11.70227429
+2017/18,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,National,,,,11.49839744
+2018/19,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,National,,,,11.42375519
+2019/20,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,National,,,,11.34485349
+2020/21,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,National,,,,9.612883865
+2000,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,Global,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,11.848
+2001,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,Global,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,12.08186
+2002,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,Global,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,13.32559
+2003,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,Global,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,13.4005
+2004,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,Global,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,12.75941
+2005,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,Global,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,13.00338
+2006,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,Global,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,12.96017
+2007,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,Global,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,12.84258
+2008,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,Global,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,12.73311
+2009,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,Global,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,12.38475
+2010,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,Global,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,12.78199
+2011,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,Global,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,12.46857
+2013,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,Global,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,12.66024
+2014,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,Global,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,13.35372
+2015,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,Global,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,13.49021
+2016,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,Global,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,13.44864
+2017,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,Global,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,13.76128
+2018,"Proportion of total government spending on essential services, education [1.a.2]",Normal value,Units,Percent,Global,Country Data,UNESCO Institute for Statistics; Data extracted on 01 April 2022.,Annual,13.34408

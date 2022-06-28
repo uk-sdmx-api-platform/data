@@ -1,5 +1,5 @@
 From,To
+Reporting type,Nature of data points
 Nature of data points,Source details
 Source details,Frequency of observation
-Frequency of observation,Reporting type
-Reporting type,Degree of urbanisation
+Frequency of observation,Degree of urbanisation

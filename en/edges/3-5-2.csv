@@ -1,1 +1,4 @@
 From,To
+Age,Reporting type
+Reporting type,Beverage
+Reporting type,Sex
