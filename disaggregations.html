@@ -51,15 +51,41 @@
                 .table-striped tbody tr:nth-of-type(2n+1) {
                     background-color: #f3f2f1;
                 }
+                #skiplink {
+                    position: absolute;
+                    top: 0;
+                    left: 50%;
+                    z-index: 10000;
+                    width: 250px;
+                    margin-left: -125px;
+                    padding: 10px;
+                    background: white;
+                    text-align: center;
+                    border: 1px solid #0b0c0c;
+                    color: #0b0c0c;
+                    display: block;
+                }
+                .sr-only-focusable:not(:focus):not(:focus-within) {
+                    position: absolute !important;
+                    width: 1px !important;
+                    height: 1px !important;
+                    padding: 0 !important;
+                    margin: -1px !important;
+                    overflow: hidden !important;
+                    clip: rect(0, 0, 0, 0) !important;
+                    white-space: nowrap !important;
+                    border: 0 !important;
+                }
             </style>
         </head>
         <body>
+            <a class="sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">Skip to main content</a>
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
                 <div class="container">
                     <a class="navbar-brand" href="index.html">SDG data build documentation</a>
                 </div>
             </nav>
-            <main role="main">
+            <main id="main-content" role="main">
                 <div class="container">
                     <h1 style="margin:20px 0">Disaggregation report</h1>
                     <div>
@@ -204,7 +230,7 @@
   <tbody>
     <tr>
       <td>#1-1-1</td>
-      <td><a href="disaggregation--obs_status.html">OBS_STATUS</a>, <a href="disaggregation--unit_mult.html">UNIT_MULT</a>, <a href="disaggregation--reporting_type.html">REPORTING_TYPE</a>, <a href="disaggregation--nature.html">NATURE</a>, <a href="disaggregation--comment_obs.html">COMMENT_OBS</a>, <a href="disaggregation--source_detail.html">SOURCE_DETAIL</a>, <a href="disaggregation--freq.html">FREQ</a>, <a href="disaggregation--age.html">AGE</a>, <a href="disaggregation--sex.html">SEX</a>, <a href="disaggregation--urbanisation.html">URBANISATION</a></td>
+      <td><a href="disaggregation--obs_status.html">OBS_STATUS</a>, <a href="disaggregation--unit_mult.html">UNIT_MULT</a>, <a href="disaggregation--reporting_type.html">REPORTING_TYPE</a>, <a href="disaggregation--age.html">AGE</a>, <a href="disaggregation--sex.html">SEX</a>, <a href="disaggregation--nature.html">NATURE</a>, <a href="disaggregation--source_detail.html">SOURCE_DETAIL</a>, <a href="disaggregation--freq.html">FREQ</a>, <a href="disaggregation--comment_obs.html">COMMENT_OBS</a>, <a href="disaggregation--urbanisation.html">URBANISATION</a></td>
       <td>10</td>
     </tr>
     <tr>
@@ -219,17 +245,17 @@
     </tr>
     <tr>
       <td>#2-a-1</td>
-      <td><a href="disaggregation--obs_status.html">OBS_STATUS</a>, <a href="disaggregation--unit_mult.html">UNIT_MULT</a>, <a href="disaggregation--reporting_type.html">REPORTING_TYPE</a>, <a href="disaggregation--nature.html">NATURE</a>, <a href="disaggregation--comment_obs.html">COMMENT_OBS</a>, <a href="disaggregation--source_detail.html">SOURCE_DETAIL</a>, <a href="disaggregation--freq.html">FREQ</a></td>
+      <td><a href="disaggregation--obs_status.html">OBS_STATUS</a>, <a href="disaggregation--unit_mult.html">UNIT_MULT</a>, <a href="disaggregation--reporting_type.html">REPORTING_TYPE</a>, <a href="disaggregation--nature.html">NATURE</a>, <a href="disaggregation--source_detail.html">SOURCE_DETAIL</a>, <a href="disaggregation--freq.html">FREQ</a>, <a href="disaggregation--comment_obs.html">COMMENT_OBS</a></td>
       <td>7</td>
     </tr>
     <tr>
       <td>#3-5-2</td>
-      <td><a href="disaggregation--obs_status.html">OBS_STATUS</a>, <a href="disaggregation--unit_mult.html">UNIT_MULT</a>, <a href="disaggregation--reporting_type.html">REPORTING_TYPE</a>, <a href="disaggregation--nature.html">NATURE</a>, <a href="disaggregation--source_detail.html">SOURCE_DETAIL</a>, <a href="disaggregation--freq.html">FREQ</a>, <a href="disaggregation--age.html">AGE</a>, <a href="disaggregation--beverage.html">Beverage</a>, <a href="disaggregation--sex.html">SEX</a>, <a href="disaggregation--upper_bound.html">UPPER_BOUND</a>, <a href="disaggregation--lower_bound.html">LOWER_BOUND</a></td>
+      <td><a href="disaggregation--obs_status.html">OBS_STATUS</a>, <a href="disaggregation--unit_mult.html">UNIT_MULT</a>, <a href="disaggregation--reporting_type.html">REPORTING_TYPE</a>, <a href="disaggregation--age.html">AGE</a>, <a href="disaggregation--beverage.html">Beverage</a>, <a href="disaggregation--sex.html">SEX</a>, <a href="disaggregation--nature.html">NATURE</a>, <a href="disaggregation--upper_bound.html">UPPER_BOUND</a>, <a href="disaggregation--lower_bound.html">LOWER_BOUND</a>, <a href="disaggregation--source_detail.html">SOURCE_DETAIL</a>, <a href="disaggregation--freq.html">FREQ</a></td>
       <td>11</td>
     </tr>
     <tr>
       <td>#3-b-2</td>
-      <td><a href="disaggregation--obs_status.html">OBS_STATUS</a>, <a href="disaggregation--unit_mult.html">UNIT_MULT</a>, <a href="disaggregation--reporting_type.html">REPORTING_TYPE</a>, <a href="disaggregation--country-income-classification.html">Country income classification</a>, <a href="disaggregation--aid-description-crs-code.html">Aid description (CRS code)</a></td>
+      <td><a href="disaggregation--country-income-classification.html">Country income classification</a>, <a href="disaggregation--aid-description-crs-code.html">Aid description (CRS code)</a>, <a href="disaggregation--obs_status.html">OBS_STATUS</a>, <a href="disaggregation--unit_mult.html">UNIT_MULT</a>, <a href="disaggregation--reporting_type.html">REPORTING_TYPE</a></td>
       <td>5</td>
     </tr>
     <tr>
@@ -242,7 +268,7 @@
             <script type="text/javascript">
             var sdgBuild = sdgBuild || {};
             sdgBuild.tables = sdgBuild.tables || {};
-            sdgBuild.tables['indicator-table'] = [{"Indicator":"#1-1-1","Disaggregations":"<a href=\"disaggregation--obs_status.html\">OBS_STATUS<\/a>, <a href=\"disaggregation--unit_mult.html\">UNIT_MULT<\/a>, <a href=\"disaggregation--reporting_type.html\">REPORTING_TYPE<\/a>, <a href=\"disaggregation--nature.html\">NATURE<\/a>, <a href=\"disaggregation--comment_obs.html\">COMMENT_OBS<\/a>, <a href=\"disaggregation--source_detail.html\">SOURCE_DETAIL<\/a>, <a href=\"disaggregation--freq.html\">FREQ<\/a>, <a href=\"disaggregation--age.html\">AGE<\/a>, <a href=\"disaggregation--sex.html\">SEX<\/a>, <a href=\"disaggregation--urbanisation.html\">URBANISATION<\/a>","Number of disaggregations":10},{"Indicator":"#1-4-1","Disaggregations":"<a href=\"disaggregation--obs_status.html\">OBS_STATUS<\/a>, <a href=\"disaggregation--unit_mult.html\">UNIT_MULT<\/a>, <a href=\"disaggregation--reporting_type.html\">REPORTING_TYPE<\/a>, <a href=\"disaggregation--nature.html\">NATURE<\/a>, <a href=\"disaggregation--source_detail.html\">SOURCE_DETAIL<\/a>, <a href=\"disaggregation--freq.html\">FREQ<\/a>, <a href=\"disaggregation--urbanisation.html\">URBANISATION<\/a>","Number of disaggregations":7},{"Indicator":"#1-a-2","Disaggregations":"<a href=\"disaggregation--obs_status.html\">OBS_STATUS<\/a>, <a href=\"disaggregation--unit_mult.html\">UNIT_MULT<\/a>, <a href=\"disaggregation--reporting_type.html\">REPORTING_TYPE<\/a>, <a href=\"disaggregation--nature.html\">NATURE<\/a>, <a href=\"disaggregation--source_detail.html\">SOURCE_DETAIL<\/a>, <a href=\"disaggregation--freq.html\">FREQ<\/a>","Number of disaggregations":6},{"Indicator":"#2-a-1","Disaggregations":"<a href=\"disaggregation--obs_status.html\">OBS_STATUS<\/a>, <a href=\"disaggregation--unit_mult.html\">UNIT_MULT<\/a>, <a href=\"disaggregation--reporting_type.html\">REPORTING_TYPE<\/a>, <a href=\"disaggregation--nature.html\">NATURE<\/a>, <a href=\"disaggregation--comment_obs.html\">COMMENT_OBS<\/a>, <a href=\"disaggregation--source_detail.html\">SOURCE_DETAIL<\/a>, <a href=\"disaggregation--freq.html\">FREQ<\/a>","Number of disaggregations":7},{"Indicator":"#3-5-2","Disaggregations":"<a href=\"disaggregation--obs_status.html\">OBS_STATUS<\/a>, <a href=\"disaggregation--unit_mult.html\">UNIT_MULT<\/a>, <a href=\"disaggregation--reporting_type.html\">REPORTING_TYPE<\/a>, <a href=\"disaggregation--nature.html\">NATURE<\/a>, <a href=\"disaggregation--source_detail.html\">SOURCE_DETAIL<\/a>, <a href=\"disaggregation--freq.html\">FREQ<\/a>, <a href=\"disaggregation--age.html\">AGE<\/a>, <a href=\"disaggregation--beverage.html\">Beverage<\/a>, <a href=\"disaggregation--sex.html\">SEX<\/a>, <a href=\"disaggregation--upper_bound.html\">UPPER_BOUND<\/a>, <a href=\"disaggregation--lower_bound.html\">LOWER_BOUND<\/a>","Number of disaggregations":11},{"Indicator":"#3-b-2","Disaggregations":"<a href=\"disaggregation--obs_status.html\">OBS_STATUS<\/a>, <a href=\"disaggregation--unit_mult.html\">UNIT_MULT<\/a>, <a href=\"disaggregation--reporting_type.html\">REPORTING_TYPE<\/a>, <a href=\"disaggregation--country-income-classification.html\">Country income classification<\/a>, <a href=\"disaggregation--aid-description-crs-code.html\">Aid description (CRS code)<\/a>","Number of disaggregations":5},{"Indicator":"#6-5-1","Disaggregations":"<a href=\"disaggregation--obs_status.html\">OBS_STATUS<\/a>, <a href=\"disaggregation--unit_mult.html\">UNIT_MULT<\/a>, <a href=\"disaggregation--reporting_type.html\">REPORTING_TYPE<\/a>, <a href=\"disaggregation--nature.html\">NATURE<\/a>, <a href=\"disaggregation--source_detail.html\">SOURCE_DETAIL<\/a>, <a href=\"disaggregation--freq.html\">FREQ<\/a>, <a href=\"disaggregation--water-resources-management-sub-category.html\">Water resources management sub-category<\/a>","Number of disaggregations":7}];
+            sdgBuild.tables['indicator-table'] = [{"Indicator":"#1-1-1","Disaggregations":"<a href=\"disaggregation--obs_status.html\">OBS_STATUS<\/a>, <a href=\"disaggregation--unit_mult.html\">UNIT_MULT<\/a>, <a href=\"disaggregation--reporting_type.html\">REPORTING_TYPE<\/a>, <a href=\"disaggregation--age.html\">AGE<\/a>, <a href=\"disaggregation--sex.html\">SEX<\/a>, <a href=\"disaggregation--nature.html\">NATURE<\/a>, <a href=\"disaggregation--source_detail.html\">SOURCE_DETAIL<\/a>, <a href=\"disaggregation--freq.html\">FREQ<\/a>, <a href=\"disaggregation--comment_obs.html\">COMMENT_OBS<\/a>, <a href=\"disaggregation--urbanisation.html\">URBANISATION<\/a>","Number of disaggregations":10},{"Indicator":"#1-4-1","Disaggregations":"<a href=\"disaggregation--obs_status.html\">OBS_STATUS<\/a>, <a href=\"disaggregation--unit_mult.html\">UNIT_MULT<\/a>, <a href=\"disaggregation--reporting_type.html\">REPORTING_TYPE<\/a>, <a href=\"disaggregation--nature.html\">NATURE<\/a>, <a href=\"disaggregation--source_detail.html\">SOURCE_DETAIL<\/a>, <a href=\"disaggregation--freq.html\">FREQ<\/a>, <a href=\"disaggregation--urbanisation.html\">URBANISATION<\/a>","Number of disaggregations":7},{"Indicator":"#1-a-2","Disaggregations":"<a href=\"disaggregation--obs_status.html\">OBS_STATUS<\/a>, <a href=\"disaggregation--unit_mult.html\">UNIT_MULT<\/a>, <a href=\"disaggregation--reporting_type.html\">REPORTING_TYPE<\/a>, <a href=\"disaggregation--nature.html\">NATURE<\/a>, <a href=\"disaggregation--source_detail.html\">SOURCE_DETAIL<\/a>, <a href=\"disaggregation--freq.html\">FREQ<\/a>","Number of disaggregations":6},{"Indicator":"#2-a-1","Disaggregations":"<a href=\"disaggregation--obs_status.html\">OBS_STATUS<\/a>, <a href=\"disaggregation--unit_mult.html\">UNIT_MULT<\/a>, <a href=\"disaggregation--reporting_type.html\">REPORTING_TYPE<\/a>, <a href=\"disaggregation--nature.html\">NATURE<\/a>, <a href=\"disaggregation--source_detail.html\">SOURCE_DETAIL<\/a>, <a href=\"disaggregation--freq.html\">FREQ<\/a>, <a href=\"disaggregation--comment_obs.html\">COMMENT_OBS<\/a>","Number of disaggregations":7},{"Indicator":"#3-5-2","Disaggregations":"<a href=\"disaggregation--obs_status.html\">OBS_STATUS<\/a>, <a href=\"disaggregation--unit_mult.html\">UNIT_MULT<\/a>, <a href=\"disaggregation--reporting_type.html\">REPORTING_TYPE<\/a>, <a href=\"disaggregation--age.html\">AGE<\/a>, <a href=\"disaggregation--beverage.html\">Beverage<\/a>, <a href=\"disaggregation--sex.html\">SEX<\/a>, <a href=\"disaggregation--nature.html\">NATURE<\/a>, <a href=\"disaggregation--upper_bound.html\">UPPER_BOUND<\/a>, <a href=\"disaggregation--lower_bound.html\">LOWER_BOUND<\/a>, <a href=\"disaggregation--source_detail.html\">SOURCE_DETAIL<\/a>, <a href=\"disaggregation--freq.html\">FREQ<\/a>","Number of disaggregations":11},{"Indicator":"#3-b-2","Disaggregations":"<a href=\"disaggregation--country-income-classification.html\">Country income classification<\/a>, <a href=\"disaggregation--aid-description-crs-code.html\">Aid description (CRS code)<\/a>, <a href=\"disaggregation--obs_status.html\">OBS_STATUS<\/a>, <a href=\"disaggregation--unit_mult.html\">UNIT_MULT<\/a>, <a href=\"disaggregation--reporting_type.html\">REPORTING_TYPE<\/a>","Number of disaggregations":5},{"Indicator":"#6-5-1","Disaggregations":"<a href=\"disaggregation--obs_status.html\">OBS_STATUS<\/a>, <a href=\"disaggregation--unit_mult.html\">UNIT_MULT<\/a>, <a href=\"disaggregation--reporting_type.html\">REPORTING_TYPE<\/a>, <a href=\"disaggregation--nature.html\">NATURE<\/a>, <a href=\"disaggregation--source_detail.html\">SOURCE_DETAIL<\/a>, <a href=\"disaggregation--freq.html\">FREQ<\/a>, <a href=\"disaggregation--water-resources-management-sub-category.html\">Water resources management sub-category<\/a>","Number of disaggregations":7}];
             </script>
             
         </div>
