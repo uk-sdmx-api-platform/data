@@ -1,4 +1,4 @@
-Year,SERIES,Product,UNIT MEASURE,Unit multiplier,Observation status,Reporting Type,Value
+Year,SERIES,Product,UNIT MEASURE,UNIT_MULT,OBS_STATUS,REPORTING_TYPE,Value
 2013,Tourism direct GDP as a proportion of total GDP [8.9.1],Accommodation services for visitors,Percent,Units,Normal value,National,0.194964308
 2013,Tourism direct GDP as a proportion of total GDP [8.9.1],Food and beverage serving activities,Percent,Units,Normal value,National,1.164620579
 2013,Tourism direct GDP as a proportion of total GDP [8.9.1],Railway passenger transport services,Percent,Units,Normal value,National,0.096920065
