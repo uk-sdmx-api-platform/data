@@ -1,1 +1,4 @@
 From,To
+Reporting Type,Urbanisation
+OBS_STATUS,UNIT_MULT
+UNIT_MULT,Reporting Type
