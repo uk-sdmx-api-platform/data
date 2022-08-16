@@ -196,14 +196,8 @@
             }
           },
           {
-            "name": "UNIT MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "UNIT_MULT",
@@ -277,10 +271,6 @@
                 ""
               ]
             }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
           },
           {
             "name": "Value",

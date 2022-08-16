@@ -214,15 +214,9 @@
             "title": "Product"
           },
           {
-            "name": "UNIT MEASURE",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                ""
-              ]
-            },
-            "title": "UNIT MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "UNIT_MULT",
@@ -303,11 +297,6 @@
               ]
             },
             "title": "Frequency of observation"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
           },
           {
             "name": "Value",

@@ -214,15 +214,9 @@
             "title": "Product"
           },
           {
-            "name": "UNIT MEASURE",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                ""
-              ]
-            },
-            "title": "UNIT MEASURE"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "UNIT_MULT",
@@ -303,11 +297,6 @@
               ]
             },
             "title": "FREQ"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
