@@ -60,7 +60,7 @@
             "title": "UNIT_MEASURE"
           },
           {
-            "name": "Reporting Type",
+            "name": "REPORTING_TYPE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -68,7 +68,7 @@
                 ""
               ]
             },
-            "title": "Reporting Type"
+            "title": "REPORTING_TYPE"
           },
           {
             "name": "Value",

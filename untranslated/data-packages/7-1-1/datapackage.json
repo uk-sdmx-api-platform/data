@@ -54,7 +54,7 @@
             "type": "string"
           },
           {
-            "name": "Reporting Type",
+            "name": "REPORTING_TYPE",
             "type": "string",
             "constraints": {
               "enum": [
