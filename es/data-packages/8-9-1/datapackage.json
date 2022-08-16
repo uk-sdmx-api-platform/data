@@ -54,31 +54,23 @@
             "title": "UNIT MEASURE"
           },
           {
-            "name": "Unit multiplier",
-            "type": "string",
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
-          },
-          {
-            "name": "Reporting Type",
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "National",
+                "Units",
+                "0",
                 ""
               ]
             },
-            "title": "Reporting Type"
+            "title": "UNIT_MULT"
           },
           {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
+                "Normal value",
                 "A",
                 ""
               ]
@@ -86,15 +78,16 @@
             "title": "OBS_STATUS"
           },
           {
-            "name": "UNIT_MULT",
+            "name": "REPORTING_TYPE",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "National",
+                "G",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "REPORTING_TYPE"
           },
           {
             "name": "NATURE",
@@ -139,17 +132,6 @@
               ]
             },
             "title": "FREQ"
-          },
-          {
-            "name": "REPORTING_TYPE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "G",
-                ""
-              ]
-            },
-            "title": "REPORTING_TYPE"
           },
           {
             "name": "UNIT_MEASURE",

@@ -206,19 +206,12 @@
             }
           },
           {
-            "name": "Unit multiplier",
-            "type": "string"
-          },
-          {
-            "name": "Observation status",
-            "type": "string"
-          },
-          {
-            "name": "Reporting Type",
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "National",
+                "Units",
+                "0",
                 ""
               ]
             }
@@ -228,17 +221,19 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Normal value",
                 "A",
                 ""
               ]
             }
           },
           {
-            "name": "UNIT_MULT",
+            "name": "REPORTING_TYPE",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "National",
+                "G",
                 ""
               ]
             }
@@ -279,16 +274,6 @@
             "constraints": {
               "enum": [
                 "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "REPORTING_TYPE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "G",
                 ""
               ]
             }

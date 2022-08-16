@@ -1,1 +1,1 @@
-{"From":["Reporting Type","UNIT MEASURE","Observation status1","Unit multiplier1","Nature of data points","Observation-level footnotes","Source details"],"To":["Product","Reporting Type","Unit multiplier1","Nature of data points","Observation-level footnotes","Source details","Frequency of observation"]}
+{"From":["UNIT MEASURE","Nature of data points","Observation-level footnotes","Source details"],"To":["Product","Observation-level footnotes","Source details","Frequency of observation"]}

@@ -1,8 +1,5 @@
 From,To
-Reporting Type,Product
-UNIT MEASURE,Reporting Type
-Observation status1,Unit multiplier1
-Unit multiplier1,Nature of data points
+UNIT MEASURE,Product
 Nature of data points,Observation-level footnotes
 Observation-level footnotes,Source details
 Source details,Frequency of observation
