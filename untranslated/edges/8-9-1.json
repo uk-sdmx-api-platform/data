@@ -1,1 +1,1 @@
-{"From":["Reporting Type","UNIT MEASURE"],"To":["Product","Reporting Type"]}
+{"From":["Reporting Type","UNIT MEASURE","OBS_STATUS","UNIT_MULT","NATURE","COMMENT_OBS","SOURCE_DETAIL","FREQ"],"To":["Product","Reporting Type","UNIT_MULT","NATURE","COMMENT_OBS","SOURCE_DETAIL","FREQ","REPORTING_TYPE"]}
