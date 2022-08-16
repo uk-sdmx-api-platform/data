@@ -48,7 +48,6 @@ inputs:
     drop_singleton_dimensions: false
     dimension_query:
       SERIES: ST_GDP_ZS+SI_POV_DAY1+SP_ACS_BSRVSAN+SP_ACS_BSRVH2O+SD_XPD_ESED+AG_PRD_ORTIND+SH_ALC_CONSPT+CD_TOF_HLTHNT+ER_H2O_IWRMD_EE+ER_H2O_IWRMD_FI+ER_H2O_IWRMD_IP+ER_H2O_IWRMD_MI+ER_H2O_IWRMD
-
   - class: InputYamlMeta
     path_pattern: indicator-config/*-*.yml
     git: false
@@ -64,6 +63,8 @@ inputs:
     # need to change this setting. It is intended for sites where the data needs
     # to be "built" before being processed by sdg-build.
     git_data_dir: data
+  - class: InputSdmxMeta
+    meta_suffix: __GLOBAL
 
 # Translations
 # ------------
