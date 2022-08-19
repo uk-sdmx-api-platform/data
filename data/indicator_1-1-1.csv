@@ -1,4 +1,4 @@
-Year,Age,Sex,SERIES,OBS_STATUS,UNIT_MULT,UNIT_MEASURE,REPORTING_TYPE,Value
+Year,AGE,SEX,SERIES,OBS_STATUS,UNIT_MULT,UNIT_MEASURE,REPORTING_TYPE,Value
 2004,,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,0.4
 2005,,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,0.5
 2006,,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,0.2
