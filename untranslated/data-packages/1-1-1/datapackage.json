@@ -15,21 +15,26 @@
             "type": "integer"
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
                 "under 15 years old",
+                "Y_GE65",
+                "Y0T14",
+                "Y15T64",
                 ""
               ]
             }
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "Male",
+                "F",
+                "M",
                 ""
               ]
             }
@@ -71,29 +76,6 @@
               "enum": [
                 "National",
                 "G",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "F",
-                "M",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Y_GE65",
-                "Y0T14",
-                "Y15T64",
                 ""
               ]
             }

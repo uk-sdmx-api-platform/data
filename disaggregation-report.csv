@@ -1,6 +1,5 @@
 Disaggregation,Number of indicators,Number of values
-AGE,2,5
-Age,1,1
+AGE,2,6
 Aid description (CRS code),1,2
 Beverage,1,4
 Country income classification,1,5
@@ -8,7 +7,6 @@ OBS_STATUS,9,4
 Product,1,12
 REPORTING_TYPE,9,2
 SEX,2,4
-Sex,1,1
 UNIT_MULT,9,3
 Urbanisation,1,2
 URBANISATION,2,2

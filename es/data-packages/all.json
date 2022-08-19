@@ -393,26 +393,31 @@
             "title": "Año"
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
                 "under 15 years old",
+                "Y_GE65",
+                "Y0T14",
+                "Y15T64",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "AGE"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "Male",
+                "F",
+                "M",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "SEX"
           },
           {
             "name": "SERIES",
@@ -459,31 +464,6 @@
               ]
             },
             "title": "REPORTING_TYPE"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "F",
-                "M",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Y_GE65",
-                "Y0T14",
-                "Y15T64",
-                ""
-              ]
-            },
-            "title": "AGE"
           },
           {
             "name": "URBANISATION",

@@ -1,139 +1,139 @@
-Year,Age,Sex,SERIES,OBS_STATUS,UNIT_MULT,UNIT_MEASURE,REPORTING_TYPE,SEX,AGE,URBANISATION,Value
-2004,,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.4
-2005,,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.5
-2006,,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.2
-2007,,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.3
-2008,,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.3
-2009,,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.2
-2010,,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.1
-2011,,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.4
-2012,,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.2
-2013,,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.2
-2014,,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.2
-2015,,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.1
-2016,,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.2
-2004,under 15 years old,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.2
-2005,under 15 years old,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.3
-2006,under 15 years old,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.4
-2007,under 15 years old,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.4
-2008,under 15 years old,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.4
-2009,under 15 years old,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.3
-2010,under 15 years old,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.3
-2011,under 15 years old,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.3
-2012,under 15 years old,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.6
-2013,under 15 years old,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.4
-2014,under 15 years old,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.4
-2015,under 15 years old,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.2
-2016,under 15 years old,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.3
-2004,,Male,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.5
-2005,,Male,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.6
-2006,,Male,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.9
-2007,,Male,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.7
-2008,,Male,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.8
-2009,,Male,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.5
-2010,,Male,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.8
-2011,,Male,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.4
-2012,,Male,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.6
-2013,,Male,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.4
-2014,,Male,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.4
-2015,,Male,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.5
-2016,,Male,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,,,0.4
-1969,,,SI_POV_DAY1,A,0,PT,G,,,,0.2
-1974,,,SI_POV_DAY1,A,0,PT,G,,,,0.2
-1979,,,SI_POV_DAY1,A,0,PT,G,,,,0.2
-1986,,,SI_POV_DAY1,A,0,PT,G,,,,0.7
-1991,,,SI_POV_DAY1,A,0,PT,G,,,,0.2
-1994,,,SI_POV_DAY1,A,0,PT,G,,,,0.2
-1995,,,SI_POV_DAY1,A,0,PT,G,,,,0.2
-1996,,,SI_POV_DAY1,A,0,PT,G,,,,0.2
-1997,,,SI_POV_DAY1,A,0,PT,G,,,,0.2
-1998,,,SI_POV_DAY1,A,0,PT,G,,,,0.2
-1999,,,SI_POV_DAY1,A,0,PT,G,,,,0.2
-2000,,,SI_POV_DAY1,A,0,PT,G,,,,0.2
-2001,,,SI_POV_DAY1,A,0,PT,G,,,,0.2
-2002,,,SI_POV_DAY1,A,0,PT,G,,,,0.2
-2003,,,SI_POV_DAY1,A,0,PT,G,,,,0.2
-2004,,,SI_POV_DAY1,A,0,PT,G,,,,0.4
-2005,,,SI_POV_DAY1,A,0,PT,G,,,,0.5
-2006,,,SI_POV_DAY1,A,0,PT,G,,,,0.2
-2007,,,SI_POV_DAY1,A,0,PT,G,,,,0.3
-2008,,,SI_POV_DAY1,A,0,PT,G,,,,0.3
-2009,,,SI_POV_DAY1,A,0,PT,G,,,,0.2
-2010,,,SI_POV_DAY1,A,0,PT,G,,,,0.1
-2011,,,SI_POV_DAY1,A,0,PT,G,,,,0.4
-2012,,,SI_POV_DAY1,A,0,PT,G,,,,0.2
-2013,,,SI_POV_DAY1,A,0,PT,G,,,,0.2
-2014,,,SI_POV_DAY1,A,0,PT,G,,,,0.2
-2015,,,SI_POV_DAY1,A,0,PT,G,,,,0.1
-2016,,,SI_POV_DAY1,A,0,PT,G,,,,0.2
-2017,,,SI_POV_DAY1,A,0,PT,G,,,,0.3
-2008,,,SI_POV_DAY1,A,0,PT,G,,,R,0.35218
-2009,,,SI_POV_DAY1,A,0,PT,G,,,R,0.63412
-2010,,,SI_POV_DAY1,A,0,PT,G,,,R,0.80617
-2011,,,SI_POV_DAY1,A,0,PT,G,,,R,1.06198
-2012,,,SI_POV_DAY1,A,0,PT,G,,,R,0.62223
-2013,,,SI_POV_DAY1,A,0,PT,G,,,R,0.8626
-2014,,,SI_POV_DAY1,A,0,PT,G,,,R,0.78211
-2015,,,SI_POV_DAY1,A,0,PT,G,,,R,1.00924
-2016,,,SI_POV_DAY1,A,0,PT,G,,,R,0.20429
-2017,,,SI_POV_DAY1,A,0,PT,G,,,R,1.1628
-2008,,,SI_POV_DAY1,A,0,PT,G,,,U,0.67085
-2009,,,SI_POV_DAY1,A,0,PT,G,,,U,0.55273
-2010,,,SI_POV_DAY1,A,0,PT,G,,,U,0.62398
-2011,,,SI_POV_DAY1,A,0,PT,G,,,U,0.78753
-2012,,,SI_POV_DAY1,A,0,PT,G,,,U,0.43585
-2013,,,SI_POV_DAY1,A,0,PT,G,,,U,0.46287
-2014,,,SI_POV_DAY1,A,0,PT,G,,,U,0.64614
-2015,,,SI_POV_DAY1,A,0,PT,G,,,U,0.61198
-2016,,,SI_POV_DAY1,A,0,PT,G,,,U,0.61124
-2017,,,SI_POV_DAY1,A,0,PT,G,,,U,0.70677
-2008,,,SI_POV_DAY1,A,0,PT,G,,Y_GE65,,0.10178
-2009,,,SI_POV_DAY1,A,0,PT,G,,Y_GE65,,0.12961
-2010,,,SI_POV_DAY1,A,0,PT,G,,Y_GE65,,0.20023
-2011,,,SI_POV_DAY1,A,0,PT,G,,Y_GE65,,0.30394
-2012,,,SI_POV_DAY1,A,0,PT,G,,Y_GE65,,0.13985
-2013,,,SI_POV_DAY1,A,0,PT,G,,Y_GE65,,0.37854
-2014,,,SI_POV_DAY1,A,0,PT,G,,Y_GE65,,0.16871
-2015,,,SI_POV_DAY1,A,0,PT,G,,Y_GE65,,0.38279
-2016,,,SI_POV_DAY1,A,0,PT,G,,Y_GE65,,0.2206
-2017,,,SI_POV_DAY1,A,0,PT,G,,Y_GE65,,0.25983
-2008,,,SI_POV_DAY1,A,0,PT,G,,Y0T14,,0.46609
-2009,,,SI_POV_DAY1,A,0,PT,G,,Y0T14,,0.6451
-2010,,,SI_POV_DAY1,A,0,PT,G,,Y0T14,,0.47919
-2011,,,SI_POV_DAY1,A,0,PT,G,,Y0T14,,0.40421
-2012,,,SI_POV_DAY1,A,0,PT,G,,Y0T14,,0.38459
-2013,,,SI_POV_DAY1,A,0,PT,G,,Y0T14,,0.33464
-2014,,,SI_POV_DAY1,A,0,PT,G,,Y0T14,,0.51656
-2015,,,SI_POV_DAY1,A,0,PT,G,,Y0T14,,0.32971
-2016,,,SI_POV_DAY1,A,0,PT,G,,Y0T14,,0.24603
-2017,,,SI_POV_DAY1,A,0,PT,G,,Y0T14,,0.46323
-2008,,,SI_POV_DAY1,A,0,PT,G,,Y15T64,,0.76376
-2009,,,SI_POV_DAY1,A,0,PT,G,,Y15T64,,0.7611
-2010,,,SI_POV_DAY1,A,0,PT,G,,Y15T64,,0.80888
-2011,,,SI_POV_DAY1,A,0,PT,G,,Y15T64,,1.06892
-2012,,,SI_POV_DAY1,A,0,PT,G,,Y15T64,,0.56731
-2013,,,SI_POV_DAY1,A,0,PT,G,,Y15T64,,0.6046
-2014,,,SI_POV_DAY1,A,0,PT,G,,Y15T64,,0.84639
-2015,,,SI_POV_DAY1,A,0,PT,G,,Y15T64,,0.8426
-2016,,,SI_POV_DAY1,A,0,PT,G,,Y15T64,,0.73974
-2017,,,SI_POV_DAY1,A,0,PT,G,,Y15T64,,0.99195
-2008,,,SI_POV_DAY1,A,0,PT,G,F,,,0.49864
-2009,,,SI_POV_DAY1,A,0,PT,G,F,,,0.4531
-2010,,,SI_POV_DAY1,A,0,PT,G,F,,,0.57032
-2011,,,SI_POV_DAY1,A,0,PT,G,F,,,0.61226
-2012,,,SI_POV_DAY1,A,0,PT,G,F,,,0.37684
-2013,,,SI_POV_DAY1,A,0,PT,G,F,,,0.39485
-2014,,,SI_POV_DAY1,A,0,PT,G,F,,,0.64848
-2015,,,SI_POV_DAY1,A,0,PT,G,F,,,0.55696
-2016,,,SI_POV_DAY1,A,0,PT,G,F,,,0.60637
-2017,,,SI_POV_DAY1,A,0,PT,G,F,,,0.68318
-2008,,,SI_POV_DAY1,A,0,PT,G,M,,,0.71297
-2009,,,SI_POV_DAY1,A,0,PT,G,M,,,0.82396
-2010,,,SI_POV_DAY1,A,0,PT,G,M,,,0.73122
-2011,,,SI_POV_DAY1,A,0,PT,G,M,,,1.044
-2012,,,SI_POV_DAY1,A,0,PT,G,M,,,0.54804
-2013,,,SI_POV_DAY1,A,0,PT,G,M,,,0.64416
-2014,,,SI_POV_DAY1,A,0,PT,G,M,,,0.68488
-2015,,,SI_POV_DAY1,A,0,PT,G,M,,,0.78906
-2016,,,SI_POV_DAY1,A,0,PT,G,M,,,0.50927
-2017,,,SI_POV_DAY1,A,0,PT,G,M,,,0.84559
+Year,AGE,SEX,SERIES,OBS_STATUS,UNIT_MULT,UNIT_MEASURE,REPORTING_TYPE,URBANISATION,Value
+2004,,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.4
+2005,,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.5
+2006,,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.2
+2007,,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.3
+2008,,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.3
+2009,,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.2
+2010,,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.1
+2011,,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.4
+2012,,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.2
+2013,,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.2
+2014,,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.2
+2015,,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.1
+2016,,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.2
+2004,under 15 years old,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.2
+2005,under 15 years old,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.3
+2006,under 15 years old,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.4
+2007,under 15 years old,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.4
+2008,under 15 years old,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.4
+2009,under 15 years old,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.3
+2010,under 15 years old,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.3
+2011,under 15 years old,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.3
+2012,under 15 years old,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.6
+2013,under 15 years old,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.4
+2014,under 15 years old,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.4
+2015,under 15 years old,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.2
+2016,under 15 years old,,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.3
+2004,,Male,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.5
+2005,,Male,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.6
+2006,,Male,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.9
+2007,,Male,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.7
+2008,,Male,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.8
+2009,,Male,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.5
+2010,,Male,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.8
+2011,,Male,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.4
+2012,,Male,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.6
+2013,,Male,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.4
+2014,,Male,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.4
+2015,,Male,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.5
+2016,,Male,Proportion of population below international poverty line [1.1.1],Estimated value,Units,Percent,National,,0.4
+1969,,,SI_POV_DAY1,A,0,PT,G,,0.2
+1974,,,SI_POV_DAY1,A,0,PT,G,,0.2
+1979,,,SI_POV_DAY1,A,0,PT,G,,0.2
+1986,,,SI_POV_DAY1,A,0,PT,G,,0.7
+1991,,,SI_POV_DAY1,A,0,PT,G,,0.2
+1994,,,SI_POV_DAY1,A,0,PT,G,,0.2
+1995,,,SI_POV_DAY1,A,0,PT,G,,0.2
+1996,,,SI_POV_DAY1,A,0,PT,G,,0.2
+1997,,,SI_POV_DAY1,A,0,PT,G,,0.2
+1998,,,SI_POV_DAY1,A,0,PT,G,,0.2
+1999,,,SI_POV_DAY1,A,0,PT,G,,0.2
+2000,,,SI_POV_DAY1,A,0,PT,G,,0.2
+2001,,,SI_POV_DAY1,A,0,PT,G,,0.2
+2002,,,SI_POV_DAY1,A,0,PT,G,,0.2
+2003,,,SI_POV_DAY1,A,0,PT,G,,0.2
+2004,,,SI_POV_DAY1,A,0,PT,G,,0.4
+2005,,,SI_POV_DAY1,A,0,PT,G,,0.5
+2006,,,SI_POV_DAY1,A,0,PT,G,,0.2
+2007,,,SI_POV_DAY1,A,0,PT,G,,0.3
+2008,,,SI_POV_DAY1,A,0,PT,G,,0.3
+2009,,,SI_POV_DAY1,A,0,PT,G,,0.2
+2010,,,SI_POV_DAY1,A,0,PT,G,,0.1
+2011,,,SI_POV_DAY1,A,0,PT,G,,0.4
+2012,,,SI_POV_DAY1,A,0,PT,G,,0.2
+2013,,,SI_POV_DAY1,A,0,PT,G,,0.2
+2014,,,SI_POV_DAY1,A,0,PT,G,,0.2
+2015,,,SI_POV_DAY1,A,0,PT,G,,0.1
+2016,,,SI_POV_DAY1,A,0,PT,G,,0.2
+2017,,,SI_POV_DAY1,A,0,PT,G,,0.3
+2008,,,SI_POV_DAY1,A,0,PT,G,R,0.35218
+2009,,,SI_POV_DAY1,A,0,PT,G,R,0.63412
+2010,,,SI_POV_DAY1,A,0,PT,G,R,0.80617
+2011,,,SI_POV_DAY1,A,0,PT,G,R,1.06198
+2012,,,SI_POV_DAY1,A,0,PT,G,R,0.62223
+2013,,,SI_POV_DAY1,A,0,PT,G,R,0.8626
+2014,,,SI_POV_DAY1,A,0,PT,G,R,0.78211
+2015,,,SI_POV_DAY1,A,0,PT,G,R,1.00924
+2016,,,SI_POV_DAY1,A,0,PT,G,R,0.20429
+2017,,,SI_POV_DAY1,A,0,PT,G,R,1.1628
+2008,,,SI_POV_DAY1,A,0,PT,G,U,0.67085
+2009,,,SI_POV_DAY1,A,0,PT,G,U,0.55273
+2010,,,SI_POV_DAY1,A,0,PT,G,U,0.62398
+2011,,,SI_POV_DAY1,A,0,PT,G,U,0.78753
+2012,,,SI_POV_DAY1,A,0,PT,G,U,0.43585
+2013,,,SI_POV_DAY1,A,0,PT,G,U,0.46287
+2014,,,SI_POV_DAY1,A,0,PT,G,U,0.64614
+2015,,,SI_POV_DAY1,A,0,PT,G,U,0.61198
+2016,,,SI_POV_DAY1,A,0,PT,G,U,0.61124
+2017,,,SI_POV_DAY1,A,0,PT,G,U,0.70677
+2008,Y_GE65,,SI_POV_DAY1,A,0,PT,G,,0.10178
+2009,Y_GE65,,SI_POV_DAY1,A,0,PT,G,,0.12961
+2010,Y_GE65,,SI_POV_DAY1,A,0,PT,G,,0.20023
+2011,Y_GE65,,SI_POV_DAY1,A,0,PT,G,,0.30394
+2012,Y_GE65,,SI_POV_DAY1,A,0,PT,G,,0.13985
+2013,Y_GE65,,SI_POV_DAY1,A,0,PT,G,,0.37854
+2014,Y_GE65,,SI_POV_DAY1,A,0,PT,G,,0.16871
+2015,Y_GE65,,SI_POV_DAY1,A,0,PT,G,,0.38279
+2016,Y_GE65,,SI_POV_DAY1,A,0,PT,G,,0.2206
+2017,Y_GE65,,SI_POV_DAY1,A,0,PT,G,,0.25983
+2008,Y0T14,,SI_POV_DAY1,A,0,PT,G,,0.46609
+2009,Y0T14,,SI_POV_DAY1,A,0,PT,G,,0.6451
+2010,Y0T14,,SI_POV_DAY1,A,0,PT,G,,0.47919
+2011,Y0T14,,SI_POV_DAY1,A,0,PT,G,,0.40421
+2012,Y0T14,,SI_POV_DAY1,A,0,PT,G,,0.38459
+2013,Y0T14,,SI_POV_DAY1,A,0,PT,G,,0.33464
+2014,Y0T14,,SI_POV_DAY1,A,0,PT,G,,0.51656
+2015,Y0T14,,SI_POV_DAY1,A,0,PT,G,,0.32971
+2016,Y0T14,,SI_POV_DAY1,A,0,PT,G,,0.24603
+2017,Y0T14,,SI_POV_DAY1,A,0,PT,G,,0.46323
+2008,Y15T64,,SI_POV_DAY1,A,0,PT,G,,0.76376
+2009,Y15T64,,SI_POV_DAY1,A,0,PT,G,,0.7611
+2010,Y15T64,,SI_POV_DAY1,A,0,PT,G,,0.80888
+2011,Y15T64,,SI_POV_DAY1,A,0,PT,G,,1.06892
+2012,Y15T64,,SI_POV_DAY1,A,0,PT,G,,0.56731
+2013,Y15T64,,SI_POV_DAY1,A,0,PT,G,,0.6046
+2014,Y15T64,,SI_POV_DAY1,A,0,PT,G,,0.84639
+2015,Y15T64,,SI_POV_DAY1,A,0,PT,G,,0.8426
+2016,Y15T64,,SI_POV_DAY1,A,0,PT,G,,0.73974
+2017,Y15T64,,SI_POV_DAY1,A,0,PT,G,,0.99195
+2008,,F,SI_POV_DAY1,A,0,PT,G,,0.49864
+2009,,F,SI_POV_DAY1,A,0,PT,G,,0.4531
+2010,,F,SI_POV_DAY1,A,0,PT,G,,0.57032
+2011,,F,SI_POV_DAY1,A,0,PT,G,,0.61226
+2012,,F,SI_POV_DAY1,A,0,PT,G,,0.37684
+2013,,F,SI_POV_DAY1,A,0,PT,G,,0.39485
+2014,,F,SI_POV_DAY1,A,0,PT,G,,0.64848
+2015,,F,SI_POV_DAY1,A,0,PT,G,,0.55696
+2016,,F,SI_POV_DAY1,A,0,PT,G,,0.60637
+2017,,F,SI_POV_DAY1,A,0,PT,G,,0.68318
+2008,,M,SI_POV_DAY1,A,0,PT,G,,0.71297
+2009,,M,SI_POV_DAY1,A,0,PT,G,,0.82396
+2010,,M,SI_POV_DAY1,A,0,PT,G,,0.73122
+2011,,M,SI_POV_DAY1,A,0,PT,G,,1.044
+2012,,M,SI_POV_DAY1,A,0,PT,G,,0.54804
+2013,,M,SI_POV_DAY1,A,0,PT,G,,0.64416
+2014,,M,SI_POV_DAY1,A,0,PT,G,,0.68488
+2015,,M,SI_POV_DAY1,A,0,PT,G,,0.78906
+2016,,M,SI_POV_DAY1,A,0,PT,G,,0.50927
+2017,,M,SI_POV_DAY1,A,0,PT,G,,0.84559

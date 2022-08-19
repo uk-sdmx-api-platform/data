@@ -393,21 +393,26 @@
             "title": "Year"
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
                 "under 15 years old",
+                "65 years old and over",
+                "under 15 years old",
+                "15 to 64 years old",
                 ""
               ]
             },
             "title": "Age"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
+                "Male",
+                "Female",
                 "Male",
                 ""
               ]
@@ -459,31 +464,6 @@
               ]
             },
             "title": "Reporting type"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "65 years old and over",
-                "under 15 years old",
-                "15 to 64 years old",
-                ""
-              ]
-            },
-            "title": "Age"
           },
           {
             "name": "URBANISATION",
