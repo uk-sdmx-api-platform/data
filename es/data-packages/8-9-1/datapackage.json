@@ -65,6 +65,7 @@
             "constraints": {
               "enum": [
                 "Normal value",
+                "A",
                 ""
               ]
             },

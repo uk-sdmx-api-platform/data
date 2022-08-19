@@ -4,7 +4,7 @@ Age,1,1
 Aid description (CRS code),1,2
 Beverage,1,4
 Country income classification,1,5
-OBS_STATUS,9,2
+OBS_STATUS,9,4
 Product,1,12
 REPORTING_TYPE,9,2
 SEX,2,4

@@ -48,6 +48,7 @@
             "constraints": {
               "enum": [
                 "Estimated value",
+                "A",
                 ""
               ]
             },

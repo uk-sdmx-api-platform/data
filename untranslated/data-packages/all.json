@@ -63,6 +63,7 @@
             "constraints": {
               "enum": [
                 "Normal value",
+                "A",
                 ""
               ]
             }
@@ -161,6 +162,7 @@
             "constraints": {
               "enum": [
                 "Normal value",
+                "A",
                 ""
               ]
             }
@@ -384,6 +386,7 @@
             "constraints": {
               "enum": [
                 "Estimated value",
+                "A",
                 ""
               ]
             }
@@ -480,6 +483,7 @@
             "constraints": {
               "enum": [
                 "Normal value",
+                "O",
                 ""
               ]
             }
@@ -587,6 +591,7 @@
             "constraints": {
               "enum": [
                 "Normal value",
+                "A",
                 ""
               ]
             }
@@ -645,6 +650,7 @@
             "constraints": {
               "enum": [
                 "Normal value",
+                "A",
                 ""
               ]
             }
@@ -707,6 +713,7 @@
             "constraints": {
               "enum": [
                 "Normal value",
+                "A",
                 ""
               ]
             }

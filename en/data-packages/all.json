@@ -68,6 +68,7 @@
             "constraints": {
               "enum": [
                 "Normal value",
+                "Normal value",
                 ""
               ]
             },
@@ -175,6 +176,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Normal value",
                 "Normal value",
                 ""
               ]
@@ -423,6 +425,7 @@
             "constraints": {
               "enum": [
                 "Estimated value",
+                "Normal value",
                 ""
               ]
             },
@@ -529,6 +532,7 @@
             "constraints": {
               "enum": [
                 "Normal value",
+                "Missing value",
                 ""
               ]
             },
@@ -645,6 +649,7 @@
             "constraints": {
               "enum": [
                 "Normal value",
+                "Normal value",
                 ""
               ]
             },
@@ -708,6 +713,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Normal value",
                 "Normal value",
                 ""
               ]
@@ -777,6 +783,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Normal value",
                 "Normal value",
                 ""
               ]

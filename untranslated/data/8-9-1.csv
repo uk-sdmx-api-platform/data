@@ -90,16 +90,16 @@ Year,SERIES,Product,UNIT_MEASURE,UNIT_MULT,OBS_STATUS,REPORTING_TYPE,Value
 2019,Tourism direct GDP as a proportion of total GDP [8.9.1],Exhibitions & Conferences etc.,Percent,Units,Normal value,National,0.028467815
 2019,Tourism direct GDP as a proportion of total GDP [8.9.1],Other consumption products,Percent,Units,Normal value,National,2.547842416
 2019,Tourism direct GDP as a proportion of total GDP [8.9.1],,Percent,Units,Normal value,National,6.458286941
-2008,ST_GDP_ZS,,PT,0,,G,3.4
-2009,ST_GDP_ZS,,PT,0,,G,3.5
-2010,ST_GDP_ZS,,PT,0,,G,3.4
-2011,ST_GDP_ZS,,PT,0,,G,3.6
-2012,ST_GDP_ZS,,PT,0,,G,3.7
-2013,ST_GDP_ZS,,PT,0,,G,3.7
-2014,ST_GDP_ZS,,PT,0,,G,3.6
-2015,ST_GDP_ZS,,PT,0,,G,3.9
-2016,ST_GDP_ZS,,PT,0,,G,3.4
-2017,ST_GDP_ZS,,PT,0,,G,3.4
-2018,ST_GDP_ZS,,PT,0,,G,3.2
-2019,ST_GDP_ZS,,PT,0,,G,3.6
-2020,ST_GDP_ZS,,PT,0,,G,1.8
+2008,ST_GDP_ZS,,PT,0,A,G,3.4
+2009,ST_GDP_ZS,,PT,0,A,G,3.5
+2010,ST_GDP_ZS,,PT,0,A,G,3.4
+2011,ST_GDP_ZS,,PT,0,A,G,3.6
+2012,ST_GDP_ZS,,PT,0,A,G,3.7
+2013,ST_GDP_ZS,,PT,0,A,G,3.7
+2014,ST_GDP_ZS,,PT,0,A,G,3.6
+2015,ST_GDP_ZS,,PT,0,A,G,3.9
+2016,ST_GDP_ZS,,PT,0,A,G,3.4
+2017,ST_GDP_ZS,,PT,0,A,G,3.4
+2018,ST_GDP_ZS,,PT,0,A,G,3.2
+2019,ST_GDP_ZS,,PT,0,A,G,3.6
+2020,ST_GDP_ZS,,PT,0,A,G,1.8

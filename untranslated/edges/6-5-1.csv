@@ -1,4 +1,4 @@
 From,To
-OBS_STATUS,Water resources management sub-category
-REPORTING_TYPE,OBS_STATUS
+REPORTING_TYPE,Water resources management sub-category
+OBS_STATUS,REPORTING_TYPE
 REPORTING_TYPE,UNIT_MULT
