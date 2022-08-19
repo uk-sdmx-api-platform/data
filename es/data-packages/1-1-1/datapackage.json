@@ -37,6 +37,7 @@
             "constraints": {
               "enum": [
                 "Units",
+                "0",
                 ""
               ]
             },
@@ -95,11 +96,6 @@
               ]
             },
             "title": "URBANISATION"
-          },
-          {
-            "name": "DATA_LAST_UPDATE",
-            "type": "string",
-            "title": "DATA_LAST_UPDATE"
           },
           {
             "name": "Value",

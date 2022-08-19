@@ -34,6 +34,7 @@
             "constraints": {
               "enum": [
                 "Units",
+                "0",
                 ""
               ]
             }
@@ -52,10 +53,6 @@
                 ""
               ]
             }
-          },
-          {
-            "name": "DATA_LAST_UPDATE",
-            "type": "string"
           },
           {
             "name": "Value",

@@ -1,46 +1,46 @@
-Year,Value,Reporting type,Observation status,Unit multiplier,UNIT_MEASURE,SERIES,DATA_LAST_UPDATE
-1995,0.851116315,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1],
-1996,0.846889028,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1],
-1997,1.067598709,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1],
-1998,0.764331618,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1],
-1999,0.77536074,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1],
-2000,0.878322824,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1],
-2001,1.121045439,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1],
-2002,0.481324146,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1],
-2003,0.520040693,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1],
-2004,0.700978289,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1],
-2005,0.69535484,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1],
-2006,0.690779309,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1],
-2007,0.727258664,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1],
-2008,0.464012101,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1],
-2009,0.453786253,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1],
-2010,0.552271434,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1],
-2011,0.460447123,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1],
-2012,0.469379664,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1],
-2013,0.473297665,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1],
-2014,0.335551672,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1],
-2015,0.375791877,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1],
-2016,0.43076673,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1],
-2017,0.413370831,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1],
-2018,0.458725079,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1],
-2019,0.416078513,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1],
-2020,0.685694861,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1],
-2001,1.102,Global,,,Index,Agriculture orientation index for government expenditures [2.a.1],2022-03-08
-2002,0.549,Global,,,Index,Agriculture orientation index for government expenditures [2.a.1],2022-03-08
-2003,0.57,Global,,,Index,Agriculture orientation index for government expenditures [2.a.1],2022-03-08
-2004,0.683,Global,,,Index,Agriculture orientation index for government expenditures [2.a.1],2022-03-08
-2005,1.024,Global,,,Index,Agriculture orientation index for government expenditures [2.a.1],2022-03-08
-2006,0.878,Global,,,Index,Agriculture orientation index for government expenditures [2.a.1],2022-03-08
-2007,0.832,Global,,,Index,Agriculture orientation index for government expenditures [2.a.1],2022-03-08
-2008,0.553,Global,,,Index,Agriculture orientation index for government expenditures [2.a.1],2022-03-08
-2009,0.518,Global,,,Index,Agriculture orientation index for government expenditures [2.a.1],2022-03-08
-2010,0.6,Global,,,Index,Agriculture orientation index for government expenditures [2.a.1],2022-03-08
-2011,0.543,Global,,,Index,Agriculture orientation index for government expenditures [2.a.1],2022-03-08
-2012,0.494,Global,,,Index,Agriculture orientation index for government expenditures [2.a.1],2022-03-08
-2013,0.485,Global,,,Index,Agriculture orientation index for government expenditures [2.a.1],2022-03-08
-2014,0.404,Global,,,Index,Agriculture orientation index for government expenditures [2.a.1],2022-03-08
-2015,0.446,Global,,,Index,Agriculture orientation index for government expenditures [2.a.1],2022-03-08
-2016,0.494,Global,,,Index,Agriculture orientation index for government expenditures [2.a.1],2022-03-08
-2017,0.494,Global,,,Index,Agriculture orientation index for government expenditures [2.a.1],2022-03-08
-2018,0.484,Global,,,Index,Agriculture orientation index for government expenditures [2.a.1],2022-03-08
-2019,0.485,Global,,,Index,Agriculture orientation index for government expenditures [2.a.1],2022-03-08
+Year,Value,Reporting type,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+1995,0.851116315,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+1996,0.846889028,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+1997,1.067598709,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+1998,0.764331618,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+1999,0.77536074,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2000,0.878322824,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2001,1.121045439,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2002,0.481324146,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2003,0.520040693,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2004,0.700978289,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2005,0.69535484,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2006,0.690779309,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2007,0.727258664,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2008,0.464012101,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2009,0.453786253,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2010,0.552271434,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2011,0.460447123,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2012,0.469379664,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2013,0.473297665,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2014,0.335551672,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2015,0.375791877,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2016,0.43076673,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2017,0.413370831,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2018,0.458725079,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2019,0.416078513,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2020,0.685694861,National,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2001,1.102,Global,,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2002,0.549,Global,,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2003,0.57,Global,,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2004,0.683,Global,,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2005,1.024,Global,,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2006,0.878,Global,,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2007,0.832,Global,,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2008,0.553,Global,,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2009,0.518,Global,,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2010,0.6,Global,,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2011,0.543,Global,,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2012,0.494,Global,,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2013,0.485,Global,,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2014,0.404,Global,,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2015,0.446,Global,,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2016,0.494,Global,,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2017,0.494,Global,,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2018,0.484,Global,,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2019,0.485,Global,,Units,Index,Agriculture orientation index for government expenditures [2.a.1]

@@ -1,40 +1,40 @@
-Year,Value,Reporting type,Observation status,Unit multiplier,UNIT_MEASURE,SERIES,DATA_LAST_UPDATE
-2000/01,12.73584906,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]",
-2001/02,13.33333333,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]",
-2002/03,13.30900243,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]",
-2003/04,13.61911141,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]",
-2004/05,13.5483871,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]",
-2005/06,13.6381399,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]",
-2006/07,13.66017964,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]",
-2007/08,13.88496824,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]",
-2008/09,13.47183899,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]",
-2009/10,13.56114006,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]",
-2010/11,13.58978167,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]",
-2011/12,12.80532939,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]",
-2012/13,12.38039158,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]",
-2013/14,12.26647357,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]",
-2014/15,12.10182025,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]",
-2015/16,11.82615963,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]",
-2016/17,11.70227429,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]",
-2017/18,11.49839744,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]",
-2018/19,11.42375519,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]",
-2019/20,11.34485349,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]",
-2020/21,9.612883865,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]",
-2000,11.848,Global,,,Percent,"Proportion of total government spending on essential services, education [1.a.2]",2022-04-08
-2001,12.08186,Global,,,Percent,"Proportion of total government spending on essential services, education [1.a.2]",2022-04-08
-2002,13.32559,Global,,,Percent,"Proportion of total government spending on essential services, education [1.a.2]",2022-04-08
-2003,13.4005,Global,,,Percent,"Proportion of total government spending on essential services, education [1.a.2]",2022-04-08
-2004,12.75941,Global,,,Percent,"Proportion of total government spending on essential services, education [1.a.2]",2022-04-08
-2005,13.00338,Global,,,Percent,"Proportion of total government spending on essential services, education [1.a.2]",2022-04-08
-2006,12.96017,Global,,,Percent,"Proportion of total government spending on essential services, education [1.a.2]",2022-04-08
-2007,12.84258,Global,,,Percent,"Proportion of total government spending on essential services, education [1.a.2]",2022-04-08
-2008,12.73311,Global,,,Percent,"Proportion of total government spending on essential services, education [1.a.2]",2022-04-08
-2009,12.38475,Global,,,Percent,"Proportion of total government spending on essential services, education [1.a.2]",2022-04-08
-2010,12.78199,Global,,,Percent,"Proportion of total government spending on essential services, education [1.a.2]",2022-04-08
-2011,12.46857,Global,,,Percent,"Proportion of total government spending on essential services, education [1.a.2]",2022-04-08
-2013,12.66024,Global,,,Percent,"Proportion of total government spending on essential services, education [1.a.2]",2022-04-08
-2014,13.35372,Global,,,Percent,"Proportion of total government spending on essential services, education [1.a.2]",2022-04-08
-2015,13.49021,Global,,,Percent,"Proportion of total government spending on essential services, education [1.a.2]",2022-04-08
-2016,13.44864,Global,,,Percent,"Proportion of total government spending on essential services, education [1.a.2]",2022-04-08
-2017,13.76128,Global,,,Percent,"Proportion of total government spending on essential services, education [1.a.2]",2022-04-08
-2018,13.34408,Global,,,Percent,"Proportion of total government spending on essential services, education [1.a.2]",2022-04-08
+Year,Value,Reporting type,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+2000/01,12.73584906,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2001/02,13.33333333,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2002/03,13.30900243,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2003/04,13.61911141,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2004/05,13.5483871,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2005/06,13.6381399,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2006/07,13.66017964,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2007/08,13.88496824,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2008/09,13.47183899,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2009/10,13.56114006,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2010/11,13.58978167,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2011/12,12.80532939,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2012/13,12.38039158,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2013/14,12.26647357,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2014/15,12.10182025,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2015/16,11.82615963,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2016/17,11.70227429,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2017/18,11.49839744,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2018/19,11.42375519,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2019/20,11.34485349,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2020/21,9.612883865,National,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2000,11.848,Global,,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2001,12.08186,Global,,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2002,13.32559,Global,,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2003,13.4005,Global,,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2004,12.75941,Global,,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2005,13.00338,Global,,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2006,12.96017,Global,,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2007,12.84258,Global,,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2008,12.73311,Global,,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2009,12.38475,Global,,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2010,12.78199,Global,,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2011,12.46857,Global,,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2013,12.66024,Global,,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2014,13.35372,Global,,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2015,13.49021,Global,,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2016,13.44864,Global,,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2017,13.76128,Global,,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2018,13.34408,Global,,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"

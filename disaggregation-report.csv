@@ -7,7 +7,7 @@ OBS_STATUS,9,2
 Product,1,12
 REPORTING_TYPE,9,2
 SEX,2,4
-UNIT_MULT,9,2
+UNIT_MULT,9,3
 Urbanisation,1,2
 URBANISATION,2,2
 Water resources management sub-category,1,32

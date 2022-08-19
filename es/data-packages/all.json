@@ -79,6 +79,7 @@
             "constraints": {
               "enum": [
                 "Units",
+                "0",
                 ""
               ]
             },
@@ -100,11 +101,6 @@
               ]
             },
             "title": "REPORTING_TYPE"
-          },
-          {
-            "name": "DATA_LAST_UPDATE",
-            "type": "string",
-            "title": "DATA_LAST_UPDATE"
           },
           {
             "name": "Value",
@@ -168,6 +164,7 @@
             "constraints": {
               "enum": [
                 "Units",
+                "0",
                 ""
               ]
             },
@@ -195,11 +192,6 @@
               ]
             },
             "title": "REPORTING_TYPE"
-          },
-          {
-            "name": "DATA_LAST_UPDATE",
-            "type": "string",
-            "title": "DATA_LAST_UPDATE"
           },
           {
             "name": "Value",
@@ -420,6 +412,7 @@
             "constraints": {
               "enum": [
                 "Units",
+                "0",
                 ""
               ]
             },
@@ -480,11 +473,6 @@
             "title": "URBANISATION"
           },
           {
-            "name": "DATA_LAST_UPDATE",
-            "type": "string",
-            "title": "DATA_LAST_UPDATE"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -530,6 +518,7 @@
             "constraints": {
               "enum": [
                 "Units",
+                "0",
                 ""
               ]
             },
@@ -551,11 +540,6 @@
               ]
             },
             "title": "REPORTING_TYPE"
-          },
-          {
-            "name": "DATA_LAST_UPDATE",
-            "type": "string",
-            "title": "DATA_LAST_UPDATE"
           },
           {
             "name": "Value",
@@ -650,6 +634,7 @@
             "constraints": {
               "enum": [
                 "Units",
+                "0",
                 ""
               ]
             },
@@ -666,11 +651,6 @@
               ]
             },
             "title": "REPORTING_TYPE"
-          },
-          {
-            "name": "DATA_LAST_UPDATE",
-            "type": "string",
-            "title": "DATA_LAST_UPDATE"
           },
           {
             "name": "Value",
@@ -718,6 +698,7 @@
             "constraints": {
               "enum": [
                 "Units",
+                "0",
                 ""
               ]
             },
@@ -739,11 +720,6 @@
               ]
             },
             "title": "REPORTING_TYPE"
-          },
-          {
-            "name": "DATA_LAST_UPDATE",
-            "type": "string",
-            "title": "DATA_LAST_UPDATE"
           },
           {
             "name": "Value",
@@ -796,6 +772,7 @@
             "constraints": {
               "enum": [
                 "Units",
+                "0",
                 ""
               ]
             },
@@ -824,11 +801,6 @@
               ]
             },
             "title": "URBANISATION"
-          },
-          {
-            "name": "DATA_LAST_UPDATE",
-            "type": "string",
-            "title": "DATA_LAST_UPDATE"
           },
           {
             "name": "Value",

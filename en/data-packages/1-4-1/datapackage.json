@@ -42,6 +42,7 @@
             "constraints": {
               "enum": [
                 "Units",
+                "Units",
                 ""
               ]
             },
@@ -70,11 +71,6 @@
               ]
             },
             "title": "Degree of urbanisation"
-          },
-          {
-            "name": "DATA_LAST_UPDATE",
-            "type": "string",
-            "title": "Date of the most recent change of the series."
           },
           {
             "name": "Value",
