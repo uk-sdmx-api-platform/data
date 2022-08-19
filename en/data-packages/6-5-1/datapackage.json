@@ -107,17 +107,6 @@
             "title": "Date of the most recent change of the series."
           },
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2020",
-                ""
-              ]
-            },
-            "title": "Time period details"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"

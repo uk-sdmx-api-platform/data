@@ -102,46 +102,9 @@
             "title": "REPORTING_TYPE"
           },
           {
-            "name": "UPPER_BOUND",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "12.97976",
-                "6.20952",
-                "20.25599",
-                ""
-              ]
-            },
-            "title": "UPPER_BOUND"
-          },
-          {
-            "name": "LOWER_BOUND",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "9.93644",
-                "4.70684",
-                "15.49693",
-                ""
-              ]
-            },
-            "title": "LOWER_BOUND"
-          },
-          {
             "name": "DATA_LAST_UPDATE",
             "type": "string",
             "title": "DATA_LAST_UPDATE"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2019",
-                ""
-              ]
-            },
-            "title": "TIME_DETAIL"
           },
           {
             "name": "Value",
@@ -237,17 +200,6 @@
             "name": "DATA_LAST_UPDATE",
             "type": "string",
             "title": "DATA_LAST_UPDATE"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2020",
-                ""
-              ]
-            },
-            "title": "TIME_DETAIL"
           },
           {
             "name": "Value",
@@ -533,17 +485,6 @@
             "title": "DATA_LAST_UPDATE"
           },
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2017",
-                ""
-              ]
-            },
-            "title": "TIME_DETAIL"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -615,17 +556,6 @@
             "name": "DATA_LAST_UPDATE",
             "type": "string",
             "title": "DATA_LAST_UPDATE"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2020",
-                ""
-              ]
-            },
-            "title": "TIME_DETAIL"
           },
           {
             "name": "Value",
@@ -743,17 +673,6 @@
             "title": "DATA_LAST_UPDATE"
           },
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2020",
-                ""
-              ]
-            },
-            "title": "TIME_DETAIL"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -825,17 +744,6 @@
             "name": "DATA_LAST_UPDATE",
             "type": "string",
             "title": "DATA_LAST_UPDATE"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2018",
-                ""
-              ]
-            },
-            "title": "TIME_DETAIL"
           },
           {
             "name": "Value",
@@ -921,17 +829,6 @@
             "name": "DATA_LAST_UPDATE",
             "type": "string",
             "title": "DATA_LAST_UPDATE"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2020",
-                ""
-              ]
-            },
-            "title": "TIME_DETAIL"
           },
           {
             "name": "Value",

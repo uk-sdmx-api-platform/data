@@ -1,6 +1,3 @@
 From,To
 Age,Beverage
 Age,Sex
-Age,Upper bound value
-Upper bound value,Lower bound value
-Lower bound value,Time period details

@@ -102,46 +102,9 @@
             "title": "Reporting type"
           },
           {
-            "name": "UPPER_BOUND",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "12.97976",
-                "6.20952",
-                "20.25599",
-                ""
-              ]
-            },
-            "title": "Upper bound value"
-          },
-          {
-            "name": "LOWER_BOUND",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "9.93644",
-                "4.70684",
-                "15.49693",
-                ""
-              ]
-            },
-            "title": "Lower bound value"
-          },
-          {
             "name": "DATA_LAST_UPDATE",
             "type": "string",
             "title": "Date of the most recent change of the series."
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2019",
-                ""
-              ]
-            },
-            "title": "Time period details"
           },
           {
             "name": "Value",
@@ -237,17 +200,6 @@
             "name": "DATA_LAST_UPDATE",
             "type": "string",
             "title": "Date of the most recent change of the series."
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2020",
-                ""
-              ]
-            },
-            "title": "Time period details"
           },
           {
             "name": "Value",
@@ -533,17 +485,6 @@
             "title": "Date of the most recent change of the series."
           },
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2017",
-                ""
-              ]
-            },
-            "title": "Time period details"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -615,17 +556,6 @@
             "name": "DATA_LAST_UPDATE",
             "type": "string",
             "title": "Date of the most recent change of the series."
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2020",
-                ""
-              ]
-            },
-            "title": "Time period details"
           },
           {
             "name": "Value",
@@ -743,17 +673,6 @@
             "title": "Date of the most recent change of the series."
           },
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2020",
-                ""
-              ]
-            },
-            "title": "Time period details"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -825,17 +744,6 @@
             "name": "DATA_LAST_UPDATE",
             "type": "string",
             "title": "Date of the most recent change of the series."
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2018",
-                ""
-              ]
-            },
-            "title": "Time period details"
           },
           {
             "name": "Value",
@@ -921,17 +829,6 @@
             "name": "DATA_LAST_UPDATE",
             "type": "string",
             "title": "Date of the most recent change of the series."
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2020",
-                ""
-              ]
-            },
-            "title": "Time period details"
           },
           {
             "name": "Value",

@@ -65,17 +65,6 @@
             "title": "DATA_LAST_UPDATE"
           },
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2020",
-                ""
-              ]
-            },
-            "title": "TIME_DETAIL"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
