@@ -47,7 +47,6 @@ inputs:
     import_codes: true
     drop_singleton_dimensions: false
     drop_dimensions:
-      - OBS_STATUS
       - NATURE
       - COMMENT_OBS
       - SOURCE_DETAIL
