@@ -46,6 +46,13 @@ inputs:
     reference_area: 826
     import_codes: true
     drop_singleton_dimensions: false
+    drop_dimensions:
+      - OBS_STATUS
+      - UNIT_MULT
+      - NATURE
+      - COMMENT_OBS
+      - SOURCE_DETAIL
+      - FREQ
     dimension_query:
       SERIES: ST_GDP_ZS+SI_POV_DAY1+SP_ACS_BSRVSAN+SP_ACS_BSRVH2O+SD_XPD_ESED+AG_PRD_ORTIND+SH_ALC_CONSPT+CD_TOF_HLTHNT+ER_H2O_IWRMD_EE+ER_H2O_IWRMD_FI+ER_H2O_IWRMD_IP+ER_H2O_IWRMD_MI+ER_H2O_IWRMD
   - class: InputYamlMeta
