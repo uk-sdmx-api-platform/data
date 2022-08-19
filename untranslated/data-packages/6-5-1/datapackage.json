@@ -69,7 +69,6 @@
             "constraints": {
               "enum": [
                 "Normal value",
-                "A",
                 ""
               ]
             }
@@ -80,7 +79,6 @@
             "constraints": {
               "enum": [
                 "Units",
-                "0",
                 ""
               ]
             }
@@ -97,31 +95,15 @@
             }
           },
           {
-            "name": "NATURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "C",
-                ""
-              ]
-            }
+            "name": "DATA_LAST_UPDATE",
+            "type": "string"
           },
           {
-            "name": "SOURCE_DETAIL",
+            "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "IWRM Data Portal, UNEP",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "FREQ",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
+                "2020",
                 ""
               ]
             }

@@ -61,7 +61,6 @@
             "constraints": {
               "enum": [
                 "Normal value",
-                "A",
                 ""
               ]
             }
@@ -72,7 +71,6 @@
             "constraints": {
               "enum": [
                 "Units",
-                "0",
                 ""
               ]
             }
@@ -87,16 +85,6 @@
             "constraints": {
               "enum": [
                 "National",
-                "G",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "NATURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "G",
                 ""
               ]
@@ -127,21 +115,15 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "WHO Global Information System on Alcohol and Health (GISAH)",
-                ""
-              ]
-            }
+            "name": "DATA_LAST_UPDATE",
+            "type": "string"
           },
           {
-            "name": "FREQ",
+            "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "2019",
                 ""
               ]
             }

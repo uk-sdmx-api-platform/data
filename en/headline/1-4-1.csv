@@ -1,43 +1,43 @@
-Year,Value,Reporting type,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2000,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1]
-2001,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1]
-2002,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1]
-2003,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1]
-2004,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1]
-2005,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1]
-2006,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1]
-2007,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1]
-2008,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1]
-2009,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1]
-2010,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1]
-2011,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1]
-2012,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1]
-2013,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1]
-2014,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1]
-2015,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1]
-2016,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1]
-2017,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1]
-2018,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1]
-2019,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1]
-2020,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1]
-2000,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1]
-2001,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1]
-2002,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1]
-2003,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1]
-2004,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1]
-2005,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1]
-2006,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1]
-2007,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1]
-2008,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1]
-2009,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1]
-2010,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1]
-2011,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1]
-2012,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1]
-2013,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1]
-2014,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1]
-2015,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1]
-2016,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1]
-2017,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1]
-2018,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1]
-2019,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1]
-2020,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1]
+Year,Value,Reporting type,Observation status,Unit multiplier,UNIT_MEASURE,SERIES,DATA_LAST_UPDATE
+2000,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1],
+2001,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1],
+2002,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1],
+2003,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1],
+2004,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1],
+2005,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1],
+2006,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1],
+2007,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1],
+2008,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1],
+2009,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1],
+2010,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1],
+2011,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1],
+2012,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1],
+2013,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1],
+2014,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1],
+2015,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1],
+2016,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1],
+2017,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1],
+2018,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1],
+2019,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1],
+2020,100,National,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1],
+2000,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1],
+2001,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1],
+2002,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1],
+2003,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1],
+2004,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1],
+2005,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1],
+2006,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1],
+2007,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1],
+2008,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1],
+2009,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1],
+2010,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1],
+2011,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1],
+2012,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1],
+2013,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1],
+2014,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1],
+2015,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1],
+2016,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1],
+2017,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1],
+2018,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1],
+2019,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1],
+2020,99,National,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1],

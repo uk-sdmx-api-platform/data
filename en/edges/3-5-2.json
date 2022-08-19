@@ -1,1 +1,1 @@
-{"From":["Age","Age","Age","Nature of data points","Upper bound value","Lower bound value","Source details"],"To":["Beverage","Sex","Nature of data points","Upper bound value","Lower bound value","Source details","Frequency of observation"]}
+{"From":["Age","Age","Age","Upper bound value","Lower bound value"],"To":["Beverage","Sex","Upper bound value","Lower bound value","Time period details"]}

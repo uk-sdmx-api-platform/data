@@ -26,7 +26,6 @@
             "constraints": {
               "enum": [
                 "Normal value",
-                "Normal value",
                 ""
               ]
             },
@@ -42,7 +41,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Units",
                 "Units",
                 ""
               ]
@@ -62,39 +60,6 @@
             "title": "Reporting type"
           },
           {
-            "name": "NATURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Estimated",
-                ""
-              ]
-            },
-            "title": "Nature of data points"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2021)",
-                ""
-              ]
-            },
-            "title": "Source details"
-          },
-          {
-            "name": "FREQ",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Annual",
-                ""
-              ]
-            },
-            "title": "Frequency of observation"
-          },
-          {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
@@ -105,6 +70,22 @@
               ]
             },
             "title": "Degree of urbanisation"
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string",
+            "title": "Date of the most recent change of the series."
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2020",
+                ""
+              ]
+            },
+            "title": "Time period details"
           },
           {
             "name": "Value",

@@ -26,7 +26,6 @@
             "constraints": {
               "enum": [
                 "Estimated value",
-                "A",
                 ""
               ]
             },
@@ -38,7 +37,6 @@
             "constraints": {
               "enum": [
                 "Units",
-                "0",
                 ""
               ]
             },
@@ -60,51 +58,6 @@
               ]
             },
             "title": "REPORTING_TYPE"
-          },
-          {
-            "name": "NATURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "G",
-                ""
-              ]
-            },
-            "title": "NATURE"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ",
-                "Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Poverty and Inequality Portal, World Bank",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
-          },
-          {
-            "name": "FREQ",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            },
-            "title": "FREQ"
           },
           {
             "name": "SEX",
@@ -142,6 +95,22 @@
               ]
             },
             "title": "URBANISATION"
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string",
+            "title": "DATA_LAST_UPDATE"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2017",
+                ""
+              ]
+            },
+            "title": "TIME_DETAIL"
           },
           {
             "name": "Value",

@@ -66,7 +66,6 @@
             "constraints": {
               "enum": [
                 "Normal value",
-                "Normal value",
                 ""
               ]
             },
@@ -77,7 +76,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Units",
                 "Units",
                 ""
               ]
@@ -100,17 +98,6 @@
               ]
             },
             "title": "Reporting type"
-          },
-          {
-            "name": "NATURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Global monitoring data",
-                ""
-              ]
-            },
-            "title": "Nature of data points"
           },
           {
             "name": "UPPER_BOUND",
@@ -139,26 +126,20 @@
             "title": "Lower bound value"
           },
           {
-            "name": "SOURCE_DETAIL",
+            "name": "DATA_LAST_UPDATE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "WHO Global Information System on Alcohol and Health (GISAH)",
-                ""
-              ]
-            },
-            "title": "Source details"
+            "title": "Date of the most recent change of the series."
           },
           {
-            "name": "FREQ",
+            "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "Annual",
+                "2019",
                 ""
               ]
             },
-            "title": "Frequency of observation"
+            "title": "Time period details"
           },
           {
             "name": "Value",

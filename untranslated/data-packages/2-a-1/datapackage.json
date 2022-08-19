@@ -24,7 +24,6 @@
             "constraints": {
               "enum": [
                 "Normal value",
-                "O",
                 ""
               ]
             }
@@ -35,7 +34,6 @@
             "constraints": {
               "enum": [
                 "Units",
-                "0",
                 ""
               ]
             }
@@ -56,41 +54,15 @@
             }
           },
           {
-            "name": "NATURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_X",
-                ""
-              ]
-            }
+            "name": "DATA_LAST_UPDATE",
+            "type": "string"
           },
           {
-            "name": "COMMENT_OBS",
+            "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "Obs_Value = NaN;  NaN = A figure was not provided",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NA",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "FREQ",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
+                "2020",
                 ""
               ]
             }

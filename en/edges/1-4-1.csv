@@ -1,4 +1,2 @@
 From,To
-Nature of data points,Source details
-Source details,Frequency of observation
-Frequency of observation,Degree of urbanisation
+Time period details,Degree of urbanisation

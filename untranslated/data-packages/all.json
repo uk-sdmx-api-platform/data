@@ -63,7 +63,6 @@
             "constraints": {
               "enum": [
                 "Normal value",
-                "A",
                 ""
               ]
             }
@@ -74,7 +73,6 @@
             "constraints": {
               "enum": [
                 "Units",
-                "0",
                 ""
               ]
             }
@@ -89,16 +87,6 @@
             "constraints": {
               "enum": [
                 "National",
-                "G",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "NATURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "G",
                 ""
               ]
@@ -129,21 +117,15 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "WHO Global Information System on Alcohol and Health (GISAH)",
-                ""
-              ]
-            }
+            "name": "DATA_LAST_UPDATE",
+            "type": "string"
           },
           {
-            "name": "FREQ",
+            "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "2019",
                 ""
               ]
             }
@@ -205,7 +187,6 @@
             "constraints": {
               "enum": [
                 "Units",
-                "0",
                 ""
               ]
             }
@@ -216,7 +197,6 @@
             "constraints": {
               "enum": [
                 "Normal value",
-                "A",
                 ""
               ]
             }
@@ -233,41 +213,15 @@
             }
           },
           {
-            "name": "NATURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "C",
-                ""
-              ]
-            }
+            "name": "DATA_LAST_UPDATE",
+            "type": "string"
           },
           {
-            "name": "COMMENT_OBS",
+            "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "The data correspond to Tourism GVA (direct) as a percentage of total GVA. Data can be compared from 2008 to 2014 but not after 2015",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Tourism Satellite Account, via cooperation UNWTO - OECD.",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "FREQ",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
+                "2020",
                 ""
               ]
             }
@@ -460,7 +414,6 @@
             "constraints": {
               "enum": [
                 "Estimated value",
-                "A",
                 ""
               ]
             }
@@ -471,7 +424,6 @@
             "constraints": {
               "enum": [
                 "Units",
-                "0",
                 ""
               ]
             }
@@ -487,47 +439,6 @@
               "enum": [
                 "National",
                 "G",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "NATURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "G",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ",
-                "Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Poverty and Inequality Portal, World Bank",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "FREQ",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
                 ""
               ]
             }
@@ -567,6 +478,20 @@
             }
           },
           {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2017",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -598,7 +523,6 @@
             "constraints": {
               "enum": [
                 "Normal value",
-                "O",
                 ""
               ]
             }
@@ -609,7 +533,6 @@
             "constraints": {
               "enum": [
                 "Units",
-                "0",
                 ""
               ]
             }
@@ -630,41 +553,15 @@
             }
           },
           {
-            "name": "NATURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_X",
-                ""
-              ]
-            }
+            "name": "DATA_LAST_UPDATE",
+            "type": "string"
           },
           {
-            "name": "COMMENT_OBS",
+            "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "Obs_Value = NaN;  NaN = A figure was not provided",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NA",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "FREQ",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
+                "2020",
                 ""
               ]
             }
@@ -746,7 +643,6 @@
             "constraints": {
               "enum": [
                 "Normal value",
-                "A",
                 ""
               ]
             }
@@ -757,7 +653,6 @@
             "constraints": {
               "enum": [
                 "Units",
-                "0",
                 ""
               ]
             }
@@ -774,31 +669,15 @@
             }
           },
           {
-            "name": "NATURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "C",
-                ""
-              ]
-            }
+            "name": "DATA_LAST_UPDATE",
+            "type": "string"
           },
           {
-            "name": "SOURCE_DETAIL",
+            "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "IWRM Data Portal, UNEP",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "FREQ",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
+                "2020",
                 ""
               ]
             }
@@ -835,7 +714,6 @@
             "constraints": {
               "enum": [
                 "Normal value",
-                "A",
                 ""
               ]
             }
@@ -846,7 +724,6 @@
             "constraints": {
               "enum": [
                 "Units",
-                "0",
                 ""
               ]
             }
@@ -867,31 +744,15 @@
             }
           },
           {
-            "name": "NATURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "C",
-                ""
-              ]
-            }
+            "name": "DATA_LAST_UPDATE",
+            "type": "string"
           },
           {
-            "name": "SOURCE_DETAIL",
+            "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "UNESCO Institute for Statistics; Data extracted on 01 April 2022.",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "FREQ",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
+                "2018",
                 ""
               ]
             }
@@ -928,7 +789,6 @@
             "constraints": {
               "enum": [
                 "Normal value",
-                "A",
                 ""
               ]
             }
@@ -943,7 +803,6 @@
             "constraints": {
               "enum": [
                 "Units",
-                "0",
                 ""
               ]
             }
@@ -960,42 +819,26 @@
             }
           },
           {
-            "name": "NATURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "E",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2021)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "FREQ",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            }
-          },
-          {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
                 "R",
                 "U",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2020",
                 ""
               ]
             }

@@ -26,7 +26,6 @@
             "constraints": {
               "enum": [
                 "Normal value",
-                "Normal value",
                 ""
               ]
             },
@@ -37,7 +36,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Units",
                 "Units",
                 ""
               ]
@@ -62,37 +60,20 @@
             "title": "Reporting type"
           },
           {
-            "name": "NATURE",
+            "name": "DATA_LAST_UPDATE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Country Data",
-                ""
-              ]
-            },
-            "title": "Nature of data points"
+            "title": "Date of the most recent change of the series."
           },
           {
-            "name": "SOURCE_DETAIL",
+            "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "UNESCO Institute for Statistics; Data extracted on 01 April 2022.",
+                "2018",
                 ""
               ]
             },
-            "title": "Source details"
-          },
-          {
-            "name": "FREQ",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Annual",
-                ""
-              ]
-            },
-            "title": "Frequency of observation"
+            "title": "Time period details"
           },
           {
             "name": "Value",

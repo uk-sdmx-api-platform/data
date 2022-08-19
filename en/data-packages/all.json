@@ -68,7 +68,6 @@
             "constraints": {
               "enum": [
                 "Normal value",
-                "Normal value",
                 ""
               ]
             },
@@ -79,7 +78,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Units",
                 "Units",
                 ""
               ]
@@ -102,17 +100,6 @@
               ]
             },
             "title": "Reporting type"
-          },
-          {
-            "name": "NATURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Global monitoring data",
-                ""
-              ]
-            },
-            "title": "Nature of data points"
           },
           {
             "name": "UPPER_BOUND",
@@ -141,26 +128,20 @@
             "title": "Lower bound value"
           },
           {
-            "name": "SOURCE_DETAIL",
+            "name": "DATA_LAST_UPDATE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "WHO Global Information System on Alcohol and Health (GISAH)",
-                ""
-              ]
-            },
-            "title": "Source details"
+            "title": "Date of the most recent change of the series."
           },
           {
-            "name": "FREQ",
+            "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "Annual",
+                "2019",
                 ""
               ]
             },
-            "title": "Frequency of observation"
+            "title": "Time period details"
           },
           {
             "name": "Value",
@@ -224,7 +205,6 @@
             "constraints": {
               "enum": [
                 "Units",
-                "Units",
                 ""
               ]
             },
@@ -235,7 +215,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Normal value",
                 "Normal value",
                 ""
               ]
@@ -255,48 +234,20 @@
             "title": "Reporting type"
           },
           {
-            "name": "NATURE",
+            "name": "DATA_LAST_UPDATE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Country Data",
-                ""
-              ]
-            },
-            "title": "Nature of data points"
+            "title": "Date of the most recent change of the series."
           },
           {
-            "name": "COMMENT_OBS",
+            "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "The data correspond to Tourism GVA (direct) as a percentage of total GVA. Data can be compared from 2008 to 2014 but not after 2015",
+                "2020",
                 ""
               ]
             },
-            "title": "Observation-level footnotes"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Tourism Satellite Account, via cooperation UNWTO - OECD.",
-                ""
-              ]
-            },
-            "title": "Source details"
-          },
-          {
-            "name": "FREQ",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Annual",
-                ""
-              ]
-            },
-            "title": "Frequency of observation"
+            "title": "Time period details"
           },
           {
             "name": "Value",
@@ -506,7 +457,6 @@
             "constraints": {
               "enum": [
                 "Estimated value",
-                "Normal value",
                 ""
               ]
             },
@@ -517,7 +467,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Units",
                 "Units",
                 ""
               ]
@@ -540,51 +489,6 @@
               ]
             },
             "title": "Reporting type"
-          },
-          {
-            "name": "NATURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Global monitoring data",
-                ""
-              ]
-            },
-            "title": "Nature of data points"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Accessed April 8, 2022. Based on data from EU-SILC. Estimated from unit-record income data. ",
-                "Accessed April 11, 2022. Survey name: EU-SILC. Uses an income aggregate, which is not spatially deflated.",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Poverty and Inequality Portal, World Bank",
-                ""
-              ]
-            },
-            "title": "Source details"
-          },
-          {
-            "name": "FREQ",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Annual",
-                ""
-              ]
-            },
-            "title": "Frequency of observation"
           },
           {
             "name": "SEX",
@@ -624,6 +528,22 @@
             "title": "Degree of urbanisation"
           },
           {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string",
+            "title": "Date of the most recent change of the series."
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2017",
+                ""
+              ]
+            },
+            "title": "Time period details"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -658,7 +578,6 @@
             "constraints": {
               "enum": [
                 "Normal value",
-                "Missing value",
                 ""
               ]
             },
@@ -669,7 +588,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Units",
                 "Units",
                 ""
               ]
@@ -694,48 +612,20 @@
             "title": "Reporting type"
           },
           {
-            "name": "NATURE",
+            "name": "DATA_LAST_UPDATE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Not Available",
-                ""
-              ]
-            },
-            "title": "Nature of data points"
+            "title": "Date of the most recent change of the series."
           },
           {
-            "name": "COMMENT_OBS",
+            "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "Obs_Value = NaN;  NaN = A figure was not provided",
+                "2020",
                 ""
               ]
             },
-            "title": "Observation-level footnotes"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NA",
-                ""
-              ]
-            },
-            "title": "Source details"
-          },
-          {
-            "name": "FREQ",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Annual",
-                ""
-              ]
-            },
-            "title": "Frequency of observation"
+            "title": "Time period details"
           },
           {
             "name": "Value",
@@ -819,7 +709,6 @@
             "constraints": {
               "enum": [
                 "Normal value",
-                "Normal value",
                 ""
               ]
             },
@@ -830,7 +719,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Units",
                 "Units",
                 ""
               ]
@@ -850,37 +738,20 @@
             "title": "Reporting type"
           },
           {
-            "name": "NATURE",
+            "name": "DATA_LAST_UPDATE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Country Data",
-                ""
-              ]
-            },
-            "title": "Nature of data points"
+            "title": "Date of the most recent change of the series."
           },
           {
-            "name": "SOURCE_DETAIL",
+            "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "IWRM Data Portal, UNEP",
+                "2020",
                 ""
               ]
             },
-            "title": "Source details"
-          },
-          {
-            "name": "FREQ",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Annual",
-                ""
-              ]
-            },
-            "title": "Frequency of observation"
+            "title": "Time period details"
           },
           {
             "name": "Value",
@@ -917,7 +788,6 @@
             "constraints": {
               "enum": [
                 "Normal value",
-                "Normal value",
                 ""
               ]
             },
@@ -928,7 +798,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Units",
                 "Units",
                 ""
               ]
@@ -953,37 +822,20 @@
             "title": "Reporting type"
           },
           {
-            "name": "NATURE",
+            "name": "DATA_LAST_UPDATE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Country Data",
-                ""
-              ]
-            },
-            "title": "Nature of data points"
+            "title": "Date of the most recent change of the series."
           },
           {
-            "name": "SOURCE_DETAIL",
+            "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "UNESCO Institute for Statistics; Data extracted on 01 April 2022.",
+                "2018",
                 ""
               ]
             },
-            "title": "Source details"
-          },
-          {
-            "name": "FREQ",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Annual",
-                ""
-              ]
-            },
-            "title": "Frequency of observation"
+            "title": "Time period details"
           },
           {
             "name": "Value",
@@ -1020,7 +872,6 @@
             "constraints": {
               "enum": [
                 "Normal value",
-                "Normal value",
                 ""
               ]
             },
@@ -1036,7 +887,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Units",
                 "Units",
                 ""
               ]
@@ -1056,39 +906,6 @@
             "title": "Reporting type"
           },
           {
-            "name": "NATURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Estimated",
-                ""
-              ]
-            },
-            "title": "Nature of data points"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2021)",
-                ""
-              ]
-            },
-            "title": "Source details"
-          },
-          {
-            "name": "FREQ",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Annual",
-                ""
-              ]
-            },
-            "title": "Frequency of observation"
-          },
-          {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
@@ -1099,6 +916,22 @@
               ]
             },
             "title": "Degree of urbanisation"
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string",
+            "title": "Date of the most recent change of the series."
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2020",
+                ""
+              ]
+            },
+            "title": "Time period details"
           },
           {
             "name": "Value",

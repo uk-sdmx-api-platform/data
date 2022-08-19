@@ -53,7 +53,6 @@
             "constraints": {
               "enum": [
                 "Units",
-                "0",
                 ""
               ]
             },
@@ -65,7 +64,6 @@
             "constraints": {
               "enum": [
                 "Normal value",
-                "A",
                 ""
               ]
             },
@@ -84,48 +82,20 @@
             "title": "REPORTING_TYPE"
           },
           {
-            "name": "NATURE",
+            "name": "DATA_LAST_UPDATE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "C",
-                ""
-              ]
-            },
-            "title": "NATURE"
+            "title": "DATA_LAST_UPDATE"
           },
           {
-            "name": "COMMENT_OBS",
+            "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "The data correspond to Tourism GVA (direct) as a percentage of total GVA. Data can be compared from 2008 to 2014 but not after 2015",
+                "2020",
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Tourism Satellite Account, via cooperation UNWTO - OECD.",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
-          },
-          {
-            "name": "FREQ",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            },
-            "title": "FREQ"
+            "title": "TIME_DETAIL"
           },
           {
             "name": "Value",
