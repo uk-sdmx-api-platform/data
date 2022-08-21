@@ -7,7 +7,7 @@ def alter_meta(meta, context):
         del meta['reporting_status']
     if context['indicator_id']:
         print(context['indicator_id'])
-    meta["data_start_values"]=[{"field":"Reporting status","value":"National"}]
+    meta["data_start_values"]=[{"field":"REPORTING_TYPE","value":"National"}]
     return meta
 
 def alter_data(df, context):
