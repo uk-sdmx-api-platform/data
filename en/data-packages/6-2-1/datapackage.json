@@ -16,6 +16,91 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population using safely managed sanitation services (%)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Safely managed element",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Disposed insitu",
+                "Faecal sludge treated",
+                "Sewage treated",
+                ""
+              ]
+            },
+            "title": "Safely managed element"
+          },
+          {
+            "name": "Service level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Basic service",
+                "Limited service",
+                "Open defecation",
+                "Safely managed service",
+                "Unimproved",
+                ""
+              ]
+            },
+            "title": "Service level"
+          },
+          {
+            "name": "Facility type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Improved latrine and other",
+                "Septic tank",
+                "Sewer",
+                ""
+              ]
+            },
+            "title": "Facility type"
+          },
+          {
+            "name": "Residence type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                "Urban",
+                ""
+              ]
+            },
+            "title": "Residence type"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
@@ -72,7 +157,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

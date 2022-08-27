@@ -15,6 +15,83 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population using safely managed sanitation services (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Safely managed element",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Disposed insitu",
+                "Faecal sludge treated",
+                "Sewage treated",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Service level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Basic service",
+                "Limited service",
+                "Open defecation",
+                "Safely managed service",
+                "Unimproved",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Facility type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Improved latrine and other",
+                "Septic tank",
+                "Sewer",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Residence type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                "Urban",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
@@ -65,7 +142,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
