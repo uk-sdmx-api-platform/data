@@ -1,18 +1,18 @@
 Disaggregation,Number of indicators,Number of values
-AGE,3,3
+AGE,2,2
 Aid description (CRS code),1,2
 BASE_PER,2,1
 Beverage,1,4
 COMPOSITE_BREAKDOWN,4,41
 Country income classification,1,5
 INCOME_WEALTH_QUANTILE,1,1
-OBS_STATUS,20,3
+OBS_STATUS,18,2
 OCCUPATION,1,4
 Product,1,12
 PRODUCT,3,23
-REPORTING_TYPE,20,2
-SEX,3,4
-UNIT_MULT,20,3
+REPORTING_TYPE,18,2
+SEX,2,4
+UNIT_MULT,18,3
 Urbanisation,1,2
 URBANISATION,2,2
 Water resources management sub-category,1,32
