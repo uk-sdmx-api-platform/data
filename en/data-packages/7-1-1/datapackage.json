@@ -16,10 +16,28 @@
             "title": "Year"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "Urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Urbanisation"
+          },
+          {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
+                "Normal value",
                 "Normal value",
                 ""
               ]
@@ -32,26 +50,28 @@
             "constraints": {
               "enum": [
                 "Units",
+                "Units",
                 ""
               ]
             },
             "title": "Unit multiplier"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
             "name": "REPORTING_TYPE",
             "type": "string",
             "constraints": {
               "enum": [
+                "National",
                 "Global",
                 ""
               ]
             },
             "title": "Reporting type"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
           },
           {
             "name": "URBANISATION",
@@ -66,13 +86,8 @@
             "title": "Degree of urbanisation"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
