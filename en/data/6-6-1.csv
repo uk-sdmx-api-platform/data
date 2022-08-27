@@ -1,1 +1,17 @@
-Year,Value
+Year,Observation status,Unit multiplier,Reporting type,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
+2017,Normal value,Units,Global,Lake water quality turbidity (%) [6.6.1],Deviation Level: Extreme (75-100%),Percent,19.90688
+2018,Normal value,Units,Global,Lake water quality turbidity (%) [6.6.1],Deviation Level: Extreme (75-100%),Percent,18.86251
+2019,Normal value,Units,Global,Lake water quality turbidity (%) [6.6.1],Deviation Level: Extreme (75-100%),Percent,26.42781
+2020,Normal value,Units,Global,Lake water quality turbidity (%) [6.6.1],Deviation Level: Extreme (75-100%),Percent,24.31356
+2017,Normal value,Units,Global,Lake water quality turbidity (%) [6.6.1],Deviation Level: High (50-75%),Percent,11.22503
+2018,Normal value,Units,Global,Lake water quality turbidity (%) [6.6.1],Deviation Level: High (50-75%),Percent,11.06047
+2019,Normal value,Units,Global,Lake water quality turbidity (%) [6.6.1],Deviation Level: High (50-75%),Percent,13.94188
+2020,Normal value,Units,Global,Lake water quality turbidity (%) [6.6.1],Deviation Level: High (50-75%),Percent,14.95649
+2017,Normal value,Units,Global,Lake water quality turbidity (%) [6.6.1],Deviation Level: Low (0-25%),Percent,60.03593
+2018,Normal value,Units,Global,Lake water quality turbidity (%) [6.6.1],Deviation Level: Low (0-25%),Percent,59.70662
+2019,Normal value,Units,Global,Lake water quality turbidity (%) [6.6.1],Deviation Level: Low (0-25%),Percent,49.34413
+2020,Normal value,Units,Global,Lake water quality turbidity (%) [6.6.1],Deviation Level: Low (0-25%),Percent,49.40606
+2017,Normal value,Units,Global,Lake water quality turbidity (%) [6.6.1],Deviation Level: Medium (25-50%),Percent,8.83216
+2018,Normal value,Units,Global,Lake water quality turbidity (%) [6.6.1],Deviation Level: Medium (25-50%),Percent,10.3704
+2019,Normal value,Units,Global,Lake water quality turbidity (%) [6.6.1],Deviation Level: Medium (25-50%),Percent,10.28618
+2020,Normal value,Units,Global,Lake water quality turbidity (%) [6.6.1],Deviation Level: Medium (25-50%),Percent,11.32389

@@ -1,1 +1,2 @@
-Year,Value
+Year,Value,Reporting type,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+2017,2.66,Global,Normal value,Units,Percent,Growth rates of household expenditure or income per capita [10.1.1]

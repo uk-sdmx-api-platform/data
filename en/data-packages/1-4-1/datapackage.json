@@ -26,7 +26,6 @@
             "constraints": {
               "enum": [
                 "Normal value",
-                "Normal value",
                 ""
               ]
             },
@@ -43,7 +42,6 @@
             "constraints": {
               "enum": [
                 "Units",
-                "Units",
                 ""
               ]
             },
@@ -55,23 +53,10 @@
             "constraints": {
               "enum": [
                 "National",
-                "Global",
                 ""
               ]
             },
             "title": "Reporting type"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Rural",
-                "Urban",
-                ""
-              ]
-            },
-            "title": "Degree of urbanisation"
           },
           {
             "name": "Value",

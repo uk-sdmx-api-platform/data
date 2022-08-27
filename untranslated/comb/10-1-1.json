@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2017,2017],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"REPORTING_TYPE":["G","G"],"SERIES":["SI_HEI_TOTL","SI_HEI_TOTL"],"INCOME_WEALTH_QUANTILE":[null,"B40"],"UNIT_MEASURE":["PT","PT"],"Value":[2.66,1.19]},"edges":{"From":["OBS_STATUS","UNIT_MULT","REPORTING_TYPE"],"To":["UNIT_MULT","REPORTING_TYPE","INCOME_WEALTH_QUANTILE"]}}

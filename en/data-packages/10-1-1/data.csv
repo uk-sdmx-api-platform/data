@@ -1,1 +1,3 @@
-Year,Value
+Year,Observation status,Unit multiplier,Reporting type,SERIES,Income or wealth quantile,UNIT_MEASURE,Value
+2017,Normal value,Units,Global,Growth rates of household expenditure or income per capita [10.1.1],,Percent,2.66
+2017,Normal value,Units,Global,Growth rates of household expenditure or income per capita [10.1.1],Bottom 40%,Percent,1.19

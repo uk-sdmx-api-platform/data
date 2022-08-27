@@ -21,9 +21,6 @@
             "constraints": {
               "enum": [
                 "under 15 years old",
-                "65 years old and over",
-                "under 15 years old",
-                "15 to 64 years old",
                 ""
               ]
             },
@@ -34,8 +31,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
                 "Male",
                 ""
               ]
@@ -53,7 +48,6 @@
             "constraints": {
               "enum": [
                 "Estimated value",
-                "Normal value",
                 ""
               ]
             },
@@ -64,7 +58,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Units",
                 "Units",
                 ""
               ]
@@ -82,23 +75,10 @@
             "constraints": {
               "enum": [
                 "National",
-                "Global",
                 ""
               ]
             },
             "title": "Reporting type"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Rural",
-                "Urban",
-                ""
-              ]
-            },
-            "title": "Degree of urbanisation"
           },
           {
             "name": "Value",

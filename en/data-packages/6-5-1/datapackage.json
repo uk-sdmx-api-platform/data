@@ -73,7 +73,6 @@
             "constraints": {
               "enum": [
                 "Normal value",
-                "Normal value",
                 ""
               ]
             },
@@ -84,7 +83,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Units",
                 "Units",
                 ""
               ]
@@ -97,7 +95,6 @@
             "constraints": {
               "enum": [
                 "National",
-                "Global",
                 ""
               ]
             },

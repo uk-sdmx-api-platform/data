@@ -24,7 +24,6 @@
             "constraints": {
               "enum": [
                 "Normal value",
-                "A",
                 ""
               ]
             }
@@ -35,7 +34,6 @@
             "constraints": {
               "enum": [
                 "Units",
-                "0",
                 ""
               ]
             }
@@ -50,7 +48,6 @@
             "constraints": {
               "enum": [
                 "National",
-                "G",
                 ""
               ]
             }

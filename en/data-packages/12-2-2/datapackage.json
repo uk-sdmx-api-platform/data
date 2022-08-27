@@ -12,8 +12,89 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Global",
+                ""
+              ]
+            },
+            "title": "Reporting type"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "PRODUCT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Non-metallic minerals - construction dominant (material flows)",
+                "Non-metallic minerals - industrial or agricultural dominant (material flows)",
+                "Biomass (material flows)",
+                "Crops (material flows)",
+                "Crop residues (material flows)",
+                "Grazed biomass and fodder crops (material flows)",
+                "Wood (material flows)",
+                "Wild catch and harvest (material flows)",
+                "Metal ores (material flows)",
+                "Ferrous ores (material flows)",
+                "Non-ferrous ores (material flows)",
+                "Non-metallic minerals (material flows)",
+                "Fossil fuels (material flows)",
+                "Coal (material flows)",
+                "Oil shale and tar sands (material flows)",
+                "Petroleum (material flows)",
+                "Natural gas (material flows)",
+                ""
+              ]
+            },
+            "title": "Type of product"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "BASE_PER",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2015",
+                ""
+              ]
+            },
+            "title": "Base period"
           },
           {
             "name": "Value",

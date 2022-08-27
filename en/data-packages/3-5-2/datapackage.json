@@ -26,7 +26,6 @@
             "constraints": {
               "enum": [
                 "15 years old and over",
-                "15 years old and over",
                 ""
               ]
             },
@@ -53,8 +52,6 @@
               "enum": [
                 "Female",
                 "Male",
-                "Female",
-                "Male",
                 ""
               ]
             },
@@ -66,7 +63,6 @@
             "constraints": {
               "enum": [
                 "Normal value",
-                "Normal value",
                 ""
               ]
             },
@@ -77,7 +73,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Units",
                 "Units",
                 ""
               ]
@@ -95,7 +90,6 @@
             "constraints": {
               "enum": [
                 "National",
-                "Global",
                 ""
               ]
             },

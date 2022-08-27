@@ -1,1 +1,50 @@
-Year,Value
+Year,Observation status,Unit multiplier,Reporting type,SERIES,Type of product,UNIT_MEASURE,Value
+2005,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],,Percent,36.69737
+2010,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],,Percent,41.57237
+2015,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],,Percent,47.51073
+2017,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],,Percent,51.65722
+2018,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],,Percent,52.81778
+2019,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],,Percent,52.54822
+2020,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],,Percent,54.1689
+2005,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Agriculture products,Percent,27.26939
+2010,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Agriculture products,Percent,37.47863
+2015,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Agriculture products,Percent,39.68386
+2017,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Agriculture products,Percent,44.46362
+2018,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Agriculture products,Percent,45.52161
+2019,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Agriculture products,Percent,46.88194
+2020,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Agriculture products,Percent,48.11384
+2005,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Arms,Percent,41.90751
+2010,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Arms,Percent,44.89796
+2015,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Arms,Percent,44.67532
+2017,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Arms,Percent,53.24324
+2018,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Arms,Percent,54.24658
+2019,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Arms,Percent,57.66234
+2020,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Arms,Percent,59.87842
+2005,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Clothing,Percent,28.24427
+2010,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Clothing,Percent,32.19747
+2015,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Clothing,Percent,37.21447
+2017,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Clothing,Percent,43.71191
+2018,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Clothing,Percent,45.85823
+2019,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Clothing,Percent,43.03393
+2020,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Clothing,Percent,44.66555
+2005,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Industrial products,Percent,38.10873
+2010,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Industrial products,Percent,42.65676
+2015,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Industrial products,Percent,49.12029
+2017,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Industrial products,Percent,53.17202
+2018,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Industrial products,Percent,54.33325
+2019,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Industrial products,Percent,54.0574
+2020,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Industrial products,Percent,55.78927
+2005,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Oil,Percent,54.54545
+2010,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Oil,Percent,57.14286
+2015,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Oil,Percent,54.54545
+2017,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Oil,Percent,80.95238
+2018,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Oil,Percent,80.95238
+2019,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Oil,Percent,66.66667
+2020,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Oil,Percent,61.90476
+2005,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Textiles,Percent,33.26368
+2010,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Textiles,Percent,37.96591
+2015,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Textiles,Percent,44.13294
+2017,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Textiles,Percent,48.30628
+2018,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Textiles,Percent,48.96571
+2019,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Textiles,Percent,48.77396
+2020,Normal value,Units,Global,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],Textiles,Percent,50.26365

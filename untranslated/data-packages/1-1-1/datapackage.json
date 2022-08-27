@@ -20,9 +20,6 @@
             "constraints": {
               "enum": [
                 "under 15 years old",
-                "Y_GE65",
-                "Y0T14",
-                "Y15T64",
                 ""
               ]
             }
@@ -33,8 +30,6 @@
             "constraints": {
               "enum": [
                 "Male",
-                "F",
-                "M",
                 ""
               ]
             }
@@ -49,7 +44,6 @@
             "constraints": {
               "enum": [
                 "Estimated value",
-                "A",
                 ""
               ]
             }
@@ -60,7 +54,6 @@
             "constraints": {
               "enum": [
                 "Units",
-                "0",
                 ""
               ]
             }
@@ -75,18 +68,6 @@
             "constraints": {
               "enum": [
                 "National",
-                "G",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "R",
-                "U",
                 ""
               ]
             }
