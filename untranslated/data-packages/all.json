@@ -84,91 +84,6 @@
       "title": "Tourism direct GDP as a proportion of total GDP and in growth rate"
     },
     {
-      "path": "3-b-2/data.csv",
-      "name": "3-b-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "Country income classification",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "LDCs",
-                "LMICs",
-                "Other LICs",
-                "UMICs",
-                "Unspecified",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Aid description (CRS code)",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Basic health",
-                "Medical research",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Normal value",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Thousands",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "REPORTING_TYPE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "National",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Total net official development assistance to medical research and basic health sectors"
-    },
-    {
       "path": "7-1-1/data.csv",
       "name": "7-1-1",
       "profile": "tabular-data-resource",
@@ -183,26 +98,10 @@
             "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "Urbanisation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            }
-          },
-          {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "Normal value",
                 "A",
                 ""
               ]
@@ -213,26 +112,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Units",
                 "0",
                 ""
               ]
             }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
             "name": "REPORTING_TYPE",
             "type": "string",
             "constraints": {
               "enum": [
-                "National",
                 "G",
                 ""
               ]
             }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "URBANISATION",
@@ -246,113 +143,16 @@
             }
           },
           {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of population with access to electricity"
-    },
-    {
-      "path": "6-5-1/data.csv",
-      "name": "6-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "Water resources management sub-category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Arrangements for transboundary water management in most important basins and aquifers",
-                "Basin and aquifer management plans",
-                "National integrated water resources management (IWRM) plans",
-                "National water resources law",
-                "National water resources policy",
-                "Sub-national water resources regulations",
-                "Sub-national water resources policies",
-                "Financing for transboundary cooperation",
-                "National budget for investment including water resources infrastructure",
-                "National budget for the recurrent costs of the integrated water resources management (IWRM) elements",
-                "Revenues raised from dedicated levies on water users at basin, aquifer or sub-national levels",
-                "Sub-national or basin budgets for investment including water resources infrastructure",
-                "Basin and aquifer level organizations for leading implementation of integrated water resources management (IWRM) plans",
-                "Private Sector participation in water resources development, management and use at national level",
-                "Coordination between national government authorities representing different sectors on water resources, policy, planning and management",
-                "Developing integrated water resources management (IWRM) capacity at the national level",
-                "National government authority capacity for leading implementation of national integrated water resources management (IWRM) plans",
-                "Organizational framework for transboundary water management for most important basins and aquifers",
-                "Public participation in water resources, policy, planning and management at national level",
-                "Public participation in water resources, policy, planning and management at the local level",
-                "Sub-national authorities for leading IWRM implementation",
-                "Aquifer management instruments",
-                "Basin management instruments",
-                "Data and information sharing within countries at all levels",
-                "Management instruments to reduce impacts of water-related disasters from the national level",
-                "Management of water-related ecosystems from the national level",
-                "National monitoring of water availability",
-                "Pollution control from the national level",
-                "Sustainable and efficient water use management from the national level",
-                "Transboundary data and information sharing between countries",
-                "Sub-national or basin budgets for IWRM elements",
-                "Participation of vulnerable groups in water resources planning and management",
-                ""
-              ]
-            }
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Normal value",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Units",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "REPORTING_TYPE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "National",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "integer"
           }
         ]
       },
-      "title": "Degree of integrated water resources management"
+      "title": "Proportion of population with access to electricity"
     },
     {
       "path": "6-6-1/data.csv",
@@ -2301,6 +2101,28 @@
       "title": "Percentage of bloodstream infections due to selected antimicrobial-resistant organismsi"
     },
     {
+      "path": "3-b-2/data.csv",
+      "name": "3-b-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Total net official development assistance to medical research and basic health sectors"
+    },
+    {
       "path": "17-19-1/data.csv",
       "name": "17-19-1",
       "profile": "tabular-data-resource",
@@ -3113,6 +2935,28 @@
         ]
       },
       "title": "Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sexi"
+    },
+    {
+      "path": "6-5-1/data.csv",
+      "name": "6-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Degree of integrated water resources management"
     },
     {
       "path": "13-b-1/data.csv",
