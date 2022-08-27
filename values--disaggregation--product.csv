@@ -1,13 +1,24 @@
 Value,Disaggregation combinations using this value,Number of indicators
-Accommodation services for visitors,1,1
-Air passenger transport services,1,1
-Cultural activities,1,1
-Exhibitions & Conferences etc.,1,1
-Food and beverage serving activities,1,1
-Other consumption products,1,1
-Railway passenger transport services,1,1
-Road passenger transport services,1,1
-Sport and recreation activities,1,1
-Transport equipment rental services,1,1
-Travel agencies and other reservation services,1,1
-Water passenger transport services,1,1
+AGG_AGR,1,1
+AGG_ARMS,1,1
+AGG_CLTH,1,1
+AGG_IND,1,1
+AGG_OIL,1,1
+AGG_TXT,1,1
+MF1,6,2
+MF11,6,2
+MF121,6,2
+MF122,6,2
+MF13,6,2
+MF14,6,2
+MF2,6,2
+MF21,6,2
+MF22,6,2
+MF3,6,2
+MF4,6,2
+MF41,6,2
+MF413,6,2
+MF421,6,2
+MF422,6,2
+MF_AGG3A,6,2
+MF_AGG3B,6,2

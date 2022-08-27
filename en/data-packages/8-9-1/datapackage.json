@@ -12,73 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "Product",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Accommodation services for visitors",
-                "Food and beverage serving activities",
-                "Railway passenger transport services",
-                "Road passenger transport services",
-                "Water passenger transport services",
-                "Air passenger transport services",
-                "Transport equipment rental services",
-                "Travel agencies and other reservation services",
-                "Cultural activities",
-                "Sport and recreation activities",
-                "Exhibitions & Conferences etc.",
-                "Other consumption products",
-                ""
-              ]
-            },
-            "title": "Product"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Units",
-                ""
-              ]
-            },
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Normal value",
-                ""
-              ]
-            },
-            "title": "Observation status"
-          },
-          {
-            "name": "REPORTING_TYPE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "National",
-                ""
-              ]
-            },
-            "title": "Reporting type"
           },
           {
             "name": "Value",
