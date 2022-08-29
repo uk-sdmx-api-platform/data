@@ -15,6 +15,10 @@
             "type": "integer"
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
             "name": "Country",
             "type": "string",
             "constraints": {
@@ -28,37 +32,25 @@
             }
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "Male",
                 "Female",
+                "F",
+                "M",
                 ""
               ]
             }
-          },
-          {
-            "name": "Observation status",
-            "type": "string"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
           },
           {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
+                "Normal value",
+                "Undefined",
                 "A",
                 ""
               ]
@@ -69,10 +61,19 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Units",
                 "0",
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "REPORTING_TYPE",
@@ -80,21 +81,6 @@
             "constraints": {
               "enum": [
                 "G",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "F",
-                "M",
                 ""
               ]
             }
@@ -108,10 +94,6 @@
                 ""
               ]
             }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
           },
           {
             "name": "Value",
