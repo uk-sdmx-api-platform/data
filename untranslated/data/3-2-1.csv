@@ -1,373 +1,373 @@
-Year,SERIES,AGE,Country,SEX,OBS_STATUS,UNIT_MULT,UNIT_MEASURE,REPORTING_TYPE,Value
-2000,Under-five mortality rate [3.2.1],under 5 years old,,,Normal value,Units,"Per 1,000 live births",National,6.55
-2001,Under-five mortality rate [3.2.1],under 5 years old,,,Normal value,Units,"Per 1,000 live births",National,6.44
-2002,Under-five mortality rate [3.2.1],under 5 years old,,,Normal value,Units,"Per 1,000 live births",National,6.19
-2003,Under-five mortality rate [3.2.1],under 5 years old,,,Normal value,Units,"Per 1,000 live births",National,6.25
-2004,Under-five mortality rate [3.2.1],under 5 years old,,,Normal value,Units,"Per 1,000 live births",National,5.86
-2005,Under-five mortality rate [3.2.1],under 5 years old,,,Normal value,Units,"Per 1,000 live births",National,5.9
-2006,Under-five mortality rate [3.2.1],under 5 years old,,,Normal value,Units,"Per 1,000 live births",National,5.75
-2007,Under-five mortality rate [3.2.1],under 5 years old,,,Normal value,Units,"Per 1,000 live births",National,5.55
-2008,Under-five mortality rate [3.2.1],under 5 years old,,,Normal value,Units,"Per 1,000 live births",National,5.32
-2009,Under-five mortality rate [3.2.1],under 5 years old,,,Normal value,Units,"Per 1,000 live births",National,5.18
-2010,Under-five mortality rate [3.2.1],under 5 years old,,,Normal value,Units,"Per 1,000 live births",National,4.9
-2011,Under-five mortality rate [3.2.1],under 5 years old,,,Normal value,Units,"Per 1,000 live births",National,4.81
-2012,Under-five mortality rate [3.2.1],under 5 years old,,,Normal value,Units,"Per 1,000 live births",National,4.58
-2013,Under-five mortality rate [3.2.1],under 5 years old,,,Normal value,Units,"Per 1,000 live births",National,4.47
-2014,Under-five mortality rate [3.2.1],under 5 years old,,,Normal value,Units,"Per 1,000 live births",National,4.23
-2015,Under-five mortality rate [3.2.1],under 5 years old,,,Normal value,Units,"Per 1,000 live births",National,4.29
-2000,Under-five mortality rate [3.2.1],under 5 years old,,Male,Normal value,Units,"Per 1,000 live births",National,7.19
-2000,Under-five mortality rate [3.2.1],under 5 years old,,Female,Normal value,Units,"Per 1,000 live births",National,5.88
-2000,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,,Normal value,Units,"Per 1,000 live births",National,6.55
-2000,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,7.17
-2000,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,5.89
-2000,Under-five mortality rate [3.2.1],under 5 years old,England,,Normal value,Units,"Per 1,000 live births",National,6.49
-2000,Under-five mortality rate [3.2.1],under 5 years old,England,Male,Normal value,Units,"Per 1,000 live births",National,7.11
-2000,Under-five mortality rate [3.2.1],under 5 years old,England,Female,Normal value,Units,"Per 1,000 live births",National,5.85
-2000,Under-five mortality rate [3.2.1],under 5 years old,Wales,,Normal value,Units,"Per 1,000 live births",National,6.23
-2000,Under-five mortality rate [3.2.1],under 5 years old,Wales,Male,Normal value,Units,"Per 1,000 live births",National,7.26
-2000,Under-five mortality rate [3.2.1],under 5 years old,Wales,Female,Normal value,Units,"Per 1,000 live births",National,5.12
-2000,Under-five mortality rate [3.2.1],under 5 years old,Scotland,,Normal value,Units,"Per 1,000 live births",National,6.71
-2000,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Male,Normal value,Units,"Per 1,000 live births",National,7.57
-2000,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Female,Normal value,Units,"Per 1,000 live births",National,5.87
-2001,Under-five mortality rate [3.2.1],under 5 years old,,Male,Normal value,Units,"Per 1,000 live births",National,6.97
-2001,Under-five mortality rate [3.2.1],under 5 years old,,Female,Normal value,Units,"Per 1,000 live births",National,5.88
-2001,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,,Normal value,Units,"Per 1,000 live births",National,6.44
-2001,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,6.98
-2001,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,5.87
-2001,Under-five mortality rate [3.2.1],under 5 years old,England,,Normal value,Units,"Per 1,000 live births",National,6.37
-2001,Under-five mortality rate [3.2.1],under 5 years old,England,Male,Normal value,Units,"Per 1,000 live births",National,6.92
-2001,Under-five mortality rate [3.2.1],under 5 years old,England,Female,Normal value,Units,"Per 1,000 live births",National,5.8
-2001,Under-five mortality rate [3.2.1],under 5 years old,Wales,,Normal value,Units,"Per 1,000 live births",National,6.37
-2001,Under-five mortality rate [3.2.1],under 5 years old,Wales,Male,Normal value,Units,"Per 1,000 live births",National,7.05
-2001,Under-five mortality rate [3.2.1],under 5 years old,Wales,Female,Normal value,Units,"Per 1,000 live births",National,5.65
-2001,Under-five mortality rate [3.2.1],under 5 years old,Scotland,,Normal value,Units,"Per 1,000 live births",National,6.32
-2001,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Male,Normal value,Units,"Per 1,000 live births",National,6.61
-2001,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Female,Normal value,Units,"Per 1,000 live births",National,6.02
-2002,Under-five mortality rate [3.2.1],under 5 years old,,Male,Normal value,Units,"Per 1,000 live births",National,6.99
-2002,Under-five mortality rate [3.2.1],under 5 years old,,Female,Normal value,Units,"Per 1,000 live births",National,5.35
-2002,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,,Normal value,Units,"Per 1,000 live births",National,6.17
-2002,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,6.95
-2002,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,5.34
-2002,Under-five mortality rate [3.2.1],under 5 years old,England,,Normal value,Units,"Per 1,000 live births",National,6.16
-2002,Under-five mortality rate [3.2.1],under 5 years old,England,Male,Normal value,Units,"Per 1,000 live births",National,6.94
-2002,Under-five mortality rate [3.2.1],under 5 years old,England,Female,Normal value,Units,"Per 1,000 live births",National,5.33
-2002,Under-five mortality rate [3.2.1],under 5 years old,Wales,,Normal value,Units,"Per 1,000 live births",National,5.33
-2002,Under-five mortality rate [3.2.1],under 5 years old,Wales,Male,Normal value,Units,"Per 1,000 live births",National,5.85
-2002,Under-five mortality rate [3.2.1],under 5 years old,Wales,Female,Normal value,Units,"Per 1,000 live births",National,4.78
-2002,Under-five mortality rate [3.2.1],under 5 years old,Scotland,,Normal value,Units,"Per 1,000 live births",National,6.55
-2002,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Male,Normal value,Units,"Per 1,000 live births",National,7.67
-2002,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Female,Normal value,Units,"Per 1,000 live births",National,5.39
-2003,Under-five mortality rate [3.2.1],under 5 years old,,Male,Normal value,Units,"Per 1,000 live births",National,6.67
-2003,Under-five mortality rate [3.2.1],under 5 years old,,Female,Normal value,Units,"Per 1,000 live births",National,5.81
-2003,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,,Normal value,Units,"Per 1,000 live births",National,6.26
-2003,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,6.64
-2003,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,5.87
-2003,Under-five mortality rate [3.2.1],under 5 years old,England,,Normal value,Units,"Per 1,000 live births",National,6.24
-2003,Under-five mortality rate [3.2.1],under 5 years old,England,Male,Normal value,Units,"Per 1,000 live births",National,6.62
-2003,Under-five mortality rate [3.2.1],under 5 years old,England,Female,Normal value,Units,"Per 1,000 live births",National,5.85
-2003,Under-five mortality rate [3.2.1],under 5 years old,Wales,,Normal value,Units,"Per 1,000 live births",National,5.19
-2003,Under-five mortality rate [3.2.1],under 5 years old,Wales,Male,Normal value,Units,"Per 1,000 live births",National,5.52
-2003,Under-five mortality rate [3.2.1],under 5 years old,Wales,Female,Normal value,Units,"Per 1,000 live births",National,4.84
-2003,Under-five mortality rate [3.2.1],under 5 years old,Scotland,,Normal value,Units,"Per 1,000 live births",National,6.18
-2003,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Male,Normal value,Units,"Per 1,000 live births",National,6.73
-2003,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Female,Normal value,Units,"Per 1,000 live births",National,5.6
-2004,Under-five mortality rate [3.2.1],under 5 years old,,Male,Normal value,Units,"Per 1,000 live births",National,6.38
-2004,Under-five mortality rate [3.2.1],under 5 years old,,Female,Normal value,Units,"Per 1,000 live births",National,5.3
-2004,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,,Normal value,Units,"Per 1,000 live births",National,5.84
-2004,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,6.33
-2004,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,5.32
-2004,Under-five mortality rate [3.2.1],under 5 years old,England,,Normal value,Units,"Per 1,000 live births",National,5.78
-2004,Under-five mortality rate [3.2.1],under 5 years old,England,Male,Normal value,Units,"Per 1,000 live births",National,6.28
-2004,Under-five mortality rate [3.2.1],under 5 years old,England,Female,Normal value,Units,"Per 1,000 live births",National,5.26
-2004,Under-five mortality rate [3.2.1],under 5 years old,Wales,,Normal value,Units,"Per 1,000 live births",National,5.63
-2004,Under-five mortality rate [3.2.1],under 5 years old,Wales,Male,Normal value,Units,"Per 1,000 live births",National,6.13
-2004,Under-five mortality rate [3.2.1],under 5 years old,Wales,Female,Normal value,Units,"Per 1,000 live births",National,5.1
-2004,Under-five mortality rate [3.2.1],under 5 years old,Scotland,,Normal value,Units,"Per 1,000 live births",National,5.82
-2004,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Male,Normal value,Units,"Per 1,000 live births",National,6.81
-2004,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Female,Normal value,Units,"Per 1,000 live births",National,4.77
-2005,Under-five mortality rate [3.2.1],under 5 years old,,Male,Normal value,Units,"Per 1,000 live births",National,6.58
-2005,Under-five mortality rate [3.2.1],under 5 years old,,Female,Normal value,Units,"Per 1,000 live births",National,5.18
-2005,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,,Normal value,Units,"Per 1,000 live births",National,5.82
-2005,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,6.51
-2005,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,5.1
-2005,Under-five mortality rate [3.2.1],under 5 years old,England,,Normal value,Units,"Per 1,000 live births",National,5.81
-2005,Under-five mortality rate [3.2.1],under 5 years old,England,Male,Normal value,Units,"Per 1,000 live births",National,6.49
-2005,Under-five mortality rate [3.2.1],under 5 years old,England,Female,Normal value,Units,"Per 1,000 live births",National,5.1
-2005,Under-five mortality rate [3.2.1],under 5 years old,Wales,,Normal value,Units,"Per 1,000 live births",National,4.69
-2005,Under-five mortality rate [3.2.1],under 5 years old,Wales,Male,Normal value,Units,"Per 1,000 live births",National,5.48
-2005,Under-five mortality rate [3.2.1],under 5 years old,Wales,Female,Normal value,Units,"Per 1,000 live births",National,3.86
-2005,Under-five mortality rate [3.2.1],under 5 years old,Scotland,,Normal value,Units,"Per 1,000 live births",National,6.33
-2005,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Male,Normal value,Units,"Per 1,000 live births",National,6.84
-2005,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Female,Normal value,Units,"Per 1,000 live births",National,5.78
-2006,Under-five mortality rate [3.2.1],under 5 years old,,Male,Normal value,Units,"Per 1,000 live births",National,6.23
-2006,Under-five mortality rate [3.2.1],under 5 years old,,Female,Normal value,Units,"Per 1,000 live births",National,5.25
-2006,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,,Normal value,Units,"Per 1,000 live births",National,5.77
-2006,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,6.24
-2006,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,5.29
-2006,Under-five mortality rate [3.2.1],under 5 years old,England,,Normal value,Units,"Per 1,000 live births",National,5.75
-2006,Under-five mortality rate [3.2.1],under 5 years old,England,Male,Normal value,Units,"Per 1,000 live births",National,6.19
-2006,Under-five mortality rate [3.2.1],under 5 years old,England,Female,Normal value,Units,"Per 1,000 live births",National,5.28
-2006,Under-five mortality rate [3.2.1],under 5 years old,Wales,,Normal value,Units,"Per 1,000 live births",National,4.85
-2006,Under-five mortality rate [3.2.1],under 5 years old,Wales,Male,Normal value,Units,"Per 1,000 live births",National,5.51
-2006,Under-five mortality rate [3.2.1],under 5 years old,Wales,Female,Normal value,Units,"Per 1,000 live births",National,4.15
-2006,Under-five mortality rate [3.2.1],under 5 years old,Scotland,,Normal value,Units,"Per 1,000 live births",National,5.3
-2006,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Male,Normal value,Units,"Per 1,000 live births",National,5.83
-2006,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Female,Normal value,Units,"Per 1,000 live births",National,4.74
-2007,Under-five mortality rate [3.2.1],under 5 years old,,Male,Normal value,Units,"Per 1,000 live births",National,6.15
-2007,Under-five mortality rate [3.2.1],under 5 years old,,Female,Normal value,Units,"Per 1,000 live births",National,4.92
-2007,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,,Normal value,Units,"Per 1,000 live births",National,5.54
-2007,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,6.14
-2007,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,4.9
-2007,Under-five mortality rate [3.2.1],under 5 years old,England,,Normal value,Units,"Per 1,000 live births",National,5.47
-2007,Under-five mortality rate [3.2.1],under 5 years old,England,Male,Normal value,Units,"Per 1,000 live births",National,6.02
-2007,Under-five mortality rate [3.2.1],under 5 years old,England,Female,Normal value,Units,"Per 1,000 live births",National,4.89
-2007,Under-five mortality rate [3.2.1],under 5 years old,Wales,,Normal value,Units,"Per 1,000 live births",National,5.49
-2007,Under-five mortality rate [3.2.1],under 5 years old,Wales,Male,Normal value,Units,"Per 1,000 live births",National,6.8
-2007,Under-five mortality rate [3.2.1],under 5 years old,Wales,Female,Normal value,Units,"Per 1,000 live births",National,4.11
-2007,Under-five mortality rate [3.2.1],under 5 years old,Scotland,,Normal value,Units,"Per 1,000 live births",National,5.59
-2007,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Male,Normal value,Units,"Per 1,000 live births",National,6.03
-2007,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Female,Normal value,Units,"Per 1,000 live births",National,5.13
-2008,Under-five mortality rate [3.2.1],under 5 years old,,Male,Normal value,Units,"Per 1,000 live births",National,5.79
-2008,Under-five mortality rate [3.2.1],under 5 years old,,Female,Normal value,Units,"Per 1,000 live births",National,4.83
-2008,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,,Normal value,Units,"Per 1,000 live births",National,5.35
-2008,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,5.84
-2008,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,4.84
-2008,Under-five mortality rate [3.2.1],under 5 years old,England,,Normal value,Units,"Per 1,000 live births",National,5.31
-2008,Under-five mortality rate [3.2.1],under 5 years old,England,Male,Normal value,Units,"Per 1,000 live births",National,5.79
-2008,Under-five mortality rate [3.2.1],under 5 years old,England,Female,Normal value,Units,"Per 1,000 live births",National,4.81
-2008,Under-five mortality rate [3.2.1],under 5 years old,Wales,,Normal value,Units,"Per 1,000 live births",National,4.57
-2008,Under-five mortality rate [3.2.1],under 5 years old,Wales,Male,Normal value,Units,"Per 1,000 live births",National,4.85
-2008,Under-five mortality rate [3.2.1],under 5 years old,Wales,Female,Normal value,Units,"Per 1,000 live births",National,4.28
-2008,Under-five mortality rate [3.2.1],under 5 years old,Scotland,,Normal value,Units,"Per 1,000 live births",National,4.86
-2008,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Male,Normal value,Units,"Per 1,000 live births",National,5.3
-2008,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Female,Normal value,Units,"Per 1,000 live births",National,4.41
-2009,Under-five mortality rate [3.2.1],under 5 years old,,Male,Normal value,Units,"Per 1,000 live births",National,5.55
-2009,Under-five mortality rate [3.2.1],under 5 years old,,Female,Normal value,Units,"Per 1,000 live births",National,4.78
-2009,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,,Normal value,Units,"Per 1,000 live births",National,5.19
-2009,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,5.54
-2009,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,4.81
-2009,Under-five mortality rate [3.2.1],under 5 years old,England,,Normal value,Units,"Per 1,000 live births",National,5.11
-2009,Under-five mortality rate [3.2.1],under 5 years old,England,Male,Normal value,Units,"Per 1,000 live births",National,5.45
-2009,Under-five mortality rate [3.2.1],under 5 years old,England,Female,Normal value,Units,"Per 1,000 live births",National,4.75
-2009,Under-five mortality rate [3.2.1],under 5 years old,Wales,,Normal value,Units,"Per 1,000 live births",National,5.18
-2009,Under-five mortality rate [3.2.1],under 5 years old,Wales,Male,Normal value,Units,"Per 1,000 live births",National,5.6
-2009,Under-five mortality rate [3.2.1],under 5 years old,Wales,Female,Normal value,Units,"Per 1,000 live births",National,4.74
-2009,Under-five mortality rate [3.2.1],under 5 years old,Scotland,,Normal value,Units,"Per 1,000 live births",National,4.67
-2009,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Male,Normal value,Units,"Per 1,000 live births",National,5.4
-2009,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Female,Normal value,Units,"Per 1,000 live births",National,3.91
-2010,Under-five mortality rate [3.2.1],under 5 years old,,Male,Normal value,Units,"Per 1,000 live births",National,5.27
-2010,Under-five mortality rate [3.2.1],under 5 years old,,Female,Normal value,Units,"Per 1,000 live births",National,4.51
-2010,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,,Normal value,Units,"Per 1,000 live births",National,4.88
-2010,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,5.26
-2010,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,4.49
-2010,Under-five mortality rate [3.2.1],under 5 years old,England,,Normal value,Units,"Per 1,000 live births",National,4.87
-2010,Under-five mortality rate [3.2.1],under 5 years old,England,Male,Normal value,Units,"Per 1,000 live births",National,5.24
-2010,Under-five mortality rate [3.2.1],under 5 years old,England,Female,Normal value,Units,"Per 1,000 live births",National,4.48
-2010,Under-five mortality rate [3.2.1],under 5 years old,Wales,,Normal value,Units,"Per 1,000 live births",National,4.31
-2010,Under-five mortality rate [3.2.1],under 5 years old,Wales,Male,Normal value,Units,"Per 1,000 live births",National,4.71
-2010,Under-five mortality rate [3.2.1],under 5 years old,Wales,Female,Normal value,Units,"Per 1,000 live births",National,3.89
-2010,Under-five mortality rate [3.2.1],under 5 years old,Scotland,,Normal value,Units,"Per 1,000 live births",National,4.42
-2010,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Male,Normal value,Units,"Per 1,000 live births",National,4.75
-2010,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Female,Normal value,Units,"Per 1,000 live births",National,4.08
-2011,Under-five mortality rate [3.2.1],under 5 years old,,Male,Normal value,Units,"Per 1,000 live births",National,5.43
-2011,Under-five mortality rate [3.2.1],under 5 years old,,Female,Normal value,Units,"Per 1,000 live births",National,4.15
-2011,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,,Normal value,Units,"Per 1,000 live births",National,4.81
-2011,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,5.42
-2011,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,4.16
-2011,Under-five mortality rate [3.2.1],under 5 years old,England,,Normal value,Units,"Per 1,000 live births",National,4.78
-2011,Under-five mortality rate [3.2.1],under 5 years old,England,Male,Normal value,Units,"Per 1,000 live births",National,5.38
-2011,Under-five mortality rate [3.2.1],under 5 years old,England,Female,Normal value,Units,"Per 1,000 live births",National,4.14
-2011,Under-five mortality rate [3.2.1],under 5 years old,Wales,,Normal value,Units,"Per 1,000 live births",National,4.16
-2011,Under-five mortality rate [3.2.1],under 5 years old,Wales,Male,Normal value,Units,"Per 1,000 live births",National,4.79
-2011,Under-five mortality rate [3.2.1],under 5 years old,Wales,Female,Normal value,Units,"Per 1,000 live births",National,3.5
-2011,Under-five mortality rate [3.2.1],under 5 years old,Scotland,,Normal value,Units,"Per 1,000 live births",National,4.69
-2011,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Male,Normal value,Units,"Per 1,000 live births",National,5.25
-2011,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Female,Normal value,Units,"Per 1,000 live births",National,4.11
-2012,Under-five mortality rate [3.2.1],under 5 years old,,Male,Normal value,Units,"Per 1,000 live births",National,5.05
-2012,Under-five mortality rate [3.2.1],under 5 years old,,Female,Normal value,Units,"Per 1,000 live births",National,4.08
-2012,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,,Normal value,Units,"Per 1,000 live births",National,4.61
-2012,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,5.08
-2012,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,4.12
-2012,Under-five mortality rate [3.2.1],under 5 years old,England,,Normal value,Units,"Per 1,000 live births",National,4.56
-2012,Under-five mortality rate [3.2.1],under 5 years old,England,Male,Normal value,Units,"Per 1,000 live births",National,5.01
-2012,Under-five mortality rate [3.2.1],under 5 years old,England,Female,Normal value,Units,"Per 1,000 live births",National,4.08
-2012,Under-five mortality rate [3.2.1],under 5 years old,Wales,,Normal value,Units,"Per 1,000 live births",National,4.65
-2012,Under-five mortality rate [3.2.1],under 5 years old,Wales,Male,Normal value,Units,"Per 1,000 live births",National,5.39
-2012,Under-five mortality rate [3.2.1],under 5 years old,Wales,Female,Normal value,Units,"Per 1,000 live births",National,3.88
-2012,Under-five mortality rate [3.2.1],under 5 years old,Scotland,,Normal value,Units,"Per 1,000 live births",National,4.38
-2012,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Male,Normal value,Units,"Per 1,000 live births",National,5.15
-2012,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Female,Normal value,Units,"Per 1,000 live births",National,3.57
-2013,Under-five mortality rate [3.2.1],under 5 years old,,Male,Normal value,Units,"Per 1,000 live births",National,4.86
-2013,Under-five mortality rate [3.2.1],under 5 years old,,Female,Normal value,Units,"Per 1,000 live births",National,4.05
-2013,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,,Normal value,Units,"Per 1,000 live births",National,4.47
-2013,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,4.89
-2013,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,4.03
-2013,Under-five mortality rate [3.2.1],under 5 years old,England,,Normal value,Units,"Per 1,000 live births",National,4.42
-2013,Under-five mortality rate [3.2.1],under 5 years old,England,Male,Normal value,Units,"Per 1,000 live births",National,4.87
-2013,Under-five mortality rate [3.2.1],under 5 years old,England,Female,Normal value,Units,"Per 1,000 live births",National,3.95
-2013,Under-five mortality rate [3.2.1],under 5 years old,Wales,,Normal value,Units,"Per 1,000 live births",National,4.18
-2013,Under-five mortality rate [3.2.1],under 5 years old,Wales,Male,Normal value,Units,"Per 1,000 live births",National,4.14
-2013,Under-five mortality rate [3.2.1],under 5 years old,Wales,Female,Normal value,Units,"Per 1,000 live births",National,4.22
-2013,Under-five mortality rate [3.2.1],under 5 years old,Scotland,,Normal value,Units,"Per 1,000 live births",National,4.03
-2013,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Male,Normal value,Units,"Per 1,000 live births",National,4.13
-2013,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Female,Normal value,Units,"Per 1,000 live births",National,3.94
-2014,Under-five mortality rate [3.2.1],under 5 years old,,Male,Normal value,Units,"Per 1,000 live births",National,4.56
-2014,Under-five mortality rate [3.2.1],under 5 years old,,Female,Normal value,Units,"Per 1,000 live births",National,3.88
-2014,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,,Normal value,Units,"Per 1,000 live births",National,4.2
-2014,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,4.49
-2014,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,3.89
-2014,Under-five mortality rate [3.2.1],under 5 years old,England,,Normal value,Units,"Per 1,000 live births",National,4.19
-2014,Under-five mortality rate [3.2.1],under 5 years old,England,Male,Normal value,Units,"Per 1,000 live births",National,4.44
-2014,Under-five mortality rate [3.2.1],under 5 years old,England,Female,Normal value,Units,"Per 1,000 live births",National,3.91
-2014,Under-five mortality rate [3.2.1],under 5 years old,Wales,,Normal value,Units,"Per 1,000 live births",National,3.67
-2014,Under-five mortality rate [3.2.1],under 5 years old,Wales,Male,Normal value,Units,"Per 1,000 live births",National,4.45
-2014,Under-five mortality rate [3.2.1],under 5 years old,Wales,Female,Normal value,Units,"Per 1,000 live births",National,2.83
-2014,Under-five mortality rate [3.2.1],under 5 years old,Scotland,,Normal value,Units,"Per 1,000 live births",National,4.11
-2014,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Male,Normal value,Units,"Per 1,000 live births",National,4.41
-2014,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Female,Normal value,Units,"Per 1,000 live births",National,3.79
-2015,Under-five mortality rate [3.2.1],under 5 years old,,Male,Normal value,Units,"Per 1,000 live births",National,4.85
-2015,Under-five mortality rate [3.2.1],under 5 years old,,Female,Normal value,Units,"Per 1,000 live births",National,3.7
-2015,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,,Normal value,Units,"Per 1,000 live births",National,4.28
-2015,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,4.84
-2015,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,3.68
-2015,Under-five mortality rate [3.2.1],under 5 years old,England,,Normal value,Units,"Per 1,000 live births",National,4.24
-2015,Under-five mortality rate [3.2.1],under 5 years old,England,Male,Normal value,Units,"Per 1,000 live births",National,4.78
-2015,Under-five mortality rate [3.2.1],under 5 years old,England,Female,Normal value,Units,"Per 1,000 live births",National,3.67
-2015,Under-five mortality rate [3.2.1],under 5 years old,Wales,,Normal value,Units,"Per 1,000 live births",National,4.15
-2015,Under-five mortality rate [3.2.1],under 5 years old,Wales,Male,Normal value,Units,"Per 1,000 live births",National,5.02
-2015,Under-five mortality rate [3.2.1],under 5 years old,Wales,Female,Normal value,Units,"Per 1,000 live births",National,3.24
-2015,Under-five mortality rate [3.2.1],under 5 years old,Scotland,,Normal value,Units,"Per 1,000 live births",National,3.83
-2015,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Male,Normal value,Units,"Per 1,000 live births",National,4.27
-2015,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Female,Normal value,Units,"Per 1,000 live births",National,3.37
-2016,Under-five mortality rate [3.2.1],under 5 years old,,,Normal value,Units,"Per 1,000 live births",National,4.42
-2016,Under-five mortality rate [3.2.1],under 5 years old,,Male,Normal value,Units,"Per 1,000 live births",National,4.68
-2016,Under-five mortality rate [3.2.1],under 5 years old,,Female,Normal value,Units,"Per 1,000 live births",National,4.13
-2016,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,,Normal value,Units,"Per 1,000 live births",National,4.41
-2016,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,4.71
-2016,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,4.1
-2016,Under-five mortality rate [3.2.1],under 5 years old,England,,Normal value,Units,"Per 1,000 live births",National,4.4
-2016,Under-five mortality rate [3.2.1],under 5 years old,England,Male,Normal value,Units,"Per 1,000 live births",National,4.68
-2016,Under-five mortality rate [3.2.1],under 5 years old,England,Female,Normal value,Units,"Per 1,000 live births",National,4.11
-2016,Under-five mortality rate [3.2.1],under 5 years old,Wales,,Normal value,Units,"Per 1,000 live births",National,3.64
-2016,Under-five mortality rate [3.2.1],under 5 years old,Wales,Male,Normal value,Units,"Per 1,000 live births",National,4.4
-2016,Under-five mortality rate [3.2.1],under 5 years old,Wales,Female,Normal value,Units,"Per 1,000 live births",National,2.85
-2016,Under-five mortality rate [3.2.1],under 5 years old,Scotland,,Normal value,Units,"Per 1,000 live births",National,4.09
-2016,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Male,Normal value,Units,"Per 1,000 live births",National,4.14
-2016,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Female,Normal value,Units,"Per 1,000 live births",National,4.04
-2017,Under-five mortality rate [3.2.1],under 5 years old,,,Normal value,Units,"Per 1,000 live births",National,4.38
-2017,Under-five mortality rate [3.2.1],under 5 years old,,Male,Normal value,Units,"Per 1,000 live births",National,4.88
-2017,Under-five mortality rate [3.2.1],under 5 years old,,Female,Normal value,Units,"Per 1,000 live births",National,3.87
-2017,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,,Normal value,Units,"Per 1,000 live births",National,4.42
-2017,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,4.92
-2017,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,3.9
-2017,Under-five mortality rate [3.2.1],under 5 years old,England,,Normal value,Units,"Per 1,000 live births",National,4.4
-2017,Under-five mortality rate [3.2.1],under 5 years old,England,Male,Normal value,Units,"Per 1,000 live births",National,4.88
-2017,Under-five mortality rate [3.2.1],under 5 years old,England,Female,Normal value,Units,"Per 1,000 live births",National,3.9
-2017,Under-five mortality rate [3.2.1],under 5 years old,Wales,,Normal value,Units,"Per 1,000 live births",National,4.01
-2017,Under-five mortality rate [3.2.1],under 5 years old,Wales,Male,Normal value,Units,"Per 1,000 live births",National,4.62
-2017,Under-five mortality rate [3.2.1],under 5 years old,Wales,Female,Normal value,Units,"Per 1,000 live births",National,3.37
-2017,Under-five mortality rate [3.2.1],under 5 years old,Scotland,,Normal value,Units,"Per 1,000 live births",National,3.86
-2017,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Male,Normal value,Units,"Per 1,000 live births",National,4.41
-2017,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Female,Normal value,Units,"Per 1,000 live births",National,3.28
-2018,Under-five mortality rate [3.2.1],under 5 years old,,,Normal value,Units,"Per 1,000 live births",National,4.31
-2018,Under-five mortality rate [3.2.1],under 5 years old,,Male,Normal value,Units,"Per 1,000 live births",National,4.62
-2018,Under-five mortality rate [3.2.1],under 5 years old,,Female,Normal value,Units,"Per 1,000 live births",National,3.98
-2018,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,,Normal value,Units,"Per 1,000 live births",National,4.34
-2018,Under-five mortality rate [3.2.1],under 5 years old,England,,Normal value,Units,"Per 1,000 live births",National,4.32
-2018,Under-five mortality rate [3.2.1],under 5 years old,England,Male,Normal value,Units,"Per 1,000 live births",National,4.68
-2018,Under-five mortality rate [3.2.1],under 5 years old,England,Female,Normal value,Units,"Per 1,000 live births",National,3.94
-2018,Under-five mortality rate [3.2.1],under 5 years old,Wales,,Normal value,Units,"Per 1,000 live births",National,4.25
-2018,Under-five mortality rate [3.2.1],under 5 years old,Wales,Male,Normal value,Units,"Per 1,000 live births",National,4.5
-2018,Under-five mortality rate [3.2.1],under 5 years old,Wales,Female,Normal value,Units,"Per 1,000 live births",National,3.99
-2018,Under-five mortality rate [3.2.1],under 5 years old,Scotland,,Normal value,Units,"Per 1,000 live births",National,3.72
-2018,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Male,Normal value,Units,"Per 1,000 live births",National,3.68
-2018,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Female,Normal value,Units,"Per 1,000 live births",National,3.76
-2019,Under-five mortality rate [3.2.1],under 5 years old,,,Normal value,Units,"Per 1,000 live births",National,4.27
-2019,Under-five mortality rate [3.2.1],under 5 years old,,Male,Normal value,Units,"Per 1,000 live births",National,4.57
-2019,Under-five mortality rate [3.2.1],under 5 years old,,Female,Normal value,Units,"Per 1,000 live births",National,3.95
-2019,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,,Normal value,Units,"Per 1,000 live births",National,4.25
-2019,Under-five mortality rate [3.2.1],under 5 years old,England,,Normal value,Units,"Per 1,000 live births",National,4.2
-2019,Under-five mortality rate [3.2.1],under 5 years old,England,Male,Normal value,Units,"Per 1,000 live births",National,4.49
-2019,Under-five mortality rate [3.2.1],under 5 years old,England,Female,Normal value,Units,"Per 1,000 live births",National,3.9
-2019,Under-five mortality rate [3.2.1],under 5 years old,Wales,,Normal value,Units,"Per 1,000 live births",National,4.38
-2019,Under-five mortality rate [3.2.1],under 5 years old,Wales,Male,Normal value,Units,"Per 1,000 live births",National,4.28
-2019,Under-five mortality rate [3.2.1],under 5 years old,Wales,Female,Normal value,Units,"Per 1,000 live births",National,4.48
-2019,Under-five mortality rate [3.2.1],under 5 years old,Scotland,,Normal value,Units,"Per 1,000 live births",National,3.97
-2019,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Male,Normal value,Units,"Per 1,000 live births",National,4.63
-2019,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Female,Normal value,Units,"Per 1,000 live births",National,3.27
-2020,Under-five mortality rate [3.2.1],under 5 years old,,,Normal value,Units,"Per 1,000 live births",National,4.06
-2020,Under-five mortality rate [3.2.1],under 5 years old,,Male,Normal value,Units,"Per 1,000 live births",National,4.51
-2020,Under-five mortality rate [3.2.1],under 5 years old,,Female,Normal value,Units,"Per 1,000 live births",National,3.58
-2020,Under-five mortality rate [3.2.1],under 5 years old,England and Wales,,Normal value,Units,"Per 1,000 live births",National,4.05
-2020,Under-five mortality rate [3.2.1],under 5 years old,England,,Normal value,Units,"Per 1,000 live births",National,4.01
-2020,Under-five mortality rate [3.2.1],under 5 years old,England,Male,Normal value,Units,"Per 1,000 live births",National,4.46
-2020,Under-five mortality rate [3.2.1],under 5 years old,England,Female,Normal value,Units,"Per 1,000 live births",National,3.53
-2020,Under-five mortality rate [3.2.1],under 5 years old,Wales,,Normal value,Units,"Per 1,000 live births",National,4.57
-2020,Under-five mortality rate [3.2.1],under 5 years old,Wales,Male,Normal value,Units,"Per 1,000 live births",National,5.38
-2020,Under-five mortality rate [3.2.1],under 5 years old,Wales,Female,Normal value,Units,"Per 1,000 live births",National,3.73
-2020,Under-five mortality rate [3.2.1],under 5 years old,Scotland,,Normal value,Units,"Per 1,000 live births",National,3.72
-2020,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Male,Normal value,Units,"Per 1,000 live births",National,3.88
-2020,Under-five mortality rate [3.2.1],under 5 years old,Scotland,Female,Normal value,Units,"Per 1,000 live births",National,3.55
-2000,SH_DYN_MORT,Y0T4,,,A,0,PER_1000_LIVE_BIRTHS,G,6.5
-2001,SH_DYN_MORT,Y0T4,,,A,0,PER_1000_LIVE_BIRTHS,G,6.4
-2002,SH_DYN_MORT,Y0T4,,,A,0,PER_1000_LIVE_BIRTHS,G,6.3
-2003,SH_DYN_MORT,Y0T4,,,A,0,PER_1000_LIVE_BIRTHS,G,6.2
-2004,SH_DYN_MORT,Y0T4,,,A,0,PER_1000_LIVE_BIRTHS,G,6.1
-2005,SH_DYN_MORT,Y0T4,,,A,0,PER_1000_LIVE_BIRTHS,G,6.0
-2006,SH_DYN_MORT,Y0T4,,,A,0,PER_1000_LIVE_BIRTHS,G,5.9
-2007,SH_DYN_MORT,Y0T4,,,A,0,PER_1000_LIVE_BIRTHS,G,5.8
-2008,SH_DYN_MORT,Y0T4,,,A,0,PER_1000_LIVE_BIRTHS,G,5.6
-2009,SH_DYN_MORT,Y0T4,,,A,0,PER_1000_LIVE_BIRTHS,G,5.4
-2010,SH_DYN_MORT,Y0T4,,,A,0,PER_1000_LIVE_BIRTHS,G,5.2
-2011,SH_DYN_MORT,Y0T4,,,A,0,PER_1000_LIVE_BIRTHS,G,5.0
-2012,SH_DYN_MORT,Y0T4,,,A,0,PER_1000_LIVE_BIRTHS,G,4.8
-2013,SH_DYN_MORT,Y0T4,,,A,0,PER_1000_LIVE_BIRTHS,G,4.7
-2014,SH_DYN_MORT,Y0T4,,,A,0,PER_1000_LIVE_BIRTHS,G,4.5
-2015,SH_DYN_MORT,Y0T4,,,A,0,PER_1000_LIVE_BIRTHS,G,4.5
-2016,SH_DYN_MORT,Y0T4,,,A,0,PER_1000_LIVE_BIRTHS,G,4.4
-2017,SH_DYN_MORT,Y0T4,,,A,0,PER_1000_LIVE_BIRTHS,G,4.4
-2018,SH_DYN_MORT,Y0T4,,,A,0,PER_1000_LIVE_BIRTHS,G,4.3
-2019,SH_DYN_MORT,Y0T4,,,A,0,PER_1000_LIVE_BIRTHS,G,4.3
-2020,SH_DYN_MORT,Y0T4,,,A,0,PER_1000_LIVE_BIRTHS,G,4.2
-2000,SH_DYN_MORT,Y0T4,,F,A,0,PER_1000_LIVE_BIRTHS,G,5.8
-2001,SH_DYN_MORT,Y0T4,,F,A,0,PER_1000_LIVE_BIRTHS,G,5.8
-2002,SH_DYN_MORT,Y0T4,,F,A,0,PER_1000_LIVE_BIRTHS,G,5.7
-2003,SH_DYN_MORT,Y0T4,,F,A,0,PER_1000_LIVE_BIRTHS,G,5.6
-2004,SH_DYN_MORT,Y0T4,,F,A,0,PER_1000_LIVE_BIRTHS,G,5.5
-2005,SH_DYN_MORT,Y0T4,,F,A,0,PER_1000_LIVE_BIRTHS,G,5.4
-2006,SH_DYN_MORT,Y0T4,,F,A,0,PER_1000_LIVE_BIRTHS,G,5.3
-2007,SH_DYN_MORT,Y0T4,,F,A,0,PER_1000_LIVE_BIRTHS,G,5.2
-2008,SH_DYN_MORT,Y0T4,,F,A,0,PER_1000_LIVE_BIRTHS,G,5.0
-2009,SH_DYN_MORT,Y0T4,,F,A,0,PER_1000_LIVE_BIRTHS,G,4.8
-2010,SH_DYN_MORT,Y0T4,,F,A,0,PER_1000_LIVE_BIRTHS,G,4.7
-2011,SH_DYN_MORT,Y0T4,,F,A,0,PER_1000_LIVE_BIRTHS,G,4.4
-2012,SH_DYN_MORT,Y0T4,,F,A,0,PER_1000_LIVE_BIRTHS,G,4.3
-2013,SH_DYN_MORT,Y0T4,,F,A,0,PER_1000_LIVE_BIRTHS,G,4.2
-2014,SH_DYN_MORT,Y0T4,,F,A,0,PER_1000_LIVE_BIRTHS,G,4.1
-2015,SH_DYN_MORT,Y0T4,,F,A,0,PER_1000_LIVE_BIRTHS,G,4.0
-2016,SH_DYN_MORT,Y0T4,,F,A,0,PER_1000_LIVE_BIRTHS,G,4.0
-2017,SH_DYN_MORT,Y0T4,,F,A,0,PER_1000_LIVE_BIRTHS,G,4.0
-2018,SH_DYN_MORT,Y0T4,,F,A,0,PER_1000_LIVE_BIRTHS,G,3.9
-2019,SH_DYN_MORT,Y0T4,,F,A,0,PER_1000_LIVE_BIRTHS,G,3.9
-2020,SH_DYN_MORT,Y0T4,,F,A,0,PER_1000_LIVE_BIRTHS,G,3.8
-2000,SH_DYN_MORT,Y0T4,,M,A,0,PER_1000_LIVE_BIRTHS,G,7.2
-2001,SH_DYN_MORT,Y0T4,,M,A,0,PER_1000_LIVE_BIRTHS,G,7.1
-2002,SH_DYN_MORT,Y0T4,,M,A,0,PER_1000_LIVE_BIRTHS,G,7.0
-2003,SH_DYN_MORT,Y0T4,,M,A,0,PER_1000_LIVE_BIRTHS,G,6.8
-2004,SH_DYN_MORT,Y0T4,,M,A,0,PER_1000_LIVE_BIRTHS,G,6.7
-2005,SH_DYN_MORT,Y0T4,,M,A,0,PER_1000_LIVE_BIRTHS,G,6.6
-2006,SH_DYN_MORT,Y0T4,,M,A,0,PER_1000_LIVE_BIRTHS,G,6.5
-2007,SH_DYN_MORT,Y0T4,,M,A,0,PER_1000_LIVE_BIRTHS,G,6.3
-2008,SH_DYN_MORT,Y0T4,,M,A,0,PER_1000_LIVE_BIRTHS,G,6.1
-2009,SH_DYN_MORT,Y0T4,,M,A,0,PER_1000_LIVE_BIRTHS,G,5.9
-2010,SH_DYN_MORT,Y0T4,,M,A,0,PER_1000_LIVE_BIRTHS,G,5.7
-2011,SH_DYN_MORT,Y0T4,,M,A,0,PER_1000_LIVE_BIRTHS,G,5.5
-2012,SH_DYN_MORT,Y0T4,,M,A,0,PER_1000_LIVE_BIRTHS,G,5.3
-2013,SH_DYN_MORT,Y0T4,,M,A,0,PER_1000_LIVE_BIRTHS,G,5.1
-2014,SH_DYN_MORT,Y0T4,,M,A,0,PER_1000_LIVE_BIRTHS,G,5.0
-2015,SH_DYN_MORT,Y0T4,,M,A,0,PER_1000_LIVE_BIRTHS,G,4.9
-2016,SH_DYN_MORT,Y0T4,,M,A,0,PER_1000_LIVE_BIRTHS,G,4.8
-2017,SH_DYN_MORT,Y0T4,,M,A,0,PER_1000_LIVE_BIRTHS,G,4.8
-2018,SH_DYN_MORT,Y0T4,,M,A,0,PER_1000_LIVE_BIRTHS,G,4.7
-2019,SH_DYN_MORT,Y0T4,,M,A,0,PER_1000_LIVE_BIRTHS,G,4.7
-2020,SH_DYN_MORT,Y0T4,,M,A,0,PER_1000_LIVE_BIRTHS,G,4.6
+Year,SERIES,Country,SEX,OBS_STATUS,UNIT_MULT,UNIT_MEASURE,REPORTING_TYPE,Value
+2000,Under-five mortality rate [3.2.1],,,Normal value,Units,"Per 1,000 live births",National,6.55
+2001,Under-five mortality rate [3.2.1],,,Normal value,Units,"Per 1,000 live births",National,6.44
+2002,Under-five mortality rate [3.2.1],,,Normal value,Units,"Per 1,000 live births",National,6.19
+2003,Under-five mortality rate [3.2.1],,,Normal value,Units,"Per 1,000 live births",National,6.25
+2004,Under-five mortality rate [3.2.1],,,Normal value,Units,"Per 1,000 live births",National,5.86
+2005,Under-five mortality rate [3.2.1],,,Normal value,Units,"Per 1,000 live births",National,5.9
+2006,Under-five mortality rate [3.2.1],,,Normal value,Units,"Per 1,000 live births",National,5.75
+2007,Under-five mortality rate [3.2.1],,,Normal value,Units,"Per 1,000 live births",National,5.55
+2008,Under-five mortality rate [3.2.1],,,Normal value,Units,"Per 1,000 live births",National,5.32
+2009,Under-five mortality rate [3.2.1],,,Normal value,Units,"Per 1,000 live births",National,5.18
+2010,Under-five mortality rate [3.2.1],,,Normal value,Units,"Per 1,000 live births",National,4.9
+2011,Under-five mortality rate [3.2.1],,,Normal value,Units,"Per 1,000 live births",National,4.81
+2012,Under-five mortality rate [3.2.1],,,Normal value,Units,"Per 1,000 live births",National,4.58
+2013,Under-five mortality rate [3.2.1],,,Normal value,Units,"Per 1,000 live births",National,4.47
+2014,Under-five mortality rate [3.2.1],,,Normal value,Units,"Per 1,000 live births",National,4.23
+2015,Under-five mortality rate [3.2.1],,,Normal value,Units,"Per 1,000 live births",National,4.29
+2000,Under-five mortality rate [3.2.1],,Male,Normal value,Units,"Per 1,000 live births",National,7.19
+2000,Under-five mortality rate [3.2.1],,Female,Normal value,Units,"Per 1,000 live births",National,5.88
+2000,Under-five mortality rate [3.2.1],England and Wales,,Normal value,Units,"Per 1,000 live births",National,6.55
+2000,Under-five mortality rate [3.2.1],England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,7.17
+2000,Under-five mortality rate [3.2.1],England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,5.89
+2000,Under-five mortality rate [3.2.1],England,,Normal value,Units,"Per 1,000 live births",National,6.49
+2000,Under-five mortality rate [3.2.1],England,Male,Normal value,Units,"Per 1,000 live births",National,7.11
+2000,Under-five mortality rate [3.2.1],England,Female,Normal value,Units,"Per 1,000 live births",National,5.85
+2000,Under-five mortality rate [3.2.1],Wales,,Normal value,Units,"Per 1,000 live births",National,6.23
+2000,Under-five mortality rate [3.2.1],Wales,Male,Normal value,Units,"Per 1,000 live births",National,7.26
+2000,Under-five mortality rate [3.2.1],Wales,Female,Normal value,Units,"Per 1,000 live births",National,5.12
+2000,Under-five mortality rate [3.2.1],Scotland,,Normal value,Units,"Per 1,000 live births",National,6.71
+2000,Under-five mortality rate [3.2.1],Scotland,Male,Normal value,Units,"Per 1,000 live births",National,7.57
+2000,Under-five mortality rate [3.2.1],Scotland,Female,Normal value,Units,"Per 1,000 live births",National,5.87
+2001,Under-five mortality rate [3.2.1],,Male,Normal value,Units,"Per 1,000 live births",National,6.97
+2001,Under-five mortality rate [3.2.1],,Female,Normal value,Units,"Per 1,000 live births",National,5.88
+2001,Under-five mortality rate [3.2.1],England and Wales,,Normal value,Units,"Per 1,000 live births",National,6.44
+2001,Under-five mortality rate [3.2.1],England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,6.98
+2001,Under-five mortality rate [3.2.1],England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,5.87
+2001,Under-five mortality rate [3.2.1],England,,Normal value,Units,"Per 1,000 live births",National,6.37
+2001,Under-five mortality rate [3.2.1],England,Male,Normal value,Units,"Per 1,000 live births",National,6.92
+2001,Under-five mortality rate [3.2.1],England,Female,Normal value,Units,"Per 1,000 live births",National,5.8
+2001,Under-five mortality rate [3.2.1],Wales,,Normal value,Units,"Per 1,000 live births",National,6.37
+2001,Under-five mortality rate [3.2.1],Wales,Male,Normal value,Units,"Per 1,000 live births",National,7.05
+2001,Under-five mortality rate [3.2.1],Wales,Female,Normal value,Units,"Per 1,000 live births",National,5.65
+2001,Under-five mortality rate [3.2.1],Scotland,,Normal value,Units,"Per 1,000 live births",National,6.32
+2001,Under-five mortality rate [3.2.1],Scotland,Male,Normal value,Units,"Per 1,000 live births",National,6.61
+2001,Under-five mortality rate [3.2.1],Scotland,Female,Normal value,Units,"Per 1,000 live births",National,6.02
+2002,Under-five mortality rate [3.2.1],,Male,Normal value,Units,"Per 1,000 live births",National,6.99
+2002,Under-five mortality rate [3.2.1],,Female,Normal value,Units,"Per 1,000 live births",National,5.35
+2002,Under-five mortality rate [3.2.1],England and Wales,,Normal value,Units,"Per 1,000 live births",National,6.17
+2002,Under-five mortality rate [3.2.1],England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,6.95
+2002,Under-five mortality rate [3.2.1],England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,5.34
+2002,Under-five mortality rate [3.2.1],England,,Normal value,Units,"Per 1,000 live births",National,6.16
+2002,Under-five mortality rate [3.2.1],England,Male,Normal value,Units,"Per 1,000 live births",National,6.94
+2002,Under-five mortality rate [3.2.1],England,Female,Normal value,Units,"Per 1,000 live births",National,5.33
+2002,Under-five mortality rate [3.2.1],Wales,,Normal value,Units,"Per 1,000 live births",National,5.33
+2002,Under-five mortality rate [3.2.1],Wales,Male,Normal value,Units,"Per 1,000 live births",National,5.85
+2002,Under-five mortality rate [3.2.1],Wales,Female,Normal value,Units,"Per 1,000 live births",National,4.78
+2002,Under-five mortality rate [3.2.1],Scotland,,Normal value,Units,"Per 1,000 live births",National,6.55
+2002,Under-five mortality rate [3.2.1],Scotland,Male,Normal value,Units,"Per 1,000 live births",National,7.67
+2002,Under-five mortality rate [3.2.1],Scotland,Female,Normal value,Units,"Per 1,000 live births",National,5.39
+2003,Under-five mortality rate [3.2.1],,Male,Normal value,Units,"Per 1,000 live births",National,6.67
+2003,Under-five mortality rate [3.2.1],,Female,Normal value,Units,"Per 1,000 live births",National,5.81
+2003,Under-five mortality rate [3.2.1],England and Wales,,Normal value,Units,"Per 1,000 live births",National,6.26
+2003,Under-five mortality rate [3.2.1],England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,6.64
+2003,Under-five mortality rate [3.2.1],England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,5.87
+2003,Under-five mortality rate [3.2.1],England,,Normal value,Units,"Per 1,000 live births",National,6.24
+2003,Under-five mortality rate [3.2.1],England,Male,Normal value,Units,"Per 1,000 live births",National,6.62
+2003,Under-five mortality rate [3.2.1],England,Female,Normal value,Units,"Per 1,000 live births",National,5.85
+2003,Under-five mortality rate [3.2.1],Wales,,Normal value,Units,"Per 1,000 live births",National,5.19
+2003,Under-five mortality rate [3.2.1],Wales,Male,Normal value,Units,"Per 1,000 live births",National,5.52
+2003,Under-five mortality rate [3.2.1],Wales,Female,Normal value,Units,"Per 1,000 live births",National,4.84
+2003,Under-five mortality rate [3.2.1],Scotland,,Normal value,Units,"Per 1,000 live births",National,6.18
+2003,Under-five mortality rate [3.2.1],Scotland,Male,Normal value,Units,"Per 1,000 live births",National,6.73
+2003,Under-five mortality rate [3.2.1],Scotland,Female,Normal value,Units,"Per 1,000 live births",National,5.6
+2004,Under-five mortality rate [3.2.1],,Male,Normal value,Units,"Per 1,000 live births",National,6.38
+2004,Under-five mortality rate [3.2.1],,Female,Normal value,Units,"Per 1,000 live births",National,5.3
+2004,Under-five mortality rate [3.2.1],England and Wales,,Normal value,Units,"Per 1,000 live births",National,5.84
+2004,Under-five mortality rate [3.2.1],England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,6.33
+2004,Under-five mortality rate [3.2.1],England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,5.32
+2004,Under-five mortality rate [3.2.1],England,,Normal value,Units,"Per 1,000 live births",National,5.78
+2004,Under-five mortality rate [3.2.1],England,Male,Normal value,Units,"Per 1,000 live births",National,6.28
+2004,Under-five mortality rate [3.2.1],England,Female,Normal value,Units,"Per 1,000 live births",National,5.26
+2004,Under-five mortality rate [3.2.1],Wales,,Normal value,Units,"Per 1,000 live births",National,5.63
+2004,Under-five mortality rate [3.2.1],Wales,Male,Normal value,Units,"Per 1,000 live births",National,6.13
+2004,Under-five mortality rate [3.2.1],Wales,Female,Normal value,Units,"Per 1,000 live births",National,5.1
+2004,Under-five mortality rate [3.2.1],Scotland,,Normal value,Units,"Per 1,000 live births",National,5.82
+2004,Under-five mortality rate [3.2.1],Scotland,Male,Normal value,Units,"Per 1,000 live births",National,6.81
+2004,Under-five mortality rate [3.2.1],Scotland,Female,Normal value,Units,"Per 1,000 live births",National,4.77
+2005,Under-five mortality rate [3.2.1],,Male,Normal value,Units,"Per 1,000 live births",National,6.58
+2005,Under-five mortality rate [3.2.1],,Female,Normal value,Units,"Per 1,000 live births",National,5.18
+2005,Under-five mortality rate [3.2.1],England and Wales,,Normal value,Units,"Per 1,000 live births",National,5.82
+2005,Under-five mortality rate [3.2.1],England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,6.51
+2005,Under-five mortality rate [3.2.1],England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,5.1
+2005,Under-five mortality rate [3.2.1],England,,Normal value,Units,"Per 1,000 live births",National,5.81
+2005,Under-five mortality rate [3.2.1],England,Male,Normal value,Units,"Per 1,000 live births",National,6.49
+2005,Under-five mortality rate [3.2.1],England,Female,Normal value,Units,"Per 1,000 live births",National,5.1
+2005,Under-five mortality rate [3.2.1],Wales,,Normal value,Units,"Per 1,000 live births",National,4.69
+2005,Under-five mortality rate [3.2.1],Wales,Male,Normal value,Units,"Per 1,000 live births",National,5.48
+2005,Under-five mortality rate [3.2.1],Wales,Female,Normal value,Units,"Per 1,000 live births",National,3.86
+2005,Under-five mortality rate [3.2.1],Scotland,,Normal value,Units,"Per 1,000 live births",National,6.33
+2005,Under-five mortality rate [3.2.1],Scotland,Male,Normal value,Units,"Per 1,000 live births",National,6.84
+2005,Under-five mortality rate [3.2.1],Scotland,Female,Normal value,Units,"Per 1,000 live births",National,5.78
+2006,Under-five mortality rate [3.2.1],,Male,Normal value,Units,"Per 1,000 live births",National,6.23
+2006,Under-five mortality rate [3.2.1],,Female,Normal value,Units,"Per 1,000 live births",National,5.25
+2006,Under-five mortality rate [3.2.1],England and Wales,,Normal value,Units,"Per 1,000 live births",National,5.77
+2006,Under-five mortality rate [3.2.1],England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,6.24
+2006,Under-five mortality rate [3.2.1],England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,5.29
+2006,Under-five mortality rate [3.2.1],England,,Normal value,Units,"Per 1,000 live births",National,5.75
+2006,Under-five mortality rate [3.2.1],England,Male,Normal value,Units,"Per 1,000 live births",National,6.19
+2006,Under-five mortality rate [3.2.1],England,Female,Normal value,Units,"Per 1,000 live births",National,5.28
+2006,Under-five mortality rate [3.2.1],Wales,,Normal value,Units,"Per 1,000 live births",National,4.85
+2006,Under-five mortality rate [3.2.1],Wales,Male,Normal value,Units,"Per 1,000 live births",National,5.51
+2006,Under-five mortality rate [3.2.1],Wales,Female,Normal value,Units,"Per 1,000 live births",National,4.15
+2006,Under-five mortality rate [3.2.1],Scotland,,Normal value,Units,"Per 1,000 live births",National,5.3
+2006,Under-five mortality rate [3.2.1],Scotland,Male,Normal value,Units,"Per 1,000 live births",National,5.83
+2006,Under-five mortality rate [3.2.1],Scotland,Female,Normal value,Units,"Per 1,000 live births",National,4.74
+2007,Under-five mortality rate [3.2.1],,Male,Normal value,Units,"Per 1,000 live births",National,6.15
+2007,Under-five mortality rate [3.2.1],,Female,Normal value,Units,"Per 1,000 live births",National,4.92
+2007,Under-five mortality rate [3.2.1],England and Wales,,Normal value,Units,"Per 1,000 live births",National,5.54
+2007,Under-five mortality rate [3.2.1],England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,6.14
+2007,Under-five mortality rate [3.2.1],England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,4.9
+2007,Under-five mortality rate [3.2.1],England,,Normal value,Units,"Per 1,000 live births",National,5.47
+2007,Under-five mortality rate [3.2.1],England,Male,Normal value,Units,"Per 1,000 live births",National,6.02
+2007,Under-five mortality rate [3.2.1],England,Female,Normal value,Units,"Per 1,000 live births",National,4.89
+2007,Under-five mortality rate [3.2.1],Wales,,Normal value,Units,"Per 1,000 live births",National,5.49
+2007,Under-five mortality rate [3.2.1],Wales,Male,Normal value,Units,"Per 1,000 live births",National,6.8
+2007,Under-five mortality rate [3.2.1],Wales,Female,Normal value,Units,"Per 1,000 live births",National,4.11
+2007,Under-five mortality rate [3.2.1],Scotland,,Normal value,Units,"Per 1,000 live births",National,5.59
+2007,Under-five mortality rate [3.2.1],Scotland,Male,Normal value,Units,"Per 1,000 live births",National,6.03
+2007,Under-five mortality rate [3.2.1],Scotland,Female,Normal value,Units,"Per 1,000 live births",National,5.13
+2008,Under-five mortality rate [3.2.1],,Male,Normal value,Units,"Per 1,000 live births",National,5.79
+2008,Under-five mortality rate [3.2.1],,Female,Normal value,Units,"Per 1,000 live births",National,4.83
+2008,Under-five mortality rate [3.2.1],England and Wales,,Normal value,Units,"Per 1,000 live births",National,5.35
+2008,Under-five mortality rate [3.2.1],England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,5.84
+2008,Under-five mortality rate [3.2.1],England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,4.84
+2008,Under-five mortality rate [3.2.1],England,,Normal value,Units,"Per 1,000 live births",National,5.31
+2008,Under-five mortality rate [3.2.1],England,Male,Normal value,Units,"Per 1,000 live births",National,5.79
+2008,Under-five mortality rate [3.2.1],England,Female,Normal value,Units,"Per 1,000 live births",National,4.81
+2008,Under-five mortality rate [3.2.1],Wales,,Normal value,Units,"Per 1,000 live births",National,4.57
+2008,Under-five mortality rate [3.2.1],Wales,Male,Normal value,Units,"Per 1,000 live births",National,4.85
+2008,Under-five mortality rate [3.2.1],Wales,Female,Normal value,Units,"Per 1,000 live births",National,4.28
+2008,Under-five mortality rate [3.2.1],Scotland,,Normal value,Units,"Per 1,000 live births",National,4.86
+2008,Under-five mortality rate [3.2.1],Scotland,Male,Normal value,Units,"Per 1,000 live births",National,5.3
+2008,Under-five mortality rate [3.2.1],Scotland,Female,Normal value,Units,"Per 1,000 live births",National,4.41
+2009,Under-five mortality rate [3.2.1],,Male,Normal value,Units,"Per 1,000 live births",National,5.55
+2009,Under-five mortality rate [3.2.1],,Female,Normal value,Units,"Per 1,000 live births",National,4.78
+2009,Under-five mortality rate [3.2.1],England and Wales,,Normal value,Units,"Per 1,000 live births",National,5.19
+2009,Under-five mortality rate [3.2.1],England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,5.54
+2009,Under-five mortality rate [3.2.1],England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,4.81
+2009,Under-five mortality rate [3.2.1],England,,Normal value,Units,"Per 1,000 live births",National,5.11
+2009,Under-five mortality rate [3.2.1],England,Male,Normal value,Units,"Per 1,000 live births",National,5.45
+2009,Under-five mortality rate [3.2.1],England,Female,Normal value,Units,"Per 1,000 live births",National,4.75
+2009,Under-five mortality rate [3.2.1],Wales,,Normal value,Units,"Per 1,000 live births",National,5.18
+2009,Under-five mortality rate [3.2.1],Wales,Male,Normal value,Units,"Per 1,000 live births",National,5.6
+2009,Under-five mortality rate [3.2.1],Wales,Female,Normal value,Units,"Per 1,000 live births",National,4.74
+2009,Under-five mortality rate [3.2.1],Scotland,,Normal value,Units,"Per 1,000 live births",National,4.67
+2009,Under-five mortality rate [3.2.1],Scotland,Male,Normal value,Units,"Per 1,000 live births",National,5.4
+2009,Under-five mortality rate [3.2.1],Scotland,Female,Normal value,Units,"Per 1,000 live births",National,3.91
+2010,Under-five mortality rate [3.2.1],,Male,Normal value,Units,"Per 1,000 live births",National,5.27
+2010,Under-five mortality rate [3.2.1],,Female,Normal value,Units,"Per 1,000 live births",National,4.51
+2010,Under-five mortality rate [3.2.1],England and Wales,,Normal value,Units,"Per 1,000 live births",National,4.88
+2010,Under-five mortality rate [3.2.1],England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,5.26
+2010,Under-five mortality rate [3.2.1],England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,4.49
+2010,Under-five mortality rate [3.2.1],England,,Normal value,Units,"Per 1,000 live births",National,4.87
+2010,Under-five mortality rate [3.2.1],England,Male,Normal value,Units,"Per 1,000 live births",National,5.24
+2010,Under-five mortality rate [3.2.1],England,Female,Normal value,Units,"Per 1,000 live births",National,4.48
+2010,Under-five mortality rate [3.2.1],Wales,,Normal value,Units,"Per 1,000 live births",National,4.31
+2010,Under-five mortality rate [3.2.1],Wales,Male,Normal value,Units,"Per 1,000 live births",National,4.71
+2010,Under-five mortality rate [3.2.1],Wales,Female,Normal value,Units,"Per 1,000 live births",National,3.89
+2010,Under-five mortality rate [3.2.1],Scotland,,Normal value,Units,"Per 1,000 live births",National,4.42
+2010,Under-five mortality rate [3.2.1],Scotland,Male,Normal value,Units,"Per 1,000 live births",National,4.75
+2010,Under-five mortality rate [3.2.1],Scotland,Female,Normal value,Units,"Per 1,000 live births",National,4.08
+2011,Under-five mortality rate [3.2.1],,Male,Normal value,Units,"Per 1,000 live births",National,5.43
+2011,Under-five mortality rate [3.2.1],,Female,Normal value,Units,"Per 1,000 live births",National,4.15
+2011,Under-five mortality rate [3.2.1],England and Wales,,Normal value,Units,"Per 1,000 live births",National,4.81
+2011,Under-five mortality rate [3.2.1],England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,5.42
+2011,Under-five mortality rate [3.2.1],England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,4.16
+2011,Under-five mortality rate [3.2.1],England,,Normal value,Units,"Per 1,000 live births",National,4.78
+2011,Under-five mortality rate [3.2.1],England,Male,Normal value,Units,"Per 1,000 live births",National,5.38
+2011,Under-five mortality rate [3.2.1],England,Female,Normal value,Units,"Per 1,000 live births",National,4.14
+2011,Under-five mortality rate [3.2.1],Wales,,Normal value,Units,"Per 1,000 live births",National,4.16
+2011,Under-five mortality rate [3.2.1],Wales,Male,Normal value,Units,"Per 1,000 live births",National,4.79
+2011,Under-five mortality rate [3.2.1],Wales,Female,Normal value,Units,"Per 1,000 live births",National,3.5
+2011,Under-five mortality rate [3.2.1],Scotland,,Normal value,Units,"Per 1,000 live births",National,4.69
+2011,Under-five mortality rate [3.2.1],Scotland,Male,Normal value,Units,"Per 1,000 live births",National,5.25
+2011,Under-five mortality rate [3.2.1],Scotland,Female,Normal value,Units,"Per 1,000 live births",National,4.11
+2012,Under-five mortality rate [3.2.1],,Male,Normal value,Units,"Per 1,000 live births",National,5.05
+2012,Under-five mortality rate [3.2.1],,Female,Normal value,Units,"Per 1,000 live births",National,4.08
+2012,Under-five mortality rate [3.2.1],England and Wales,,Normal value,Units,"Per 1,000 live births",National,4.61
+2012,Under-five mortality rate [3.2.1],England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,5.08
+2012,Under-five mortality rate [3.2.1],England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,4.12
+2012,Under-five mortality rate [3.2.1],England,,Normal value,Units,"Per 1,000 live births",National,4.56
+2012,Under-five mortality rate [3.2.1],England,Male,Normal value,Units,"Per 1,000 live births",National,5.01
+2012,Under-five mortality rate [3.2.1],England,Female,Normal value,Units,"Per 1,000 live births",National,4.08
+2012,Under-five mortality rate [3.2.1],Wales,,Normal value,Units,"Per 1,000 live births",National,4.65
+2012,Under-five mortality rate [3.2.1],Wales,Male,Normal value,Units,"Per 1,000 live births",National,5.39
+2012,Under-five mortality rate [3.2.1],Wales,Female,Normal value,Units,"Per 1,000 live births",National,3.88
+2012,Under-five mortality rate [3.2.1],Scotland,,Normal value,Units,"Per 1,000 live births",National,4.38
+2012,Under-five mortality rate [3.2.1],Scotland,Male,Normal value,Units,"Per 1,000 live births",National,5.15
+2012,Under-five mortality rate [3.2.1],Scotland,Female,Normal value,Units,"Per 1,000 live births",National,3.57
+2013,Under-five mortality rate [3.2.1],,Male,Normal value,Units,"Per 1,000 live births",National,4.86
+2013,Under-five mortality rate [3.2.1],,Female,Normal value,Units,"Per 1,000 live births",National,4.05
+2013,Under-five mortality rate [3.2.1],England and Wales,,Normal value,Units,"Per 1,000 live births",National,4.47
+2013,Under-five mortality rate [3.2.1],England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,4.89
+2013,Under-five mortality rate [3.2.1],England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,4.03
+2013,Under-five mortality rate [3.2.1],England,,Normal value,Units,"Per 1,000 live births",National,4.42
+2013,Under-five mortality rate [3.2.1],England,Male,Normal value,Units,"Per 1,000 live births",National,4.87
+2013,Under-five mortality rate [3.2.1],England,Female,Normal value,Units,"Per 1,000 live births",National,3.95
+2013,Under-five mortality rate [3.2.1],Wales,,Normal value,Units,"Per 1,000 live births",National,4.18
+2013,Under-five mortality rate [3.2.1],Wales,Male,Normal value,Units,"Per 1,000 live births",National,4.14
+2013,Under-five mortality rate [3.2.1],Wales,Female,Normal value,Units,"Per 1,000 live births",National,4.22
+2013,Under-five mortality rate [3.2.1],Scotland,,Normal value,Units,"Per 1,000 live births",National,4.03
+2013,Under-five mortality rate [3.2.1],Scotland,Male,Normal value,Units,"Per 1,000 live births",National,4.13
+2013,Under-five mortality rate [3.2.1],Scotland,Female,Normal value,Units,"Per 1,000 live births",National,3.94
+2014,Under-five mortality rate [3.2.1],,Male,Normal value,Units,"Per 1,000 live births",National,4.56
+2014,Under-five mortality rate [3.2.1],,Female,Normal value,Units,"Per 1,000 live births",National,3.88
+2014,Under-five mortality rate [3.2.1],England and Wales,,Normal value,Units,"Per 1,000 live births",National,4.2
+2014,Under-five mortality rate [3.2.1],England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,4.49
+2014,Under-five mortality rate [3.2.1],England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,3.89
+2014,Under-five mortality rate [3.2.1],England,,Normal value,Units,"Per 1,000 live births",National,4.19
+2014,Under-five mortality rate [3.2.1],England,Male,Normal value,Units,"Per 1,000 live births",National,4.44
+2014,Under-five mortality rate [3.2.1],England,Female,Normal value,Units,"Per 1,000 live births",National,3.91
+2014,Under-five mortality rate [3.2.1],Wales,,Normal value,Units,"Per 1,000 live births",National,3.67
+2014,Under-five mortality rate [3.2.1],Wales,Male,Normal value,Units,"Per 1,000 live births",National,4.45
+2014,Under-five mortality rate [3.2.1],Wales,Female,Normal value,Units,"Per 1,000 live births",National,2.83
+2014,Under-five mortality rate [3.2.1],Scotland,,Normal value,Units,"Per 1,000 live births",National,4.11
+2014,Under-five mortality rate [3.2.1],Scotland,Male,Normal value,Units,"Per 1,000 live births",National,4.41
+2014,Under-five mortality rate [3.2.1],Scotland,Female,Normal value,Units,"Per 1,000 live births",National,3.79
+2015,Under-five mortality rate [3.2.1],,Male,Normal value,Units,"Per 1,000 live births",National,4.85
+2015,Under-five mortality rate [3.2.1],,Female,Normal value,Units,"Per 1,000 live births",National,3.7
+2015,Under-five mortality rate [3.2.1],England and Wales,,Normal value,Units,"Per 1,000 live births",National,4.28
+2015,Under-five mortality rate [3.2.1],England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,4.84
+2015,Under-five mortality rate [3.2.1],England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,3.68
+2015,Under-five mortality rate [3.2.1],England,,Normal value,Units,"Per 1,000 live births",National,4.24
+2015,Under-five mortality rate [3.2.1],England,Male,Normal value,Units,"Per 1,000 live births",National,4.78
+2015,Under-five mortality rate [3.2.1],England,Female,Normal value,Units,"Per 1,000 live births",National,3.67
+2015,Under-five mortality rate [3.2.1],Wales,,Normal value,Units,"Per 1,000 live births",National,4.15
+2015,Under-five mortality rate [3.2.1],Wales,Male,Normal value,Units,"Per 1,000 live births",National,5.02
+2015,Under-five mortality rate [3.2.1],Wales,Female,Normal value,Units,"Per 1,000 live births",National,3.24
+2015,Under-five mortality rate [3.2.1],Scotland,,Normal value,Units,"Per 1,000 live births",National,3.83
+2015,Under-five mortality rate [3.2.1],Scotland,Male,Normal value,Units,"Per 1,000 live births",National,4.27
+2015,Under-five mortality rate [3.2.1],Scotland,Female,Normal value,Units,"Per 1,000 live births",National,3.37
+2016,Under-five mortality rate [3.2.1],,,Normal value,Units,"Per 1,000 live births",National,4.42
+2016,Under-five mortality rate [3.2.1],,Male,Normal value,Units,"Per 1,000 live births",National,4.68
+2016,Under-five mortality rate [3.2.1],,Female,Normal value,Units,"Per 1,000 live births",National,4.13
+2016,Under-five mortality rate [3.2.1],England and Wales,,Normal value,Units,"Per 1,000 live births",National,4.41
+2016,Under-five mortality rate [3.2.1],England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,4.71
+2016,Under-five mortality rate [3.2.1],England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,4.1
+2016,Under-five mortality rate [3.2.1],England,,Normal value,Units,"Per 1,000 live births",National,4.4
+2016,Under-five mortality rate [3.2.1],England,Male,Normal value,Units,"Per 1,000 live births",National,4.68
+2016,Under-five mortality rate [3.2.1],England,Female,Normal value,Units,"Per 1,000 live births",National,4.11
+2016,Under-five mortality rate [3.2.1],Wales,,Normal value,Units,"Per 1,000 live births",National,3.64
+2016,Under-five mortality rate [3.2.1],Wales,Male,Normal value,Units,"Per 1,000 live births",National,4.4
+2016,Under-five mortality rate [3.2.1],Wales,Female,Normal value,Units,"Per 1,000 live births",National,2.85
+2016,Under-five mortality rate [3.2.1],Scotland,,Normal value,Units,"Per 1,000 live births",National,4.09
+2016,Under-five mortality rate [3.2.1],Scotland,Male,Normal value,Units,"Per 1,000 live births",National,4.14
+2016,Under-five mortality rate [3.2.1],Scotland,Female,Normal value,Units,"Per 1,000 live births",National,4.04
+2017,Under-five mortality rate [3.2.1],,,Normal value,Units,"Per 1,000 live births",National,4.38
+2017,Under-five mortality rate [3.2.1],,Male,Normal value,Units,"Per 1,000 live births",National,4.88
+2017,Under-five mortality rate [3.2.1],,Female,Normal value,Units,"Per 1,000 live births",National,3.87
+2017,Under-five mortality rate [3.2.1],England and Wales,,Normal value,Units,"Per 1,000 live births",National,4.42
+2017,Under-five mortality rate [3.2.1],England and Wales,Male,Normal value,Units,"Per 1,000 live births",National,4.92
+2017,Under-five mortality rate [3.2.1],England and Wales,Female,Normal value,Units,"Per 1,000 live births",National,3.9
+2017,Under-five mortality rate [3.2.1],England,,Normal value,Units,"Per 1,000 live births",National,4.4
+2017,Under-five mortality rate [3.2.1],England,Male,Normal value,Units,"Per 1,000 live births",National,4.88
+2017,Under-five mortality rate [3.2.1],England,Female,Normal value,Units,"Per 1,000 live births",National,3.9
+2017,Under-five mortality rate [3.2.1],Wales,,Normal value,Units,"Per 1,000 live births",National,4.01
+2017,Under-five mortality rate [3.2.1],Wales,Male,Normal value,Units,"Per 1,000 live births",National,4.62
+2017,Under-five mortality rate [3.2.1],Wales,Female,Normal value,Units,"Per 1,000 live births",National,3.37
+2017,Under-five mortality rate [3.2.1],Scotland,,Normal value,Units,"Per 1,000 live births",National,3.86
+2017,Under-five mortality rate [3.2.1],Scotland,Male,Normal value,Units,"Per 1,000 live births",National,4.41
+2017,Under-five mortality rate [3.2.1],Scotland,Female,Normal value,Units,"Per 1,000 live births",National,3.28
+2018,Under-five mortality rate [3.2.1],,,Normal value,Units,"Per 1,000 live births",National,4.31
+2018,Under-five mortality rate [3.2.1],,Male,Normal value,Units,"Per 1,000 live births",National,4.62
+2018,Under-five mortality rate [3.2.1],,Female,Normal value,Units,"Per 1,000 live births",National,3.98
+2018,Under-five mortality rate [3.2.1],England and Wales,,Normal value,Units,"Per 1,000 live births",National,4.34
+2018,Under-five mortality rate [3.2.1],England,,Normal value,Units,"Per 1,000 live births",National,4.32
+2018,Under-five mortality rate [3.2.1],England,Male,Normal value,Units,"Per 1,000 live births",National,4.68
+2018,Under-five mortality rate [3.2.1],England,Female,Normal value,Units,"Per 1,000 live births",National,3.94
+2018,Under-five mortality rate [3.2.1],Wales,,Normal value,Units,"Per 1,000 live births",National,4.25
+2018,Under-five mortality rate [3.2.1],Wales,Male,Normal value,Units,"Per 1,000 live births",National,4.5
+2018,Under-five mortality rate [3.2.1],Wales,Female,Normal value,Units,"Per 1,000 live births",National,3.99
+2018,Under-five mortality rate [3.2.1],Scotland,,Normal value,Units,"Per 1,000 live births",National,3.72
+2018,Under-five mortality rate [3.2.1],Scotland,Male,Normal value,Units,"Per 1,000 live births",National,3.68
+2018,Under-five mortality rate [3.2.1],Scotland,Female,Normal value,Units,"Per 1,000 live births",National,3.76
+2019,Under-five mortality rate [3.2.1],,,Normal value,Units,"Per 1,000 live births",National,4.27
+2019,Under-five mortality rate [3.2.1],,Male,Normal value,Units,"Per 1,000 live births",National,4.57
+2019,Under-five mortality rate [3.2.1],,Female,Normal value,Units,"Per 1,000 live births",National,3.95
+2019,Under-five mortality rate [3.2.1],England and Wales,,Normal value,Units,"Per 1,000 live births",National,4.25
+2019,Under-five mortality rate [3.2.1],England,,Normal value,Units,"Per 1,000 live births",National,4.2
+2019,Under-five mortality rate [3.2.1],England,Male,Normal value,Units,"Per 1,000 live births",National,4.49
+2019,Under-five mortality rate [3.2.1],England,Female,Normal value,Units,"Per 1,000 live births",National,3.9
+2019,Under-five mortality rate [3.2.1],Wales,,Normal value,Units,"Per 1,000 live births",National,4.38
+2019,Under-five mortality rate [3.2.1],Wales,Male,Normal value,Units,"Per 1,000 live births",National,4.28
+2019,Under-five mortality rate [3.2.1],Wales,Female,Normal value,Units,"Per 1,000 live births",National,4.48
+2019,Under-five mortality rate [3.2.1],Scotland,,Normal value,Units,"Per 1,000 live births",National,3.97
+2019,Under-five mortality rate [3.2.1],Scotland,Male,Normal value,Units,"Per 1,000 live births",National,4.63
+2019,Under-five mortality rate [3.2.1],Scotland,Female,Normal value,Units,"Per 1,000 live births",National,3.27
+2020,Under-five mortality rate [3.2.1],,,Normal value,Units,"Per 1,000 live births",National,4.06
+2020,Under-five mortality rate [3.2.1],,Male,Normal value,Units,"Per 1,000 live births",National,4.51
+2020,Under-five mortality rate [3.2.1],,Female,Normal value,Units,"Per 1,000 live births",National,3.58
+2020,Under-five mortality rate [3.2.1],England and Wales,,Normal value,Units,"Per 1,000 live births",National,4.05
+2020,Under-five mortality rate [3.2.1],England,,Normal value,Units,"Per 1,000 live births",National,4.01
+2020,Under-five mortality rate [3.2.1],England,Male,Normal value,Units,"Per 1,000 live births",National,4.46
+2020,Under-five mortality rate [3.2.1],England,Female,Normal value,Units,"Per 1,000 live births",National,3.53
+2020,Under-five mortality rate [3.2.1],Wales,,Normal value,Units,"Per 1,000 live births",National,4.57
+2020,Under-five mortality rate [3.2.1],Wales,Male,Normal value,Units,"Per 1,000 live births",National,5.38
+2020,Under-five mortality rate [3.2.1],Wales,Female,Normal value,Units,"Per 1,000 live births",National,3.73
+2020,Under-five mortality rate [3.2.1],Scotland,,Normal value,Units,"Per 1,000 live births",National,3.72
+2020,Under-five mortality rate [3.2.1],Scotland,Male,Normal value,Units,"Per 1,000 live births",National,3.88
+2020,Under-five mortality rate [3.2.1],Scotland,Female,Normal value,Units,"Per 1,000 live births",National,3.55
+2000,SH_DYN_MORT,,,A,0,PER_1000_LIVE_BIRTHS,G,6.5
+2001,SH_DYN_MORT,,,A,0,PER_1000_LIVE_BIRTHS,G,6.4
+2002,SH_DYN_MORT,,,A,0,PER_1000_LIVE_BIRTHS,G,6.3
+2003,SH_DYN_MORT,,,A,0,PER_1000_LIVE_BIRTHS,G,6.2
+2004,SH_DYN_MORT,,,A,0,PER_1000_LIVE_BIRTHS,G,6.1
+2005,SH_DYN_MORT,,,A,0,PER_1000_LIVE_BIRTHS,G,6.0
+2006,SH_DYN_MORT,,,A,0,PER_1000_LIVE_BIRTHS,G,5.9
+2007,SH_DYN_MORT,,,A,0,PER_1000_LIVE_BIRTHS,G,5.8
+2008,SH_DYN_MORT,,,A,0,PER_1000_LIVE_BIRTHS,G,5.6
+2009,SH_DYN_MORT,,,A,0,PER_1000_LIVE_BIRTHS,G,5.4
+2010,SH_DYN_MORT,,,A,0,PER_1000_LIVE_BIRTHS,G,5.2
+2011,SH_DYN_MORT,,,A,0,PER_1000_LIVE_BIRTHS,G,5.0
+2012,SH_DYN_MORT,,,A,0,PER_1000_LIVE_BIRTHS,G,4.8
+2013,SH_DYN_MORT,,,A,0,PER_1000_LIVE_BIRTHS,G,4.7
+2014,SH_DYN_MORT,,,A,0,PER_1000_LIVE_BIRTHS,G,4.5
+2015,SH_DYN_MORT,,,A,0,PER_1000_LIVE_BIRTHS,G,4.5
+2016,SH_DYN_MORT,,,A,0,PER_1000_LIVE_BIRTHS,G,4.4
+2017,SH_DYN_MORT,,,A,0,PER_1000_LIVE_BIRTHS,G,4.4
+2018,SH_DYN_MORT,,,A,0,PER_1000_LIVE_BIRTHS,G,4.3
+2019,SH_DYN_MORT,,,A,0,PER_1000_LIVE_BIRTHS,G,4.3
+2020,SH_DYN_MORT,,,A,0,PER_1000_LIVE_BIRTHS,G,4.2
+2000,SH_DYN_MORT,,F,A,0,PER_1000_LIVE_BIRTHS,G,5.8
+2001,SH_DYN_MORT,,F,A,0,PER_1000_LIVE_BIRTHS,G,5.8
+2002,SH_DYN_MORT,,F,A,0,PER_1000_LIVE_BIRTHS,G,5.7
+2003,SH_DYN_MORT,,F,A,0,PER_1000_LIVE_BIRTHS,G,5.6
+2004,SH_DYN_MORT,,F,A,0,PER_1000_LIVE_BIRTHS,G,5.5
+2005,SH_DYN_MORT,,F,A,0,PER_1000_LIVE_BIRTHS,G,5.4
+2006,SH_DYN_MORT,,F,A,0,PER_1000_LIVE_BIRTHS,G,5.3
+2007,SH_DYN_MORT,,F,A,0,PER_1000_LIVE_BIRTHS,G,5.2
+2008,SH_DYN_MORT,,F,A,0,PER_1000_LIVE_BIRTHS,G,5.0
+2009,SH_DYN_MORT,,F,A,0,PER_1000_LIVE_BIRTHS,G,4.8
+2010,SH_DYN_MORT,,F,A,0,PER_1000_LIVE_BIRTHS,G,4.7
+2011,SH_DYN_MORT,,F,A,0,PER_1000_LIVE_BIRTHS,G,4.4
+2012,SH_DYN_MORT,,F,A,0,PER_1000_LIVE_BIRTHS,G,4.3
+2013,SH_DYN_MORT,,F,A,0,PER_1000_LIVE_BIRTHS,G,4.2
+2014,SH_DYN_MORT,,F,A,0,PER_1000_LIVE_BIRTHS,G,4.1
+2015,SH_DYN_MORT,,F,A,0,PER_1000_LIVE_BIRTHS,G,4.0
+2016,SH_DYN_MORT,,F,A,0,PER_1000_LIVE_BIRTHS,G,4.0
+2017,SH_DYN_MORT,,F,A,0,PER_1000_LIVE_BIRTHS,G,4.0
+2018,SH_DYN_MORT,,F,A,0,PER_1000_LIVE_BIRTHS,G,3.9
+2019,SH_DYN_MORT,,F,A,0,PER_1000_LIVE_BIRTHS,G,3.9
+2020,SH_DYN_MORT,,F,A,0,PER_1000_LIVE_BIRTHS,G,3.8
+2000,SH_DYN_MORT,,M,A,0,PER_1000_LIVE_BIRTHS,G,7.2
+2001,SH_DYN_MORT,,M,A,0,PER_1000_LIVE_BIRTHS,G,7.1
+2002,SH_DYN_MORT,,M,A,0,PER_1000_LIVE_BIRTHS,G,7.0
+2003,SH_DYN_MORT,,M,A,0,PER_1000_LIVE_BIRTHS,G,6.8
+2004,SH_DYN_MORT,,M,A,0,PER_1000_LIVE_BIRTHS,G,6.7
+2005,SH_DYN_MORT,,M,A,0,PER_1000_LIVE_BIRTHS,G,6.6
+2006,SH_DYN_MORT,,M,A,0,PER_1000_LIVE_BIRTHS,G,6.5
+2007,SH_DYN_MORT,,M,A,0,PER_1000_LIVE_BIRTHS,G,6.3
+2008,SH_DYN_MORT,,M,A,0,PER_1000_LIVE_BIRTHS,G,6.1
+2009,SH_DYN_MORT,,M,A,0,PER_1000_LIVE_BIRTHS,G,5.9
+2010,SH_DYN_MORT,,M,A,0,PER_1000_LIVE_BIRTHS,G,5.7
+2011,SH_DYN_MORT,,M,A,0,PER_1000_LIVE_BIRTHS,G,5.5
+2012,SH_DYN_MORT,,M,A,0,PER_1000_LIVE_BIRTHS,G,5.3
+2013,SH_DYN_MORT,,M,A,0,PER_1000_LIVE_BIRTHS,G,5.1
+2014,SH_DYN_MORT,,M,A,0,PER_1000_LIVE_BIRTHS,G,5.0
+2015,SH_DYN_MORT,,M,A,0,PER_1000_LIVE_BIRTHS,G,4.9
+2016,SH_DYN_MORT,,M,A,0,PER_1000_LIVE_BIRTHS,G,4.8
+2017,SH_DYN_MORT,,M,A,0,PER_1000_LIVE_BIRTHS,G,4.8
+2018,SH_DYN_MORT,,M,A,0,PER_1000_LIVE_BIRTHS,G,4.7
+2019,SH_DYN_MORT,,M,A,0,PER_1000_LIVE_BIRTHS,G,4.7
+2020,SH_DYN_MORT,,M,A,0,PER_1000_LIVE_BIRTHS,G,4.6

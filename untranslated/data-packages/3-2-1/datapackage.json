@@ -19,17 +19,6 @@
             "type": "string"
           },
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "under 5 years old",
-                "Y0T4",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Country",
             "type": "string",
             "constraints": {

@@ -21,18 +21,6 @@
             "title": "SDG Series"
           },
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "under 5 years old",
-                "under 5 years old",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
             "name": "Country",
             "type": "string",
             "constraints": {
