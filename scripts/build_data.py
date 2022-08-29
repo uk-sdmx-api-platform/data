@@ -28,6 +28,12 @@ def alter_data(df, context):
         if context['indicator_id'] == '1-1-1':
             with pd.option_context('display.max_rows', None, 'display.max_columns', None):
                 print(df)
+    special_cols = ['Year', 'Value', 'Reporting type', 'REPORTING_TYPE', 'Units', 'UNIT_MEASURE', 'UNIT_MULT', 'Unit multiplier', 'Series', 'SERIES', 'OBS_STATUS', 'Observation status']
+    for col in df.columns:
+        if col in special_cols:
+            continue
+        if len(df[col].unique()) == 1:
+            df.drop(col, inplace=True, axis=1)
     return df
     
 
