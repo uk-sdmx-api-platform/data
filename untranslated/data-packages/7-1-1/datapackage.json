@@ -15,10 +15,28 @@
             "type": "integer"
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                "R",
+                "U",
+                ""
+              ]
+            }
+          },
+          {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
+                "Normal value",
                 "A",
                 ""
               ]
@@ -29,32 +47,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Units",
                 "0",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "REPORTING_TYPE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "G",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "R",
-                "U",
                 ""
               ]
             }
@@ -64,8 +58,19 @@
             "type": "string"
           },
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "National",
+                "G",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

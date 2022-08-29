@@ -16,10 +16,30 @@
             "title": "Year"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                "Rural",
+                "Urban",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
+                "Normal value",
                 "Normal value",
                 ""
               ]
@@ -32,38 +52,11 @@
             "constraints": {
               "enum": [
                 "Units",
+                "Units",
                 ""
               ]
             },
             "title": "Unit multiplier"
-          },
-          {
-            "name": "REPORTING_TYPE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Global",
-                ""
-              ]
-            },
-            "title": "Reporting type"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Rural",
-                "Urban",
-                ""
-              ]
-            },
-            "title": "Degree of urbanisation"
           },
           {
             "name": "UNIT_MEASURE",
@@ -71,8 +64,20 @@
             "title": "Unit of measure"
           },
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "National",
+                "Global",
+                ""
+              ]
+            },
+            "title": "Reporting type"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
