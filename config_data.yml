@@ -75,6 +75,9 @@ inputs:
     git_data_dir: data
   - class: InputSdmxMeta
     meta_suffix: __GLOBAL
+  - class: InputWordMeta
+    path_pattern: meta/*-*.docm
+    
 
 # Translations
 # ------------
