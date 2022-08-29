@@ -17,14 +17,8 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of population using safely managed sanitation services (%)",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Safely managed element",
@@ -65,49 +59,39 @@
             }
           },
           {
-            "name": "Residence type",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
                 "Rural",
                 "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
-          },
-          {
-            "name": "Observation status",
-            "type": "string"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage (%)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string"
           },
           {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
+                "Normal value",
                 "A",
                 ""
               ]
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
+                "Units",
                 "0",
                 ""
               ]
@@ -118,29 +102,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "National",
                 "G",
                 ""
               ]
             }
-          },
-          {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "R",
-                "U",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
           },
           {
             "name": "Value",
