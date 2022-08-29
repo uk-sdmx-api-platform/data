@@ -12,65 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Normal value",
-                ""
-              ]
-            },
-            "title": "Observation status"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Units",
-                ""
-              ]
-            },
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "REPORTING_TYPE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Global",
-                ""
-              ]
-            },
-            "title": "Reporting type"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "OCCUPATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Medical doctors",
-                "Nursing and midwifery personnel",
-                "Dentists",
-                "Pharmacists",
-                ""
-              ]
-            },
-            "title": "Occupation"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
           },
           {
             "name": "Value",

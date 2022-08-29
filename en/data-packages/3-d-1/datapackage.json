@@ -12,91 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Normal value",
-                ""
-              ]
-            },
-            "title": "Observation status"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Units",
-                ""
-              ]
-            },
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "REPORTING_TYPE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Global",
-                ""
-              ]
-            },
-            "title": "Reporting type"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "IHR Capacity: National legislation, policy and financing",
-                "IHR Capacity: Coordination and National Focal Point communications",
-                "IHR Capacity: Surveillance",
-                "IHR Capacity: Response",
-                "IHR Capacity: Preparedness",
-                "IHR Capacity: Risk communication",
-                "IHR Capacity: Human resources",
-                "IHR Capacity: Laboratory",
-                "IHR Capacity: Points of entry",
-                "IHR Capacity: Zoonotic events",
-                "IHR Capacity: Food safety",
-                "IHR Capacity: Chemical events",
-                "IHR Capacity: Radionuclear emergencies",
-                "State Party Annual Report: Legislation and Financing",
-                "State Party Annual Report: IHR Coordination and National IHR Focal Point Functions ",
-                "State Party Annual Report: Zoonotic events and the human–animal interface ",
-                "State Party Annual Report: Food safety ",
-                "State Party Annual Report: Laboratory ",
-                "State Party Annual Report: Surveillance ",
-                "State Party Annual Report: Human resources ",
-                "State Party Annual Report: National Health Emergency Framework ",
-                "State Party Annual Report: Health Service Provision ",
-                "State Party Annual Report: Risk Communication ",
-                "State Party Annual Report: Points of entry ",
-                "State Party Annual Report: Chemical events ",
-                "State Party Annual Report: Radiation emergencies ",
-                ""
-              ]
-            },
-            "title": "Composite breakdown"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
