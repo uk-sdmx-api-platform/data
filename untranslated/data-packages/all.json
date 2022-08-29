@@ -169,6 +169,17 @@
             "type": "string"
           },
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "under 5 years old",
+                "Y0T4",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Country",
             "type": "string",
             "constraints": {
@@ -200,7 +211,6 @@
             "constraints": {
               "enum": [
                 "Normal value",
-                "Undefined",
                 "A",
                 ""
               ]
@@ -222,25 +232,12 @@
             "type": "string"
           },
           {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
             "name": "REPORTING_TYPE",
             "type": "string",
             "constraints": {
               "enum": [
+                "National",
                 "G",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Y0T4",
                 ""
               ]
             }
