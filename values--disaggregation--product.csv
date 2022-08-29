@@ -5,6 +5,9 @@ AGG_CLTH,1,1
 AGG_IND,1,1
 AGG_OIL,1,1
 AGG_TXT,1,1
+Biomass (material flows),3,1
+Fossil fuels (material flows),3,1
+Metal ores (material flows),3,1
 MF1,6,2
 MF11,6,2
 MF121,6,2
@@ -22,3 +25,4 @@ MF421,6,2
 MF422,6,2
 MF_AGG3A,6,2
 MF_AGG3B,6,2
+Non-metallic minerals (material flows),3,1

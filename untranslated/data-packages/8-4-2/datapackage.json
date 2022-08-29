@@ -15,37 +15,11 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "REPORTING_TYPE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "G",
-                ""
-              ]
-            }
-          },
-          {
             "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MEASURE",
             "type": "string"
           },
           {
@@ -53,6 +27,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Biomass (material flows)",
+                "Fossil fuels (material flows)",
+                "Metal ores (material flows)",
+                "Non-metallic minerals (material flows)",
                 "MF_AGG3A",
                 "MF_AGG3B",
                 "MF1",
@@ -75,8 +53,38 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Millions",
+                "Units",
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "National",
+                "G",
+                ""
+              ]
+            }
           },
           {
             "name": "BASE_PER",
