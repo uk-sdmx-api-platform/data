@@ -30,4 +30,6 @@ reporting_status: notstarted
 sort: ''
 standalone: false
 tags: []
-source_organisation_1: "National: Office for National Statistics (ONS); Global: United Nations Children's Fund (UNICEF)"
+footer_fields:
+  - label: Sources
+    value: "National: Office for National Statistics (ONS); Global: United Nations Children's Fund (UNICEF)"
