@@ -1,1 +1,5 @@
-Year,Value
+Year,Value,Units,Series,Observation status,Unit multiplier
+2000,85.6011,Index,Mountain Green Cover Index,Normal value,Units
+2010,85.56868,Index,Mountain Green Cover Index,Normal value,Units
+2018,85.5756,Index,Mountain Green Cover Index,Normal value,Units
+2015,85.56103,Index,Mountain Green Cover Index,Normal value,Units

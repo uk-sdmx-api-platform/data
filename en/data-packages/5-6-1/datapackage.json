@@ -12,8 +12,55 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16 to 17",
+                "18 to 19",
+                "20 to 24",
+                "25 to 34",
+                "35 to 44",
+                "45 and over",
+                "15 and under",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Main method of contraception",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Contraceptive patch",
+                "Female condom",
+                "Implant",
+                "Injectable contraceptive",
+                "IU device",
+                "IU system",
+                "Male condom",
+                "Natural family planning incl. rhythm method",
+                "Oral contraceptives",
+                "Other methods",
+                ""
+              ]
+            },
+            "title": "Main method of contraception"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
           },
           {
             "name": "Value",

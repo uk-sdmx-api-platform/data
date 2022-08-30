@@ -1,1 +1,3 @@
-Year,Value
+Year,Value,GeoCode,Observation status,Unit multiplier
+2011,6.35,,Undefined,Units
+2016,6.31,,Undefined,Units

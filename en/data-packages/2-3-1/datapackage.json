@@ -12,8 +12,56 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Productivity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total factor productivity",
+                "Productivity by labour",
+                "Productivity by land",
+                "Productivity by intermediate consumption",
+                "Productivity by capital consumption",
+                ""
+              ]
+            },
+            "title": "Productivity"
+          },
+          {
+            "name": "Outputs",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All outputs",
+                ""
+              ]
+            },
+            "title": "Outputs"
+          },
+          {
+            "name": "Inputs",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All inputs",
+                "Labour inputs",
+                ""
+              ]
+            },
+            "title": "Inputs"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
           },
           {
             "name": "Value",

@@ -16,6 +16,44 @@
             "title": "Year"
           },
           {
+            "name": "Country Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Developing countries",
+                "Least developed countries",
+                "Small island developing states",
+                ""
+              ]
+            },
+            "title": "Country Group"
+          },
+          {
+            "name": "Product Sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AGRI",
+                "FISH",
+                "NAMA",
+                "PAPS",
+                ""
+              ]
+            },
+            "title": "Product Sector"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {

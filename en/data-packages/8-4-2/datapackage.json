@@ -16,24 +16,97 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Domestic material consumption",
+                "Domestic material consumption per capita",
+                "Domestic material consumption per unit of GDP",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tonnes",
+                "Tonnes per $m",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Material category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Biomass",
+                "Fossil fuels",
+                "Metal ores",
+                "Non-metallic minerals",
+                ""
+              ]
+            },
+            "title": "Material category"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Global",
+                ""
+              ]
+            },
+            "title": "Reporting type"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SDG Series"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
           },
           {
             "name": "PRODUCT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Biomass (material flows)",
-                "Fossil fuels (material flows)",
-                "Metal ores (material flows)",
-                "Non-metallic minerals (material flows)",
                 "Non-metallic minerals - construction dominant (material flows)",
                 "Non-metallic minerals - industrial or agricultural dominant (material flows)",
                 "Biomass (material flows)",
@@ -57,41 +130,9 @@
             "title": "Type of product"
           },
           {
-            "name": "OBS_STATUS",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Normal value",
-                "Normal value",
-                ""
-              ]
-            },
-            "title": "Observation status"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Millions",
-                "Units",
-                "Units",
-                ""
-              ]
-            },
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "REPORTING_TYPE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "National",
-                "Global",
-                ""
-              ]
-            },
-            "title": "Reporting type"
+            "title": "Unit of measure"
           },
           {
             "name": "BASE_PER",

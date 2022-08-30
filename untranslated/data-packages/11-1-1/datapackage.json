@@ -12,7 +12,139 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Dwellings (%)",
+                "Households (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Decent homes criteria",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Minimum Standard (HHSRS)",
+                "Modern facilities and services",
+                "Repair",
+                "Thermal comfort",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Urbanisation sub-category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "City centre",
+                "Other rural area",
+                "Other urban centre",
+                "Rural residential",
+                "Suburban residential",
+                "Village centre",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sub-national area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "London and South East",
+                "Northern",
+                "Rest of England",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age of oldest person",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "59 and under",
+                "60 and over",
+                "75 and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age of youngest person",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 and under",
+                "16 and over",
+                "4 and under",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Disability status (household)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Disabled (GSS harmonised)",
+                "Non-disabled (GSS harmonised)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ethnicity of household reference person (HRP)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All minority",
+                "Asian",
+                "Black",
+                "other",
+                "White",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Income quintile (household)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1st quintile (lowest)",
+                "2nd quintile",
+                "3rd quintile",
+                "4th quintile",
+                "5th quintile (highest)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
           },
           {
             "name": "Value",

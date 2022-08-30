@@ -12,7 +12,76 @@
         "fields": [
           {
             "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of deaths from exposure to forces of nature",
+                "Age-standardised mortality rates per 100,000 population",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "England",
+                "Wales",
+                "England and Wales",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Cause of death",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Exposure to excessive natural cold",
+                "Exposure to excessive natural heat",
+                "Exposure to other and unspecified forces of nature",
+                "Exposure to sunlight",
+                "Victim of avalanche, landslide and other earth movements",
+                "Victim of cataclysmic storm",
+                "Victim of earthquake",
+                "Victim of flood",
+                "Victim of lightning",
+                "Victim of volcanic eruption",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
             "type": "number"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",

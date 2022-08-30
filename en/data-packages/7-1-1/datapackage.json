@@ -16,30 +16,54 @@
             "title": "Year"
           },
           {
-            "name": "SERIES",
+            "name": "Series",
             "type": "string",
-            "title": "SDG Series"
+            "constraints": {
+              "enum": [
+                "Proportion of population with access to electricity",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
-            "name": "URBANISATION",
+            "name": "Urban or Rural",
             "type": "string",
             "constraints": {
               "enum": [
                 "Urban",
                 "Rural",
-                "Rural",
-                "Urban",
                 ""
               ]
             },
-            "title": "Degree of urbanisation"
+            "title": "Urban or Rural"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "Normal value",
                 "Normal value",
                 ""
               ]
@@ -52,28 +76,43 @@
             "constraints": {
               "enum": [
                 "Units",
-                "Units",
                 ""
               ]
             },
             "title": "Unit multiplier"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
             "name": "REPORTING_TYPE",
             "type": "string",
             "constraints": {
               "enum": [
-                "National",
                 "Global",
                 ""
               ]
             },
             "title": "Reporting type"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                "Urban",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

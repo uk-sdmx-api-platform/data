@@ -1,1 +1,67 @@
-Year,Value
+Year,Type of exploitation,Sex,Observation status,Unit multiplier,Value
+2020,Labour,Female,Normal value,Units,32.0
+2020,Labour,Male,Normal value,Units,398.0
+2020,Labour,,Normal value,Units,431.0
+2020,Labour and criminal,Female,Normal value,Units,23.0
+2020,Labour and criminal,Male,Normal value,Units,356.0
+2020,Labour and criminal,,Normal value,Units,380.0
+2020,Labour and domestic,Female,Normal value,Units,32.0
+2020,Labour and domestic,Male,Normal value,Units,78.0
+2020,Labour and domestic,,Normal value,Units,110.0
+2020,Labour and organ harvesting,Female,Normal value,Units,
+2020,Labour and organ harvesting,Male,Normal value,Units,
+2020,Labour and organ harvesting,,Normal value,Units,
+2020,Labour and sexual,Female,Normal value,Units,22.0
+2020,Labour and sexual,Male,Normal value,Units,30.0
+2020,Labour and sexual,,Normal value,Units,53.0
+2020,"Labour, domestic and criminal",Female,Normal value,Units,
+2020,"Labour, domestic and criminal",Male,Normal value,Units,18.0
+2020,"Labour, domestic and criminal",,Normal value,Units,22.0
+2020,"Labour, sexual and criminal",Female,Normal value,Units,18.0
+2020,"Labour, sexual and criminal",Male,Normal value,Units,16.0
+2020,"Labour, sexual and criminal",,Normal value,Units,34.0
+2020,"Labour, sexual and domestic",Female,Normal value,Units,21.0
+2020,"Labour, sexual and domestic",Male,Normal value,Units,12.0
+2020,"Labour, sexual and domestic",,Normal value,Units,34.0
+2020,"Labour, sexual and organ harvesting",Female,Normal value,Units,
+2020,"Labour, sexual and organ harvesting",Male,Normal value,Units,
+2020,"Labour, sexual and organ harvesting",,Normal value,Units,
+2020,"Labour, sexual, domestic and criminal",Female,Normal value,Units,5.0
+2020,"Labour, sexual, domestic and criminal",Male,Normal value,Units,8.0
+2020,"Labour, sexual, domestic and criminal",,Normal value,Units,13.0
+2020,"Labour, sexual, domestic, organ harvesting and criminal",Female,Normal value,Units,
+2020,"Labour, sexual, domestic, organ harvesting and criminal",Male,Normal value,Units,
+2020,"Labour, sexual, domestic, organ harvesting and criminal",,Normal value,Units,
+2021,Labour,Female,Normal value,Units,29.0
+2021,Labour,Male,Normal value,Units,550.0
+2021,Labour,,Normal value,Units,579.0
+2021,Labour and criminal,Female,Normal value,Units,19.0
+2021,Labour and criminal,Male,Normal value,Units,355.0
+2021,Labour and criminal,,Normal value,Units,374.0
+2021,Labour and domestic,Female,Normal value,Units,26.0
+2021,Labour and domestic,Male,Normal value,Units,88.0
+2021,Labour and domestic,,Normal value,Units,114.0
+2021,Labour and organ harvesting,Female,Normal value,Units,
+2021,Labour and organ harvesting,Male,Normal value,Units,0.0
+2021,Labour and organ harvesting,,Normal value,Units,0.0
+2021,Labour and sexual,Female,Normal value,Units,38.0
+2021,Labour and sexual,Male,Normal value,Units,27.0
+2021,Labour and sexual,,Normal value,Units,65.0
+2021,"Labour, domestic and criminal",Female,Normal value,Units,
+2021,"Labour, domestic and criminal",Male,Normal value,Units,14.0
+2021,"Labour, domestic and criminal",,Normal value,Units,16.0
+2021,"Labour, sexual and criminal",Female,Normal value,Units,18.0
+2021,"Labour, sexual and criminal",Male,Normal value,Units,24.0
+2021,"Labour, sexual and criminal",,Normal value,Units,42.0
+2021,"Labour, sexual and domestic",Female,Normal value,Units,36.0
+2021,"Labour, sexual and domestic",Male,Normal value,Units,14.0
+2021,"Labour, sexual and domestic",,Normal value,Units,50.0
+2021,"Labour, sexual and organ harvesting",Female,Normal value,Units,
+2021,"Labour, sexual and organ harvesting",Male,Normal value,Units,
+2021,"Labour, sexual and organ harvesting",,Normal value,Units,
+2021,"Labour, sexual, domestic and criminal",Female,Normal value,Units,
+2021,"Labour, sexual, domestic and criminal",Male,Normal value,Units,6.0
+2021,"Labour, sexual, domestic and criminal",,Normal value,Units,7.0
+2021,"Labour, sexual, domestic, organ harvesting and criminal",Female,Normal value,Units,
+2021,"Labour, sexual, domestic, organ harvesting and criminal",Male,Normal value,Units,
+2021,"Labour, sexual, domestic, organ harvesting and criminal",,Normal value,Units,

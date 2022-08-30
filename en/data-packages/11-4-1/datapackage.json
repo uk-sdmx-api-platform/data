@@ -12,8 +12,44 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Cultural heritage",
+                "Natural heritage",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Type of expenditure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Central government expenditure",
+                "NGO expenditure",
+                "General government expenditure",
+                "Local government expenditure",
+                ""
+              ]
+            },
+            "title": "Type of expenditure"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
           },
           {
             "name": "Value",

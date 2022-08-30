@@ -1,1 +1,21 @@
-Year,Value
+Year,Corruption offence type,Observation status,Unit multiplier,Value
+2017/18,,Normal Value,Units,105.0
+2017/18,"Requesting, agreeing to receive and accepting bribes",Normal Value,Units,6.0
+2017/18,"Offering, promising or giving bribes",Normal Value,Units,7.0
+2017/18,Misconduct in a public office,Normal Value,Units,92.0
+2017/18,Commercial organisation - failure to prevent associate bribing another with intent to obtain or retain business or advantage,Normal Value,Units,0.0
+2018/19,,Normal Value,Units,143.0
+2018/19,"Requesting, agreeing to receive and accepting bribes",Normal Value,Units,3.0
+2018/19,"Offering, promising or giving bribes",Normal Value,Units,12.0
+2018/19,Misconduct in a public office,Normal Value,Units,127.0
+2018/19,Commercial organisation - failure to prevent associate bribing another with intent to obtain or retain business or advantage,Normal Value,Units,1.0
+2019/20,,Normal Value,Units,109.0
+2019/20,"Requesting, agreeing to receive and accepting bribes",Normal Value,Units,2.0
+2019/20,"Offering, promising or giving bribes",Normal Value,Units,7.0
+2019/20,Misconduct in a public office,Normal Value,Units,100.0
+2019/20,Commercial organisation - failure to prevent associate bribing another with intent to obtain or retain business or advantage,Normal Value,Units,0.0
+2020/21,,Normal Value,Units,120.0
+2020/21,"Requesting, agreeing to receive and accepting bribes",Normal Value,Units,1.0
+2020/21,"Offering, promising or giving bribes",Normal Value,Units,10.0
+2020/21,Misconduct in a public office,Normal Value,Units,109.0
+2020/21,Commercial organisation - failure to prevent associate bribing another with intent to obtain or retain business or advantage,Normal Value,Units,0.0

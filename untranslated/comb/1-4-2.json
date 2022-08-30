@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2018,2018,2018,2018],"Security":["Documented","Documented","Documented","Perceived"],"Type of documentation":["Formal","Informal Documentation","No Documentation",null],"Observation status":["Undefined","Undefined","Undefined","Undefined"],"Unit multiplier":["Units","Units","Units","Units"],"Value":[79.0,1.0,20.0,87.0]},"edges":{"From":["Security"],"To":["Type of documentation"]}}

@@ -12,7 +12,119 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "England",
+                "England and Wales",
+                "Wales",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "East",
+                "East Midlands",
+                "London",
+                "North East",
+                "North West",
+                "South East",
+                "South West",
+                "West Midlands",
+                "Yorkshire and The Humber",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Under 1",
+                "1 to 4",
+                "5 to 9",
+                "10 to 14",
+                "15 to 19",
+                "20 to 24",
+                "25 to 29",
+                "30 to 34",
+                "35 to 39",
+                "40 to 44",
+                "45 to 49",
+                "50 to 54",
+                "55 to 59",
+                "60 to 64",
+                "65 to 69",
+                "70 to 74",
+                "75 to 79",
+                "80 to 84",
+                "85 to 89",
+                "90 and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of disease",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Cancer",
+                "Diabetes",
+                "Cardiovascular disease",
+                "Chronic respiratory disease",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Chronic respiratory disease subtype",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Other diseases of upper respiratory tract",
+                "Chronic lower respiratory diseases",
+                "Lung diseases due to external agents",
+                "Other respiratory diseases principally affecting the interstitium",
+                "Suppurative and necrotic conditions of lower respiratory tract",
+                "Other diseases of pleura",
+                "Respiratory failure, not elsewhere classified",
+                "Other respiratory disorders",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",

@@ -15,18 +15,40 @@
             "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population with access to electricity",
+                ""
+              ]
+            }
           },
           {
-            "name": "URBANISATION",
+            "name": "Urban or Rural",
             "type": "string",
             "constraints": {
               "enum": [
                 "Urban",
                 "Rural",
-                "R",
-                "U",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
                 ""
               ]
             }
@@ -36,7 +58,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Normal value",
                 "A",
                 ""
               ]
@@ -47,8 +68,32 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Units",
                 "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "G",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "R",
+                "U",
                 ""
               ]
             }
@@ -56,17 +101,6 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "REPORTING_TYPE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "National",
-                "G",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",

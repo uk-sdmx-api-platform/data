@@ -12,7 +12,55 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Status classification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "High",
+                "Good",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Water body category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rivers and canals",
+                "Lakes",
+                "Estuaries and Coastal",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "England",
+                "Scotland",
+                "Wales",
+                "Northern Ireland",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",

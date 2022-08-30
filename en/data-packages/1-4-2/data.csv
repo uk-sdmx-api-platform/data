@@ -1,1 +1,5 @@
-Year,Value
+Year,Security,Type of documentation,Observation status,Unit multiplier,Value
+2018,Documented,Formal,Undefined,Units,79.0
+2018,Documented,Informal Documentation,Undefined,Units,1.0
+2018,Documented,No Documentation,Undefined,Units,20.0
+2018,Perceived,,Undefined,Units,87.0

@@ -1,5 +1,9 @@
 Value,Disaggregation combinations using this value,Number of indicators
-F,1,1
-Female,5,1
-M,1,1
-Male,5,1
+Boys,1,1
+Female,2454,49
+Females,23,1
+Girls,1,1
+Male,2561,49
+Males,23,1
+Men,79,2
+Women,79,2

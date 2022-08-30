@@ -1,1 +1,11 @@
-Year,Value
+Year,Value,Observation status,Unit multiplier
+2005.0,6.0,Undefined,Units
+2006.0,5.4,Undefined,Units
+2007.0,5.0,Undefined,Units
+2008.0,4.8,Undefined,Units
+2009.0,4.8,Undefined,Units
+2010.0,4.8,Undefined,Units
+2011.0,4.4,Undefined,Units
+2012.0,4.8,Undefined,Units
+2013.0,,Undefined,Units
+2014.0,4.2,Undefined,Units

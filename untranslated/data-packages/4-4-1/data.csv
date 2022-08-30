@@ -1,1 +1,279 @@
-Year,Value
+Year,Skill,Age,Sex,Disability status,Observation status,Unit multiplier,Value
+2017,"Changing the settings of any software, including operating system or security programs",,,Non-disabled (GSS harmonised),Normal value,Units,43
+2019,"Changing the settings of any software, including operating system or security programs",,,Non-disabled (GSS harmonised),Normal value,Units,40
+2015,Copying or moving a file or folder,,,Non-disabled (GSS harmonised),Normal value,Units,62
+2017,Copying or moving a file or folder,,,Non-disabled (GSS harmonised),Normal value,Units,67
+2019,Copying or moving a file or folder,,,Non-disabled (GSS harmonised),Normal value,Units,62
+2015,"Creating presentations or documents containing or integrating pictures, tables or charts",,,Non-disabled (GSS harmonised),Normal value,Units,46
+2017,"Creating presentations or documents containing or integrating pictures, tables or charts",,,Non-disabled (GSS harmonised),Normal value,Units,53
+2019,"Creating presentations or documents containing or integrating pictures, tables or charts",,,Non-disabled (GSS harmonised),Normal value,Units,51
+2017,Installing software or applications,,,Non-disabled (GSS harmonised),Normal value,Units,63
+2019,Installing software or applications,,,Non-disabled (GSS harmonised),Normal value,Units,70
+2019,Make backup copies of files on external storage devices or internet storage space,,,Non-disabled (GSS harmonised),Normal value,Units,60
+2017,Transferring files between computers or other devices,,,Non-disabled (GSS harmonised),Normal value,Units,60
+2019,Transferring files between computers or other devices,,,Non-disabled (GSS harmonised),Normal value,Units,55
+2015,"Using software to edit photos, video or audio files",,,Non-disabled (GSS harmonised),Normal value,Units,48
+2017,"Using software to edit photos, video or audio files",,,Non-disabled (GSS harmonised),Normal value,Units,51
+2019,"Using software to edit photos, video or audio files",,,Non-disabled (GSS harmonised),Normal value,Units,48
+2015,Using spreadsheet software,,,Non-disabled (GSS harmonised),Normal value,Units,43
+2017,Using spreadsheet software,,,Non-disabled (GSS harmonised),Normal value,Units,51
+2019,Using spreadsheet software,,,Non-disabled (GSS harmonised),Normal value,Units,51
+2015,Using word processing software,,,Non-disabled (GSS harmonised),Normal value,Units,61
+2017,Using word processing software,,,Non-disabled (GSS harmonised),Normal value,Units,65
+2019,Using word processing software,,,Non-disabled (GSS harmonised),Normal value,Units,69
+2015,Writing computer code using a programming language,,,Non-disabled (GSS harmonised),Normal value,Units,7
+2017,Writing computer code using a programming language,,,Non-disabled (GSS harmonised),Normal value,Units,11
+2019,Writing computer code using a programming language,,,Non-disabled (GSS harmonised),Normal value,Units,10
+2017,"Changing the settings of any software, including operating system or security programs",,,Disabled (GSS harmonised),Normal value,Units,28
+2019,"Changing the settings of any software, including operating system or security programs",,,Disabled (GSS harmonised),Normal value,Units,31
+2015,Copying or moving a file or folder,,,Disabled (GSS harmonised),Normal value,Units,42
+2017,Copying or moving a file or folder,,,Disabled (GSS harmonised),Normal value,Units,43
+2019,Copying or moving a file or folder,,,Disabled (GSS harmonised),Normal value,Units,46
+2015,"Creating presentations or documents containing or integrating pictures, tables or charts",,,Disabled (GSS harmonised),Normal value,Units,26
+2017,"Creating presentations or documents containing or integrating pictures, tables or charts",,,Disabled (GSS harmonised),Normal value,Units,27
+2019,"Creating presentations or documents containing or integrating pictures, tables or charts",,,Disabled (GSS harmonised),Normal value,Units,32
+2017,Installing software or applications,,,Disabled (GSS harmonised),Normal value,Units,43
+2019,Installing software or applications,,,Disabled (GSS harmonised),Normal value,Units,54
+2019,Make backup copies of files on external storage devices or internet storage space,,,Disabled (GSS harmonised),Normal value,Units,46
+2017,Transferring files between computers or other devices,,,Disabled (GSS harmonised),Normal value,Units,33
+2019,Transferring files between computers or other devices,,,Disabled (GSS harmonised),Normal value,Units,43
+2015,"Using software to edit photos, video or audio files",,,Disabled (GSS harmonised),Normal value,Units,31
+2017,"Using software to edit photos, video or audio files",,,Disabled (GSS harmonised),Normal value,Units,31
+2019,"Using software to edit photos, video or audio files",,,Disabled (GSS harmonised),Normal value,Units,40
+2015,Using spreadsheet software,,,Disabled (GSS harmonised),Normal value,Units,25
+2017,Using spreadsheet software,,,Disabled (GSS harmonised),Normal value,Units,26
+2019,Using spreadsheet software,,,Disabled (GSS harmonised),Normal value,Units,34
+2015,Using word processing software,,,Disabled (GSS harmonised),Normal value,Units,39
+2017,Using word processing software,,,Disabled (GSS harmonised),Normal value,Units,43
+2019,Using word processing software,,,Disabled (GSS harmonised),Normal value,Units,51
+2015,Writing computer code using a programming language,,,Disabled (GSS harmonised),Normal value,Units,5
+2017,Writing computer code using a programming language,,,Disabled (GSS harmonised),Normal value,Units,4
+2019,Writing computer code using a programming language,,,Disabled (GSS harmonised),Normal value,Units,7
+2017,"Changing the settings of any software, including operating system or security programs",,Female,,Normal value,Units,31
+2019,"Changing the settings of any software, including operating system or security programs",,Female,,Normal value,Units,28
+2015,Copying or moving a file or folder,,Female,,Normal value,Units,54
+2017,Copying or moving a file or folder,,Female,,Normal value,Units,56
+2019,Copying or moving a file or folder,,Female,,Normal value,Units,52
+2015,"Creating presentations or documents containing or integrating pictures, tables or charts",,Female,,Normal value,Units,38
+2017,"Creating presentations or documents containing or integrating pictures, tables or charts",,Female,,Normal value,Units,42
+2019,"Creating presentations or documents containing or integrating pictures, tables or charts",,Female,,Normal value,Units,44
+2017,Installing software or applications,,Female,,Normal value,Units,52
+2019,Installing software or applications,,Female,,Normal value,Units,59
+2019,Make backup copies of files on external storage devices or internet storage space,,Female,,Normal value,Units,51
+2017,Transferring files between computers or other devices,,Female,,Normal value,Units,46
+2019,Transferring files between computers or other devices,,Female,,Normal value,Units,46
+2015,"Using software to edit photos, video or audio files",,Female,,Normal value,Units,40
+2017,"Using software to edit photos, video or audio files",,Female,,Normal value,Units,42
+2019,"Using software to edit photos, video or audio files",,Female,,Normal value,Units,43
+2015,Using spreadsheet software,,Female,,Normal value,Units,35
+2017,Using spreadsheet software,,Female,,Normal value,Units,40
+2019,Using spreadsheet software,,Female,,Normal value,Units,42
+2015,Using word processing software,,Female,,Normal value,Units,53
+2017,Using word processing software,,Female,,Normal value,Units,56
+2019,Using word processing software,,Female,,Normal value,Units,61
+2015,Writing computer code using a programming language,,Female,,Normal value,Units,3
+2017,Writing computer code using a programming language,,Female,,Normal value,Units,4
+2019,Writing computer code using a programming language,,Female,,Normal value,Units,5
+2017,"Changing the settings of any software, including operating system or security programs",,Male,,Normal value,Units,48
+2019,"Changing the settings of any software, including operating system or security programs",,Male,,Normal value,Units,48
+2015,Copying or moving a file or folder,,Male,,Normal value,Units,64
+2017,Copying or moving a file or folder,,Male,,Normal value,Units,67
+2019,Copying or moving a file or folder,,Male,,Normal value,Units,65
+2015,"Creating presentations or documents containing or integrating pictures, tables or charts",,Male,,Normal value,Units,46
+2017,"Creating presentations or documents containing or integrating pictures, tables or charts",,Male,,Normal value,Units,51
+2019,"Creating presentations or documents containing or integrating pictures, tables or charts",,Male,,Normal value,Units,48
+2017,Installing software or applications,,Male,,Normal value,Units,65
+2019,Installing software or applications,,Male,,Normal value,Units,72
+2019,Make backup copies of files on external storage devices or internet storage space,,Male,,Normal value,Units,62
+2017,Transferring files between computers or other devices,,Male,,Normal value,Units,61
+2019,Transferring files between computers or other devices,,Male,,Normal value,Units,58
+2015,"Using software to edit photos, video or audio files",,Male,,Normal value,Units,49
+2017,"Using software to edit photos, video or audio files",,Male,,Normal value,Units,51
+2019,"Using software to edit photos, video or audio files",,Male,,Normal value,Units,50
+2015,Using spreadsheet software,,Male,,Normal value,Units,45
+2017,Using spreadsheet software,,Male,,Normal value,Units,51
+2019,Using spreadsheet software,,Male,,Normal value,Units,51
+2015,Using word processing software,,Male,,Normal value,Units,60
+2017,Using word processing software,,Male,,Normal value,Units,65
+2019,Using word processing software,,Male,,Normal value,Units,68
+2015,Writing computer code using a programming language,,Male,,Normal value,Units,11
+2017,Writing computer code using a programming language,,Male,,Normal value,Units,15
+2019,Writing computer code using a programming language,,Male,,Normal value,Units,13
+2015,"Changing the settings of any software, including operating system or security programs",,,,Normal value,Units,38
+2017,"Changing the settings of any software, including operating system or security programs",,,,Normal value,Units,39
+2017,"Changing the settings of any software, including operating system or security programs",16 to 24,,,Normal value,Units,52
+2017,"Changing the settings of any software, including operating system or security programs",25 to 34,,,Normal value,Units,52
+2017,"Changing the settings of any software, including operating system or security programs",35 to 44,,,Normal value,Units,52
+2017,"Changing the settings of any software, including operating system or security programs",45 to 54,,,Normal value,Units,43
+2017,"Changing the settings of any software, including operating system or security programs",55 to 64,,,Normal value,Units,33
+2017,"Changing the settings of any software, including operating system or security programs",65 and over,,,Normal value,Units,15
+2019,"Changing the settings of any software, including operating system or security programs",,,,Normal value,Units,38
+2019,"Changing the settings of any software, including operating system or security programs",16 to 24,,,Normal value,Units,53
+2019,"Changing the settings of any software, including operating system or security programs",25 to 34,,,Normal value,Units,48
+2019,"Changing the settings of any software, including operating system or security programs",35 to 44,,,Normal value,Units,49
+2019,"Changing the settings of any software, including operating system or security programs",45 to 54,,,Normal value,Units,42
+2019,"Changing the settings of any software, including operating system or security programs",55 to 64,,,Normal value,Units,33
+2019,"Changing the settings of any software, including operating system or security programs",65 and over,,,Normal value,Units,12
+2015,Copying or moving a file or folder,,,,Normal value,Units,57
+2015,Copying or moving a file or folder,16 to 24,,,Normal value,Units,76
+2015,Copying or moving a file or folder,25 to 34,,,Normal value,Units,70
+2015,Copying or moving a file or folder,35 to 44,,,Normal value,Units,69
+2015,Copying or moving a file or folder,45 to 54,,,Normal value,Units,58
+2015,Copying or moving a file or folder,55 to 64,,,Normal value,Units,50
+2015,Copying or moving a file or folder,65 and over,,,Normal value,Units,25
+2017,Copying or moving a file or folder,,,,Normal value,Units,62
+2017,Copying or moving a file or folder,16 to 24,,,Normal value,Units,83
+2017,Copying or moving a file or folder,25 to 34,,,Normal value,Units,78
+2017,Copying or moving a file or folder,35 to 44,,,Normal value,Units,74
+2017,Copying or moving a file or folder,45 to 54,,,Normal value,Units,66
+2017,Copying or moving a file or folder,55 to 64,,,Normal value,Units,55
+2017,Copying or moving a file or folder,65 and over,,,Normal value,Units,28
+2019,Copying or moving a file or folder,,,,Normal value,Units,58
+2019,Copying or moving a file or folder,16 to 24,,,Normal value,Units,82
+2019,Copying or moving a file or folder,25 to 34,,,Normal value,Units,70
+2019,Copying or moving a file or folder,35 to 44,,,Normal value,Units,69
+2019,Copying or moving a file or folder,45 to 54,,,Normal value,Units,67
+2019,Copying or moving a file or folder,55 to 64,,,Normal value,Units,51
+2019,Copying or moving a file or folder,65 and over,,,Normal value,Units,26
+2015,"Creating presentations or documents containing or integrating pictures, tables or charts",,,,Normal value,Units,40
+2015,"Creating presentations or documents containing or integrating pictures, tables or charts",16 to 24,,,Normal value,Units,60
+2015,"Creating presentations or documents containing or integrating pictures, tables or charts",25 to 34,,,Normal value,Units,53
+2015,"Creating presentations or documents containing or integrating pictures, tables or charts",35 to 44,,,Normal value,Units,51
+2015,"Creating presentations or documents containing or integrating pictures, tables or charts",45 to 54,,,Normal value,Units,42
+2015,"Creating presentations or documents containing or integrating pictures, tables or charts",55 to 64,,,Normal value,Units,30
+2015,"Creating presentations or documents containing or integrating pictures, tables or charts",65 and over,,,Normal value,Units,11
+2017,"Creating presentations or documents containing or integrating pictures, tables or charts",,,,Normal value,Units,47
+2017,"Creating presentations or documents containing or integrating pictures, tables or charts",16 to 24,,,Normal value,Units,79
+2017,"Creating presentations or documents containing or integrating pictures, tables or charts",25 to 34,,,Normal value,Units,59
+2017,"Creating presentations or documents containing or integrating pictures, tables or charts",35 to 44,,,Normal value,Units,54
+2017,"Creating presentations or documents containing or integrating pictures, tables or charts",45 to 54,,,Normal value,Units,52
+2017,"Creating presentations or documents containing or integrating pictures, tables or charts",55 to 64,,,Normal value,Units,36
+2017,"Creating presentations or documents containing or integrating pictures, tables or charts",65 and over,,,Normal value,Units,14
+2019,"Creating presentations or documents containing or integrating pictures, tables or charts",,,,Normal value,Units,46
+2019,"Creating presentations or documents containing or integrating pictures, tables or charts",16 to 24,,,Normal value,Units,82
+2019,"Creating presentations or documents containing or integrating pictures, tables or charts",25 to 34,,,Normal value,Units,63
+2019,"Creating presentations or documents containing or integrating pictures, tables or charts",35 to 44,,,Normal value,Units,55
+2019,"Creating presentations or documents containing or integrating pictures, tables or charts",45 to 54,,,Normal value,Units,50
+2019,"Creating presentations or documents containing or integrating pictures, tables or charts",55 to 64,,,Normal value,Units,30
+2019,"Creating presentations or documents containing or integrating pictures, tables or charts",65 and over,,,Normal value,Units,14
+2015,Installing software or applications,,,,Normal value,Units,52
+2017,Installing software or applications,,,,Normal value,Units,59
+2017,Installing software or applications,16 to 24,,,Normal value,Units,82
+2017,Installing software or applications,25 to 34,,,Normal value,Units,79
+2017,Installing software or applications,35 to 44,,,Normal value,Units,72
+2017,Installing software or applications,45 to 54,,,Normal value,Units,63
+2017,Installing software or applications,55 to 64,,,Normal value,Units,50
+2017,Installing software or applications,65 and over,,,Normal value,Units,21
+2019,Installing software or applications,,,,Normal value,Units,66
+2019,Installing software or applications,16 to 24,,,Normal value,Units,91
+2019,Installing software or applications,25 to 34,,,Normal value,Units,90
+2019,Installing software or applications,35 to 44,,,Normal value,Units,79
+2019,Installing software or applications,45 to 54,,,Normal value,Units,70
+2019,Installing software or applications,55 to 64,,,Normal value,Units,58
+2019,Installing software or applications,65 and over,,,Normal value,Units,26
+2019,Make backup copies of files on external storage devices or internet storage space,,,,Normal value,Units,56
+2019,Make backup copies of files on external storage devices or internet storage space,16 to 24,,,Normal value,Units,76
+2019,Make backup copies of files on external storage devices or internet storage space,25 to 34,,,Normal value,Units,67
+2019,Make backup copies of files on external storage devices or internet storage space,35 to 44,,,Normal value,Units,71
+2019,Make backup copies of files on external storage devices or internet storage space,45 to 54,,,Normal value,Units,60
+2019,Make backup copies of files on external storage devices or internet storage space,55 to 64,,,Normal value,Units,49
+2019,Make backup copies of files on external storage devices or internet storage space,65 and over,,,Normal value,Units,29
+2015,Transferring files between computers or other devices,,,,Normal value,Units,48
+2017,Transferring files between computers or other devices,,,,Normal value,Units,53
+2017,Transferring files between computers or other devices,16 to 24,,,Normal value,Units,78
+2017,Transferring files between computers or other devices,25 to 34,,,Normal value,Units,72
+2017,Transferring files between computers or other devices,35 to 44,,,Normal value,Units,66
+2017,Transferring files between computers or other devices,45 to 54,,,Normal value,Units,56
+2017,Transferring files between computers or other devices,55 to 64,,,Normal value,Units,45
+2017,Transferring files between computers or other devices,65 and over,,,Normal value,Units,19
+2019,Transferring files between computers or other devices,,,,Normal value,Units,52
+2019,Transferring files between computers or other devices,16 to 24,,,Normal value,Units,80
+2019,Transferring files between computers or other devices,25 to 34,,,Normal value,Units,72
+2019,Transferring files between computers or other devices,35 to 44,,,Normal value,Units,68
+2019,Transferring files between computers or other devices,45 to 54,,,Normal value,Units,55
+2019,Transferring files between computers or other devices,55 to 64,,,Normal value,Units,38
+2019,Transferring files between computers or other devices,65 and over,,,Normal value,Units,17
+2015,"Using software to edit photos, video or audio files",,,,Normal value,Units,43
+2015,"Using software to edit photos, video or audio files",16 to 24,,,Normal value,Units,59
+2015,"Using software to edit photos, video or audio files",25 to 34,,,Normal value,Units,61
+2015,"Using software to edit photos, video or audio files",35 to 44,,,Normal value,Units,54
+2015,"Using software to edit photos, video or audio files",45 to 54,,,Normal value,Units,41
+2015,"Using software to edit photos, video or audio files",55 to 64,,,Normal value,Units,33
+2015,"Using software to edit photos, video or audio files",65 and over,,,Normal value,Units,16
+2017,"Using software to edit photos, video or audio files",,,,Normal value,Units,46
+2017,"Using software to edit photos, video or audio files",16 to 24,,,Normal value,Units,69
+2017,"Using software to edit photos, video or audio files",25 to 34,,,Normal value,Units,60
+2017,"Using software to edit photos, video or audio files",35 to 44,,,Normal value,Units,60
+2017,"Using software to edit photos, video or audio files",45 to 54,,,Normal value,Units,47
+2017,"Using software to edit photos, video or audio files",55 to 64,,,Normal value,Units,38
+2017,"Using software to edit photos, video or audio files",65 and over,,,Normal value,Units,18
+2019,"Using software to edit photos, video or audio files",,,,Normal value,Units,46
+2019,"Using software to edit photos, video or audio files",16 to 24,,,Normal value,Units,62
+2019,"Using software to edit photos, video or audio files",25 to 34,,,Normal value,Units,63
+2019,"Using software to edit photos, video or audio files",35 to 44,,,Normal value,Units,55
+2019,"Using software to edit photos, video or audio files",45 to 54,,,Normal value,Units,52
+2019,"Using software to edit photos, video or audio files",55 to 64,,,Normal value,Units,38
+2019,"Using software to edit photos, video or audio files",65 and over,,,Normal value,Units,19
+2015,Using spreadsheet software,,,,Normal value,Units,38
+2015,Using spreadsheet software,16 to 24,,,Normal value,Units,48
+2015,Using spreadsheet software,25 to 34,,,Normal value,Units,50
+2015,Using spreadsheet software,35 to 44,,,Normal value,Units,54
+2015,Using spreadsheet software,45 to 54,,,Normal value,Units,40
+2015,Using spreadsheet software,55 to 64,,,Normal value,Units,35
+2015,Using spreadsheet software,65 and over,,,Normal value,Units,12
+2017,Using spreadsheet software,,,,Normal value,Units,45
+2017,Using spreadsheet software,16 to 24,,,Normal value,Units,62
+2017,Using spreadsheet software,25 to 34,,,Normal value,Units,59
+2017,Using spreadsheet software,35 to 44,,,Normal value,Units,57
+2017,Using spreadsheet software,45 to 54,,,Normal value,Units,49
+2017,Using spreadsheet software,55 to 64,,,Normal value,Units,41
+2017,Using spreadsheet software,65 and over,,,Normal value,Units,15
+2019,Using spreadsheet software,,,,Normal value,Units,47
+2019,Using spreadsheet software,16 to 24,,,Normal value,Units,60
+2019,Using spreadsheet software,25 to 34,,,Normal value,Units,64
+2019,Using spreadsheet software,35 to 44,,,Normal value,Units,62
+2019,Using spreadsheet software,45 to 54,,,Normal value,Units,53
+2019,Using spreadsheet software,55 to 64,,,Normal value,Units,39
+2019,Using spreadsheet software,65 and over,,,Normal value,Units,15
+2015,Using word processing software,,,,Normal value,Units,55
+2015,Using word processing software,16 to 24,,,Normal value,Units,75
+2015,Using word processing software,25 to 34,,,Normal value,Units,66
+2015,Using word processing software,35 to 44,,,Normal value,Units,68
+2015,Using word processing software,45 to 54,,,Normal value,Units,55
+2015,Using word processing software,55 to 64,,,Normal value,Units,50
+2015,Using word processing software,65 and over,,,Normal value,Units,25
+2017,Using word processing software,,,,Normal value,Units,60
+2017,Using word processing software,16 to 24,,,Normal value,Units,80
+2017,Using word processing software,25 to 34,,,Normal value,Units,74
+2017,Using word processing software,35 to 44,,,Normal value,Units,70
+2017,Using word processing software,45 to 54,,,Normal value,Units,63
+2017,Using word processing software,55 to 64,,,Normal value,Units,56
+2017,Using word processing software,65 and over,,,Normal value,Units,30
+2019,Using word processing software,,,,Normal value,Units,65
+2019,Using word processing software,16 to 24,,,Normal value,Units,95
+2019,Using word processing software,25 to 34,,,Normal value,Units,81
+2019,Using word processing software,35 to 44,,,Normal value,Units,75
+2019,Using word processing software,45 to 54,,,Normal value,Units,65
+2019,Using word processing software,55 to 64,,,Normal value,Units,54
+2019,Using word processing software,65 and over,,,Normal value,Units,33
+2015,Writing computer code using a programming language,,,,Normal value,Units,6
+2015,Writing computer code using a programming language,16 to 24,,,Normal value,Units,11
+2015,Writing computer code using a programming language,25 to 34,,,Normal value,Units,10
+2015,Writing computer code using a programming language,35 to 44,,,Normal value,Units,8
+2015,Writing computer code using a programming language,45 to 54,,,Normal value,Units,5
+2015,Writing computer code using a programming language,55 to 64,,,Normal value,Units,3
+2015,Writing computer code using a programming language,65 and over,,,Normal value,Units,1
+2017,Writing computer code using a programming language,,,,Normal value,Units,9
+2017,Writing computer code using a programming language,16 to 24,,,Normal value,Units,20
+2017,Writing computer code using a programming language,25 to 34,,,Normal value,Units,15
+2017,Writing computer code using a programming language,35 to 44,,,Normal value,Units,13
+2017,Writing computer code using a programming language,45 to 54,,,Normal value,Units,7
+2017,Writing computer code using a programming language,55 to 64,,,Normal value,Units,4
+2017,Writing computer code using a programming language,65 and over,,,Normal value,Units,1
+2019,Writing computer code using a programming language,,,,Normal value,Units,9
+2019,Writing computer code using a programming language,16 to 24,,,Normal value,Units,23
+2019,Writing computer code using a programming language,25 to 34,,,Normal value,Units,14
+2019,Writing computer code using a programming language,35 to 44,,,Normal value,Units,9
+2019,Writing computer code using a programming language,45 to 54,,,Normal value,Units,7
+2019,Writing computer code using a programming language,55 to 64,,,Normal value,Units,4
+2019,Writing computer code using a programming language,65 and over,,,Normal value,Units,1

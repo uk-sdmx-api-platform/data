@@ -12,7 +12,57 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tourism direct GDP growth rate",
+                "Tourism direct GDP as a proportion of total GDP",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Product",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Accommodation services for visitors",
+                "Food and beverage serving activities",
+                "Railway passenger transport services",
+                "Road passenger transport services",
+                "Water passenger transport services",
+                "Air passenger transport services",
+                "Transport equipment rental services",
+                "Travel agencies and other reservation services",
+                "Cultural activities",
+                "Sport and recreation activities",
+                "Exhibitions & Conferences etc.",
+                "Other consumption products",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
           },
           {
             "name": "Value",

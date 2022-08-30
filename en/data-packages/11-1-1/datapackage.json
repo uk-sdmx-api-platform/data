@@ -12,8 +12,152 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Dwellings (%)",
+                "Households (%)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Decent homes criteria",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Minimum Standard (HHSRS)",
+                "Modern facilities and services",
+                "Repair",
+                "Thermal comfort",
+                ""
+              ]
+            },
+            "title": "Decent homes criteria"
+          },
+          {
+            "name": "Urbanisation sub-category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "City centre",
+                "Other rural area",
+                "Other urban centre",
+                "Rural residential",
+                "Suburban residential",
+                "Village centre",
+                ""
+              ]
+            },
+            "title": "Urbanisation sub-category"
+          },
+          {
+            "name": "Sub-national area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "London and South East",
+                "Northern",
+                "Rest of England",
+                ""
+              ]
+            },
+            "title": "Sub-national area"
+          },
+          {
+            "name": "Age of oldest person",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "59 and under",
+                "60 and over",
+                "75 and over",
+                ""
+              ]
+            },
+            "title": "Age of oldest person"
+          },
+          {
+            "name": "Age of youngest person",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 and under",
+                "16 and over",
+                "4 and under",
+                ""
+              ]
+            },
+            "title": "Age of youngest person"
+          },
+          {
+            "name": "Disability status (household)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Disabled (GSS harmonised)",
+                "Non-disabled (GSS harmonised)",
+                ""
+              ]
+            },
+            "title": "Disability status (household)"
+          },
+          {
+            "name": "Ethnicity of household reference person (HRP)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All minority",
+                "Asian",
+                "Black",
+                "other",
+                "White",
+                ""
+              ]
+            },
+            "title": "Ethnicity of household reference person (HRP)"
+          },
+          {
+            "name": "Income quintile (household)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1st quintile (lowest)",
+                "2nd quintile",
+                "3rd quintile",
+                "4th quintile",
+                "5th quintile (highest)",
+                ""
+              ]
+            },
+            "title": "Income quintile (household)"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
           },
           {
             "name": "Value",

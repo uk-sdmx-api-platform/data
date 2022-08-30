@@ -12,7 +12,187 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rate per 100,000 population",
+                "Number of cases",
+                "Percentage (%) of total cases",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "England",
+                "Northern Ireland",
+                "Scotland",
+                "Wales",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Country of birth",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Born in Africa",
+                "Born in UK",
+                "Born in Indian subcontinent",
+                "Born in Europe (non-UK)",
+                "Other country of birth",
+                "Born in Southern Asia",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "4 and under",
+                "5 to 9",
+                "10 to 14",
+                "15 to 19",
+                "20 to 24",
+                "25 to 29",
+                "30 to 34",
+                "35 to 39",
+                "40 to 44",
+                "45 to 49",
+                "50 to 54",
+                "55 to 59",
+                "60 to 64",
+                "65 to 69",
+                "70 and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ethnic Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "White British",
+                "Indian/Pakistani/Bangladesh (ISC)/ISC descent",
+                "Black African/African descent",
+                "Other/Mixed",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Fatality",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fatal",
+                "Non-fatal",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Malaria species",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "P. falciparum",
+                "P. malariae",
+                "P. knowlesi",
+                "P. ovale",
+                "P. unspecified",
+                "P. vivax",
+                "Mixed",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "East",
+                "East Midlands",
+                "London",
+                "North East",
+                "North West",
+                "South East",
+                "South West",
+                "West Midlands",
+                "Yorkshire and The Humber",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Region of travel",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Western Africa",
+                "Eastern Africa",
+                "Middle Africa",
+                "Northern Africa",
+                "Southern Africa",
+                "Africa unspecified",
+                "Southern Asia",
+                "South-Eastern Asia",
+                "Western Asia",
+                "Caribbean",
+                "Central America",
+                "South America",
+                "Oceania",
+                "Not stated",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rate per 100,000 population",
+                "Number",
+                "Percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",

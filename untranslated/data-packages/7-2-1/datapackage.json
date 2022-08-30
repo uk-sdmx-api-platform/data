@@ -12,7 +12,61 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Renewable energy share in the total final energy consumption",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Renewable and waste source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hydroelectric power",
+                "Wind, wave, tidal",
+                "Solar photovoltaic",
+                "Geothermal aquifers",
+                "Landfill gas",
+                "Sewage gas",
+                "Biogas from autogen",
+                "Municipal solid waste (MSW)",
+                "Poultry litter",
+                "Straw",
+                "Wood",
+                "Charcoal",
+                "Liquid bio-fuels",
+                "Bioethanol",
+                "Biodiesel",
+                "Biomass",
+                "Cross-boundary Adjustment",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -12,8 +12,58 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mechanisms in place to enhance policy coherence for sustainable development",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Mechanism",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Alignment across government levels",
+                "Financing for policy coherence",
+                "Institutionalization of Political Commitment",
+                "Inter-ministerial and cross-sectoral coordination",
+                "Long-term considerations in decision-making",
+                "Monitoring and reporting for policy coherence",
+                "Participatory processes",
+                "Policy linkages",
+                ""
+              ]
+            },
+            "title": "Mechanism"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

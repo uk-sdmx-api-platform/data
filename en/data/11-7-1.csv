@@ -1,1 +1,5 @@
-Year,Value
+Year,Country,Observation status,Unit multiplier,GeoCode,Value
+2019,,Undefined,Units,,4.9
+2019,England,Undefined,Units,E92000001,4.9
+2019,Scotland,Undefined,Units,S92000003,5.3
+2019,Wales,Undefined,Units,W92000004,3.4

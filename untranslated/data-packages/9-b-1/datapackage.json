@@ -12,7 +12,53 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of medium and high-tech manufacturing value added in total value added",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Manufacturing industry",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Basic pharmaceutical products and pharmaceutical preparations",
+                "Chemicals and chemical products",
+                "Computer, electronic and optical products",
+                "Electrical equipment",
+                "Machinery and equipment n.e.c.",
+                "Motor vehicles, trailers and semi-trailers",
+                "Other",
+                "Other transport equipment",
+                "Weapons and ammunition",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

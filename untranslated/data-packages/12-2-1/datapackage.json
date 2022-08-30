@@ -12,7 +12,52 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Material footprint",
+                "Material footprint per capita",
+                "Material footprint per unit of GDP",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Material category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Biomass",
+                "Metal ores excluding precious metals",
+                "Non-metallic minerals",
+                "Fossil fuels",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Metric tons",
+                "Kilograms per constant USD",
+                "Tons per GDP (millions of pounds)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

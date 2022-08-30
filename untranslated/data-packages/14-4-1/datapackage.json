@@ -12,7 +12,41 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of fish stocks that are overexploited",
+                "Proportion of fish stocks that are fully exploited",
+                "Proportion of fish stocks that are not fully exploited",
+                "Proportion of fish stocks with unknown level of exploitation",
+                "Proportion of fish stocks that are not within biologically sustainable levels",
+                "Proportion of fish stocks within biologically sustainable levels",
+                "Proportion of fish stocks where biologically sustainable status is unknown",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
           },
           {
             "name": "Value",

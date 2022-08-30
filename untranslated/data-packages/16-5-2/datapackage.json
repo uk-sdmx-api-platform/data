@@ -12,7 +12,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "Corruption offence type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Requesting, agreeing to receive and accepting bribes",
+                "Offering, promising or giving bribes",
+                "Misconduct in a public office",
+                "Commercial organisation - failure to prevent associate bribing another with intent to obtain or retain business or advantage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
           },
           {
             "name": "Value",

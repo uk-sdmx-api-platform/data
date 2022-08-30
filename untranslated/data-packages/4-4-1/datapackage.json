@@ -12,11 +12,75 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Skill",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Changing the settings of any software, including operating system or security programs",
+                "Copying or moving a file or folder",
+                "Creating presentations or documents containing or integrating pictures, tables or charts",
+                "Installing software or applications",
+                "Make backup copies of files on external storage devices or internet storage space",
+                "Transferring files between computers or other devices",
+                "Using software to edit photos, video or audio files",
+                "Using spreadsheet software",
+                "Using word processing software",
+                "Writing computer code using a programming language",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16 to 24",
+                "25 to 34",
+                "35 to 44",
+                "45 to 54",
+                "55 to 64",
+                "65 and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Disability status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Non-disabled (GSS harmonised)",
+                "Disabled (GSS harmonised)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

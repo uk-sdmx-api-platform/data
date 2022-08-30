@@ -1,1 +1,73 @@
-Year,Value
+Year,Country income classification,Observation status,Unit multiplier,Value
+2009,LDCs,Definition differs,Thousands,170340.01
+2010,LDCs,Definition differs,Thousands,64896.323498
+2011,LDCs,Definition differs,Thousands,151648.682875
+2012,LDCs,Definition differs,Thousands,66316.617713
+2013,LDCs,Definition differs,Thousands,81229.621918
+2014,LDCs,Definition differs,Thousands,76021.196362
+2015,LDCs,Definition differs,Thousands,149462.41496
+2016,LDCs,Definition differs,Thousands,67188.4796
+2017,LDCs,Definition differs,Thousands,149255.752597
+2018,LDCs,Definition differs,Thousands,107701.222255
+2019,LDCs,Definition differs,Thousands,110808.181777
+2020,LDCs,Definition differs,Thousands,77985.810966
+2009,LMICs,Definition differs,Thousands,120976.72
+2010,LMICs,Definition differs,Thousands,148989.409791
+2011,LMICs,Definition differs,Thousands,119329.696731
+2012,LMICs,Definition differs,Thousands,120928.683361
+2013,LMICs,Definition differs,Thousands,144944.442384
+2014,LMICs,Definition differs,Thousands,151638.919332
+2015,LMICs,Definition differs,Thousands,112395.842098
+2016,LMICs,Definition differs,Thousands,130169.20029
+2017,LMICs,Definition differs,Thousands,138192.301782
+2018,LMICs,Definition differs,Thousands,164053.380345
+2019,LMICs,Definition differs,Thousands,128000.103345
+2020,LMICs,Definition differs,Thousands,56816.105978
+2009,Other LICs,Definition differs,Thousands,48751.11
+2010,Other LICs,Definition differs,Thousands,70351.727835
+2011,Other LICs,Definition differs,Thousands,4011.78046
+2012,Other LICs,Definition differs,Thousands,-305.67161
+2013,Other LICs,Definition differs,Thousands,38453.20437
+2014,Other LICs,Definition differs,Thousands,23218.168823
+2015,Other LICs,Definition differs,Thousands,20465.60651
+2016,Other LICs,Definition differs,Thousands,19119.76906
+2017,Other LICs,Definition differs,Thousands,19978.232447
+2018,Other LICs,Definition differs,Thousands,2402.518826
+2019,Other LICs,Definition differs,Thousands,1342.191385
+2020,Other LICs,Definition differs,Thousands,1064.432107
+2009,UMICs,Definition differs,Thousands,55032.28
+2010,UMICs,Definition differs,Thousands,14092.115028
+2011,UMICs,Definition differs,Thousands,60209.286574
+2012,UMICs,Definition differs,Thousands,115884.76719
+2013,UMICs,Definition differs,Thousands,78164.852192
+2014,UMICs,Definition differs,Thousands,-32502.085496
+2015,UMICs,Definition differs,Thousands,38545.45054
+2016,UMICs,Definition differs,Thousands,53490.06899
+2017,UMICs,Definition differs,Thousands,33575.412644
+2018,UMICs,Definition differs,Thousands,21333.627488
+2019,UMICs,Definition differs,Thousands,20290.166748
+2020,UMICs,Definition differs,Thousands,54211.844923
+2009,Unspecified,Definition differs,Thousands,130724.45
+2010,Unspecified,Definition differs,Thousands,60193.035842
+2011,Unspecified,Definition differs,Thousands,211385.902214
+2012,Unspecified,Definition differs,Thousands,294535.511787
+2013,Unspecified,Definition differs,Thousands,144288.83735
+2014,Unspecified,Definition differs,Thousands,294419.936482
+2015,Unspecified,Definition differs,Thousands,733194.583161
+2016,Unspecified,Definition differs,Thousands,622466.58266
+2017,Unspecified,Definition differs,Thousands,434146.891602
+2018,Unspecified,Definition differs,Thousands,838640.6062
+2019,Unspecified,Definition differs,Thousands,1101196.022663
+2020,Unspecified,Definition differs,Thousands,744139.251145
+2009,,Definition differs,Thousands,525824.57
+2010,,Definition differs,Thousands,358522.611994
+2011,,Definition differs,Thousands,546585.348854
+2012,,Definition differs,Thousands,597359.908441
+2013,,Definition differs,Thousands,487080.958214
+2014,,Definition differs,Thousands,512796.135503
+2015,,Definition differs,Thousands,1054063.897269
+2016,,Definition differs,Thousands,892434.1006
+2017,,Definition differs,Thousands,775148.591072
+2018,,Definition differs,Thousands,1134131.355114
+2019,,Definition differs,Thousands,1361636.665918
+2020,,Definition differs,Thousands,934217.445119

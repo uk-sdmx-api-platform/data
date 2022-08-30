@@ -12,8 +12,119 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Installed capacity of sites generating electricity from renewable sources",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "England",
+                "Northern Ireland",
+                "Scotland",
+                "Wales",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "North East",
+                "North West",
+                "Yorkshire and the Humber",
+                "East Midlands",
+                "West Midlands",
+                "East of England",
+                "London",
+                "South East",
+                "South West",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Renewable source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hydro",
+                "Landfill gas",
+                "Sewage gas",
+                "Solar PV",
+                "Wave and tidal",
+                "Wind",
+                "Other bioenergy",
+                ""
+              ]
+            },
+            "title": "Renewable source"
+          },
+          {
+            "name": "Wind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Offshore Wind",
+                "Onshore Wind",
+                ""
+              ]
+            },
+            "title": "Wind"
+          },
+          {
+            "name": "Bioenergy",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anaerobic Digestion (AD)",
+                "Biomass and waste",
+                ""
+              ]
+            },
+            "title": "Bioenergy"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Watts per capita",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

@@ -12,7 +12,110 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of children vaccinated by 1st birthday (%)",
+                "Proportion of children vaccinated by 2nd birthday (%)",
+                "Proportion of children vaccinated by 5th birthday (%)",
+                "Proportion of girls vaccinated against HPV (%)",
+                "Proportion of boys vaccinated against HPV (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "England",
+                "Northern Ireland",
+                "Scotland",
+                "Wales",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Vaccine",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Diphtheria Tetanus Polio Pertussis Hib (primary)",
+                "Pneumococcal disease (primary)",
+                "Rotavirus (primary)",
+                "Meningococcal group B (primary)",
+                "Measles mumps rubella (first dose)",
+                "Hib Meningococcal group C (booster)",
+                "Pneumococcal disease (booster)",
+                "Meningococcal group B (booster)",
+                "Diphtheria Tetanus Polio Pertussis (booster)",
+                "Measles mumps rubella (first and second dose)",
+                "Meningococcal group C (primary)",
+                "Hib (primary)",
+                "Human papillomavirus (At least 1 dose)",
+                "Human papillomavirus (At least 2 doses)",
+                "Human papillomavirus (3 doses)",
+                "Human papillomavirus (2 doses)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "12 to 13",
+                "13 to 14",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "East",
+                "East Midlands",
+                "London",
+                "North East",
+                "North West",
+                "South East",
+                "South West",
+                "West Midlands",
+                "Yorkshire and The Humber",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",

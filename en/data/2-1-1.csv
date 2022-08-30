@@ -1,1 +1,191 @@
-Year,Value
+Year,Series,Sex,Age,Observation status,Unit multiplier,Value
+2009,Median,,1.5 to 3,Undefined,Units,1108.3
+2009,Median,Female,11 to 18,Undefined,Units,1601.4
+2009,Median,Male,11 to 18,Undefined,Units,1914.7
+2009,Median,,11 to 18,Undefined,Units,1780.4
+2009,Median,Female,19 to 64,Undefined,Units,1602.1
+2009,Median,Male,19 to 64,Undefined,Units,2103.4
+2009,Median,,19 to 64,Undefined,Units,1831.1
+2009,Median,Female,4 to 10,Undefined,Units,1489.8
+2009,Median,Male,4 to 10,Undefined,Units,1576.0
+2009,Median,,4 to 10,Undefined,Units,1540.8
+2009,Median,Female,65 and over,Undefined,Units,1478.9
+2009,Median,Male,65 and over,Undefined,Units,1895.2
+2009,Median,,65 and over,Undefined,Units,1633.7
+2009,Median,Female,65 to 74,Undefined,Units,1484.1
+2009,Median,Male,65 to 74,Undefined,Units,2094.6
+2009,Median,,65 to 74,Undefined,Units,1722.9
+2009,Median,Female,75 and over,Undefined,Units,1477.1
+2009,Median,Male,75 and over,Undefined,Units,1721.8
+2009,Median,,75 and over,Undefined,Units,1575.4
+2009,Percentile (2.5th),,1.5 to 3,Undefined,Units,645.5
+2009,Percentile (2.5th),Female,11 to 18,Undefined,Units,858.1
+2009,Percentile (2.5th),Male,11 to 18,Undefined,Units,1071.9
+2009,Percentile (2.5th),,11 to 18,Undefined,Units,953.5
+2009,Percentile (2.5th),Female,19 to 64,Undefined,Units,779.3
+2009,Percentile (2.5th),Male,19 to 64,Undefined,Units,1095.7
+2009,Percentile (2.5th),,19 to 64,Undefined,Units,862.9
+2009,Percentile (2.5th),Female,4 to 10,Undefined,Units,898.9
+2009,Percentile (2.5th),Male,4 to 10,Undefined,Units,1016.1
+2009,Percentile (2.5th),,4 to 10,Undefined,Units,951.5
+2009,Percentile (2.5th),Female,65 and over,Undefined,Units,962.8
+2009,Percentile (2.5th),Male,65 and over,Undefined,Units,860.4
+2009,Percentile (2.5th),,65 and over,Undefined,Units,947.4
+2009,Percentile (2.5th),Female,65 to 74,Undefined,Units,1035.2
+2009,Percentile (2.5th),Male,65 to 74,Undefined,Units,1002.3
+2009,Percentile (2.5th),,65 to 74,Undefined,Units,1031.7
+2009,Percentile (2.5th),Female,75 and over,Undefined,Units,955.3
+2009,Percentile (2.5th),Male,75 and over,Undefined,Units,752.6
+2009,Percentile (2.5th),,75 and over,Undefined,Units,866.6
+2011,Median,,1.5 to 3,Undefined,Units,1118.0
+2011,Median,Female,11 to 18,Undefined,Units,1492.9
+2011,Median,Male,11 to 18,Undefined,Units,1923.0
+2011,Median,,11 to 18,Undefined,Units,1719.0
+2011,Median,Female,19 to 64,Undefined,Units,1541.3
+2011,Median,Male,19 to 64,Undefined,Units,2053.4
+2011,Median,,19 to 64,Undefined,Units,1775.4
+2011,Median,Female,4 to 10,Undefined,Units,1404.1
+2011,Median,Male,4 to 10,Undefined,Units,1537.3
+2011,Median,,4 to 10,Undefined,Units,1482.9
+2011,Median,Female,65 and over,Undefined,Units,1463.4
+2011,Median,Male,65 and over,Undefined,Units,1813.4
+2011,Median,,65 and over,Undefined,Units,1626.8
+2011,Median,Female,65 to 74,Undefined,Units,1514.3
+2011,Median,Male,65 to 74,Undefined,Units,1835.6
+2011,Median,,65 to 74,Undefined,Units,1643.8
+2011,Median,Female,75 and over,Undefined,Units,1407.3
+2011,Median,Male,75 and over,Undefined,Units,1811.7
+2011,Median,,75 and over,Undefined,Units,1598.3
+2011,Percentile (2.5th),,1.5 to 3,Undefined,Units,721.2
+2011,Percentile (2.5th),Female,11 to 18,Undefined,Units,746.8
+2011,Percentile (2.5th),Male,11 to 18,Undefined,Units,1097.1
+2011,Percentile (2.5th),,11 to 18,Undefined,Units,793.0
+2011,Percentile (2.5th),Female,19 to 64,Undefined,Units,737.9
+2011,Percentile (2.5th),Male,19 to 64,Undefined,Units,1045.1
+2011,Percentile (2.5th),,19 to 64,Undefined,Units,847.9
+2011,Percentile (2.5th),Female,4 to 10,Undefined,Units,799.8
+2011,Percentile (2.5th),Male,4 to 10,Undefined,Units,970.8
+2011,Percentile (2.5th),,4 to 10,Undefined,Units,903.5
+2011,Percentile (2.5th),Female,65 and over,Undefined,Units,893.2
+2011,Percentile (2.5th),Male,65 and over,Undefined,Units,929.7
+2011,Percentile (2.5th),,65 and over,Undefined,Units,912.8
+2011,Percentile (2.5th),Female,65 to 74,Undefined,Units,904.9
+2011,Percentile (2.5th),Male,65 to 74,Undefined,Units,1051.3
+2011,Percentile (2.5th),,65 to 74,Undefined,Units,913.7
+2011,Percentile (2.5th),Female,75 and over,Undefined,Units,854.7
+2011,Percentile (2.5th),Male,75 and over,Undefined,Units,853.0
+2011,Percentile (2.5th),,75 and over,Undefined,Units,879.9
+2013,Median,,1.5 to 3,Undefined,Units,1075.9
+2013,Median,Female,11 to 18,Undefined,Units,1599.1
+2013,Median,Male,11 to 18,Undefined,Units,1921.6
+2013,Median,,11 to 18,Undefined,Units,1722.9
+2013,Median,Female,19 to 64,Undefined,Units,1553.9
+2013,Median,Male,19 to 64,Undefined,Units,2076.2
+2013,Median,,19 to 64,Undefined,Units,1814.7
+2013,Median,Female,4 to 10,Undefined,Units,1400.1
+2013,Median,Male,4 to 10,Undefined,Units,1466.2
+2013,Median,,4 to 10,Undefined,Units,1442.1
+2013,Median,Female,65 and over,Undefined,Units,1453.1
+2013,Median,Male,65 and over,Undefined,Units,1795.3
+2013,Median,,65 and over,Undefined,Units,1608.3
+2013,Median,Female,65 to 74,Undefined,Units,1490.6
+2013,Median,Male,65 to 74,Undefined,Units,1835.0
+2013,Median,,65 to 74,Undefined,Units,1687.8
+2013,Median,Female,75 and over,Undefined,Units,1437.9
+2013,Median,Male,75 and over,Undefined,Units,1625.9
+2013,Median,,75 and over,Undefined,Units,1522.7
+2013,Percentile (2.5th),,1.5 to 3,Undefined,Units,687.8
+2013,Percentile (2.5th),Female,11 to 18,Undefined,Units,891.0
+2013,Percentile (2.5th),Male,11 to 18,Undefined,Units,904.7
+2013,Percentile (2.5th),,11 to 18,Undefined,Units,896.7
+2013,Percentile (2.5th),Female,19 to 64,Undefined,Units,745.1
+2013,Percentile (2.5th),Male,19 to 64,Undefined,Units,1079.8
+2013,Percentile (2.5th),,19 to 64,Undefined,Units,829.3
+2013,Percentile (2.5th),Female,4 to 10,Undefined,Units,834.0
+2013,Percentile (2.5th),Male,4 to 10,Undefined,Units,1014.0
+2013,Percentile (2.5th),,4 to 10,Undefined,Units,865.2
+2013,Percentile (2.5th),Female,65 and over,Undefined,Units,761.8
+2013,Percentile (2.5th),Male,65 and over,Undefined,Units,957.7
+2013,Percentile (2.5th),,65 and over,Undefined,Units,802.6
+2013,Percentile (2.5th),Female,65 to 74,Undefined,Units,831.0
+2013,Percentile (2.5th),Male,65 to 74,Undefined,Units,697.2
+2013,Percentile (2.5th),,65 to 74,Undefined,Units,832.3
+2013,Percentile (2.5th),Female,75 and over,Undefined,Units,653.3
+2013,Percentile (2.5th),Male,75 and over,Undefined,Units,1086.4
+2013,Percentile (2.5th),,75 and over,Undefined,Units,757.0
+2015,Median,,1.5 to 3,Undefined,Units,1030.2
+2015,Median,Female,11 to 18,Undefined,Units,1514.2
+2015,Median,Male,11 to 18,Undefined,Units,1786.6
+2015,Median,,11 to 18,Undefined,Units,1622.9
+2015,Median,Female,19 to 64,Undefined,Units,1596.1
+2015,Median,Male,19 to 64,Undefined,Units,2072.4
+2015,Median,,19 to 64,Undefined,Units,1805.8
+2015,Median,Female,4 to 10,Undefined,Units,1323.8
+2015,Median,Male,4 to 10,Undefined,Units,1473.5
+2015,Median,,4 to 10,Undefined,Units,1400.2
+2015,Median,Female,65 and over,Undefined,Units,1389.2
+2015,Median,Male,65 and over,Undefined,Units,1882.4
+2015,Median,,65 and over,Undefined,Units,1592.2
+2015,Median,Female,65 to 74,Undefined,Units,1398.5
+2015,Median,Male,65 to 74,Undefined,Units,1976.7
+2015,Median,,65 to 74,Undefined,Units,1637.2
+2015,Median,Female,75 and over,Undefined,Units,1378.9
+2015,Median,Male,75 and over,Undefined,Units,1746.7
+2015,Median,,75 and over,Undefined,Units,1518.2
+2015,Percentile (2.5th),,1.5 to 3,Undefined,Units,667.5
+2015,Percentile (2.5th),Female,11 to 18,Undefined,Units,683.3
+2015,Percentile (2.5th),Male,11 to 18,Undefined,Units,964.1
+2015,Percentile (2.5th),,11 to 18,Undefined,Units,833.6
+2015,Percentile (2.5th),Female,19 to 64,Undefined,Units,714.9
+2015,Percentile (2.5th),Male,19 to 64,Undefined,Units,1007.6
+2015,Percentile (2.5th),,19 to 64,Undefined,Units,815.8
+2015,Percentile (2.5th),Female,4 to 10,Undefined,Units,840.4
+2015,Percentile (2.5th),Male,4 to 10,Undefined,Units,893.3
+2015,Percentile (2.5th),,4 to 10,Undefined,Units,852.0
+2015,Percentile (2.5th),Female,65 and over,Undefined,Units,682.3
+2015,Percentile (2.5th),Male,65 and over,Undefined,Units,1073.5
+2015,Percentile (2.5th),,65 and over,Undefined,Units,718.1
+2015,Percentile (2.5th),Female,65 to 74,Undefined,Units,681.2
+2015,Percentile (2.5th),Male,65 to 74,Undefined,Units,986.2
+2015,Percentile (2.5th),,65 to 74,Undefined,Units,799.1
+2015,Percentile (2.5th),Female,75 and over,Undefined,Units,679.1
+2015,Percentile (2.5th),Male,75 and over,Undefined,Units,1130.2
+2015,Percentile (2.5th),,75 and over,Undefined,Units,709.1
+2018,Median,,1.5 to 3,Undefined,Units,1040.48073936943
+2018,Median,Female,11 to 18,Undefined,Units,1549.86491874641
+2018,Median,Male,11 to 18,Undefined,Units,1724.71474176088
+2018,Median,,11 to 18,Undefined,Units,1608.51114595434
+2018,Median,Female,19 to 64,Undefined,Units,1582.37317762176
+2018,Median,Male,19 to 64,Undefined,Units,1991.94384227019
+2018,Median,,19 to 64,Undefined,Units,1763.25700305708
+2018,Median,Female,4 to 10,Undefined,Units,1295.53469731272
+2018,Median,Male,4 to 10,Undefined,Units,1521.03849115479
+2018,Median,,4 to 10,Undefined,Units,1420.12398366984
+2018,Median,Female,65 and over,Undefined,Units,1481.48988416276
+2018,Median,Male,65 and over,Undefined,Units,1803.50717615518
+2018,Median,,65 and over,Undefined,Units,1606.63959434452
+2018,Median,Female,65 to 74,Undefined,Units,1497.66885055873
+2018,Median,Male,65 to 74,Undefined,Units,1855.00981493918
+2018,Median,,65 to 74,Undefined,Units,1630.37712196785
+2018,Median,Female,75 and over,Undefined,Units,1468.90150883846
+2018,Median,Male,75 and over,Undefined,Units,1691.78633348786
+2018,Median,,75 and over,Undefined,Units,1557.096306895
+2018,Percentile (2.5th),,1.5 to 3,Undefined,Units,617.78283518474
+2018,Percentile (2.5th),Female,11 to 18,Undefined,Units,807.936189912003
+2018,Percentile (2.5th),Male,11 to 18,Undefined,Units,900.763425217949
+2018,Percentile (2.5th),,11 to 18,Undefined,Units,883.743196929576
+2018,Percentile (2.5th),Female,19 to 64,Undefined,Units,786.592743316034
+2018,Percentile (2.5th),Male,19 to 64,Undefined,Units,1083.21566989753
+2018,Percentile (2.5th),,19 to 64,Undefined,Units,876.494617151243
+2018,Percentile (2.5th),Female,4 to 10,Undefined,Units,741.922547437294
+2018,Percentile (2.5th),Male,4 to 10,Undefined,Units,925.640271191764
+2018,Percentile (2.5th),,4 to 10,Undefined,Units,852.838003169569
+2018,Percentile (2.5th),Female,65 and over,Undefined,Units,819.480704827723
+2018,Percentile (2.5th),Male,65 and over,Undefined,Units,914.562817802562
+2018,Percentile (2.5th),,65 and over,Undefined,Units,828.333463507056
+2018,Percentile (2.5th),Female,65 to 74,Undefined,Units,770.384548917494
+2018,Percentile (2.5th),Male,65 to 74,Undefined,Units,991.925686198726
+2018,Percentile (2.5th),,65 to 74,Undefined,Units,879.942130975189
+2018,Percentile (2.5th),Female,75 and over,Undefined,Units,820.499497347409
+2018,Percentile (2.5th),Male,75 and over,Undefined,Units,597.4919
+2018,Percentile (2.5th),,75 and over,Undefined,Units,805.325652473375

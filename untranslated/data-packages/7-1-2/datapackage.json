@@ -15,11 +15,17 @@
             "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population with primary reliance on clean fuels and technology for cooking",
+                ""
+              ]
+            }
           },
           {
-            "name": "URBANISATION",
+            "name": "Urban or Rural",
             "type": "string",
             "constraints": {
               "enum": [
@@ -30,42 +36,26 @@
             }
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Normal value",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Units",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
+            "name": "Observation status",
             "type": "string"
           },
           {
-            "name": "REPORTING_TYPE",
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "National",
+                "Percentage (%)",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

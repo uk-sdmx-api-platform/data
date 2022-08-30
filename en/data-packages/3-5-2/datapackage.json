@@ -12,8 +12,68 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Alcohol consumption per capita (aged 15 years and older) within a calendar year",
+                "Total alcohol consumption per capita (aged 15 years and older) within a calendar year",
+                "Unrecorded alcohol consumption per capita (aged 15 years and older) within a calendar year",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Beverage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beer",
+                "Wine",
+                "Spirits",
+                "Other alcoholic beverages",
+                ""
+              ]
+            },
+            "title": "Beverage"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Litres pure alcohol",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

@@ -12,7 +12,188 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Women aged 16 to 59 (%)",
+                "Women aged 16 to 74 (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of partner abuse",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Non-sexual",
+                "Sexual (including attempts)",
+                "Stalking by a partner/ex-partner",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Abuse sub-category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Non-physical abuse (emotional, financial)",
+                "Threats or force",
+                "Threats",
+                "Force",
+                "Sexual assault by rape or penetration (including attempts)",
+                "Indecent exposure or unwanted sexual touching by a partner",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16 to 19",
+                "20 to 24",
+                "25 to 34",
+                "35 to 44",
+                "45 to 54",
+                "55 to 59",
+                "60 to 74",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ethnicity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "White",
+                "Asian/Asian British",
+                "Black/African/Caribbean/Black British",
+                "Other ethnic group",
+                "Mixed",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ethnic group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "English/Welsh/Scottish/Northern Irish/British",
+                "Any other White background",
+                "Indian",
+                "Any other Asian background",
+                "African",
+                "Pakistani",
+                "Caribbean",
+                "White and Black Caribbean",
+                "Any other Mixed/Multiple ethnic background",
+                "Bangladeshi",
+                "Chinese",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Disability status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Non-disabled (GSS harmonised)",
+                "Disabled (GSS harmonised)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Country of birth",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Born in UK",
+                "Not born in UK",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "North East",
+                "North West",
+                "Yorkshire and The Humber",
+                "East Midlands",
+                "West Midlands",
+                "East of England",
+                "London",
+                "South East",
+                "South West",
+                "Wales",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Highest qualification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Degree or diploma",
+                "Apprenticeship or A/AS level",
+                "O level/GCSE",
+                "Other qualification",
+                "No qualification",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Household income",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Less than £10,400",
+                "£10,400 to less than £20,800",
+                "£20,800 to less than £31,200",
+                "£31,200 to less than £41,600",
+                "£41,600 to less than £52,000",
+                "£52,000 or more",
+                "No income stated or not enough information provided",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",

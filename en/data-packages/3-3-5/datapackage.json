@@ -12,8 +12,82 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "England, Wales and Northern Ireland",
+                "United Kingdom (UK)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Type of Neglected Tropical Disease (NTD)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Chikungunya",
+                "Dengue fever",
+                ""
+              ]
+            },
+            "title": "Type of Neglected Tropical Disease (NTD)"
+          },
+          {
+            "name": "Region of travel",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Caribbean",
+                "Southern Asia",
+                "South America",
+                "South-Eastern Asia",
+                "Sub-Saharan and Southern Africa",
+                "Other",
+                "Country not stated",
+                "Eastern Africa",
+                "Southern and Central America",
+                "Southern Europe",
+                "Other Africa",
+                "No travel",
+                "Southern Africa",
+                "Western Africa",
+                ""
+              ]
+            },
+            "title": "Region of travel"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

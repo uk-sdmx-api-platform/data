@@ -12,8 +12,43 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Speed (mb/sec)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "10 mbps and over",
+                "Between 2 mbps and 10 mbps",
+                "Between 256 kbps and 2 mbps",
+                ""
+              ]
+            },
+            "title": "Speed (mb/sec)"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rate per 100 population",
+                "Number",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
           },
           {
             "name": "Value",

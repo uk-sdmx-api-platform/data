@@ -12,7 +12,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "Type of violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Acquaintance violence",
+                "Assault with minor injury or without injury",
+                "Domestic violence",
+                "Stranger violence",
+                "Wounding",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
           },
           {
             "name": "Value",

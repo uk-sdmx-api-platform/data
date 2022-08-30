@@ -15,6 +15,50 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Domestic material consumption",
+                "Domestic material consumption per capita",
+                "Domestic material consumption per unit of GDP",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tonnes",
+                "Tonnes per $m",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Material category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Biomass",
+                "Fossil fuels",
+                "Metal ores",
+                "Non-metallic minerals",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {

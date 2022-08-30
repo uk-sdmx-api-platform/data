@@ -12,8 +12,54 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Completeness of disaggregation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fully disaggregated",
+                "Partially disaggregated",
+                "Not disaggregated",
+                ""
+              ]
+            },
+            "title": "Completeness of disaggregation"
+          },
+          {
+            "name": "Goal",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Goal 1",
+                "Goal 2",
+                "Goal 3",
+                "Goal 4",
+                "Goal 5",
+                "Goal 8",
+                "Goal 9",
+                "Goal 10",
+                "Goal 11",
+                "Goal 12",
+                "Goal 15",
+                "Goal 16",
+                "Goal 17",
+                ""
+              ]
+            },
+            "title": "Goal"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
           },
           {
             "name": "Value",

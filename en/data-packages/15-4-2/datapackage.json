@@ -12,8 +12,52 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mountain Green Cover Index",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Mountain elevation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "5.0",
+                "6.0",
+                ""
+              ]
+            },
+            "title": "Mountain elevation"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Index",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

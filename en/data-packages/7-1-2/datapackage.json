@@ -16,12 +16,18 @@
             "title": "Year"
           },
           {
-            "name": "SERIES",
+            "name": "Series",
             "type": "string",
-            "title": "SDG Series"
+            "constraints": {
+              "enum": [
+                "Proportion of population with primary reliance on clean fuels and technology for cooking",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
-            "name": "URBANISATION",
+            "name": "Urban or Rural",
             "type": "string",
             "constraints": {
               "enum": [
@@ -30,49 +36,32 @@
                 ""
               ]
             },
-            "title": "Degree of urbanisation"
+            "title": "Urban or Rural"
           },
           {
-            "name": "OBS_STATUS",
+            "name": "Observation status",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Normal value",
-                ""
-              ]
-            },
             "title": "Observation status"
           },
           {
-            "name": "UNIT_MULT",
+            "name": "Unit multiplier",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Units",
-                ""
-              ]
-            },
             "title": "Unit multiplier"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "REPORTING_TYPE",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "National",
+                "Percentage (%)",
                 ""
               ]
             },
-            "title": "Reporting type"
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

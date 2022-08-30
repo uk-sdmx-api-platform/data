@@ -12,8 +12,43 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Security",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Documented",
+                "Perceived",
+                ""
+              ]
+            },
+            "title": "Security"
+          },
+          {
+            "name": "Type of documentation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Formal",
+                "Informal Documentation",
+                "No Documentation",
+                ""
+              ]
+            },
+            "title": "Type of documentation"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
           },
           {
             "name": "Value",

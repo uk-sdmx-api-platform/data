@@ -12,7 +12,26 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Occupation unit group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Managers and proprietors in agriculture and horticulture",
+                "Managers and proprietors in forestry fishing and related services",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
           },
           {
             "name": "Value",

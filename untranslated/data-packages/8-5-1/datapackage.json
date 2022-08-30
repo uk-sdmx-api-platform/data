@@ -12,7 +12,139 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1. Annual survey of hours and earnings (ASHE)",
+                "2. Annual population survey (APS)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "18 to 21",
+                "22 to 29",
+                "30 to 39",
+                "40 to 49",
+                "50 to 59",
+                "60 and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "England",
+                "Northern Ireland",
+                "Scotland",
+                "Wales",
+                "United Kingdom",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "East",
+                "East Midlands",
+                "London",
+                "North East",
+                "North West",
+                "South East",
+                "South West",
+                "West Midlands",
+                "Yorkshire and The Humber",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Disability status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Disabled (GSS harmonised)",
+                "Non-disabled (GSS harmonised)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex by disability",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male, Non-disabled (GSS harmonised)",
+                "Female, Disabled (GSS harmonised)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Occupation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Administrative and secretarial occupations",
+                "Associate professional and technical occupations",
+                "Caring, leisure and other service occupations",
+                "Elementary occupations",
+                "Managers, directors and senior officials",
+                "Process, plant and machine operatives",
+                "Professional occupations",
+                "Sales and customer service occupations",
+                "Skilled trades occupations",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Working Pattern",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Full Time",
+                "Part Time",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",

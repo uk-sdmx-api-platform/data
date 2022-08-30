@@ -12,8 +12,51 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Country group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Developing countries",
+                "Least developed countries",
+                "Small island developing states",
+                ""
+              ]
+            },
+            "title": "Country group"
+          },
+          {
+            "name": "Product sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AGRI",
+                "FISH",
+                "NAMA",
+                "PAPS",
+                ""
+              ]
+            },
+            "title": "Product sector"
           },
           {
             "name": "Value",

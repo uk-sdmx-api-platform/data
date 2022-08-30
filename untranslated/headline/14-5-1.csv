@@ -1,1 +1,66 @@
-Year,Value
+Year,Value,Units,Series,Observation status,Unit multiplier
+2000,1.33,Percentage (%),Coverage of protected areas in relation to marine area (%),Normal value,Unit
+2001,1.37,Percentage (%),Coverage of protected areas in relation to marine area (%),Normal value,Unit
+2002,1.38,Percentage (%),Coverage of protected areas in relation to marine area (%),Normal value,Unit
+2003,1.47,Percentage (%),Coverage of protected areas in relation to marine area (%),Normal value,Unit
+2004,1.47,Percentage (%),Coverage of protected areas in relation to marine area (%),Normal value,Unit
+2005,1.47,Percentage (%),Coverage of protected areas in relation to marine area (%),Normal value,Unit
+2006,1.54,Percentage (%),Coverage of protected areas in relation to marine area (%),Normal value,Unit
+2007,1.6,Percentage (%),Coverage of protected areas in relation to marine area (%),Normal value,Unit
+2008,1.9,Percentage (%),Coverage of protected areas in relation to marine area (%),Normal value,Unit
+2009,2.12,Percentage (%),Coverage of protected areas in relation to marine area (%),Normal value,Unit
+2010,4.28,Percentage (%),Coverage of protected areas in relation to marine area (%),Normal value,Unit
+2011,5.69,Percentage (%),Coverage of protected areas in relation to marine area (%),Normal value,Unit
+2012,8.47,Percentage (%),Coverage of protected areas in relation to marine area (%),Normal value,Unit
+2013,9.5,Percentage (%),Coverage of protected areas in relation to marine area (%),Normal value,Unit
+2014,16.34,Percentage (%),Coverage of protected areas in relation to marine area (%),Normal value,Unit
+2015,16.36,Percentage (%),Coverage of protected areas in relation to marine area (%),Normal value,Unit
+2016,18.85,Percentage (%),Coverage of protected areas in relation to marine area (%),Normal value,Unit
+2017,23.47,Percentage (%),Coverage of protected areas in relation to marine area (%),Normal value,Unit
+2018,23.65,Percentage (%),Coverage of protected areas in relation to marine area (%),Normal value,Unit
+2019,24.65,Percentage (%),Coverage of protected areas in relation to marine area (%),Normal value,Unit
+2020,38.2,Percentage (%),Coverage of protected areas in relation to marine area (%),Normal value,Unit
+2021,38.2,Percentage (%),Coverage of protected areas in relation to marine area (%),Normal value,Unit
+2000,11735.015082999998,Square km,Protected marine area (square kilometres),Normal value,Unit
+2001,12120.857525,Square km,Protected marine area (square kilometres),Normal value,Unit
+2002,12222.290366,Square km,Protected marine area (square kilometres),Normal value,Unit
+2003,13042.660367,Square km,Protected marine area (square kilometres),Normal value,Unit
+2004,13042.969203,Square km,Protected marine area (square kilometres),Normal value,Unit
+2005,13042.96921,Square km,Protected marine area (square kilometres),Normal value,Unit
+2006,13647.678134999998,Square km,Protected marine area (square kilometres),Normal value,Unit
+2007,14149.164732,Square km,Protected marine area (square kilometres),Normal value,Unit
+2008,16839.305438,Square km,Protected marine area (square kilometres),Normal value,Unit
+2009,18730.951111,Square km,Protected marine area (square kilometres),Normal value,Unit
+2010,37894.700569,Square km,Protected marine area (square kilometres),Normal value,Unit
+2011,50368.721243,Square km,Protected marine area (square kilometres),Normal value,Unit
+2012,75026.47497000001,Square km,Protected marine area (square kilometres),Normal value,Unit
+2013,84099.79479100001,Square km,Protected marine area (square kilometres),Normal value,Unit
+2014,144681.265221,Square km,Protected marine area (square kilometres),Normal value,Unit
+2015,144826.641026,Square km,Protected marine area (square kilometres),Normal value,Unit
+2016,166898.15303899997,Square km,Protected marine area (square kilometres),Normal value,Unit
+2017,207788.160685,Square km,Protected marine area (square kilometres),Normal value,Unit
+2018,209430.89232,Square km,Protected marine area (square kilometres),Normal value,Unit
+2019,218267.911342,Square km,Protected marine area (square kilometres),Normal value,Unit
+2020,338216.579978,Square km,Protected marine area (square kilometres),Normal value,Unit
+2021,338216.579978,Square km,Protected marine area (square kilometres),Normal value,Unit
+2000,77.02725,Percentage (%),Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%),Normal value,Unit
+2001,78.13739,Percentage (%),Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%),Normal value,Unit
+2002,78.77889,Percentage (%),Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%),Normal value,Unit
+2003,79.38702,Percentage (%),Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%),Normal value,Unit
+2004,80.86297,Percentage (%),Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%),Normal value,Unit
+2005,82.48652,Percentage (%),Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%),Normal value,Unit
+2006,82.71935,Percentage (%),Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%),Normal value,Unit
+2007,82.73546,Percentage (%),Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%),Normal value,Unit
+2008,82.74292,Percentage (%),Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%),Normal value,Unit
+2009,83.31113,Percentage (%),Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%),Normal value,Unit
+2010,84.23937,Percentage (%),Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%),Normal value,Unit
+2011,84.28778,Percentage (%),Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%),Normal value,Unit
+2012,84.2907,Percentage (%),Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%),Normal value,Unit
+2013,84.2907,Percentage (%),Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%),Normal value,Unit
+2014,84.48695,Percentage (%),Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%),Normal value,Unit
+2015,84.48695,Percentage (%),Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%),Normal value,Unit
+2016,84.48766,Percentage (%),Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%),Normal value,Unit
+2017,84.99556,Percentage (%),Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%),Normal value,Unit
+2018,85.28643,Percentage (%),Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%),Normal value,Unit
+2019,85.30549,Percentage (%),Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%),Normal value,Unit
+2020,85.30549,Percentage (%),Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%),Normal value,Unit

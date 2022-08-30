@@ -12,7 +12,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Gas",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Net CO2 emissions (emissions minus removals)",
+                "Methane (CH4)",
+                "Nitrous oxide (N2O)",
+                "Hydrofluorocarbons (HFC)",
+                "Perfluorocarbons (PFC)",
+                "Sulphur hexafluoride (SF6)",
+                "Nitrogen trifluoride (NF3)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
           },
           {
             "name": "Value",

@@ -12,7 +12,48 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "Abuse type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Contact sexual abuse",
+                "Non-contact sexual abuse",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Contact sexual abuse type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rape or assault by penetration (including attempts)",
+                "Other contact sexual abuse",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
           },
           {
             "name": "Value",

@@ -1,1 +1,211 @@
-Year,Value
+Year,Value,Units,Series,Observation status,Unit multiplier
+1990,42.1052631579,Percentage (%),Proportion of fish stocks that are overexploited,Normal value,Units
+1991,43.85964912280701,Percentage (%),Proportion of fish stocks that are overexploited,Normal value,Units
+1992,42.10526315789473,Percentage (%),Proportion of fish stocks that are overexploited,Normal value,Units
+1993,52.63157894736842,Percentage (%),Proportion of fish stocks that are overexploited,Normal value,Units
+1994,52.63157894736842,Percentage (%),Proportion of fish stocks that are overexploited,Normal value,Units
+1995,56.14035087719298,Percentage (%),Proportion of fish stocks that are overexploited,Normal value,Units
+1996,59.64912280701754,Percentage (%),Proportion of fish stocks that are overexploited,Normal value,Units
+1997,54.38596491228071,Percentage (%),Proportion of fish stocks that are overexploited,Normal value,Units
+1998,59.64912280701754,Percentage (%),Proportion of fish stocks that are overexploited,Normal value,Units
+1999,63.1578947368421,Percentage (%),Proportion of fish stocks that are overexploited,Normal value,Units
+2000,59.64912280701754,Percentage (%),Proportion of fish stocks that are overexploited,Normal value,Units
+2001,61.40350877192983,Percentage (%),Proportion of fish stocks that are overexploited,Normal value,Units
+2002,54.38596491228071,Percentage (%),Proportion of fish stocks that are overexploited,Normal value,Units
+2003,50.877192982456144,Percentage (%),Proportion of fish stocks that are overexploited,Normal value,Units
+2004,52.63157894736842,Percentage (%),Proportion of fish stocks that are overexploited,Normal value,Units
+2005,56.14035087719298,Percentage (%),Proportion of fish stocks that are overexploited,Normal value,Units
+2006,56.14035087719298,Percentage (%),Proportion of fish stocks that are overexploited,Normal value,Units
+2007,56.14035087719298,Percentage (%),Proportion of fish stocks that are overexploited,Normal value,Units
+2008,54.38596491228071,Percentage (%),Proportion of fish stocks that are overexploited,Normal value,Units
+2009,54.38596491228071,Percentage (%),Proportion of fish stocks that are overexploited,Normal value,Units
+2010,47.368421052631575,Percentage (%),Proportion of fish stocks that are overexploited,Normal value,Units
+2011,42.10526315789473,Percentage (%),Proportion of fish stocks that are overexploited,Normal value,Units
+2012,42.10526315789473,Percentage (%),Proportion of fish stocks that are overexploited,Normal value,Units
+2013,31.57894736842105,Percentage (%),Proportion of fish stocks that are overexploited,Normal value,Units
+2014,40.35087719298245,Percentage (%),Proportion of fish stocks that are overexploited,Normal value,Units
+2015,35.08771929824561,Percentage (%),Proportion of fish stocks that are overexploited,Normal value,Units
+2016,29.82456140350877,Percentage (%),Proportion of fish stocks that are overexploited,Normal value,Units
+2017,35.08771929824561,Percentage (%),Proportion of fish stocks that are overexploited,Normal value,Units
+2018,22.807017543859647,Percentage (%),Proportion of fish stocks that are overexploited,Normal value,Units
+2019,26.31578947368421,Percentage (%),Proportion of fish stocks that are overexploited,Normal value,Units
+1990,0.0,Percentage (%),Proportion of fish stocks that are fully exploited,Normal value,Units
+1991,1.7543859649122806,Percentage (%),Proportion of fish stocks that are fully exploited,Normal value,Units
+1992,3.508771929824561,Percentage (%),Proportion of fish stocks that are fully exploited,Normal value,Units
+1993,3.508771929824561,Percentage (%),Proportion of fish stocks that are fully exploited,Normal value,Units
+1994,1.7543859649122806,Percentage (%),Proportion of fish stocks that are fully exploited,Normal value,Units
+1995,3.508771929824561,Percentage (%),Proportion of fish stocks that are fully exploited,Normal value,Units
+1996,1.7543859649122806,Percentage (%),Proportion of fish stocks that are fully exploited,Normal value,Units
+1997,3.508771929824561,Percentage (%),Proportion of fish stocks that are fully exploited,Normal value,Units
+1998,3.508771929824561,Percentage (%),Proportion of fish stocks that are fully exploited,Normal value,Units
+1999,1.7543859649122806,Percentage (%),Proportion of fish stocks that are fully exploited,Normal value,Units
+2000,3.508771929824561,Percentage (%),Proportion of fish stocks that are fully exploited,Normal value,Units
+2001,3.508771929824561,Percentage (%),Proportion of fish stocks that are fully exploited,Normal value,Units
+2002,5.263157894736842,Percentage (%),Proportion of fish stocks that are fully exploited,Normal value,Units
+2003,5.263157894736842,Percentage (%),Proportion of fish stocks that are fully exploited,Normal value,Units
+2004,5.263157894736842,Percentage (%),Proportion of fish stocks that are fully exploited,Normal value,Units
+2005,7.017543859649122,Percentage (%),Proportion of fish stocks that are fully exploited,Normal value,Units
+2006,8.771929824561402,Percentage (%),Proportion of fish stocks that are fully exploited,Normal value,Units
+2007,3.508771929824561,Percentage (%),Proportion of fish stocks that are fully exploited,Normal value,Units
+2008,3.508771929824561,Percentage (%),Proportion of fish stocks that are fully exploited,Normal value,Units
+2009,3.508771929824561,Percentage (%),Proportion of fish stocks that are fully exploited,Normal value,Units
+2010,3.508771929824561,Percentage (%),Proportion of fish stocks that are fully exploited,Normal value,Units
+2011,8.771929824561402,Percentage (%),Proportion of fish stocks that are fully exploited,Normal value,Units
+2012,5.263157894736842,Percentage (%),Proportion of fish stocks that are fully exploited,Normal value,Units
+2013,8.771929824561402,Percentage (%),Proportion of fish stocks that are fully exploited,Normal value,Units
+2014,5.263157894736842,Percentage (%),Proportion of fish stocks that are fully exploited,Normal value,Units
+2015,7.017543859649122,Percentage (%),Proportion of fish stocks that are fully exploited,Normal value,Units
+2016,8.771929824561402,Percentage (%),Proportion of fish stocks that are fully exploited,Normal value,Units
+2017,8.771929824561402,Percentage (%),Proportion of fish stocks that are fully exploited,Normal value,Units
+2018,8.771929824561402,Percentage (%),Proportion of fish stocks that are fully exploited,Normal value,Units
+2019,7.017543859649122,Percentage (%),Proportion of fish stocks that are fully exploited,Normal value,Units
+1990,8.771929824561402,Percentage (%),Proportion of fish stocks that are not fully exploited,Normal value,Units
+1991,8.771929824561402,Percentage (%),Proportion of fish stocks that are not fully exploited,Normal value,Units
+1992,10.526315789473683,Percentage (%),Proportion of fish stocks that are not fully exploited,Normal value,Units
+1993,7.017543859649122,Percentage (%),Proportion of fish stocks that are not fully exploited,Normal value,Units
+1994,10.526315789473683,Percentage (%),Proportion of fish stocks that are not fully exploited,Normal value,Units
+1995,3.508771929824561,Percentage (%),Proportion of fish stocks that are not fully exploited,Normal value,Units
+1996,5.263157894736842,Percentage (%),Proportion of fish stocks that are not fully exploited,Normal value,Units
+1997,5.263157894736842,Percentage (%),Proportion of fish stocks that are not fully exploited,Normal value,Units
+1998,3.508771929824561,Percentage (%),Proportion of fish stocks that are not fully exploited,Normal value,Units
+1999,3.508771929824561,Percentage (%),Proportion of fish stocks that are not fully exploited,Normal value,Units
+2000,5.263157894736842,Percentage (%),Proportion of fish stocks that are not fully exploited,Normal value,Units
+2001,7.017543859649122,Percentage (%),Proportion of fish stocks that are not fully exploited,Normal value,Units
+2002,12.280701754385964,Percentage (%),Proportion of fish stocks that are not fully exploited,Normal value,Units
+2003,19.29824561403509,Percentage (%),Proportion of fish stocks that are not fully exploited,Normal value,Units
+2004,15.789473684210526,Percentage (%),Proportion of fish stocks that are not fully exploited,Normal value,Units
+2005,12.280701754385964,Percentage (%),Proportion of fish stocks that are not fully exploited,Normal value,Units
+2006,10.526315789473683,Percentage (%),Proportion of fish stocks that are not fully exploited,Normal value,Units
+2007,15.789473684210526,Percentage (%),Proportion of fish stocks that are not fully exploited,Normal value,Units
+2008,17.543859649122805,Percentage (%),Proportion of fish stocks that are not fully exploited,Normal value,Units
+2009,19.29824561403509,Percentage (%),Proportion of fish stocks that are not fully exploited,Normal value,Units
+2010,24.561403508771928,Percentage (%),Proportion of fish stocks that are not fully exploited,Normal value,Units
+2011,24.561403508771928,Percentage (%),Proportion of fish stocks that are not fully exploited,Normal value,Units
+2012,29.82456140350877,Percentage (%),Proportion of fish stocks that are not fully exploited,Normal value,Units
+2013,38.59649122807017,Percentage (%),Proportion of fish stocks that are not fully exploited,Normal value,Units
+2014,33.33333333333333,Percentage (%),Proportion of fish stocks that are not fully exploited,Normal value,Units
+2015,36.84210526315789,Percentage (%),Proportion of fish stocks that are not fully exploited,Normal value,Units
+2016,40.35087719298245,Percentage (%),Proportion of fish stocks that are not fully exploited,Normal value,Units
+2017,35.08771929824561,Percentage (%),Proportion of fish stocks that are not fully exploited,Normal value,Units
+2018,47.368421052631575,Percentage (%),Proportion of fish stocks that are not fully exploited,Normal value,Units
+2019,43.85964912280701,Percentage (%),Proportion of fish stocks that are not fully exploited,Normal value,Units
+1990,49.122807017543856,Percentage (%),Proportion of fish stocks with unknown level of exploitation,Normal value,Units
+1991,45.614035087719294,Percentage (%),Proportion of fish stocks with unknown level of exploitation,Normal value,Units
+1992,43.85964912280701,Percentage (%),Proportion of fish stocks with unknown level of exploitation,Normal value,Units
+1993,36.84210526315789,Percentage (%),Proportion of fish stocks with unknown level of exploitation,Normal value,Units
+1994,35.08771929824561,Percentage (%),Proportion of fish stocks with unknown level of exploitation,Normal value,Units
+1995,36.84210526315789,Percentage (%),Proportion of fish stocks with unknown level of exploitation,Normal value,Units
+1996,33.33333333333333,Percentage (%),Proportion of fish stocks with unknown level of exploitation,Normal value,Units
+1997,36.84210526315789,Percentage (%),Proportion of fish stocks with unknown level of exploitation,Normal value,Units
+1998,33.33333333333333,Percentage (%),Proportion of fish stocks with unknown level of exploitation,Normal value,Units
+1999,31.57894736842105,Percentage (%),Proportion of fish stocks with unknown level of exploitation,Normal value,Units
+2000,31.57894736842105,Percentage (%),Proportion of fish stocks with unknown level of exploitation,Normal value,Units
+2001,28.07017543859649,Percentage (%),Proportion of fish stocks with unknown level of exploitation,Normal value,Units
+2002,28.07017543859649,Percentage (%),Proportion of fish stocks with unknown level of exploitation,Normal value,Units
+2003,24.561403508771928,Percentage (%),Proportion of fish stocks with unknown level of exploitation,Normal value,Units
+2004,26.31578947368421,Percentage (%),Proportion of fish stocks with unknown level of exploitation,Normal value,Units
+2005,24.561403508771928,Percentage (%),Proportion of fish stocks with unknown level of exploitation,Normal value,Units
+2006,24.561403508771928,Percentage (%),Proportion of fish stocks with unknown level of exploitation,Normal value,Units
+2007,24.561403508771928,Percentage (%),Proportion of fish stocks with unknown level of exploitation,Normal value,Units
+2008,24.561403508771928,Percentage (%),Proportion of fish stocks with unknown level of exploitation,Normal value,Units
+2009,22.807017543859647,Percentage (%),Proportion of fish stocks with unknown level of exploitation,Normal value,Units
+2010,24.561403508771928,Percentage (%),Proportion of fish stocks with unknown level of exploitation,Normal value,Units
+2011,24.561403508771928,Percentage (%),Proportion of fish stocks with unknown level of exploitation,Normal value,Units
+2012,22.807017543859647,Percentage (%),Proportion of fish stocks with unknown level of exploitation,Normal value,Units
+2013,21.052631578947366,Percentage (%),Proportion of fish stocks with unknown level of exploitation,Normal value,Units
+2014,21.052631578947366,Percentage (%),Proportion of fish stocks with unknown level of exploitation,Normal value,Units
+2015,21.052631578947366,Percentage (%),Proportion of fish stocks with unknown level of exploitation,Normal value,Units
+2016,21.052631578947366,Percentage (%),Proportion of fish stocks with unknown level of exploitation,Normal value,Units
+2017,21.052631578947366,Percentage (%),Proportion of fish stocks with unknown level of exploitation,Normal value,Units
+2018,21.052631578947366,Percentage (%),Proportion of fish stocks with unknown level of exploitation,Normal value,Units
+2019,22.807017543859647,Percentage (%),Proportion of fish stocks with unknown level of exploitation,Normal value,Units
+1990,22.807,Percentage (%),Proportion of fish stocks that are not within biologically sustainable levels,Normal value,Units
+1991,24.561,Percentage (%),Proportion of fish stocks that are not within biologically sustainable levels,Normal value,Units
+1992,24.561,Percentage (%),Proportion of fish stocks that are not within biologically sustainable levels,Normal value,Units
+1993,28.07,Percentage (%),Proportion of fish stocks that are not within biologically sustainable levels,Normal value,Units
+1994,26.316,Percentage (%),Proportion of fish stocks that are not within biologically sustainable levels,Normal value,Units
+1995,29.825,Percentage (%),Proportion of fish stocks that are not within biologically sustainable levels,Normal value,Units
+1996,35.088,Percentage (%),Proportion of fish stocks that are not within biologically sustainable levels,Normal value,Units
+1997,29.825,Percentage (%),Proportion of fish stocks that are not within biologically sustainable levels,Normal value,Units
+1998,28.07,Percentage (%),Proportion of fish stocks that are not within biologically sustainable levels,Normal value,Units
+1999,29.825,Percentage (%),Proportion of fish stocks that are not within biologically sustainable levels,Normal value,Units
+2000,36.842,Percentage (%),Proportion of fish stocks that are not within biologically sustainable levels,Normal value,Units
+2001,31.579,Percentage (%),Proportion of fish stocks that are not within biologically sustainable levels,Normal value,Units
+2002,35.088,Percentage (%),Proportion of fish stocks that are not within biologically sustainable levels,Normal value,Units
+2003,29.825,Percentage (%),Proportion of fish stocks that are not within biologically sustainable levels,Normal value,Units
+2004,33.333,Percentage (%),Proportion of fish stocks that are not within biologically sustainable levels,Normal value,Units
+2005,35.088,Percentage (%),Proportion of fish stocks that are not within biologically sustainable levels,Normal value,Units
+2006,33.333,Percentage (%),Proportion of fish stocks that are not within biologically sustainable levels,Normal value,Units
+2007,36.842,Percentage (%),Proportion of fish stocks that are not within biologically sustainable levels,Normal value,Units
+2008,31.579,Percentage (%),Proportion of fish stocks that are not within biologically sustainable levels,Normal value,Units
+2009,28.07,Percentage (%),Proportion of fish stocks that are not within biologically sustainable levels,Normal value,Units
+2010,22.807,Percentage (%),Proportion of fish stocks that are not within biologically sustainable levels,Normal value,Units
+2011,17.544,Percentage (%),Proportion of fish stocks that are not within biologically sustainable levels,Normal value,Units
+2012,22.807,Percentage (%),Proportion of fish stocks that are not within biologically sustainable levels,Normal value,Units
+2013,21.053,Percentage (%),Proportion of fish stocks that are not within biologically sustainable levels,Normal value,Units
+2014,17.544,Percentage (%),Proportion of fish stocks that are not within biologically sustainable levels,Normal value,Units
+2015,19.298,Percentage (%),Proportion of fish stocks that are not within biologically sustainable levels,Normal value,Units
+2016,19.298,Percentage (%),Proportion of fish stocks that are not within biologically sustainable levels,Normal value,Units
+2017,19.298,Percentage (%),Proportion of fish stocks that are not within biologically sustainable levels,Normal value,Units
+2018,19.298,Percentage (%),Proportion of fish stocks that are not within biologically sustainable levels,Normal value,Units
+2019,19.298,Percentage (%),Proportion of fish stocks that are not within biologically sustainable levels,Normal value,Units
+1990,29.82456140350877,Percentage (%),Proportion of fish stocks within biologically sustainable levels,Normal value,Units
+1991,31.57894736842105,Percentage (%),Proportion of fish stocks within biologically sustainable levels,Normal value,Units
+1992,33.33333333333333,Percentage (%),Proportion of fish stocks within biologically sustainable levels,Normal value,Units
+1993,36.84210526315789,Percentage (%),Proportion of fish stocks within biologically sustainable levels,Normal value,Units
+1994,40.35087719298245,Percentage (%),Proportion of fish stocks within biologically sustainable levels,Normal value,Units
+1995,35.08771929824561,Percentage (%),Proportion of fish stocks within biologically sustainable levels,Normal value,Units
+1996,33.33333333333333,Percentage (%),Proportion of fish stocks within biologically sustainable levels,Normal value,Units
+1997,36.84210526315789,Percentage (%),Proportion of fish stocks within biologically sustainable levels,Normal value,Units
+1998,42.10526315789473,Percentage (%),Proportion of fish stocks within biologically sustainable levels,Normal value,Units
+1999,42.10526315789473,Percentage (%),Proportion of fish stocks within biologically sustainable levels,Normal value,Units
+2000,35.08771929824561,Percentage (%),Proportion of fish stocks within biologically sustainable levels,Normal value,Units
+2001,42.10526315789473,Percentage (%),Proportion of fish stocks within biologically sustainable levels,Normal value,Units
+2002,38.59649122807017,Percentage (%),Proportion of fish stocks within biologically sustainable levels,Normal value,Units
+2003,45.614035087719294,Percentage (%),Proportion of fish stocks within biologically sustainable levels,Normal value,Units
+2004,42.10526315789473,Percentage (%),Proportion of fish stocks within biologically sustainable levels,Normal value,Units
+2005,40.35087719298245,Percentage (%),Proportion of fish stocks within biologically sustainable levels,Normal value,Units
+2006,42.10526315789473,Percentage (%),Proportion of fish stocks within biologically sustainable levels,Normal value,Units
+2007,38.59649122807017,Percentage (%),Proportion of fish stocks within biologically sustainable levels,Normal value,Units
+2008,45.614035087719294,Percentage (%),Proportion of fish stocks within biologically sustainable levels,Normal value,Units
+2009,49.122807017543856,Percentage (%),Proportion of fish stocks within biologically sustainable levels,Normal value,Units
+2010,54.38596491228071,Percentage (%),Proportion of fish stocks within biologically sustainable levels,Normal value,Units
+2011,59.64912280701754,Percentage (%),Proportion of fish stocks within biologically sustainable levels,Normal value,Units
+2012,54.38596491228071,Percentage (%),Proportion of fish stocks within biologically sustainable levels,Normal value,Units
+2013,56.14035087719298,Percentage (%),Proportion of fish stocks within biologically sustainable levels,Normal value,Units
+2014,59.64912280701754,Percentage (%),Proportion of fish stocks within biologically sustainable levels,Normal value,Units
+2015,57.89473684210527,Percentage (%),Proportion of fish stocks within biologically sustainable levels,Normal value,Units
+2016,57.89473684210527,Percentage (%),Proportion of fish stocks within biologically sustainable levels,Normal value,Units
+2017,57.89473684210527,Percentage (%),Proportion of fish stocks within biologically sustainable levels,Normal value,Units
+2018,57.89473684210527,Percentage (%),Proportion of fish stocks within biologically sustainable levels,Normal value,Units
+2019,57.89473684210527,Percentage (%),Proportion of fish stocks within biologically sustainable levels,Normal value,Units
+1990,47.368421052631575,Percentage (%),Proportion of fish stocks where biologically sustainable status is unknown,Normal value,Units
+1991,43.85964912280701,Percentage (%),Proportion of fish stocks where biologically sustainable status is unknown,Normal value,Units
+1992,42.10526315789473,Percentage (%),Proportion of fish stocks where biologically sustainable status is unknown,Normal value,Units
+1993,35.08771929824561,Percentage (%),Proportion of fish stocks where biologically sustainable status is unknown,Normal value,Units
+1994,33.33333333333333,Percentage (%),Proportion of fish stocks where biologically sustainable status is unknown,Normal value,Units
+1995,35.08771929824561,Percentage (%),Proportion of fish stocks where biologically sustainable status is unknown,Normal value,Units
+1996,31.57894736842105,Percentage (%),Proportion of fish stocks where biologically sustainable status is unknown,Normal value,Units
+1997,33.33333333333333,Percentage (%),Proportion of fish stocks where biologically sustainable status is unknown,Normal value,Units
+1998,29.82456140350877,Percentage (%),Proportion of fish stocks where biologically sustainable status is unknown,Normal value,Units
+1999,28.07017543859649,Percentage (%),Proportion of fish stocks where biologically sustainable status is unknown,Normal value,Units
+2000,28.07017543859649,Percentage (%),Proportion of fish stocks where biologically sustainable status is unknown,Normal value,Units
+2001,26.31578947368421,Percentage (%),Proportion of fish stocks where biologically sustainable status is unknown,Normal value,Units
+2002,26.31578947368421,Percentage (%),Proportion of fish stocks where biologically sustainable status is unknown,Normal value,Units
+2003,24.561403508771928,Percentage (%),Proportion of fish stocks where biologically sustainable status is unknown,Normal value,Units
+2004,24.561403508771928,Percentage (%),Proportion of fish stocks where biologically sustainable status is unknown,Normal value,Units
+2005,24.561403508771928,Percentage (%),Proportion of fish stocks where biologically sustainable status is unknown,Normal value,Units
+2006,24.561403508771928,Percentage (%),Proportion of fish stocks where biologically sustainable status is unknown,Normal value,Units
+2007,24.561403508771928,Percentage (%),Proportion of fish stocks where biologically sustainable status is unknown,Normal value,Units
+2008,22.807017543859647,Percentage (%),Proportion of fish stocks where biologically sustainable status is unknown,Normal value,Units
+2009,22.807017543859647,Percentage (%),Proportion of fish stocks where biologically sustainable status is unknown,Normal value,Units
+2010,22.807017543859647,Percentage (%),Proportion of fish stocks where biologically sustainable status is unknown,Normal value,Units
+2011,22.807017543859647,Percentage (%),Proportion of fish stocks where biologically sustainable status is unknown,Normal value,Units
+2012,22.807017543859647,Percentage (%),Proportion of fish stocks where biologically sustainable status is unknown,Normal value,Units
+2013,22.807017543859647,Percentage (%),Proportion of fish stocks where biologically sustainable status is unknown,Normal value,Units
+2014,22.807017543859647,Percentage (%),Proportion of fish stocks where biologically sustainable status is unknown,Normal value,Units
+2015,22.807017543859647,Percentage (%),Proportion of fish stocks where biologically sustainable status is unknown,Normal value,Units
+2016,22.807017543859647,Percentage (%),Proportion of fish stocks where biologically sustainable status is unknown,Normal value,Units
+2017,22.807017543859647,Percentage (%),Proportion of fish stocks where biologically sustainable status is unknown,Normal value,Units
+2018,22.807017543859647,Percentage (%),Proportion of fish stocks where biologically sustainable status is unknown,Normal value,Units
+2019,22.807017543859647,Percentage (%),Proportion of fish stocks where biologically sustainable status is unknown,Normal value,Units

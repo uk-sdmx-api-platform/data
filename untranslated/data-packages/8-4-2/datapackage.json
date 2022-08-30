@@ -15,11 +15,81 @@
             "type": "integer"
           },
           {
-            "name": "SERIES",
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Domestic material consumption",
+                "Domestic material consumption per capita",
+                "Domestic material consumption per unit of GDP",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tonnes",
+                "Tonnes per $m",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Material category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Biomass",
+                "Fossil fuels",
+                "Metal ores",
+                "Non-metallic minerals",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
             "type": "string"
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "G",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
             "type": "string"
           },
           {
@@ -27,10 +97,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Biomass (material flows)",
-                "Fossil fuels (material flows)",
-                "Metal ores (material flows)",
-                "Non-metallic minerals (material flows)",
                 "MF_AGG3A",
                 "MF_AGG3B",
                 "MF1",
@@ -53,38 +119,8 @@
             }
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Normal value",
-                "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Millions",
-                "Units",
-                "0",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "REPORTING_TYPE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "National",
-                "G",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "BASE_PER",
