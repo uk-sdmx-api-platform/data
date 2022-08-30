@@ -8,6 +8,9 @@ def alter_meta(meta, context):
     if context['indicator_id']:
         print(context['indicator_id'])
     meta["data_start_values"]=[{"field":"Reporting type","value":"National"}]
+    for meta_field in all_meta_fields:
+       if meta_field not in meta or meta[meta_field] is None:
+          meta[meta_field]='Not available for this indicator'
     return meta
 
 def alter_data(df, context):
