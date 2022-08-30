@@ -33,3 +33,5 @@ tags: []
 footer_fields:
   - label: Sources
     value: "National: Office for National Statistics (ONS); Global: United Nations Children's Fund (UNICEF)"
+  - label: National/global comparability
+    value: The data reported by the UK differs slightly from the globally reported data due to data collection method differences.
